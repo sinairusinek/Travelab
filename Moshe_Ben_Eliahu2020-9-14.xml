@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-stylesheet type="text/css" href="tei.css"?>
+
+<?xml-stylesheet type="text/css" href="travelab.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>מסעות משה בן אליהו הלוי הקראי מקרים: מהדורה ממוחשבת</title>
+        <title>The travels of Moshe Ben Elijahu of Krimea: a machine readable transcription</title>
+
+        <respStmt>
+          <name>Sinai Rusinek</name>
+          <name>Yuval Shlissel</name>
+          <resp>transcribed by <persName>Yuval Shlissel</persName>, corrected and encoded by
+              <persName>Sinai Rusinek</persName></resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><name>Sinai Rusinek</name>, <orgName>Elijah Lab</orgName></publisher>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-sa/3.0/"> Distributed under a
+            Creative Commons Attribution-ShareAlike 3.0 Unported License </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc xml:id="Yaari1946" corresp="MBE">
+        <biblStruct>
+          <analytic><title>מסעות משה בן אליהו הלוי הקראי מקרים. תי״ד—תט״ו (1655—1654)</title><author>משה בן אליהו</author><editor>אליעזר יערי</editor><textLang>he</textLang></analytic>
+          <monogr>
+            <editor>אליעזר יערי</editor>
+            <title>מסעות לארץ ישראל</title>
+            <imprint>
+              <pubPlace>תל אביב</pubPlace>
+              <publisher>הוצאת גזית</publisher>
+              <date when="1946">1946</date><distributor>Digitized in the framework of the project "La alteridad religiosa y étnica en los escritos de viajes; judíos, cristianos y musulmanes de Siria-Palestina (siglos XII-XVII)", University of Granada.
+                <ref>http://wpd.ugr.es/~proyecto_viajeros/recursos/textos/judios/yaari.pdf</ref>
+                </distributor>
+                        </imprint>
+          </monogr><citedRange>305-323</citedRange><relatedItem><bibl><ref>https://www.nli.org.il/he/manuscripts/NNL_ALEPH000080173/NLI#$FL37600044</ref><note>complete msdesc for autograph manuscript. Find out which mss Yaari was using</note></bibl>
+            </relatedItem>
+        </biblStruct>
+        <listBibl type="mentioned">
+          <biblStruct>
+            <monogr>
+              <title>המבחר</title>
+              <imprint>
+                <date>1835</date>
+                <pubPlace>קוזלוב</pubPlace>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The edition was transcribed and corrected using Transkribus, annotated and linked using
+          Recogito and Oxygen, in the framework of the project TraveLab</p>
+      </projectDesc>
+    </encodingDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Downloaded from https://recogito.pelagios.org/</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text xml:lang="he" style="direction: rtl; unicode-bidi: embed">
+    <front>
+      <head>מסעות משה בן אליהו הלוי הקראי מקרים תי״ד—תט״ו (1654-1655)</head>
+      <div type="introduction">
+        <p> על הישוב הקראי בירושלים בדורות שונים ועל הקשר שבינו ובין הקראים שבחצי־האי קרים כבר
+          דיברנו לעיל במבוא למסעות הקראי שמואל בן דוד שעלה-לרגל לא״י בשנות ת״א—ת״ב (1641-1642).
+          הקראי משה בן אליהו, המתאר את מסעותיו כאן, עלה לרגל לא״י ארבע-עשרה שנים אחרי שמואל בן דוד,
+          ובמשך זמן קצר זה ירדה העדה הקראית עוד יותר, והוא לא מצא עוד בירושלים אפילו 27 נפשות קראים
+          כמו שמצא הראשון. דרכו של משה בן אליהו היתה דומה לגמרי לדרכו של קוֹדמו, ואף בחזרו הלך באותה
+          דרך, אלא שבמקום לילך מאדנא לקושטא הלך לסיגופ, עיר-החוף בדרום הים השחור.</p>
+        <p> הנוסע יצא לדרכו בלוית קראי אחר. הם הפליגו מנמל כפא, היא פיאודוסיה, ביום ו׳ אלול תי״ד.
+          (19 באוגוסט 1654), ואחרי חמשה ימים הגיעו לקושטא, שבה נתאכסנו בבית קראי, שהוא ואביו עלו-
+          לרגל לירושלים והוכתרו שניהם בתואר „ירושלמי״. בקושטא נתעכבו רק יום אחד, ולמחרת היום הפליגו
+          באניה לאלכסנדריה דרך גליפולי— כיאוֹס—קוֹס—רוֹדוֹס. לרוֹדוֹס הגיע בראש השנה של שנת תט״ו,
+          ונשתהו בה 12 יום. יצאו מרוֹדוֹס ביום י״ב תשרי, ואחרי חמשה ימים הגיעו לאלכסנדריה.
+          מאלכסנדריה הלכו לאבוקיר ומשם לרשיט .ומשם בנילוס לקאהיר.</p>
+        <p> בקאהיר נשתהו קרוב לחודש ימים, נתקבלו בסבר-פנים ע״י אחיהם הקראים ובעזרתם ביקרו בעיר
+          ובסביבה, והנוסע מתאר גם את הישוב היהודי בקאהיר.</p>
+        <p> יצאו מקאהיר ביום כ״ה חשון והלכו בשיירה דרך מדבר סיני לעזה, ומשם לירושלים, שאליה הגיעו
+          ביום י״ז כסליו תט״ו (27 בנובמבר 1654). בבית-הכנסת של הקראים מצאו רק שלשה מתפללים ושתי
+          אלמנות.</p>
+        <p> בירושלים נשארו קרוב לחודש ימים וביקרו בעיר ובסביבה, ואף הלכו לקבר שמואל הנביא ולחברון.
+          יצאו מירושלים ביום י״ד בטבת,</p>
+        <p> והנוסע בסַפּרו על צאתם מירושלים, מוסיף: „הסולח יסלח על שיצאנו מארץ הקודש ללכת לחוצה
+          לארץ״.</p>
+        <p> מירושלים הלכו דרך שכם—ג'נין—עין-א-תג'אר-גשר בנות יעקב לדמשק, שבה נתקבלו בסבר פנים ע״י
+          הקראים. נשארו בדמשק 18 יום ויצאו דרך אנטיוכיה—אדנה—אסיה הקטנה לסינוֹפּ שעל שפת הים השחור.
+          מדמשק לסינופּ הלכו שלשה שבועות. ביום ד׳ בניסן הפליגו מסינופּ, וששה ימים אחרי-כן הניעו לנמל
+          פיאודוסיה, שבה יצאו לקראתם כל אנשי קהילת הקראים והביאו את הנוסעים לביתם „בשמחה ובכבוד
+          גדול״.</p>
+        <p> כל המסע הלוך וחזור, מפיאודוסיה ועד פיאודוסיה, נמשך שבעה חדשים וארבעה ימים. </p>
+      </div>
+    </front>
+    <body>
+      <ab> אחרי אשר העתקתי את ספרי „<bibl corresp="#Hamivhar">המבחר</bibl>״<note n="1"
+          source="#Yaari"> פירוש על התורה מאת הקראי אהרן בן יוסף; נדפס אחר-כך בקוזלוב בשנת תקצ"ה
+          (1835)</note> היקר והמעולה אחרי שובי מאדמת הקדש הר הגליל, אשר שמה קברי אבותינו הקדושים
+          <choice n="2" source="#Yaari">
+          <abbr>ע״ה</abbr>
+          <expan>עליהם השלום</expan>
+        </choice> זכותם תגן עלינו, וקברי נביאנו הקדושים אשר נטמנו תחת כסא הכבוד, זכותם תליץ בעדנו.
+        אחרי ראיתי אותם, בעזרת השם יתברך ויתעלה, ונשתטחתי על קבריהם, וכסא כּבוד מרום מראשון מקום
+        מקדשנו בידי זרים בעונותינו הרבים. ועתה אמרתי לכתוב תחת הספר ענין נסיעתנו וחניתנו, אנה נכנסנו
+        ואיך יצאנו ומקום תחנותינו ונסיעותינו, ואיך עזרנו אלהינו יתעלה שמו עד שובנו בשלום.<lb/><lb/> העיר י״י את רוח ידידי ויקירי <persName>
+          <choice n="3" source="#Yaari">
+            <abbr>כ״ר</abbr>
+            <expan>כבוד רבי</expan>
+          </choice> ר׳ אליהו <choice n="4" source="#Yaari">
+            <abbr>יצ״ו</abbr>
+            <expan>ישמרהו צורו וקונו</expan>
+          </choice> בכ״ר דוד</persName> לנסוע ממקומו ומעירו כדי לראות הרי בשמים לשלם את נדרו אשר
+        נדר, ואני הדל נתחברתי עמו, ונכנסנו בספינה. <milestone unit="GeoNar1"/><seg ana="depart"
+            >ו<date when="1654-08-29" cert="high">ביום ו׳ לאלול התי״ד ביום שבת </date><note
+            resp="Sinai">the date 19.Aug was an erronous reading (by Yaari and Gurland before him)
+            of "יו" as "ו" in the manuscript. Compare
+            https://web.nli.org.il/sites/NLIS/he/ManuScript/Pages/Item.aspx?ItemID=PNX_MANUSCRIPTS990000801730205171
+            </note><time>אחר התפלה</time> יצאה הספינה אשר נכנסנו אליה מנמל <placeName
+            ref="KIMA_14307" cert="high" n="1">כַּפַא</placeName><note n="5">Kaffa נקראת היום
+            Feodosia</note></seg>, <seg ana="arrival">ו<date when="1654-08-31">בליל יום ב'</date>
+          באנו נגד <placeName ref="WD_Q2639368" n="2">איאדגי</placeName>- שעל נמל <placeName
+            ref="KIMA_17819">בלקלי</placeName></seg>.<seg ana="arrivalStay"> ו<date
+            when="1654-09-03">ביום ה׳</date> באנו ל<placeName ref="KIMA_533" cert="high" n="3"
+            >קוסטינא</placeName><note n="6" source="#Yaari">קושטא</note>. וחנינו ב<date
+            when="1654-09-03">ליל יום ששי</date> בית <persName>כה״ר אליהו ירושלמי יצ״ו בכ״ר ברוך
+              ירושלמי יצ״ו</persName>,ואכלנו ושתינו משלחנו עמהם, ממה שזמן הקב״ה.</seg><lb/><lb/>
+        <fw type="pageNum">306</fw><seg ana="stay"> וב<date when="1654-09-04">בקר ביום ו׳</date>
+          הלכנו לבית הכנסת. ובו ביום היתה ברית מילה בבית ישראל אחד, ואחר התפלה קרא בחור אחד את ברכת
+          המילה בבית הכנסת, ואח״כ הלכו לבית בעל המילה ובביתו מלו את הנער. </seg><milestone
+          unit="GeoNar2"/><seg>ובו ביום <date when="1654-09-04" cert="low"><note>יום ו׳ היה כ״ב
+              באלול!</note>ו׳ כ״ג לאלול התי״ד</date> נכנסנו לספינה גדולה הנקראת „קַליוּן״<note n="7"
+            >Kalyun מין אניה, galion בצרפתית.</note>. ולא נתעכבנו ב<placeName ref="KIMA_533"
+            cert="high" n="3">קונסטנטינא</placeName> יום שלם.</seg> ו<seg><date when="1654-09-04"
+            cert="low">בערב שבת</date> בזמן התפלה יצאה הספינה מנמל <placeName ref="KIMA_533"
+            cert="high" n="3">קונסטנטינא</placeName>, ובאנו ל<placeName ref="GN_746983" cert="high"
+            n="4">גֶלבּוֹלוּ</placeName>, ב<date when="1654-09-05" cert="low"
+          >מוצאי שבת</date> קודם התפלה.</seg>
+        <seg>וב<date when="1654-09-06" cert="low">בקר</date> הלכנו ל<placeName ref="KIMA_9825"
+            cert="low">מדינת גלבּוֹלוּ</placeName><note n="8" source="#Yaari">Gelibolu
+            גליפולי</note> עם כ״ר אליהו, וקנינו זעה<note n="9">יין-שרף</note> וחומץ מהרבנים<note
+            n="10" source="#Yaari">היהודים הבלתי-קראים</note> אשר שמה. והוא מקום טוב, וכל מה שתבקש
+          ימצא שם, וגם חומה בצורה היא. וחנינו ב<placeName ref="GN_746983" cert="high" n="6"
+            >גליבּוֹלוּ</placeName> עד חצי היום של <date when="1654-09-06" cert="low">יום ראשון כ״ה
+            לאלול</date></seg><seg> ומשם נסענו ללכת אל <placeName ref="WD_Q6514" n="7">בּוֹגַז
+            חיסַרִי</placeName>.<note n="11" source="#Yaari">Boghaz hisari (מבצר המיצר) במוצא הדרומי
+            ( של הדרדנלים</note></seg>
+        <seg>ומ<placeName ref="KIMA_533" cert="high">קוסדינא</placeName> ל<placeName ref="KIMA_9825"
+            cert="high">גליבולו</placeName> מאתים מיל</seg>, <seg>ומ<placeName ref="KIMA_9825"
+            cert="high">גלבולו</placeName> עד בּוֹגז חיסרי שלשים מיל.</seg> <seg>ונכנסנו ל<placeName
+            ref="WD_Q6514" n="7">בּוֹגז חיסַרי</placeName> סמוך לערב יום ב׳. </seg><milestone
+          unit="GeoNar3"/><seg>ובבקר ב<date when="1654-09-07" cert="low">יום ב׳</date> נסענו ללכת
+          למדינת <placeName ref="KIMA_17289" cert="high">סַקיז</placeName>.<note n="11*">Chios הוא
+            האי Sakiz</note></seg><seg> וסמוך לפנות ערב יום ב׳ הקים יו״י רוח סערה
+          גדולה, לא יבוא ולא יהיה לא יֵרָאֶה עוד. כל הלילה ב<date when="1654-09-08">ליל ג׳ כ״ז
+            לאלול</date> היינו בצרה גדולה, כי האניה חשבה להשבר, ובכו האנשים והנשים בכיה גדולה, כמר
+          זעקה, כי היו עמנו בספינה אנשים ונשים וטף. וברוך השם שרחם עלינו והצילנו.</seg> <seg>ולא
+          יכולנו להכנס לנמל <placeName ref="KIMA_17289" cert="high">סקיז</placeName>, ונכנסנו לנמל
+          הנקרא <placeName ref="KIMA_2689" n="8">אִסְטַנְקוֹי</placeName><note n="12"
+            source="#Yaari">Istankoy הוא האי Kos</note>, וגם היא מדינה<note n="13" source="#Yaari"
+            >עיר</note> יפה וחומה בצורה, וכל ענבים משובחים בזול מאד, וכל מיני פירות נמצאים שם להרבה.
+          ונכנסנו לנמל <placeName ref="KIMA_2689" cert="high" n="8">אסטנקוי</placeName> ב<date
+            when="1654-09-09" cert="low">יום ד׳</date></seg>.<seg> וסמוך לפנות ערב בו ביום נסענו
+          מנמל <placeName ref="KIMA_2689" cert="high" n="8">אסטנקוי</placeName> ללכת לעיר <placeName
+            ref="KIMA_468" cert="high" n="9">רוֹדוֹס</placeName>. ובאנו ל<placeName ref="KIMA_468"
+            cert="high" n="9">רוֹדוֹס</placeName> ב<date when="1654-09-13" cert="low">ערב יום השבת.
+            ובו ביום יום תרועה וראש השנה לשנת התט״ו</date></seg>.<seg> ועשינו יום תרועה בספינה. גם
+          ישבו הרבנים בספינה ביום שבת גם ביום ראשון ולא יצאו</seg>, <seg>ובבקר <date
+            when="1654-09-14" cert="low">יום ב׳</date> יצאנו כלנו והלכנו למדינת <placeName
+            ref="KIMA_468" cert="high" n="9">רוֹדוֹס</placeName>. <milestone unit="GeoNar4"/>והמדינה
+          ההיא מיושבת על הים, והים מסביבותיה. והיא <fw type="pageNum">307</fw> חומה בצורה עד מאד,
+          וגם בתיהם בנוים בבנינים חזקים עד מאד נשארו מבנין של פִיראֶנג.<note n="14"> Firenc
+            פרנקים</note> ובה ימצאו רמונים ולימונים ונָארִנְג<note n="15" source="#Yaari">narinc
+            תפוח-זהב</note> רבים מאד, וגם תאנים זתים ושמן זית בזול. ובה יש רבנים.<note n="16"
+            source="#Yaari">יהודים בלתי-קראים</note> והלכנו למדרש שלהם וקנינו מהם יין וזעה,<note
+            n="17" source="#Yaari">יין-שרף</note></seg>
+        <seg>כל ישבנו שם י"ב ימים, עשינו מועד <date when="1654-09-13" cert="low">יום
+            תרועה</date><note n="18" source="#Yaari">ראש השנה</note> ו<date when="1654-09-21"
+            cert="low">יום הכפורים</date> שם בתוך הספינה</seg>. <seg>וגם הלכנו אל הספינה שיושבים שם
+          מלכים ובני מלכים ההולכים מ<placeName ref="KIMA_17099" cert="high"
+            >קִירִים</placeName>,<note n="19" source="#Yaari"> Kirim חצי-האי קרים</note> אשר שם אותם
+          שמה האדון <persName>חוּנְכָּר</persName><note n="10" source="#Yaari">Hunkar (הממית), כינוי
+            לסולטאן העותומני</note>
+          <choice n="21" source="#Yaari">
+            <abbr>י"ל</abbr>
+            <expan>יחי לעד</expan>
+          </choice> להיות שם למשמרת, והם ראו אותנו מהחלונות אשר על המגדל והכירו אותנו שאנחנו מתושבי
+          קירים, וקראו אותנו וגילו לנו מעניני המלך ושריו</seg>, <seg>כי בזמן קרוב הלך <persName>מחמד
+            גִראי</persName><note n="21*" source="#Yaari">Muhammad Giray, מלך תתרי של קרים שגורש
+            לרודוס ביוני 1614 והוחזר לשלטונו בקרים ביולי 1654</note>, אחיו של <persName>גֶאן בֶּך
+            גִרָאי</persName><note n="22" source="#Yaari">Canibek Giray</note> משם ונשאר שם
+            <persName>בן צופן גראי</persName><note n="23" source="#Yaari">Cupan Giray</note>
+          סולטן</seg>, <seg>והם שאלו על עניני קירים, והם נאנחים ונאנקים ומבקשים את מדינת קירים, כי
+          הם יושבים במשמר.</seg>
+        <milestone unit="GeoNar5"/><seg>וב<date when="1654-09-23" cert="high">יום ד׳ שהוא י״ב לתשרי
+            התט״ו</date> יצאנו מנמל <placeName ref="KIMA_468" cert="high" n="9"
+          >רוֹדוֹס</placeName></seg>.<seg> וב<date when="1654-09-24">יום ה׳</date> רדפו אחרינו ד׳
+          ספינות גדולות מפִירֶנְג,<note n="24" source="#Yaari"> Firenc פרנקים</note> ונלחמו עמנו
+          באבני תותח, אעפ״י שהיינו יותר מארבעים ספינות והם ד׳ ספינות, לא נתנו לנו נחת רוח, עד שהלכנו
+          לעיר <placeName ref="KIMA_667" cert="high" n="10">אִסְכַּנְדָרִיָא</placeName>.<note
+            n="25" source="#Yaari">אלכסנדריה של מצרים</note> עד הכנסנו לנמל היו נלחמים בכל יום ויום,
+          יום ה׳ וששי ויום וליל יום ב׳. ובבקר ב<date when="1654-09-28">יום ב׳ י״ז לתשרי</date>
+          נכנסנו לנמל אסכנדריא של מצרים, ועד הכנסנו לנמל רדפו היונים אחרינו ולא עזבו אותנו ולא נפרדו
+          מנגד עינינו. וכאשר נכנסנו באסכנדריא, אז היתה לנו השקט ומנוחה מפניהם</seg>.<seg> וחנינו
+          באסכנדריא בבית רבן<note n="26" source="#Yaari">יהודי בלתי-קראי</note> אחד בעליתו, ושֵם
+          הישראלי <persName>יוסף</persName>, והוא היה איש טוב, ושכבנו בביתו ב׳ לילות</seg>.<seg>
+          ומדינת אסכנדריא גם היא ארץ טובה לא יחסר כל בה, ובפרט הדגים מאד רבים בזול כאשר
+          תרצה.</seg><milestone unit="GeoNar6"/><seg>ויצאנו משם ב<date>יום ד'</date><fw
+            type="pageNum">308</fw> וחנינו ב<date>ליל ה׳</date> בנמל <placeName cert="unknown"
+            >אַבּוּקיר</placeName><note n="27" source="#Yaari">אבו קיר,צפונית-מערבית לאלכסנדריה.
+          </note> בתוך ספינה שהיינו בתוכה הנקראת „גַרִים״<note n="28" source="#Yaari"> Carim ובערבית
+            ג'רם אנית-נוסעים המפליגה בנילוס</note> בלשונם, ועדיין אנחנו בתוך <placeName
+            ref="http://PL_1043" cert="high">הים הלבן</placeName>.<note n="29" source="#Yaari">הים
+            התיכון, והוא תרגום הכינוי התורכי Ak deniz </note></seg><seg> ומאַבוקיר למטה מעט הלכנו אל
+          המקום אשר יתערב <placeName>יאור מצרים</placeName> אל <placeName ref="http://PL_1043"
+            cert="high">הים הלבן</placeName>, והוא נקרא „<placeName ref="http://KIMA_4625"
+            ana="#note" cert="high">בוֹגוֹז</placeName>״<note n="30" source="#Yaari">במוצא סעיף
+            הרשיד של הנילוס</note> בלשונם, והוא מקום קשה לספינות, ופוחדים מאד עד עברם, ואינם עוברים
+          עד שיבוא בספינה קטנה איש מורה הדרך לעבור במקומות מעוינות. והאיש ההוא שמו קוּלבוּז<note
+            n="31" source="#Yaari">knlavuz מורה דרך (pilot)</note> והוא יאמר: בכאן תבוא או בכאן,
+          ואח״כ תעבור הספינה, והוא מוכן ומזומן להורות ולהראות, [והוא] מתמנה בגזרת האדון.<note n="32"
+            source="#Yaari">הסולטאן</note> ברוך יו״ו שעברנו בשלום.</seg><seg> ונכנסנו ליאור, ולקחנו
+          ושתינו ממימיו, והם מתוקים מאד. ועברנו ובאנו עד <placeName ref="http://KIMA_20050"
+            cert="high">רֶאשִיט</placeName><note n="33" source="#Yaari">רשיד, היא Rosetta</note>
+          המדינה, שהיא על שפת <placeName ref="http://KIMA_2802" cert="high">היאור</placeName> מושבה,
+          והיא מקום משא ומתן שווקים ורחובות וספינות רבות שם, ומשם תלכנה הספינות הקטנות למצרים.
+          ומנהגם לצאת ביום ששי או ביום ב׳ בקבוץ, ואין להם רשות לצאת ביום אחר, כך מנהגם מקדמא. ואנחנו
+          נכנסנו למדינת ראשיט ב<date>יום ה׳ קודם ב׳ ימים משמיני עצרת</date>, ועשינו <date>יום ח׳
+            עצרת</date>, וכן <date>תענית אחר המועד</date>, נתענינו בראשיט. וישבנו שם חמשה ימים בהשקט
+          ובבטחה. </seg><milestone unit="GeoNar7"/>וביום<seg>
+          <date>ב׳, כ״ד לתשרי התט״ו</date>, נכנסנו לספינה קטנה כמו מנין מ׳ אנשים, ושמנו פנינו ללכת
+          למצרים על <placeName ref="http://KIMA_2802" cert="high">היאור</placeName>, שהוא מהלך ת״ק
+          מיל מראשיט עד <placeName ref="http://KIMA_665" cert="high">מצרים</placeName>.<note n="34"
+            source="#Yaari">קאהיר</note> בתוך <placeName ref="http://KIMA_2802" cert="high"
+            >היאור</placeName> הלכנו בתוך ג׳ ימים וב׳ לילות, כי לילה יצאנו מהספינה ושכבנו על שפת
+            <placeName ref="http://KIMA_2802" cert="high">היאור</placeName> ובאור הבוקר נסענו. ומלחי
+          הספינה אם ירצו יוליכו את הספינה ע״י המשכת חבל ארוך, המלחים הולכים בחוץ על שפת <placeName
+            ref="http://KIMA_2802" cert="high">היאור</placeName> וחבל בידיהם, וראש החבל קצהו האחד
+          בתוך הספינה, ומושכים והולכים במרוצה, במקומות ידועים להם יעשו כן, לא בכל הדרך. וב<date>יום
+            ה׳, כ״ז לתשרי</date>, באנו למדינת מצרים<note n="35" source="#Yaari">כלומר, לעיר
+            קאהיר</note> וחנינו <fw type="pageNum">309</fw> ב„כָאן״<note n="36" source="#Yaari">מלון
+            אורחים</note> אחד, שמו „<placeName cert="unknown">כָאן
+          כַלִיל</placeName>״.</seg><milestone unit="GeoNar8"/><seg> ושמעו אחינו הישראלים עדת בני
+          מקרא יצ״ו, ובאו וקראו אותנו בכבוד לנוח ברחוב ישראל, ואמרו: אין ראוי לכם לנוח בחוץ, רחוק
+          מבית הכנסת. ודברו לנו דברים טובים דברי נחומים. והמה אנשים יקרים ומועילים, אהובים לשמים
+          ולבריות, והוליכו אותנו לבית כ״ר <persName>זכריה הרופא</persName>, והוא איש טוב
+          מאד, האל יברכהו,</seg><seg> והכְנִסָה<note n="37" source="#Yaari">בית-הכנסת</note> של בני
+          מקרא במצרים בנין יפה מקדמא דנא בעמודי שיש וספרי תורות יקרים בתוכה. ויוציאו ספר תורה בכל
+          שבת ובראש חדש ב׳ וה׳.<note n="38" source="#Yaari">וביום שני וחמישי בשבוע</note> וקהלות
+            מצרים<note n="39" source="#Yaari">הקראים</note> הם מחמירים בכל מצוה בקלה כבחמורה בכל
+          לבם, והם גומלי חסדים לחיים ולמתים, האל ינחמם ויזכו לראות ביאת משיחנו .<choice n="40"
+            source="#Yaari">
+            <abbr>ב״ב</abbr>
+            <expan>במהרה בימינו</expan>
+          </choice></seg>
+        <seg>וביום ג׳ רכבנו על חמורים ללכת ל<placeName cert="unknown">מצרים הישנה</placeName> ואל
+          בתי החיים של הקהל, כדי לראות, ועמנו מורה הדרך כ״ר <persName>אברהם הלוי
+            קודסי</persName><note n="41" source="#Yaari">ירושלמי</note> שבא הנה, ועמו בחור אחד שמו
+            <persName>עובדיא לוי</persName>. כלנו רכבנו על חמורים ובאנו למצרים ישנה,</seg>
+        <seg>ושמה <placeName cert="unknown">כְּנסָה טובה ויקרה</placeName>, אין חקר לטוב
+          יופי הכּנִסָה, כי כבר היתה בידי ב״מ,<note n="42" source="#Yaari">בני מקרא, הקראים</note>
+          ועתה היא ביד ב״ה.<note n="43" source="#Yaari">בעלי התלמוד, יהודים בלתי-קראים</note> ושמה
+          ספר תורה מכתיבת עזרא הסופר ע״ה כהן לאל עליון, ושמה כתובות יקרות מפותחות על הלוחות פתוחים,
+          פסוק „שמע ישראל״ על ההיכל ופסוק <cit>
+            <quote>פתחו לי <choice n="44" source="#Yaari">
+                <abbr>ש״צ</abbr>
+                <expan>שערי צדק</expan>
+              </choice></quote>
+            <quote>זה השער לה׳ צדיקים יבאו בו</quote>
+            <bibl n="45" source="#Yaari"> (שם, פסוק כ׳).(תהלים קי"ח י״ט)).</bibl>
+          </cit> ועוד על קרש אחר מפותח <cit>
+            <quote>מזמור לי״י הארץ ומלואה</quote>
+            <bibl n="46" source="#Yaari">תהלים כ״ד</bibl>
+          </cit> כל המזמור מראש ועד סוף, ותאריך מפותח בה <date>אתקל״א</date>, ר״ל <date>אלף
+            ותקל״א</date>, ואני סברתי כי הוא למנין השטרות.<note n="47" source="#Yaari">המתחיל משנת
+            312 לפני ספירת הנוצרים.</note> ולקחנו שמן זית זך ושמנו בעששית של תמידים,<note n="48"
+            source="#Yaari">נר תמיד</note> שמדליקים שמה ג' עששיות לתמידים לפני ג׳ היכלות. ובכל כותלי
+          בית הכנסת כתובים שמות הבאים מארץ מרחקים, יש מי שכתב בדיו ויש מי שפתּח פתוחים, וכתבנו גם
+          אנחנ<span ana="#typo">י</span> שמותינו.</seg><milestone unit="GeoNar9"/><lb/><lb/>
+      <fw type="pageNum">310</fw>
+      <seg> ומשם הלכנו ל<placeName cert="unknown">בתי החיים</placeName><note
+            target="recogito-8bbc495a-10e8-4806-8751-e0d3410198a3" resp="sinai">? נקרופוליס
+            גיזה?</note>, ושמה מצבות טובות ומערות כמו טוּרְבֶּא<note n="49" source="#Yaari">turbe
+            בנין-קבר, מאוסוליאום</note> של ישמעאלים, והם בנינים מופלאים, לא יבנה כל אחד במאה כספים,
+          ואין בבנינים ההם מתים קבורים, אלא הם נעשו לנוח שמה הקַבָּרים ולשׂוּם בתוכו מאכל ומשקה
+          בעבור הקַבָּרים ולשׂוּם כליהם ולהיות למחסה ולמסתור מחמימות השמש להיות צל על ראשם, כי שם
+          החום גובר מאד. וגם אם יקרה שאם ילינו שם בלילות ינוחו בתוך המערות ההם, כאשר ספר לנו
+            <persName>אברהם קודשי</persName>. ושמה ג״כ במערות כתבו שמותם הבאים ממרחק, בפרט הכרנו את
+          כתיבת כה״ר <persName>יוסף בכ״ר יעקב</persName> החכם השלם זצ״ל, וכתבנו גם אנחנו
+          שמותינו.</seg><seg> ובנו בנינים גבוהים על הדרך כקומת אדם בצורה שיעשו על הגגות בעבור שיעלה
+          עשן הכירים, כך קומתם, מוצבים רחוקים זה מזה ריחוק מה, ועשו זה כדי להכיר הדרך אם ילכו בלילה,
+          כי המקומות ההם חול, כמו חול שפת הים דקים עד מאוד, על כן לא יהיה סימן מדרך כפות הרגלים כמו
+          הדרכים שלנו, ומהסימנים ההם יכירו ללכת בדרך ישרה.</seg>
+        <seg>ו<placeName ref="http://PL_442962448" cert="high">ארץ גושן</placeName>
+          <note n="50" source="#Yaari">הכוונה לכפר אל-גיזה על שפת הנילוס המערבית</note> לפאת הימין
+          כשתלך לבית החיים. ויש שמה אצל <placeName ref="http://KIMA_9968" cert="high">ארץ
+            גושן</placeName> ב׳ הרים והר אחד קטון, שמו בלשון ישמעאל <placeName cert="unknown"
+            >פּירָאוּן דַגִי</placeName><note target="recogito-61d6e354-818d-4f09-9304-c5f66068e3c3"
+            resp="sinai">הפירמידות</note>,<note n="51" source="#Yaari">Firaun daghi הר פרעה. והכוונה
+            לפירמידות.</note> והם יֵרָאו מעל <placeName ref="http://KIMA_2802" cert="high"
+            >היאור</placeName> בלכתך למצרים ככוכבים ארוכים ממקום רחוק.</seg><seg> ו<placeName
+            cert="unknown">קברי השבטים</placeName> בצד שמאל בלכתך לבתי חיים, ואומרים ששמה קבורים
+          ראובן ושמעון וכו׳. וב<date>יום ב׳, י״ד לחשון</date>, היתה ברית מילה בבית איש לוי. ומנהג
+          קהל מצרים להתפלל בבית בעל ברית המילה בליל שבת, וכן ביום המילה מדליקים נרות עששיות רבות,
+          ואח״כ קוראים ברכות, ומביאים את הנער ומלים ופורעים. ובו ביום היתה מצות מת, שנפטר בחור
+          אחד, שמו <persName>אברהם לוי</persName>, ואביו יושב בירושלים שמו <persName>עובדיא
+            לוי</persName>, ובליל ב׳ נפטר זה הבחור, והוליכו אותו לבתי חיים קודם עלות השחר קהל מצרים,
+          שהם משתדלים מאד במצות.</seg><milestone unit="GeoNar10"/><seg> וב<date>יום ששי,
+            י״ח לחשון</date>, הלכנו ל<placeName cert="unknown">ארמון המשנה במצרים</placeName>, <fw
+            type="pageNum">311</fw> ושם באר קראו אותה „<placeName cert="unknown">בִּאר
+            יוּסֻף</placeName>"<note n="52" source="#Yaari">הוא בור-המים הגדול במבצר קאהיר שנבנה
+            בימי צלאח א-דין</note> ומושכים ושואבים את המים בשוורים, והמקום ששואבים ממנו המים עמוק
+          מאוד, ויורדים אליו במעלות, יותר משלש מאות מעלות. וירדנו שמה בפתילה דולקת, והלכנו
+          לתחתיה, ושמה עוד שוורים אחרים שואבים ויורדים ועולים סובב סובב כמו, ובלוּלים יעלו. והמקום
+          ההוא בנין נורא מאד, כמו מגדל בנוי למעלה, ולוֹ חלונות סביב, ושתינו ממימיו, והם מים קרים
+          ומתוקים. וראינו בארמון המשנה בנינים יקרים וציורים נאים.</seg><seg> והארמון ההוא על סלע והר
+          גבוה, בנוי בקצה ארץ מצרים.<note n="53" source="#Yaari">כלומר, עיר קאהיר: המבצר נמצא בקצה
+            הדרומי-מזרחי של העיר,על מורד הר מקטם</note> ואומרים שהם ארמונים מזמן יוסף הצדיק
+          ע״ה.</seg><seg> ומקומות גבולי ארמוני המשנה יש כמו <placeName>חִיסָאר
+            פיראנג</placeName><note n="54" source="#Yaari">Hisari Firenc מבצר הפרנקים</note>
+            שבכּפא.<note n="55" source="#Yaari">Kaffa בחצי־האי קרים, כיום Feodosia</note>
+        </seg><seg>וישבנו במצרים שבעה ועשרים יום. </seg><milestone unit="GeoNar11"/><seg>ויצאנו
+          ממצרים ב<date>כ״ה לחשון ביום ששי</date> והלכנו לכָנִכָּא.<note n="56" source="#Yaari"
+            >אל-כ'אנקאה</note> וישבנו שם ארבעה ימים עד שנתקבצו שם כל בעלי הכֶּרוָון<note n="57"
+            source="#Yaari">kervan אורחה</note> שהוכנו ללכת לירושלים.</seg>
+        <seg> ונסענו מן <placeName ref="GN_360928" cert="high">כָנְכָּא</placeName> וחנינו בכפר
+            <placeName cert="unknown">זָוָמִיל</placeName>.<note n="58" source="#Yaari"
+            >א-זואמל</note></seg><seg> ומשם ב<placeName ref="http://KIMA_22392" cert="high"
+            >בִּלְבֵּייס</placeName>,</seg><seg> ומשם אל <placeName ref="GN_360542" cert="high"
+            >אֶלְקוּרֵיין</placeName>,</seg><seg> ומשם ל<placeName cert="unknown"
+            >סָלִחִיָיא</placeName>. ועשינו <date>שבת</date> ב<placeName cert="unknown"
+            >סָלִחִיָיא</placeName> עם כל אנשי הכּרְוָון. ועד הנה שותים כלם ממימי <placeName
+            ref="http://KIMA_2802" cert="high">היאור</placeName>, מן הסעפים שהלכו עד <placeName
+            cert="unknown">סלחייא</placeName>.</seg><seg> ומשם אל <placeName cert="unknown"
+            >אלבִּיַיר</placeName>.<note n="59" source="#Yaari">אל-ביאר, בארות, ואולי הכוונה לביאר
+            א-דוידאר</note></seg><seg> ומשם אל <placeName cert="unknown">קַטְייא</placeName>. ושם
+          דגים רבים יבשים וגם חדשים. ומשם אל „<placeName cert="unknown">באר העבד</placeName>"<note
+            n="60" source="#Yaari"> באר אל-עבּד: תחנה זו נזכרת ע״י Haci Halfa והנוסע הקראי שמואל בן
+            דוד לא חנה בה אלא ב Kara Koyu </note></seg><seg> ומשם אל <placeName
+            ref="http://KIMA_21859" cert="high">אַריש</placeName>, והוא גבול ארץ ישראל, ועשינו
+            <date>שבת</date> גם בזה. </seg><milestone unit="GeoNar12"/>ומשם אל<seg>
+          <placeName ref="GN_281124" ana="#note" cert="high">כאן יוּנוּס</placeName>, הוא <placeName
+            ref="http://KIMA_16888" cert="high">אשקלון</placeName>.<note n="61" source="#Yaari"
+            >הזיהוי אינו נכון, וכן הזיהויים זעקא— אשדוד, רמלה — עזה. ואולי יש באן טעות, וצ״ל: ומשם
+            אל כאן יונוס, ומשם אל זעקא, ומשם אל עזה, ומשם אל אשדוד, ומשם אל רמלה.</note></seg><seg>
+          ומשם <placeName cert="unknown">זַעְקָא</placeName>, היא <placeName cert="unknown"
+            >אשדוד</placeName>.</seg><seg> ומשם אל <placeName ref="http://KIMA_456" cert="high"
+            >רמלה</placeName>, היא <placeName ref="http://KIMA_12982" cert="high"
+          >עזה</placeName>.</seg>
+        <seg>ומשם אל <placeName ref="GN_284270" cert="high">בּדוּ</placeName>.<note n="62"
+            source="#Yaari">כפר ממערב לנבי סמויל</note></seg>
+        <seg> ומשם הלכנו ל<placeName ref="http://KIMA_691" cert="high">ירושלים</placeName>
+          <choice n="63" source="#Yaari">
+            <abbr>תוב״ב</abbr>
+            <expan>תבנה ותכונן במהרה בימינו</expan>
+          </choice>. <milestone unit="GeoNar13"/>ונכנסנו אל מקום <fw type="pageNum">312</fw> חפצנו
+          אשר בקשנו מרחוק, ואת כל הדרכים בעבורו הלכנו. ובאנו אליו ביום <date>ה׳, י״ז לכסליו שנת
+            התט״ו</date>.</seg><seg> וראינו את <placeName cert="unknown">בית הכנסת שלנו</placeName>,<note
+          n="64" source="#Yaari">של הקראים: ועיין תיאור מפורט של בית-כנסת זה מאת יעקב פינקרפלד
+          ב„ירושלים" לזכר לונץ עמ׳ ר״ה—ר״כ</note> והנה היא טובה מאד ויקרה מפנינים, ומדליקים בתוכה
+        שלשה עששיות ותמיד אחד, ונהיה ארבעה קַנְדִילִים.<note n="65" source="#Yaari">עששיות</note>
+        ושמה מתחזן <note n="66" source="#Yaari">משמש חזן</note> כ״ר <persName>משה הכהן</persName>
+        יצ״ו, איש עניו ומסכן, ונתקיים עליו והשארתי בקרבך עם עני ודל.<note n="67" source="#Yaari"
+          >צפניה ג׳ י״ב.</note> ועמו מתפלל <persName>עובדיא הלוי</persName> יצ״ו ועוד
+          <persName>אברהם הבחור ישראלי</persName>, כהן ולוי וישראלי, שלשה אנשים מתפללים,
+          ו<persName>ב׳ נשים אלמנות</persName> מתמידות בתפלה ויודעות כל עניני התפלה, ותמיד תמצאנה
+        בזמן התפלה כאשר יפתחו דלתות בית הכנסת. וראינו כי בי״ט מעלות יורדים לבית הכנסת, ושמה סביבות
+        בית הכנסת בתי הקדשות בסך ט״ו בתים ויותר, בנוים בבנינים טובים ונחמדים, באבנים בנוים בנין
+        כֶּמֶר. <note n="68" source="#Yaari">קמרון Kemer</note> ויש באר בחצר , <choice n="69"
+          source="#Yaari">
+          <abbr>ב״ה</abbr>
+          <expan>בית הכנסת</expan>
+        </choice> להתקבץ שמה מימי המטר שיורדים מעל הגגות.</seg><seg> ו<placeName cert="unknown">כותל
+          המערבי</placeName> של <placeName cert="unknown">בית המקדש</placeName> עדיין עומד, והוא
+        שבנה שלמה המלך ע״ה, והוא יראה מעל גגות בתי ההקדשות שלנו, ועלינו על הגגות וראינו. וכן הלכנו
+        אצלו ועשינו השתחויה ורצינו את אבניה ואת עפרה התחבקנו.</seg> <seg>והלכנו ב<date>יום א׳ בי״ט
+          לכסליו</date> ל<placeName cert="unknown">הר המוריה</placeName>, במקום שנעקד יצחק ,<choice
+          n="70" source="#Yaari">
+          <abbr>אע״ה</abbr>
+          <expan>אבינו עליו השלום</expan>
+        </choice> והוא דרומית מזרחית כנגד בית המקדש, ומשם יֵרָאֶה בית המקדש. והתפללנו לשם וקראנו כל
+        הפסוקים מן „ויהי אחרי הדברים האלה והאלהים נסה את אברהם" עד „וישב אברהם אל נעריו״.<note
+          n="71" source="#Yaari">בראשית, כ״ב א׳—י״ט. </note></seg><seg> ובתוך הבקעה יש באר ובנינים, ואומרים
+        הישמעאלים שהוא <placeName cert="unknown">באר אִיוֹב</placeName>, והם לא ידעו ולא יבינו כי
+        הוא <placeName cert="unknown">באר יוֹאב</placeName>, כי כן הקבלה ביד ישראל דור אחר דור, אלא
+        הגוים הפכו האותיות וקוראים לבאר יואב „<placeName cert="unknown">בִּאר
+          אֶיוּף</placeName>״<note n="72" source="#Yaari">Bir Ejup באר איוב</note></seg><seg> ומשם הלכנו
+          ל<placeName ref="http://KIMA_22085" cert="high">עין רוגל</placeName>,<note n="73"
+          source="#Yaari">הכוונה לבריכת השלוח</note> והוא בבקעה.</seg><seg> ומשם הלכנו ל<placeName
+          ref="http://KIMA_21099" cert="high">יד אבשלום</placeName>, והוא בבנין חצוב מהסלע מערה
+        גדולה, ועל המערה <fw type="pageNum">313</fw> עוד בנו בנין.</seg><seg> ומשם הלכנו ל<placeName
+          cert="unknown">מערת זכריה</placeName> הנביא בן יהוידע הכהן. אלה בין מזרח לדרום כנגד
+        ירושלים.</seg> <seg>ומשם הלכנו ל<placeName ref="http://KIMA_22081" cert="high">גיא בן
+          הנום</placeName>.<note n="*73">הכוונה לנחל קדרון, הנקרא בפי המוסלמים ואדי ג'הנם</note>
+        וכנגד הבקעה <placeName cert="unknown">קברי </placeName>,<choice n="74" source="#Yaari">
+          <expan>בעלי התלמוד בלתי-קראים</expan>
+          <abbr>ב״ה</abbr>
+        </choice> ולמעלה כנגד קברי הרבנים עומדים <placeName cert="unknown">קברי בני מקרא</placeName>
+        קרוב לחומת ירושלים, אשר סמוכה החומה ל„<placeName cert="unknown">מדרש שלמה</placeName>" <note
+          n="75" source="#Yaari">מסגד אל-אקצא</note> ע״ה קרוב לבית המקדש, כי שניהם בחצר אחד.</seg><seg>
+          ו<date>ביום ב׳</date> הלכנו ל<placeName cert="unknown">מערת דוד המלך</placeName> ע״ה לפני
+          <placeName cert="unknown">השער הדרומי</placeName>,<note n="76" source="#Yaari">שער
+          ציון, הנקרא בערבית „בָּאבּ דאוּד" (שער דוד)</note> ובו ג״כ <placeName cert="unknown">מערת
+          שלמה</placeName> ע״ה ושאר קברי מלכי דוד.</seg><seg> וסמוך להם <placeName cert="unknown">ציון עיר
+          דוד</placeName>. ובעונותינו הרבים נתקיים הפסוק האמור „ציון שדה תחרש"<note n="77"
+          source="#Yaari">ירמיה, כ״ו י״ח</note> כי יש מחרשה רבה בעיר ציון... ושם עשו <placeName
+          cert="unknown">בנין לשם ישו הנוצרי סמוך לציוֹן</placeName>,<note n="77*">כנראה, הכוונה
+          לכנסיה הארמנית על שם יעקב הקדוש</note> ובו יבואו כל הנוצרים ההולכים לירושלים, ולהם שם גנות
+        ופרדסים ובתים בנוים בתוך חומת ירושלים סמוך ל<placeName cert="unknown">שער
+          דוד</placeName><note target="recogito-a1ef5b32-7c8c-4f5a-8407-a6f10a9d7f2a" resp="sinai"
+          >שער ציון</note>.</seg><seg> ויש בבקעה בתחתיתו <placeName ref="http://KIMA_22085" cert="high">עין
+          רוגל</placeName> ג״כ, ויש שם <placeName cert="unknown">ברֵכה גדולה</placeName>.</seg>
+         <seg><seg> וב<date>יום ג׳</date> הלכנו ל<placeName ref="http://KIMA_2996" cert="high">הר
+          הזתים</placeName> שהוא מקדם לעיר לחומת ירושלים,</seg> וכן <placeName cert="unknown">בנין בית
+          המקדש</placeName> ו<placeName cert="unknown">מדרש שלמה</placeName> ו<placeName
+          cert="unknown">העזרה</placeName> הכל יראה לפניך כשלחן ערוך מ<placeName
+          ref="http://KIMA_2996" cert="high">הר הזתים</placeName>, כי בעונותינו הרבים כאשר נסעה
+        השכינה מבית המקדש נסעה עשר נסיעות, והעשירית היא <placeName ref="http://KIMA_2996"
+          cert="high">הר הזתים</placeName> שעמדה עליו וממנו עלתה לשמים,<note n="78" source="#Yaari"
+          >דברי הנוסע הקראי כאן מיוסדים על דברי חז״ל במסכת ראש השנה, דף ל״א עמוד א׳; וביחזקאל אין
+          זכר לעשר נסיעות</note> כאמור: אלך אשובה אל מקומי,<note n="79" source="#Yaari"
+          >הושע, ה׳ ט״ו</note> המעיין בספר יחזקאל ימצא מספר עשר נסיעות. והתפללנו על <placeName
+          ref="http://KIMA_2996" cert="high">הר הזתים</placeName> כנגד בית המקדש ושמנו ההשתחויה לפאת
+        מערב, ור׳ <persName>משה הכהן חזן ירושלים</persName> התפלל בעדנו ונתחברנו עמו, וברך שם על כל
+        קהלות בני המקרא ונתן ברכה למתנדבים בעד ירושלים.</seg><seg> ומשם הלכנו ל<placeName cert="unknown">מערת
+          חגי הנביא</placeName> עם נרות דולקות בידינו, וראינו <placeName cert="unknown">מערת חולדה
+          הנביאה</placeName> ע״ה. </seg><seg>ואלה כולם בשפול דטורא <note n="80" source="#Yaari">במורד של
+          הר</note> הזתים. ואכלנו ושתינו שם וברכנו לשם אשר הראנו את כל אלה, כן <fw type="pageNum"
+          >314</fw> יזכֶּה לראות לכל המשתוקקים מעמו, וכן יזכנו לראות פני המלך המשיח <choice n="81"
+          source="#Yaari">
+          <abbr>אכי״ר</abbr>
+          <expan>אמן כן יהי רצון</expan>
+        </choice>.</seg><seg><note n="81" source="#Yaari"/><milestone unit="GeoNar14"/> ו<date>ביום ד׳</date>
+        רכבנו על פרדים, ועמנו ר׳ <persName>משה הכהן</persName> יצ״ו, והלכנו ל<placeName
+          cert="unknown">מערת אדוננו שמואל הנביא</placeName> ע״ה אל רמה, זכותו תגין בעדנו, והוא ע״ה
+        קבור ב<placeName cert="unknown">רמה</placeName> על ראש הר גבוה, כאמור: ותשובתו הרמתה כי שם
+          ביתו.<note n="82" source="#Yaari">שמואל א׳, ז׳ י״ז</note> והלכנו לשם והתפללנו עליו ג״כ,
+        כמו שעשינו בשאר מקומות, והוא ע״ה קבור שמה עם אביו <persName>אלקנה הלוי</persName> ועם אמו
+          <persName>חנה הצדקת</persName>. והמערה ההיא בפאת מערב כנגד חומות ירושלים. ויצאנו מירושלים
+        אחרי תפלת הבוקר וחזרנו עוד עד זמן אִכִּנְדי, <note n="83" source="#Yaari">ikindi תפילת
+          מנחה</note> וכל הדרך קשה באבנים ובסלעים.</seg><seg> וכאשר באנו הוציאו לנו הזקנות היושבות בלשכות בית
+        הכנסת מי דבש ורמונים ושקדים וענבים. וספרו לנו כי הזקנות ההן תלכנה מדי שנה בשנה קרוב לחג
+        השבועות על רגליהן ותשובנה כן בלי שום רכיבה, אחר שתשכבנה שם לילה אחד או ב׳
+          לילות, כי מנהג לרבנים<note n="84" source="#Yaari">לבלתי-קראים</note> בכל שנה ללכת בזה הזמן
+        יותר מאלף אנשים ונשים, ושמה יאכלו וישמחו ויחנו כמה ימים שירצו, כי אם לפני מערת אדוננו שמואל
+        יש מקום שיכיל יותר מאלפים אנשים. ושמחנו שם שמחה יתרה תחת אילן אחד ומעין לפניו שֶתִקֵן
+          <persName>שמואל הרמתי</persName>,</seg><milestone unit="GeoNar15"/><seg> ואח״כ חזרנו לירושלים <choice
+          n="85" source="#Yaari">
+          <abbr>ת״ב</abbr>
+          <expan>תבנה במהרה</expan>
+        </choice> וראינו כל שערי ירושלים וכל שערי בית המקדש, אלהים יכננם עד עולם סלה, ויתקיים עוד
+        עליו פסוק: אוהב יו״י שערי ציון,<note n="86" source="#Yaari">תהלים, פ״ז ב'</note> ועשינו
+        השתחויה בכל שערי ירושלים והתפללנו וקראנו מזמורים וסחבנו פנינו על אבניה כאשר קרענו בגדינו
+        בראותנו חומות ירושלים קודם הכנסנו, ובכינו. ולכל שערי ירושלים קוראים בשמות הערביים, זה
+          „<placeName cert="unknown">שער דוד</placeName><note
+          target="recogito-1d062942-bba6-4a0e-aec1-f694996dd018" resp="sinai">שער ציון</note>״<note
+          n="87" source="#Yaari">בּאבּ דאוּד, ובפי היהודים: שער ציון</note> וזה „<placeName
+          cert="unknown">שער אברהים חָליל א-רַחְמָן</placeName><note
+          target="recogito-109d2da2-2064-44de-9ea3-7de4fda4e185" resp="sinai">שער יפו</note>״<note
+          n="88" source="#Yaari">שער אברהם אוהב האלהים, כינוי לאברהם אבינו, ובשמו נקרא השער, שממנו
+          מתחילה הדרך לחברון עיר אברהם; ובפי היהודים בימינו: שער יפו</note> וזה „<placeName
+          cert="unknown">שער השבטים</placeName><note
+          target="recogito-3da58a23-aa3c-490b-9a6e-26e2442ad011" resp="sinai">שער
+          האריות</note>״,<note n="89" source="#Yaari">בּאבּ אל-אסבּאט, ובפי היהודים: שער
+          האריות</note> וכלם נקראו <fw type="pageNum">315</fw> בשמות ידועים מקדמא דנא.</seg> <seg>ובחומות
+        ירושלים קרוב לבית המקדש בתחתית החומה יש אבנים גדולות, יותר מב׳ קוּלָץ <note n="90"
+          source="#Yaari">Kulac מידת אורך כשתי הידים המושטות</note> כּאשר מדדנו, כמו שכתוב אבני עשר
+        אמות ואבני שמונה אמות,<note n="91" source="#Yaari">מלכים א׳ ז׳ י׳</note> והנם עבות וגסות עד
+        מאד, מי יוכל לספר פליאות הבנינים אשר שמה, מהרה יחודש .<choice n="92" source="#Yaari">
+          <abbr>אכי״ר</abbr>
+          <expan>אמן כן יהי רצון</expan>
+        </choice></seg><seg> וב<date>יום הראשון בכ״ו לכסליו</date> הלכנו ל<placeName cert="unknown">חצר
+          המטרה</placeName>, ושמה באר רחב מאד, אלא פיו כפי הבארות שלנו צר, אלא תחתיתו רוחב גדול, אם
+        תבנה עליו ארמון גדול יכיל, ותחתיתו כלו מים ועליונותו רצוף באבנים טובות. ושמה מערה, אומרים זו
+          <placeName cert="unknown">מערת ירמיהו</placeName> ע״ה. וחצר המטרה כלו סלעים, ובתוכו מערה
+        כלומר „קוּבְּבָּא,<note n="93" source="#Yaari">כיפה</note> וראינו שם קוּבְּבָּא גדול מאד
+        ובתוכו עמודים שהשאירו אחר שחצבו סביבות החציבה עמודים מהסלע, גסים ועבים מאד, וסביבות העמודים
+        נקובים מאבן נקבים גדולים להכניס בתוכו שלשלאות של ברזל, ואומרים ששם קשרו כשאסרו אותם שם, שהיא
+        בית הכלא מזמן מלכי יהודה, והוא הנקרא <placeName cert="unknown">חצר המטרה</placeName>, כי שם
+        השליכו את <persName>ירמיהו הנביא</persName> ע״ה, והוא הבאר אשר ספרנו לעיל שהשליכוהו כמו
+          שכתוב.</seg><milestone unit="GeoNar16"/><seg> והוליך אותנו ב<date>יום ו׳ </date>איש אחד מ<choice>
+          <abbr>ב״ה</abbr>
+          <expan>מבעלי התלמוד</expan>
+        </choice><note n="94" source="#Yaari">,בלתי-קראים</note> ועמו ערבי אחד אל מערה אחת, ואומרים
+        שבזאת המערה נמול <persName>אברהם</persName>.<note n="95" source="#Yaari"><choice>
+            <abbr>אע״ה</abbr>
+            <expan>אבינו עליו השלום</expan>
+          </choice></note>. והמערה בסביבת חברון </seg><seg>ומשם הוליכנו אל מקום אחד מערה מלאה מים מתוקים
+        נובעים, ואומרים שהיא מקום רחיצת <persName>שרה אמנו</persName>.</seg> <seg>ומשם הוליכנו למקום הנקרא
+          <placeName cert="unknown">אלוני ממרא</placeName>. ובמקום אחד בנו <placeName cert="unknown"
+          >גדר אבנים</placeName> ואומרים שהוא בנוי מזמן אברהם,<note n="96" source="#Yaari">נקרא
+          בפי הערבים: ראמת אל-כ'ליל</note> בנוי באבנים גדולות מאד ועבות וגסות, ומדדנו אבן אחת
+        ג׳ קוּלָץ ויותר, א״כ תהיה כל אבן ארכה י״ב אמות אצילות, ויש בתוך <span ana="#typo"
+          >הנדר</span><note target="recogito-c5274795-a7cd-4096-8dd7-6e476a7411e9" resp="sinai"
+          >גדר</note> ההוא <placeName cert="unknown">באר</placeName> מזמן אאע״ה ולקחנו ממימיו
+        ושתינו.</seg> <seg>ואח״כ הלכנו ל<placeName cert="unknown">מערת ישי</placeName> אבי דוד ע״ה,<note n="97"
+          source="#Yaari">בדיר אל-ארבּעין על גבעת רֻמַידה</note> והיא ג״כ קרובה ל<placeName
+          cert="unknown">מערת אבותינו הקדושים</placeName> ע״ה בהר אחד שכנגד <placeName
+            cert="unknown">מערת המכפלה</placeName> לצד דרום.</seg> <fw type="pageNum">316</fw><lb/><lb/> <seg>וכל סביבות <placeName ref="http://KIMA_966" cert="high">חברון</placeName> לד׳ רוחותיה
+        כרמים ואילני זתים ושקדים ורמונים, גבול הכרמים הלך עד כמה מילים לכל רוחותיה.</seg> <seg>ובתוך השוק של
+          <placeName ref="http://KIMA_966" cert="high">חברון</placeName>
+        <placeName cert="unknown">מערת אבנר בן נר</placeName> שר צבא שאול ע״ה, קרוב ל<placeName
+          cert="unknown">מערת המכפלה</placeName>, כן קוראים לו ג״כ הישמעאלים.</seg><seg> ושם ב<placeName
+          ref="http://KIMA_966" cert="high">חברון</placeName> יש <placeName cert="unknown"
+          >כְּנִסָה</placeName><note n="98" source="#Yaari">בית-כנסת</note> קטנה לב״ה,<note n="99"
+          source="#Yaari">לבעלי התלמוד, בלתי-קראים</note> ושמה נתפללו כל הנמצאים ב<placeName
+          ref="http://KIMA_966" cert="high">חברון</placeName>. ו<date>ביום ו׳ </date>הלכנו וראינו
+        אותה בזמן שהוציאו ,<choice n="100" source="#Yaari">
+          <abbr>ס״ת</abbr>
+          <expan>ספר תורה</expan>
+        </choice> כי ביום ו׳ היה גם <date>ו׳ לימי החנוכה שלהם</date> והוציאו ב׳ ס״ת ברמונים
+          ועטרות, וכן ב<date>יום שבת</date> ב׳ ס״ת.</seg> <seg>ואחר התפללנו גם אנחנו בבית שחנינו וקראנו הפרשה
+        וההפטרה, קראו אותנו לבית הכנסת, והלכנו ועמדנו מבחוץ בעזרה אצל הפתח, בעבור שהיו מדליקים נרות
+        עששיות רבות ביום השבת.<note n="101" source="#Yaari">והקראים אינם מדליקים אור בשבת, ולפיכך לא
+          נכנסו לפנים בית הכנסת</note> וגם הם מוציאים הס״ת אצל הפתח היינו קרוב לס״ת, והכל היה
+        לפנינו.</seg><seg> ולהם ב<placeName ref="http://KIMA_966" cert="high">חברון</placeName> אצל הכּנסה
+          <placeName cert="unknown">בית אחד חשוב מוכן ומזומן לאכסניים</placeName>, ושמה מצעות
+        ומראשות וגלופקרים<note n="102" source="#Yaari">שמיכות</note> מוטלים ועשישה זכוכית בשמן זית
+        מלאה להדליק תלויה, להדליק ולהאיר לאורחים, כל מה שיצטרך הכל מוכן לפניך. והביאו לנו במוצאי שבת
+        צמוקים מענבים טובים ולחם לאכול, כי הם בסבר פנים יפות מביטים לאורחים.</seg><seg> ועשינו <date>שבת בפרשת
+          „ויהי מקץ"</date> ב<placeName ref="http://KIMA_966" cert="high">חברון</placeName>. וראיתי
+        אשה אחת מלמדת תינוקות, כי אנחנו היינו יושבים בעליה ותחתיה היתה מלמדת האשה ההיא.</seg><seg> ויש
+          ב<placeName ref="http://KIMA_966" cert="high">חברון</placeName> מעין אחד שקוראים לו
+          <placeName cert="unknown">עין של שרה אמנו</placeName>, וכן יש באר שקורין לה <placeName
+          cert="unknown">באר אברהם</placeName>, וכן באר אחרת קוראים לה <placeName cert="unknown">באר
+          יצחק</placeName>, ובאר אחרת קוראים לה <placeName cert="unknown">באר
+          יעקב (יאָגוּפּ)</placeName>, שכן קרואים בשמותיהם בפי ישמעאלים ויונים עד היום.<note n="103"
+          source="#Yaari">כל אלה בקצה הצפוני של חברון</note></seg><seg>
+        <milestone unit="GeoNar17"/>ויש בירושלים לבית המקדש תוב״ב י״ב שערים לעזרה <note n="104"
+          source="#Yaari">הר הבית</note> היום, העשרה מהם נפתחים ונסגרים בכל יום ויום, אבל הב׳ מהם,
+        הנקראים „<placeName cert="unknown">שערי רחמים</placeName>" כנגד <placeName
+          ref="http://KIMA_2996" cert="high">הר הזתים</placeName> בפאת מזרח. המה סגורים בגדר אבנים
+        ולא יפתחו עד שתפתחנה עיני <fw type="pageNum">317</fw> ישראל בגאולה העתידה. ואומרים כי כמה
+        פעמים השתדלו הישמעאלים לעשות אותם שיהיו פתוחים גם המה, ולא יכלו לעשות, כי נעשה להם נס, וידעו
+        כי מיו״ו היתה זאת. וכל שערי בית המקדש קרואים בשמותם כפי המנהג הקדמון, ובכל יום ויום היינו
+        הולכים לפני השערים, והיינו קוראים מזמורים ומתפללים כרצוננו, והיינו משתחוים, והיו רואים
+        הישמעאלים. וששה שערים יש לחומת ירושלים ת״ו. וסבבנו את חומות ירושלים כמה פעמים מבחוץ חֵיל
+        וחומה, עומדות היו רגלינו בשעריך ירושלים, יהי שלום בחילך שלוה בארמנותיך, ויתקיים במהרה הכתוב
+        בספר זכריה: <cit>
+          <quote>ואני אהיה לה נאם יו״י חומת אש סביב ולכבוד אהיה בתוכה</quote>
+          <bibl type="biblical">זכריה, ב׳ ט׳</bibl>
+        </cit>, <note n="105" source="#Yaari">זכריה, ב׳ ט׳</note>
+        <choice n="106" source="#Yaari">
+          <abbr>הש"י</abbr>
+          <expan>השם יתברך</expan>
+        </choice> יזכנו לראות בבנינה מהרה יחד כל ישראל חברים.</seg><seg> וביום ה׳, ח׳ לטבת, הלכנו עם ר׳ אליהו
+        יצ״ו לפני שערי רחמים בחוץ לחומה. ובעונותינו הרבים יש לפני <placeName cert="unknown">שערי
+          רחמים</placeName>
+        <placeName cert="unknown">קברי ישמעאלים</placeName>, אצל <placeName cert="unknown">שערי
+          רחמים</placeName> יש אבנים גדולות, יותר מג' קולץ <note n="107" source="#Yaari">Kulac, מידת
+          אורך כשתי הידים המושטות</note> ארכה, ורחבה עבה וגסה, כי יפלא בעיני הרואים כי איך נתנשאה
+        האבן והושמה, איך זאת כי אם יד יו״י עשתה זאת וקדוש ישראל בּראה. ועשינו <date>עשרה בטבת ביום
+          שבת</date>, התענינו בירושלים ולא דחו ליום ראשון, כי מנהגם <note n="108" source="#Yaari">של
+          הקראים בירושלים</note> כן להתענות ביום שבת אם <span ana="#typo">הל</span><note
+          target="recogito-83f47109-5d2f-455b-88b4-7263e8871c36" resp="sinai">חל</note> הצום ולא
+        לדחות, כי כן פסק ר׳ <persName>יהודה האבל</persName>
+        <note n="109" source="#Yaari">הוא החכם הקראי יהודה בן אליהו הדסי, שחיבר בשנת 1148 את ספרו
+          „אשכול הכופר״ על המצוות וכו׳ (נדפס בכוזלוב בשנת תקצ״ו).  </note> זצ״ל וכן דעת
+          <persName>הרב בע״ח</persName>
+        <note n="110" source="#Yaari"/> קרובה לזו הדעת.</seg> <seg>וביום <date>ב׳, י״ב לטבת</date>, הלכנו
+          ל<placeName cert="unknown">גן המלך שלמה</placeName> ע״ה, ושם <placeName cert="unknown"
+          >מערה תחת בית המקדש</placeName>
+        <note n="111" source="#Yaari">הכוונה למקום הידוע בשם „אורוות שלמה״</note> וכלו מקום קדוש
+        עמודי שיש מופלאים ורחבים עד מאד, חוט שתים עשרה אמה יסוב אותם. כי כל עזרת בית המקדש בזאת
+        הצורה למעלה רצופה כמרצפת אבנים ותחתיה מערה, כאשר ספרנו. ואנחנו נכנסנו בנרות <fw
+          type="pageNum">318</fw> אבוקות דולקות והלכנו עד קצתה, ועוד לא הלכנו, כי יראנו פן יתיחס לנו
+          יגון,<note n="112" source="#Yaari">יקרה לנו אסון</note> כי היא מכוונת כנגד בית המקדש,
+        ואנחנו טמאי הגלות. וברוך השם שהראנו את כל אלה.</seg> <seg>וישבנו שבעה ועשרים יום בירושלים, בכל יום, ג׳
+        פעמים התפללנו ערב ובקר וצהרים. </seg><milestone unit="GeoNar18"/>וב<seg><date>יום ד׳, י״ד לטבת
+          התט״ו</date>, בעונותינו הרבים יצאנו מירושלים לחזור לארצנו, הסולח יסלח על שיצאנו מאה״ק ללכת
+        לחוצה לארץ. ובאנו ב<date>יום ה׳</date> לעיר <placeName ref="http://KIMA_310" cert="high"
+          >שכם</placeName>, שהיא מערבי, <note n="113" source="#Yaari">צ״ל: צפוני</note> כנגד
+        ירושלים, והיא בין שני הרים, הר גריזים בצד שמאל והר עיבל בצד ימין, בשומך פניך ללכת לעיר דמשק.</seg>
+         <seg> ו<placeName cert="unknown">מערת יוסף הצדיק</placeName> ע״ה בתוך החלקה קרובה לעיר
+          <placeName ref="http://KIMA_310" cert="high">שכם</placeName>. <milestone unit="GeoNar19"
+          />וב<date>יום ו׳</date> לקחנו עמנו איש אחד מב"ה,<note n="114" source="#Yaari">מבעלי
+          התלמוד, בלתי- קראים</note> ושמו <persName>שמעון</persName>, וקמנו קודם עלות השחר ורכבנו על
+        סוסים והלכנו ל<placeName cert="unknown">יהושע בן נון</placeName>,<note n="115"
+          source="#Yaari">בכפר חארת׳, דרומית-מערבית לשכם</note> זכותו תגן עלינו, והוא מעט רחוק מעיר
+          <placeName ref="http://KIMA_310" cert="high">שכם</placeName> שתלך פעם בגבעות, כאמור: יעלו
+        הרים ירדו בקעות,<note n="116" source="#Yaari">תהלים ק״ד ח'</note> עד שתלך אליו. וראינו את
+        המערה שלו, ועליו אילן אחד, והתפללנו שם, ושמה בקירות המערה כתובים שמות ההולכים, וכתבנו גם
+        אנחנו שמותינו. וקרוב ליהושע ע״ה יש <placeName cert="unknown">מערה אחת</placeName>, ואומרים
+        שהוא <persName>נוּן אבי יהושע</persName>, ולמטה ממנו <placeName cert="unknown">מערת כלב בן
+          יפונה</placeName> ע״ה, כלם ב<placeName cert="unknown">תמנת סרח</placeName> בצפון
+          ל<placeName cert="unknown">הר געש</placeName>.</seg><seg> ומשם הלכנו ל<placeName cert="unknown">מערת
+          אלעזר ואיתמר</placeName> ע״ה, ואצלם <placeName cert="unknown">מערות לשבעים
+          זקנים</placeName>, וראינו אותם, והם קרובים לעיר <placeName ref="http://KIMA_310"
+          cert="high">שכם</placeName>. </seg><milestone unit="GeoNar20"/><seg>ומשם הלכנו ל<placeName
+          cert="unknown">מערת יוסף הצדיק</placeName> ע״ה</seg><seg> ואח״כ באנו למקום חניתנו, ועשינו <date>שבת
+          בי״ז בטבת, בפרשת „ויחי יעקב״</date>, בעיר <placeName ref="http://KIMA_310" cert="high"
+          >שכם</placeName>. ומדינת <placeName ref="http://KIMA_310" cert="high">שכם</placeName> מקום
+        מרעה לבהמות וארץ שמנה בפירותיה, ותבואתה מרובה, וסביבותיה גנות ופרדסים, ומעינות רבים מאד
+        מתוקים וצוננים. ואומרים כי שבעים מעינות, ונתקיים מאמר: וליוסף אמר מברכת יו״י ארצו.<note
+          n="117" source="#Yaari">דברים, ל״ג י״ג</note> וישבנו שם ששה ימים. </seg><milestone
+          unit="GeoNar21"/>ו<seg><date>אח״כ</date> נסענו והלכנו ל<placeName ref="http://DARE_33306"
+          cert="high">עין גִנִים</placeName>
+        <note n="118" source="#Yaari">צ״ל: ג'נין</note>.<fw type="pageNum">319</fw> הוא <placeName
+          ref="http://DARE_33306" cert="high">עין גנים</placeName>,</seg><seg> ומשם אל <placeName
+          cert="unknown">אֻיוּן טוּגָר</placeName>,<note n="119" source="#Yaari">.היא עיון א-תג'אר,
+          צפונית להר תבור, ונקראת Uyuni tucar בימינו: סוּק אל-כ׳אן. </note></seg><seg> ומשם אל <placeName
+          cert="unknown">עַין מִנְיֶיא</placeName>,<note n="120" source="#Yaari">Ayni Minye היא עין
+          אל-מניה בקרבת טאבגא על שפת ים כנרת. </note></seg><seg> ומשם אל <placeName ref="http://KIMA_21527"
+          cert="high">גשר יעקב</placeName> ע״ה.<note n="121" source="#Yaari">נקרא בימינו „ג'סר בנאת
+          יעקוּב" (גשר בנות יעקב)</note> ובדרך בין <placeName cert="unknown">מִנֶייא</placeName>
+        ובין <placeName ref="http://KIMA_21527" cert="high">גשר יעקב</placeName> יראה מקום
+          <placeName ref="http://KIMA_377" cert="high">צפת</placeName> ברדתך מעל ההר אשר על
+          הירדן.<note n="121*">ולא נכנסו לצפת, כי יהודי צפת לא היו  נותנים לקראים ללון בה, וזרח בן
+          נתן מטרוקי כותב בשנת 1637 : „שמעתי כי אחינו הרבנים יושבי ק״ק צפת אינם סובלים בלינת הקראים
+          בה״. </note></seg><seg> וריח טוב כריח בשמים הריח אפנו בעברנו במקומות אלה בין האילנות על שפת
+          <placeName cert="unknown">הירדן</placeName>, והיו אומרים לנו הערביים אשר עמנו הולכים
+          ל<placeName ref="http://KIMA_939" cert="high">דמשק</placeName>, היו אומרים: אלה מקומות בני
+        ישראל מקדמא דנא.<note n="122" source="#Yaari">מימי קדם</note></seg><seg> ועשינו שבת ב<placeName
+          ref="http://KIMA_21527" cert="high">גשר יעקב</placeName>
+        <date>בפרשת „ואלה שמות״</date>. ואומרים הישמעאלים: זה הוא הגשר שבנה יאָגוּפּ (יעקב) וכן בנה
+          „כָאן״<note n="123" source="#Yaari">מלון אורחים</note> אחד לאורחים. והראה לנו ישמעאל אחד
+          <placeName cert="unknown">בית</placeName> שנהרס ונהיה תל אבנים, אמר: זה הבית היה ליאָגוּפ
+        שהיה שוכן בו בימי החורף, ובימי הקיץ היה שוכן בעיר <placeName cert="unknown">צפת</placeName>.
+        ואמר: כך קבלנו מאבותינו, שאני אזרחי בארץ הזאת.</seg> <milestone unit="GeoNar22"/><seg>ומשם הלכנו אל
+          <placeName ref="http://DARE_28263" cert="high">קֻנֵיטְרָא</placeName>,<note n="124"
+          source="#Yaari">אל-קניטרא</note></seg><seg> ומשם אל <placeName ref="http://KIMA_27" cert="high"
+          >סַעְסַע</placeName>,<note n="125" source="#Yaari">בדרך אל-קניטרא— דמשק</note> ובכל מקום
+        שחנינו יש „כָאן״ ותבן ומספוא לבהמות ולחם ומזון לאנשים לקנות ולאכול.</seg> <seg>ומשם באנו למדינת <note
+          n="126" source="#Yaari">כלומר, לעיר.</note>
+        <placeName ref="http://KIMA_939" cert="high">דמשק</placeName> ב<date>יום ד׳, כ״ח לטבת
+          התט״ו</date>. <milestone unit="GeoNar23"/>ויצאו לקראתנו והקדימו אותנו בדרך רחוקה כה״ר
+          <persName>אליהו הנשיא</persName> יצ״ו וכה״ר <persName>דוד הנשיא הרופא</persName> יצ״ו,
+        ובחורים אחרים עמהם, והביאו לנו יין לשתות ורמונים, ותאנים, חבושים, ותפוחים, ודגים לאכול,
+        ושושנים להריח.</seg><seg> שמחנו עמהם שמחה יתרה והביאו אותנו בבית כ״ר <persName>ידיד הכהן</persName>
+        יצ״ו, איש עניו וחסיד, זקן ונשוא פנים, ידיד יו״י, ישכון לבטח, ולו בתים בבנינים טובים ויפים,
+        ונתנו לנו בית אחד לדור. ואליו בן יקיר, בחור נחמד, טוב עם יו״י ועם אנשים, שמו <persName>אליהו
+          הכהן יצ״ו, המכונה עבדול בקי</persName>, ולו בן רך ויחיד, שמו <persName>אברהם
+          הכהן</persName>, האל יחייהו ויאריך ימיו. וכל לילה ולילה היו באים הנכבדים <fw
+          type="pageNum">320</fw> אצלו והיו יושבים ושמחים עד ג׳ וד׳ שעות מן הלילה. ואכלנו ושתינו
+        בבית האיש הנ״ל כמה ימים בהשקט ובבטחה ובשמחה רבה, הש״י יחליף עליו.<note n="127"
+          source="#Yaari">כלומר, ישלם גמולו</note></seg><seg> וב<date>יום ג׳, ד׳ לחדש שבט</date>, תקן לנו כה״ר
+          <persName>אליהו פירוז</persName> סעודה גדולה עם הנכבדים, וכה״ר <persName>אבישי</persName>,
+        צדיק ירושלמי מק״ק <placeName ref="http://KIMA_533" cert="high">קוסטנטינה</placeName><note
+          n="128" source="#Yaari">קושטא</note><note
+          target="recogito-c2214cf3-86e4-4f34-945b-a3fb84e5ab81" resp="sinai">should be 128</note>
+        היה עמנו. והביא כ״ר אליהו פירוּז לנו מאכלים יקרים, ומימי שושנים הזיל בפנינו, וקטורת מרוקח
+        בבושם טוב הקטיר לפנינו.</seg><seg> והוליכו אותנו הנכבדים לפרדס של הקדש, והוא פרדס גדול מאד, ושמה כל
+        מיני אילנות וכל מיני ירקות ודשאים ונהרים עוברים בתוך הפרדס להשקות את הגן, ואכלנו ושתינו בתוך
+        הפרדס.</seg> <seg>והוליכו אותנו למערת <persName>גיחזי נער אלישע</persName>, וכן למקומות אחרים גנות
+        ופרדסים,</seg><seg> ביום א׳ לקַהוָא כָאנָא<note n="129" source="#Yaari">בית-קפה מזרקת-מים. mevlahane
+        </note> אחד. וביום אחר לקהוא כאנא אחר, אשר הם בבנינים נאים ויפים, ושַדִרְוָן<note n="130"
+          source="#Yaari">shadirvan</note> בתוכו ונהר עובר מתחתיו, והראו לנו מקום שיעשו המטבע ומקום
+        מצרף שיעבדו בו הישמעאלים מצרף לכסף, והראו לנו את כל סביבות דמשק.</seg><seg> וב<date>יום ד׳</date>
+        הוליכו אותנו למקום אחד שמו <placeName cert="unknown">מֵוְלָא כָאנא</placeName>,<note n="131"
+          source="#Yaari"> בית-דין דתי, והכוונה כנראה ל„מדרסה .menaret .סלימיה" שבנינה נשלם בשנת
+          1566</note> שבנה שם <persName>סולטן סלים</persName> מרגז<note n="131*"> לשון-גנאי למסגד
+        </note> אחד ועליו ב׳ „מִינָארֶא״,<note n="132" source="#Yaari"/> וכל העזרה מרצפת אבנים
+        טובות.</seg> <seg>והוליכו אותנו למקום אחד, שמו <placeName cert="unknown">טָכּיֶיא</placeName>,<note
+          n="133" source="#Yaari">נבנתה בפקודת הסולטאן סולימאן בשנת 1554</note> ושמה פרדס כל מיני
+        אילנות, ונהרות עוברות בתוכו, ושמחנו שמחה יתרה עם הגבירים, ישמחם <choice n="134"
+          source="#Yaari">
+          <abbr>הש״י</abbr>
+          <expan>השם יתברך</expan>
+        </choice> בביאת משיח צדקנו.</seg><seg> ולמקומות רבות הולכים אתנו כה״ר ר׳ דוד הרופא יצ״ו וכ״ר עבדול בקי
+        יצ״ו בן בעל הבית שלנו. והוליכו אותנו ג״כ למקום אחד שמו <placeName cert="unknown"
+          >גובאר</placeName>,<note n="135" source="#Yaari">ג'ובר. ועל הישוב היהודי בכפר זה עיין: י.
+          בן-צבי, שאר ישוב, חלק ב׳, תל-אביב תרצ״י, עמ׳ 121 ואילך</note> ושמה כְּנִסָה<note n="136"
+          source="#Yaari">בית כנסת</note> טובה. ויפה מאד, כמו שראינו ב<placeName cert="unknown"
+          >מצרים הישנה</placeName>, תבניתם אחת, ואומרים זו <placeName cert="unknown">כנסת אליהו
+          הנביא</placeName> זכור לטוב. ובתוך הכנסה מערה קטנה שתרד אליה במדרגות, והיא יפה מאד,
+        ומדליקים שמה נרות <fw type="pageNum">321</fw> עששיות תלויות בשמן זית, ושמה התפללנו עם
+        הבחורים והנכבדים מקהל דמשק אשר באו שמה עמנו, ונָתַנוּ מעות לשומר בית הכנסת הזה.</seg><seg> ואחר שיצאנו
+        מבית הכנסת ישבנו על שפת <placeName cert="unknown">נהר אמנה ופרפר</placeName>, ואכלנו ושתינו,
+        שהביאו הגבירים הנ״ל יין ותרנגולים וגבינה וכל מיני פירות, הש״י יכפיל שכרם.</seg><seg> וב<date>יום ג׳,
+          י״א לשבט</date>, היתה ברית מילה בקהל דמשק בבית אחד שמו <persName>יוסף לוי</persName>,
+        והביאו את הנער לבית הכנסת במזמורים נאותים לפני הקהל, ומל את הנער כה״ר דוד הנשיא הרופא
+        יצ״ו שבא הנה, ושמחנו שמחה יתרה עם <choice n="137" source="#Yaari">
+          <abbr>קק״ק</abbr>
+          <expan>קהל קדוש קראים</expan>
+        </choice> דמשק יצ״ו, האל ישמחם. </seg><seg>וישבנו בדמשק י״ג ימים. <milestone unit="GeoNar24"
+          />וב<date>יום ד׳, י״ב לשבט</date>, יצאנו מדמשק. ויצאו אחרינו כל אנשי קהל דמשק יצ״ו ולוו
+        אותנו עד גבול דמשק.</seg><seg> ועשינו <date>שבת</date> בכפר אחד שמו <placeName ref="GN_166111"
+          cert="high">קָרָאלַר</placeName>.<note n="138" source="#Yaari">Karalar או קארא, בדרך בין
+          דמשק לחמץ </note> וב<date>מוצאי שבת קדש</date> נתננו ד׳ כספים לד׳ אנשים אשר בידיהם כלי
+        זיין וטיפך,<note n="139" source="#Yaari">אולי צ״ל: וטי'פת משכורת ,(vazifet) </note> והוליכו
+        אותנו עד הכֶּרְוָון,<note n="140" source="#Yaari">Kervan שיירה</note> שהוא מקום פחד מאד
+        מהערביים. <date>בשבת „בשלח״</date> היינו בקראלר,</seg><seg> ו<date>בשבת „וישמע יתרו"</date> היינו
+          ב<placeName cert="unknown">זֶנבֶּקִי</placeName>.<note n="141" source="#Yaari">זמבקיה ליד
+          אנטיוכיה</note> נשארנו שם בכפר אחד, והלך הכֶּרְוָון, וב<date>מוצאי שבת</date> נתננו לג׳
+        אנשים כסף אחד והוליכו אותנו לכֶּרְוָון, כי היה הכֶּרְוָון במקום קרוב שהגענו אליהם בתוך ב׳
+        שעות. כי ביום ו׳ הלכנו הרבה לפני הכּרוון. וכן עשינו בקראלר, אבל שם דרך רחוקה.</seg><seg> ושבת „משפטים"
+        עשינו בכָאן אחד לפני <placeName ref="http://DARE_21246" cert="high">עַדַנא
+          </placeName>.<note n="142" source="#Yaari">Adana</note> ו<date>ביום ראשון</date> הלכנו
+        לעַדַנָא המדינה ונצלנו מהערביים.<note n="143" source="#Yaari">כי מכאן ואילך מתחיל שטח הדיבור
+          התורכי</note> ושלשה שבתות עשינו בדרך מיום צאתנו מדמשק עד באנו למדינת עדנא.</seg><seg> ו<date>שבת פרשה
+          „תרומה"</date> בכפר <placeName ref="GN_750751" cert="high"
+          >בֶּרֶכְֶּטְלִי</placeName>,<note n="144" source="#Yaari">Bereketly</note></seg><seg> ו<date>שבת פרשה
+          „תצוה"</date> עשינו בכפר <placeName cert="unknown">בטללר</placeName> עם המדיים,</seg><seg> ו<date>שבת
+          „כי תשא"</date> עשינו במדינת <placeName cert="unknown">צוֹרוּם</placeName>,<note n="145"
+          source="#Yaari">Corum</note></seg><seg> ו<date>שבת פרשה „ויקהל״</date> עשינו בכפר אחד קרוב
+          לסִינָאפּ.<note n="146" source="#Yaari">Sinop</note> ו<date>ביום ה׳, ב׳ לחדש ואדר</date>,
+        נכנסנו לעיר <placeName ref="http://KIMA_15670" cert="high">סינאפּ</placeName>, <fw
+          type="pageNum"> 322</fw> וישבנו שם כל חדש ואדר. עשינו ז׳ שבתות בדרך עד בואנו מדמשק
+          ל<placeName ref="http://KIMA_15670" cert="high">סינאפּ</placeName>. ו<date>שבת
+          „פקודי״</date>, <date>„ויקרא"</date> ו<date>„צו"</date> <date>„ויהי ביום השמיני"</date>
+        עשינו בעיר <placeName ref="http://KIMA_15670" cert="high">סינאפּ</placeName>,</seg> <seg>ו<date>שבת
+          אחת</date> ישבנו בספינה.<milestone unit="GeoNar25"/> ויצאנו ב<date>יום ב׳, ד׳
+        לניסן</date>, ממדינת <note n="147" source="#Yaari">מעיר</note>
+        <placeName ref="http://KIMA_15670" cert="high">סינאפּ</placeName>.</seg><seg> ונכנסנו ביום שבת לנמל
+          <placeName ref="http://KIMA_14307" cert="high">כפא</placeName><note n="148"
+          source="#Yaari">Kaffa אשר בקרים, נקראת כיום Feodosia</note>
+        <date>בעשור לחדש ניסן התט״ו</date>.</seg><seg> ובבקר ב<date>יום ראשון</date> כשנפתח השער באו כל אנשי
+        קהלתנו <choice n="149" source="#Yaari">
+          <abbr>קק״ק</abbr>
+          <expan>קהל קדוש קראים</expan>
+        </choice>
+        <placeName ref="http://KIMA_14307" cert="high">כפא</placeName> יצ״ו והביאו אותנו לביתנו
+        בשמחה ובכבוד גדול, האל ישמחם וינשאם למעלה למעלה ויזכו לראות פני משיח צדקנו .<choice n="150"
+          source="#Yaari">
+          <abbr>אכי״ר</abbr>
+          <expan>אמן כן יהי רצון</expan>
+        </choice> ברוך יו״י שהכניסנו בשלום והוציאנו בשלום, ושמרנו בכל הדרך אשר הלכנו ובכל העמים אשר
+        עברנו, ישתבח שמו הגדול אשר בטובו נהלנו, ובחסדו נחנו, ולא עשה לנו כחטאינו, ולא גמל לנו
+        כעונותינו, כי הוא גומל טובות לחייבים ומשביע רעבים, שומר פתאים ומחזיק ידי דלים ואביונים,
+        [גדול] שמו ברוך הוא וברוך שמו, כי לא נכזבה תוחלתנו, ברוך שעזרנו וסייענו ובדרך אמת הנהיגנו,
+        ברוך יו״ו לעולם אמן ואמן. נשלם סדר המסעות ע״י דך ונכלם <persName>משה לוי
+          הצעיר</persName><note n="151" source="#Yaari"><abbr> באאכ״ר ז״ל</abbr><expan>בן אדוני אבי
+            כבוד רבי [אליהו] זכרונו לברכה בן אדוני אבי כבוד רבי [אליהו] זכרונו לברכה</expan></note>
+        ביום <date>ג׳ י״ג אלול שנת ואני בקול תודה אזבחה לך ליצירה לפ״ק</date>.<note n="152"
+          source="#Yaari">תודה בגימטריה תט״ו (1655)</note></seg></ab>
+    </body>
+  </text>
+</TEI>
