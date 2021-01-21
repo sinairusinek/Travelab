@@ -11,13 +11,13 @@ It was OCR'd and corrected using Transkribus.
 | --- | --- |
 | correcting quotation|  |
 | English: merging end of line hyphenations |  |
-| splitting to sentences |  (using regex in BB-EDIT) in the Hebrew, the colon was used to express end of sentences and the dot was used to separate clauses (as we use comma)|
-| tokenization | (using Open Refine) |
-| Hebrew placename segmentation | in order to |
+| splitting to sentences/clauses |  (using regex in BB-EDIT) in the Hebrew, the colon was used to express end of paragraph-like sentences and the dot was used to separate short sentences or clauses (similar to the way we use comma or semi-colons). I chose to segment to the smaller units which are still syntactically independent|
+| tokenization | (using Open Refine, preserving punctuation as well as (for now) page number) |
 
 
 ## Warnings/Quirks
 - [list of warnings/quirks/NB items] 
+| Hebrew placename segmentation | in order to cite a place name, a string like ומתורגמה will have to be further segmented to: ו (which means "and"), מ (which means "from" and תוגרמה which is the name for the Ottoman area. Can we/should we segment only the placenames?|
 
 
 
