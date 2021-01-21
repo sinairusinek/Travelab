@@ -1,6 +1,6 @@
 # Petachia's journey to CITE-land
 
-### source
+## source
 
 Both text files originated in a [Google books scan](https://books.google.co.il/books?id=M_EoAAAAYAAJ&dq=petachia+of+regensburg&source=gbs_navlinks_s) of the London edition, published by Messrs. Trubner & Company, 1856. This edition is bi-lingual, with facing pages in Hebrew and in the English translation, by A. Benisch.
 It was OCR'd and corrected using Transkribus.
@@ -16,7 +16,7 @@ It was OCR'd and corrected using Transkribus.
 
 
 ## Questions
- Hebrew placename segmentation: the problems of prefixes
+* Hebrew placename segmentation: the problems of prefixes
 In order to cite a toponym, a string like ומתורגמה will have to be further segmented to: ו (which means "and"), מ (which means "from") and תוגרמה which is the toponym for the Ottoman area. Can we/should we segment only these strings?
 * should the English and Hebrew versions have the same citation schema to begin with?
 
