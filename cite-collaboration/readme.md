@@ -1,26 +1,20 @@
 # Petachia's journey to CITE-land
 Towards a collaborative workshop
-Jump to [Source Project](#source-project) | [Version](#version) | [File Format](#file-format) | [Fields](#fields) | [Warnings/Quirks](#warningsquirks)
+Jump to [Source](#source) | [processing](#processing) |[Warnings/Quirks](#warningsquirks)
 
-## in this repository you will find:
-### [[Petachia]](#)
-[where the dataset comes from, other places it is available, what has been done to it]
+### [[source]](#)
 
-## Version
-### [version number]
-[link to versioned data source (if applicable), comments about any post-processing]
+Both text files originated in a [Google books scan](https://books.google.co.il/books?id=M_EoAAAAYAAJ&dq=petachia+of+regensburg&source=gbs_navlinks_s) of the London edition, published by Messrs. Trubner & Company, 1856. This edition is bi-lingual, with facing pages in Hebrew and in the English translation, by A. Benisch.
+It was OCR'd and corrected using Transkribus.
 
-## File Format
-Linked Places TSV (LP-TSV) v0.2 (see [LP-TSV documentation](https://github.com/LinkedPasts/linked-places/blob/master/tsv_0.2.md))
 
-## Fields
-Here is how we use the LP-TSV fields.
+## processing
 | field | description |
 | --- | --- |
-| id |  |
-| title |  |
-| description |  |
-| variants |  |
+| correcting quotation|  |
+| English: merging end of line hyphenations |  |
+| splitting to sentences |  in Hebrew, the dot was used as we use comma and colon to express end of sentences|
+| tokenization |  |
 | types |  |
 | matches |  |
 | start |  |
@@ -33,4 +27,3 @@ Here is how we use the LP-TSV fields.
 
 
 
-Also see [the general README](https://github.com/Hist-ME/URIs/blob/master/README.md) for this repo.
