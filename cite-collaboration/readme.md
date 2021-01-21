@@ -7,12 +7,13 @@ It was OCR'd and corrected using Transkribus.
 
 
 ## processing
-| action | elaboration |
+| file | actions |
 | --- | --- |
 | correcting quotation|  |
 | English: merging end of line hyphenations |  |
-| splitting to sentences |  in Hebrew, the dot was used as we use comma and colon to express end of sentences|
-| tokenization |  |
+| splitting to sentences |  (using regex in BB-EDIT) in the Hebrew, the colon was used to express end of sentences and the dot was used to separate clauses (as we use comma)|
+| tokenization | (using Open Refine) |
+| Hebrew placename segmentation | in order to |
 
 
 ## Warnings/Quirks
