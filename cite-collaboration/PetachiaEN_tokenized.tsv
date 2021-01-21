@@ -15,7 +15,6 @@ index	text	sentence	token
 		1	the
 		1	countries
 		1	.
-		1	
 2	He set out from Prague, which is in Bohemia, going to Poland, from Poland to Kieff in Russia, and from Russia he went in six days to the river Dnieper.	2	He
 		2	set
 		2	out
@@ -51,7 +50,6 @@ index	text	sentence	token
 		2	river
 		2	Dnieper
 		2	.
-		2	
 3	On the other side of the river he commenced his travels in the land of Kedar.1	3	On
 		3	the
 		3	other
@@ -108,7 +106,6 @@ index	text	sentence	token
 		4	all
 		4	luggage
 		4	.
-		4	
 5	They then tie the thong, on the border of the hides, to the tails of the horses, which swim, and thus they pass over the water.	5	They
 		5	then
 		5	tie
@@ -140,7 +137,6 @@ index	text	sentence	token
 		5	the
 		5	water
 		5	.
-		5	
 6	They eat no bread in the land of Kedar, but rice and millet boiled in milk, as well as milk and cheese.	6	They
 		6	eat
 		6	no
@@ -166,7 +162,6 @@ index	text	sentence	token
 		6	and
 		6	cheese
 		6	.
-		6	
 7	They also put pieces of flesh under the saddle of a horse, which they ride, and, urging on the animal, cause it to sweat.	7	They
 		7	also
 		7	put
@@ -196,7 +191,6 @@ index	text	sentence	token
 		7	to
 		7	sweat
 		7	.
-		7	
 8	The flesh getting warm, they eat it.	8	The
 		8	flesh
 		8	getting
@@ -206,7 +200,6 @@ index	text	sentence	token
 		8	eat
 		8	it
 		8	.
-		8	
 9	They only travel in the land of Kedar under escort.	9	They
 		9	only
 		9	travel
@@ -218,7 +211,6 @@ index	text	sentence	token
 		9	under
 		9	escort
 		9	.
-		9	
 10	This is the manner in which the sons of Kedar pledge their faith to each other. 	10	This
 		10	is
 		10	the
@@ -236,7 +228,6 @@ index	text	sentence	token
 		10	each
 		10	other
 		10	.
-		10	
 11	One thrusts a needle into his finger, and invites the intended companion of his journey to swallow the blood of the wounded finger.	11	One
 		11	thrusts
 		11	a
@@ -262,7 +253,6 @@ index	text	sentence	token
 		11	wounded
 		11	finger
 		11	.
-		11	
 12	He then becomes, with the person, as it were the same blood and flesh.	12	He
 		12	then
 		12	becomes
@@ -280,7 +270,6 @@ index	text	sentence	token
 		12	and
 		12	flesh
 		12	.
-		12	
 13	There is also another mode of taking an oath.	13	There
 		13	is
 		13	also
@@ -291,7 +280,6 @@ index	text	sentence	token
 		13	an
 		13	oath
 		13	.
-		13	
 14	They fill a vessel of cast copper of the shape of a human face, then the traveller and his escorter drink thereout, after which he never proves faithless to him.	14	They
 		14	fill
 		14	a
@@ -325,7 +313,6 @@ index	text	sentence	token
 		14	to
 		14	him
 		14	.
-		14	
 15	They have no king, but only princes and (noble) families.	15	They
 		15	have
 		15	no
@@ -340,7 +327,6 @@ index	text	sentence	token
 		15	)
 		15	families
 		15	.
-		15	
 16	Rabbi Petachia passed through the land of Kedar in its breadth in sixteen days.	16	Rabbi
 		16	Petachia
 		16	passed
@@ -356,7 +342,6 @@ index	text	sentence	token
 		16	sixteen
 		16	days
 		16	.
-		16	
 17	The inhabitants live in tents, they are far-sighted, and have beautiful eyes, because they eat no salt and enjoy fragrant plants.	17	The
 		17	inhabitants
 		17	live
@@ -382,7 +367,6 @@ index	text	sentence	token
 		17	fragrant
 		17	plants
 		17	.
-		17	
 18	They are good archers, bringing down the bird whilst on the wing.	18	They
 		18	are
 		18	good
@@ -397,7 +381,6 @@ index	text	sentence	token
 		18	the
 		18	wing
 		18	.
-		18	
 19	They perceive and recognise (objects) at more than a day’s distance.	19	They
 		19	perceive
 		19	and
@@ -412,7 +395,6 @@ index	text	sentence	token
 		19	day’s
 		19	distance
 		19	.
-		19	
 20	There are are no mountains in their country, but all is level.	20	There
 		20	are
 		20	are
@@ -427,7 +409,6 @@ index	text	sentence	token
 		20	is
 		20	level
 		20	.
-		20	
 21	And a day’s journey behind the land of Kedar extends a gulf2 intervening between the land of Kedar and the land of Chazaria.3	21	And
 		21	a
 		21	day’s
@@ -475,7 +456,6 @@ index	text	sentence	token
 		22	and
 		22	mothers
 		22	.
-		22	
 23	This they continue until any of their sons or daughters or other members of the family die, and the last lament those that preceded them in death.	23	This
 		23	they
 		23	continue
@@ -505,14 +485,12 @@ index	text	sentence	token
 		23	in
 		23	death
 		23	.
-		23	
 24	They teach their daughters' lamentations.	24	They
 		24	teach
 		24	their
 		24	daughters'
 		24	lamentations
 		24	.
-		24	
 25	In the night they groan and howl.	25	In
 		25	the
 		25	night
@@ -521,7 +499,6 @@ index	text	sentence	token
 		25	and
 		25	howl
 		25	.
-		25	
 26	The dogs also whine and bark at their voice.	26	The
 		26	dogs
 		26	also
@@ -532,7 +509,6 @@ index	text	sentence	token
 		26	their
 		26	voice
 		26	.
-		26	
 27	He then travelled about eight days, and at the extremity of the land of Chazaria seventeen rivers4 surrounding it unite, and whoever wishes to undertake a distant journey repairs hither.5	27	He
 		27	then
 		27	travelled
@@ -605,7 +581,6 @@ index	text	sentence	token
 		28	offensive
 		28	smell
 		28	.
-		28	
 29	There is about a day’s journey between the two seas.	29	There
 		29	is
 		29	about
@@ -617,7 +592,6 @@ index	text	sentence	token
 		29	two
 		29	seas
 		29	.
-		29	
 30	If any individual passed the stinky sea, he would die immediately.	30	If
 		30	any
 		30	individual
@@ -631,7 +605,6 @@ index	text	sentence	token
 		30	die
 		30	immediately
 		30	.
-		30	
 31	When the wind blows from the stinky sea to that not emitting any offensive smell many die.	31	When
 		31	the
 		31	wind
@@ -650,7 +623,6 @@ index	text	sentence	token
 		31	many
 		31	die
 		31	.
-		31	
 32	People only go there when the wind blows in a different direction.7	32	People
 		32	only
 		32	go
@@ -690,7 +662,6 @@ index	text	sentence	token
 		34	of
 		34	Mahomet
 		34	.
-		34	
 35	From Togarma he entered the country of Ararat.	35	From
 		35	Togarma
 		35	he
@@ -700,7 +671,6 @@ index	text	sentence	token
 		35	of
 		35	Ararat
 		35	.
-		35	
 36	In eight days he journeyed as far as Nisibis, leaving the high mountains of Ararat9 at the right.	36	In
 		36	eight
 		36	days
@@ -722,7 +692,6 @@ index	text	sentence	token
 		36	the
 		36	right
 		36	.
-		36	
 37	In the land of Kedar there are no Jews, only heretics.10	37	In
 		37	the
 		37	land
@@ -755,8 +724,7 @@ index	text	sentence	token
 		38	the
 		38	sages
 		38	?
-39	 They replied, Because our fathers did not teach them to us.	39	
-		39	They
+39	 They replied, Because our fathers did not teach them to us.	39	They
 		39	replied
 		39	,
 		39	Because
@@ -769,7 +737,6 @@ index	text	sentence	token
 		39	to
 		39	us
 		39	.
-		39	
 40	On the eve of Sabbath they cut all the bread which they eat on Sabbath.	40	On
 		40	the
 		40	eve
@@ -786,7 +753,6 @@ index	text	sentence	token
 		40	on
 		40	Sabbath
 		40	.
-		40	
 41	They eat in the dark, and sit the whole day on one spot.	41	They
 		41	eat
 		41	in
@@ -802,7 +768,6 @@ index	text	sentence	token
 		41	one
 		41	spot
 		41	.
-		41	
 42	Their prayers consist only of psalms.	42	Their
 		42	prayers
 		42	consist
@@ -810,7 +775,6 @@ index	text	sentence	token
 		42	of
 		42	psalms
 		42	.
-		42	
 43	And when Rabbi Petachia imparted to them our ritual and prayer after meals9 they were pleased.	43	And
 		43	when
 		43	Rabbi
@@ -829,7 +793,6 @@ index	text	sentence	token
 		43	were
 		43	pleased
 		43	.
-		43	
 44	Thev also said, We have never heard what the Talmud is.	44	Thev
 		44	also
 		44	said
@@ -843,7 +806,6 @@ index	text	sentence	token
 		44	Talmud
 		44	is
 		44	.
-		44	
 45	In the land of Ararat he travelled in the mountains of Ararat as far as Nisibis and the city of Chosen Capha11 (that is, Strength of a Great Rock).	45	In
 		45	the
 		45	land
@@ -878,7 +840,6 @@ index	text	sentence	token
 		45	Rock
 		45	)
 		45	.
-		45	
 46	At the extremity of the mountains of Ararat he travelled two days to the opposite side.	46	At
 		46	the
 		46	extremity
@@ -896,7 +857,6 @@ index	text	sentence	token
 		46	opposite
 		46	side
 		46	.
-		46	
 47	At Nisibis there is a large congregation, also the synagogue of Rabbi Yehudah, son of Bethera, and two synagogues which Esdra the scribe built.12	47	At
 		47	Nisibis
 		47	there
@@ -954,7 +914,6 @@ index	text	sentence	token
 		48	the
 		48	Temple
 		48	.
-		48	
 49	From Nisibis and further extends the land of Assur.	49	From
 		49	Nisibis
 		49	and
@@ -965,7 +924,6 @@ index	text	sentence	token
 		49	of
 		49	Assur
 		49	.
-		49	
 50	Chazaria has a language of its own; Togarma has a language of its own (they pay tribute to the King of Greece13); and Kedar has a language of its own.	50	Chazaria
 		50	has
 		50	a
@@ -1002,7 +960,6 @@ index	text	sentence	token
 		50	its
 		50	own
 		50	.
-		50	
 51	From Nisibis he went in three days to New Nineveh.14	51	From
 		51	Nisibis
 		51	he
@@ -1022,7 +979,6 @@ index	text	sentence	token
 		52	before
 		52	Nineveh
 		52	.
-		52	
 53	On the other side of the river he went a journey of three days in a different direction; there is Old Nineveh, which is desolate.	53	On
 		53	the
 		53	other
@@ -1051,7 +1007,6 @@ index	text	sentence	token
 		53	is
 		53	desolate
 		53	.
-		53	
 54	The whole land of Nineveh is black like pitch.	54	The
 		54	whole
 		54	land
@@ -1062,7 +1017,6 @@ index	text	sentence	token
 		54	like
 		54	pitch
 		54	.
-		54	
 55	"The site of Nineveh Proper, where a forest was, is overturned like Sodom."" There is there neither herb nor any vegetation whatever."	55	The
 		55	site
 		55	of
@@ -1090,7 +1044,6 @@ index	text	sentence	token
 		55	vegetation
 		55	whatever
 		55	.
-		55	
 56	New Nineveh, opposite, is on the other side of the river.	56	New
 		56	Nineveh
 		56	,
@@ -1105,7 +1058,6 @@ index	text	sentence	token
 		56	the
 		56	river
 		56	.
-		56	
 57	At New Nineveh is a large congregation numbering more than six thousand souls.	57	At
 		57	New
 		57	Nineveh
@@ -1120,13 +1072,11 @@ index	text	sentence	token
 		57	thousand
 		57	souls
 		57	.
-		57	
 58	It has two princes.	58	It
 		58	has
 		58	two
 		58	princes
 		58	.
-		58	
 59	The name of the one is Rabbi David, and of the other Rabbi Samuel.	59	The
 		59	name
 		59	of
@@ -1143,7 +1093,6 @@ index	text	sentence	token
 		59	Rabbi
 		59	Samuel
 		59	.
-		59	
 60	They are sons of two brothers, and of the seed of King David.	60	They
 		60	are
 		60	sons
@@ -1159,7 +1108,6 @@ index	text	sentence	token
 		60	King
 		60	David
 		60	.
-		60	
 61	Everyone pays11 there annually a gold florin; of that coming from the Jews half belongs to the king sultan (whom they do not call king, but sultan), who stands under the King of Babel.16	61	Everyone
 		61	pays
 		61	11
@@ -1219,7 +1167,6 @@ index	text	sentence	token
 		62	and
 		62	vineyards
 		62	.
-		62	
 63	In those countries there are no precentors ;17 nor have they any in the land of Persia, Media and Damascus.	63	In
 		63	those
 		63	countries
@@ -1243,7 +1190,6 @@ index	text	sentence	token
 		63	and
 		63	Damascus
 		63	.
-		63	
 64	But among the household of the princes there are many disciples of the wise.	64	But
 		64	among
 		64	the
@@ -1259,7 +1205,6 @@ index	text	sentence	token
 		64	the
 		64	wise
 		64	.
-		64	
 65	Sometimes they call upon this, and sometimes upon the other, to say the prayers.	65	Sometimes
 		65	they
 		65	call
@@ -1277,7 +1222,6 @@ index	text	sentence	token
 		65	the
 		65	prayers
 		65	.
-		65	
 66	The prince has also a prison, wherein he locks up the wicked.18	66	The
 		66	prince
 		66	has
@@ -1319,7 +1263,6 @@ index	text	sentence	token
 		67	him
 		67	up
 		67	.
-		67	
 68	R. Petachia fell sick at Nineveh, and the king’s physicians said that he would not live.	68	R
 		68	.
 		68	Petachia
@@ -1339,7 +1282,6 @@ index	text	sentence	token
 		68	not
 		68	live
 		68	.
-		68	
 69	It is customary there that when a travelling Jew dies, the sultan takes half of his property ; and because R. Petachia was dressed in beautiful clothes they thought that he was rich; therefore the scribes of the sultan were there to take possession of the property, should he die.	69	It
 		69	is
 		69	customary
@@ -1395,7 +1337,6 @@ index	text	sentence	token
 		69	he
 		69	die
 		69	.
-		69	
 70	But R. Petachia gave directions, sick as he was, to carry him over the river Tigris.	70	But
 		70	R
 		70	.
@@ -1416,7 +1357,6 @@ index	text	sentence	token
 		70	river
 		70	Tigris
 		70	.
-		70	
 71	The river is broad, and not crossed over in boats, for the river is swift and impetuous, and would upset the boat.	71	The
 		71	river
 		71	is
@@ -1443,7 +1383,6 @@ index	text	sentence	token
 		71	the
 		71	boat
 		71	.
-		71	
 72	Therefore they make rafts of reeds, which are called floss,20 upon which they put man and luggage.	72	Therefore
 		72	they
 		72	make
@@ -1465,7 +1404,6 @@ index	text	sentence	token
 		72	and
 		72	luggage
 		72	.
-		72	
 73	The waters being healthy, he recovered immediately.	73	The
 		73	waters
 		73	being
@@ -1475,7 +1413,6 @@ index	text	sentence	token
 		73	recovered
 		73	immediately
 		73	.
-		73	
 74	At Nineveh there was an elephant.	74	At
 		74	Nineveh
 		74	there
@@ -1483,7 +1420,6 @@ index	text	sentence	token
 		74	an
 		74	elephant
 		74	.
-		74	
 75	Its head is not at all protruding.	75	Its
 		75	head
 		75	is
@@ -1492,7 +1428,6 @@ index	text	sentence	token
 		75	all
 		75	protruding
 		75	.
-		75	
 76	It is big, eats about two waggon loads of straw at once; its mouth is in its breast, and when it wants to eat it protrudes its lips about two cubits, takes up with it the straw, and puts it into its mouth.	76	It
 		76	is
 		76	big
@@ -1542,7 +1477,6 @@ index	text	sentence	token
 		76	its
 		76	mouth
 		76	.
-		76	
 77	When the sultan condemns anybody to death, they say to the elephant, This person is guilty.	77	When
 		77	the
 		77	sultan
@@ -1562,7 +1496,6 @@ index	text	sentence	token
 		77	is
 		77	guilty
 		77	.
-		77	
 78	It then seizes him with its lip, casts him aloft, and kills him.	78	It
 		78	then
 		78	seizes
@@ -1579,7 +1512,6 @@ index	text	sentence	token
 		78	kills
 		78	him
 		78	.
-		78	
 79	Whatever a human being performs with his hand it performs with its lip; this is exceedingly strange and marvellous.	79	Whatever
 		79	a
 		79	human
@@ -1601,7 +1533,6 @@ index	text	sentence	token
 		79	and
 		79	marvellous
 		79	.
-		79	
 80	Upon the elephant is the structure of a city,21 upon which there are twelve armed warriors; when it stretches forth its lip they ascend as over a bridge.	80	Upon
 		80	the
 		80	elephant
@@ -1634,7 +1565,6 @@ index	text	sentence	token
 		80	a
 		80	bridge
 		80	.
-		80	
 81	At Nineveh there was an astrologer whose name was R. Shelomoh.	81	At
 		81	Nineveh
 		81	there
@@ -1648,7 +1578,6 @@ index	text	sentence	token
 		81	.
 		81	Shelomoh
 		81	.
-		81	
 82	There is among all the sages in Nineveh, and the land of Assur, none as expert in the planets as he.	82	There
 		82	is
 		82	among
@@ -1673,7 +1602,6 @@ index	text	sentence	token
 		82	as
 		82	he
 		82	.
-		82	
 83	R. Petachia asked him when Messiah would come.	83	R
 		83	.
 		83	Petachia
@@ -1684,7 +1612,6 @@ index	text	sentence	token
 		83	would
 		83	come
 		83	.
-		83	
 84	He replied, I have seen this often distinctly in the planets.	84	He
 		84	replied
 		84	,
@@ -1698,7 +1625,6 @@ index	text	sentence	token
 		84	the
 		84	planets
 		84	.
-		84	
 85	But Rabbi Yehudah, the Pious, would not write it down, lest he should be suspected as a believer in the words of Rabbi Shelomoh.22	85	But
 		85	Rabbi
 		85	Yehudah
@@ -1761,14 +1687,12 @@ index	text	sentence	token
 		86	in
 		86	Babel
 		86	.
-		86	
 87	The journey takes one month.	87	The
 		87	journey
 		87	takes
 		87	one
 		87	month
 		87	.
-		87	
 88	From Nineveh, and further on, there are congregations in every city and village.	88	From
 		88	Nineveh
 		88	,
@@ -1785,7 +1709,6 @@ index	text	sentence	token
 		88	and
 		88	village
 		88	.
-		88	
 89	He came to a garden of the head of the academy.	89	He
 		89	came
 		89	to
@@ -1798,7 +1721,6 @@ index	text	sentence	token
 		89	the
 		89	academy
 		89	.
-		89	
 90	In the garden there are all kinds of fruit.	90	In
 		90	the
 		90	garden
@@ -1809,7 +1731,6 @@ index	text	sentence	token
 		90	of
 		90	fruit
 		90	.
-		90	
 91	The garden is very large, there are mandrakes25 in it.	91	The
 		91	garden
 		91	is
@@ -1823,7 +1744,6 @@ index	text	sentence	token
 		91	in
 		91	it
 		91	.
-		91	
 92	They have the face of a human being, their foliage is broad.	92	They
 		92	have
 		92	the
@@ -1838,7 +1758,6 @@ index	text	sentence	token
 		92	is
 		92	broad
 		92	.
-		92	
 93	From thence he went, in one day, to Bagdad, in Babylon.	93	From
 		93	thence
 		93	he
@@ -1854,7 +1773,6 @@ index	text	sentence	token
 		93	in
 		93	Babylon
 		93	.
-		93	
 94	Nobody ascends the river Tigris, because its waters are swift and impetuous, but they employ camels and mules on dry land, tying the inflated skins on the backs of the camels.26	94	Nobody
 		94	ascends
 		94	the
@@ -1896,7 +1814,6 @@ index	text	sentence	token
 		95	a
 		95	metropolis
 		95	.
-		95	
 96	It is the seat of the khaliph the sultan.	96	It
 		96	is
 		96	the
@@ -1907,7 +1824,6 @@ index	text	sentence	token
 		96	the
 		96	sultan
 		96	.
-		96	
 97	This is the great king who rules and governs nations.27	97	This
 		97	is
 		97	the
@@ -1935,7 +1851,6 @@ index	text	sentence	token
 		98	to
 		98	end
 		98	.
-		98	
 99	Its circuit is more than three days’ journey.28	99	Its
 		99	circuit
 		99	is
@@ -1957,7 +1872,6 @@ index	text	sentence	token
 		100	thousand
 		100	Jews
 		100	.
-		100	
 101	They walk about wrapped in cloths.	101	They
 		101	walk
 		101	about
@@ -1965,7 +1879,6 @@ index	text	sentence	token
 		101	in
 		101	cloths
 		101	.
-		101	
 102	Nobody sees there any woman, nor does anybody go into the house of his friend, lest he should see the wife of his neighbour.	102	Nobody
 		102	sees
 		102	there
@@ -1993,7 +1906,6 @@ index	text	sentence	token
 		102	his
 		102	neighbour
 		102	.
-		102	
 103	He would immediately say unto him, Insolent man, wherefore art thou come ? 	103	He
 		103	would
 		103	immediately
@@ -2009,7 +1921,6 @@ index	text	sentence	token
 		103	thou
 		103	come
 		103	?
-		103	
 104	But he knocks with a tin (knocker), when the other comes forth and speaks to him.	104	But
 		104	he
 		104	knocks
@@ -2030,7 +1941,6 @@ index	text	sentence	token
 		104	to
 		104	him
 		104	.
-		104	
 105	They are all wrapped in praying scarfs of wool with fringes, in which they walk about.29	105	They
 		105	are
 		105	all
@@ -2100,14 +2010,12 @@ index	text	sentence	token
 		107	of
 		107	Egypt
 		107	.
-		107	
 108	Nothing is hidden from him.	108	Nothing
 		108	is
 		108	hidden
 		108	from
 		108	him
 		108	.
-		108	
 109	He knows the names,31 and is profoundly versed in the Talmud.	109	He
 		109	knows
 		109	the
@@ -2122,7 +2030,6 @@ index	text	sentence	token
 		109	the
 		109	Talmud
 		109	.
-		109	
 110	There is no one so ignorant in the whole of Babylon, Assyria, Media, and Persia, but he knows the twenty-four books, the punctuation, the grammar, the superfluous and omitted letters, for the precentor does not read the law, but he that is called up to the scroll of the law reads himself.32	110	There
 		110	is
 		110	no
@@ -2215,7 +2122,6 @@ index	text	sentence	token
 		111	well
 		111	informed
 		111	.
-		111	
 112	But before they are ripe for the academy they study in the city under other teachers, and when ripe they are brought before the head of the academy.	112	But
 		112	before
 		112	they
@@ -2246,7 +2152,6 @@ index	text	sentence	token
 		112	the
 		112	academy
 		112	.
-		112	
 113	The head of the captivity is Rabbi Elieser, and under him is the head of the academy.	113	The
 		113	head
 		113	of
@@ -2266,7 +2171,6 @@ index	text	sentence	token
 		113	the
 		113	academy
 		113	.
-		113	
 114	The head of the academy occupies a large house, which is covered with tapestry; he himself is clothed in garments adorned with gold.	114	The
 		114	head
 		114	of
@@ -2293,7 +2197,6 @@ index	text	sentence	token
 		114	with
 		114	gold
 		114	.
-		114	
 115	He sits above, whilst the disciples are sitting on the ground.	115	He
 		115	sits
 		115	above
@@ -2307,7 +2210,6 @@ index	text	sentence	token
 		115	the
 		115	ground
 		115	.
-		115	
 116	He discourses to the interpreter, and the interpreter to the disciples.	116	He
 		116	discourses
 		116	to
@@ -2321,7 +2223,6 @@ index	text	sentence	token
 		116	the
 		116	disciples
 		116	.
-		116	
 117	The disciples address their queries to the interpreter,33 and if the interpreter does not know anything, he addresses himself to the head of the academy.	117	The
 		117	disciples
 		117	address
@@ -2351,7 +2252,6 @@ index	text	sentence	token
 		117	the
 		117	academy
 		117	.
-		117	
 118	An interpreter expounds a treatise34 on one side, and another interpreter expounds another treatise on another side.	118	An
 		118	interpreter
 		118	expounds
@@ -2372,7 +2272,6 @@ index	text	sentence	token
 		118	another
 		118	side
 		118	.
-		118	
 119	The whole study is with an intonation,35 and after the delivery he expounds it to them.	119	The
 		119	whole
 		119	study
@@ -2392,7 +2291,6 @@ index	text	sentence	token
 		119	to
 		119	them
 		119	.
-		119	
 120	A year before the arrival of Rabbi Petachia, Rabbi Daniel, the head of the captivity, died.	120	A
 		120	year
 		120	before
@@ -2413,7 +2311,6 @@ index	text	sentence	token
 		120	,
 		120	died
 		120	.
-		120	
 121	He is a higher authority than the head of the academy.	121	He
 		121	is
 		121	a
@@ -2426,7 +2323,6 @@ index	text	sentence	token
 		121	the
 		121	academy
 		121	.
-		121	
 122	They all possess a book of genealogy, up to the founders of the tribes; Rabbi Daniel descended from the house of David.	122	They
 		122	all
 		122	possess
@@ -2452,7 +2348,6 @@ index	text	sentence	token
 		122	of
 		122	David
 		122	.
-		122	
 123	The monarch does not appoint a head of the captivity, save at the recommendation of the principal men among the Jews.	123	The
 		123	monarch
 		123	does
@@ -2476,7 +2371,6 @@ index	text	sentence	token
 		123	the
 		123	Jews
 		123	.
-		123	
 124	There is no one there eligible to be head of the captivity, except the two princes of the house of David, and some of the principal men prefer Rabbi David, and some Rabbi Samuel.36	124	There
 		124	is
 		124	no
@@ -2525,7 +2419,6 @@ index	text	sentence	token
 		125	an
 		125	understanding
 		125	.
-		125	
 126	They are19 both of the disciples of the wise.	126	They
 		126	are
 			19
@@ -2537,7 +2430,6 @@ index	text	sentence	token
 		126	the
 		126	wise
 		126	.
-		126	
 127	Rabbi Daniel had no sons, only daughters.	127	Rabbi
 		127	Daniel
 		127	had
@@ -2547,7 +2439,6 @@ index	text	sentence	token
 		127	only
 		127	daughters
 		127	.
-		127	
 128	Rabbi Samuel has a book of genealogy going back as far as Samuel the Ramathean, son of Elkanah.	128	Rabbi
 		128	Samuel
 		128	has
@@ -2568,7 +2459,6 @@ index	text	sentence	token
 		128	of
 		128	Elkanah
 		128	.
-		128	
 129	He has no sons, but only one daughter.	129	He
 		129	has
 		129	no
@@ -2579,7 +2469,6 @@ index	text	sentence	token
 		129	one
 		129	daughter
 		129	.
-		129	
 130	She is expert in the Scripture and Talmud.	130	She
 		130	is
 		130	expert
@@ -2589,7 +2478,6 @@ index	text	sentence	token
 		130	and
 		130	Talmud
 		130	.
-		130	
 131	She gives instruction in Scripture to young men, through a window.	131	She
 		131	gives
 		131	instruction
@@ -2603,7 +2491,6 @@ index	text	sentence	token
 		131	a
 		131	window
 		131	.
-		131	
 132	She, herself, is within the building, whilst the disciples are below outside, and do not see her.	132	She
 		132	,
 		132	herself
@@ -2626,7 +2513,6 @@ index	text	sentence	token
 		132	see
 		132	her
 		132	.
-		132	
 133	In all the land of Assyria and Damascus, in the cities of Persia and Media, as well as in the land of Babel, they have no other judge, unless appointed by Rabbi Samuel, the head of the academy.	133	In
 		133	all
 		133	the
@@ -2671,7 +2557,6 @@ index	text	sentence	token
 		133	the
 		133	academy
 		133	.
-		133	
 134	It is he that gives license in every city to judge and to teach.	134	It
 		134	is
 		134	he
@@ -2687,7 +2572,6 @@ index	text	sentence	token
 		134	to
 		134	teach
 		134	.
-		134	
 135	His authority is acknowledged in all countries, and also in the land of Israel.37	135	His
 		135	authority
 		135	is
@@ -2727,7 +2611,6 @@ index	text	sentence	token
 		136	of
 		136	rods
 		136	.
-		136	
 137	After the leaving of the disciples, the elders derive instruction from him in the science of the planets, and other branches of knowledge.	137	After
 		137	the
 		137	leaving
@@ -2754,7 +2637,6 @@ index	text	sentence	token
 		137	of
 		137	knowledge
 		137	.
-		137	
 138	There are large cities in the land of Ararat.38	138	There
 		138	are
 		138	large
@@ -2772,7 +2654,6 @@ index	text	sentence	token
 		139	Jews
 		139	there
 		139	.
-		139	
 140	In ancient times many Jews lived there.	140	In
 		140	ancient
 		140	times
@@ -2781,7 +2662,6 @@ index	text	sentence	token
 		140	lived
 		140	there
 		140	.
-		140	
 141	However they slew each other and separated, and went to the cities of Babel, Media, and Persia.39	141	However
 		141	they
 		141	slew
@@ -2831,7 +2711,6 @@ index	text	sentence	token
 		142	of
 		142	Persia
 		142	.
-		142	
 143	But in Persia the Jews are subject to hard bondage and sufferings.	143	But
 		143	in
 		143	Persia
@@ -2845,7 +2724,6 @@ index	text	sentence	token
 		143	and
 		143	sufferings
 		143	.
-		143	
 144	Therefore Rabbi Petachia visited only one city in Persia.	144	Therefore
 		144	Rabbi
 		144	Petachia
@@ -2856,7 +2734,6 @@ index	text	sentence	token
 		144	in
 		144	Persia
 		144	.
-		144	
 145	Every Jew in Babel pays a gold florin annually to the head of the academy, as a poll-tax.	145	Every
 		145	Jew
 		145	in
@@ -2877,7 +2754,6 @@ index	text	sentence	token
 		145	a
 		145	poll-tax
 		145	.
-		145	
 146	For the monarch requires no taxes, but only the head of the academy.	146	For
 		146	the
 		146	monarch
@@ -2893,7 +2769,6 @@ index	text	sentence	token
 		146	the
 		146	academy
 		146	.
-		146	
 147	The Jews in the land of Babel live in peace.	147	The
 		147	Jews
 		147	in
@@ -2905,7 +2780,6 @@ index	text	sentence	token
 		147	in
 		147	peace
 		147	.
-		147	
 148	The monarch who reigned in the days of Rabbi Shelomoh, father of Rabbi Daniel, was a friend of Rabbi Shelomoh, because the monarch was of the seed of Mahomet, and the head of the captivity descended from King David.	148	The
 		148	monarch
 		148	who
@@ -2950,7 +2824,6 @@ index	text	sentence	token
 		148	King
 		148	David
 		148	.
-		148	
 149	And he said to Rabbi Shelomoh that he wished to see the prophet Ezekiel, who performed miracles.	149	And
 		149	he
 		149	said
@@ -2970,7 +2843,6 @@ index	text	sentence	token
 		149	performed
 		149	miracles
 		149	.
-		149	
 150	And Rabbi Shelomoh said to him, Thou canst not see him, for he is holy, nor must thou uncover his grave.	150	And
 		150	Rabbi
 		150	Shelomoh
@@ -2996,7 +2868,6 @@ index	text	sentence	token
 		150	his
 		150	grave
 		150	.
-		150	
 151	The monarch replied that he would explore it.	151	The
 		151	monarch
 		151	replied
@@ -3006,7 +2877,6 @@ index	text	sentence	token
 		151	explore
 		151	it
 		151	.
-		151	
 152	Then Rabbi Shelomoh and the elders said to him, My lord and king, Baruch, son of Neriah, his disciple,41 is buried near the enclosure of the prophet.	152	Then
 		152	Rabbi
 		152	Shelomoh
@@ -3041,7 +2911,6 @@ index	text	sentence	token
 		152	the
 		152	prophet
 		152	.
-		152	
 153	If it be thy will uncover his grave.	153	If
 		153	it
 		153	be
@@ -3051,7 +2920,6 @@ index	text	sentence	token
 		153	his
 		153	grave
 		153	.
-		153	
 154	If thou canst see his disciple then thou mayest try to see his master.	154	If
 		154	thou
 		154	canst
@@ -3067,7 +2935,6 @@ index	text	sentence	token
 		154	his
 		154	master
 		154	.
-		154	
 155	He then assembled all the princes, and commanded them to dig.	155	He
 		155	then
 		155	assembled
@@ -3081,7 +2948,6 @@ index	text	sentence	token
 		155	to
 		155	dig
 		155	.
-		155	
 156	But every one that dug into the grave of Baruch, son of Neriah, fell down immediately and died.	156	But
 		156	every
 		156	one
@@ -3103,7 +2969,6 @@ index	text	sentence	token
 		156	and
 		156	died
 		156	.
-		156	
 157	There was there an old man, an Ishmaelite, who said to the monarch, Tell the Jews that they should dig.	157	There
 		157	was
 		157	there
@@ -3128,7 +2993,6 @@ index	text	sentence	token
 		157	should
 		157	dig
 		157	.
-		157	
 158	The Jews replied, We are afraid.	158	The
 		158	Jews
 		158	replied
@@ -3137,7 +3001,6 @@ index	text	sentence	token
 		158	are
 		158	afraid
 		158	.
-		158	
 159	But the king said, If you keep the law of Baruch, son of Neriah, he will not hurt you, for every Ishmaelite that dug fell down dead.	159	But
 		159	the
 		159	king
@@ -3170,7 +3033,6 @@ index	text	sentence	token
 		159	down
 		159	dead
 		159	.
-		159	
 160	Then Rabbi Shelomoh said, Give us time, three days, that we may fast in order to obtain his pardon.	160	Then
 		160	Rabbi
 		160	Shelomoh
@@ -3194,7 +3056,6 @@ index	text	sentence	token
 		160	his
 		160	pardon
 		160	.
-		160	
 161	After three days the Jews dug, and were not hurt.	161	After
 		161	three
 		161	days
@@ -3207,7 +3068,6 @@ index	text	sentence	token
 		161	not
 		161	hurt
 		161	.
-		161	
 162	The coffin of Baruch, son of Neriah, was between two marble stones, he being between the two.	162	The
 		162	coffin
 		162	of
@@ -3229,7 +3089,6 @@ index	text	sentence	token
 		162	the
 		162	two
 		162	.
-		162	
 163	A portion of his praying scarf42 protruded between the stones.	163	A
 		163	portion
 		163	of
@@ -3242,7 +3101,6 @@ index	text	sentence	token
 		163	the
 		163	stones
 		163	.
-		163	
 164	The king said, No two kings make use of the same crown.43	164	The
 		164	king
 		164	said
@@ -3270,7 +3128,6 @@ index	text	sentence	token
 		165	near
 		165	Ezekiel
 		165	.
-		165	
 166	I will transfer it to another locality.	166	I
 		166	will
 		166	transfer
@@ -3279,7 +3136,6 @@ index	text	sentence	token
 		166	another
 		166	locality
 		166	.
-		166	
 167	They then carried away the marble stones together with the coffin.	167	They
 		167	then
 		167	carried
@@ -3292,7 +3148,6 @@ index	text	sentence	token
 		167	the
 		167	coffin
 		167	.
-		167	
 168	When they came at the distance of a mile from the grave of Ezekiel, they could not stir from the place.	168	When
 		168	they
 		168	came
@@ -3316,7 +3171,6 @@ index	text	sentence	token
 		168	the
 		168	place
 		168	.
-		168	
 169	Nor could any horses or mules move the coffin from its place.	169	Nor
 		169	could
 		169	any
@@ -3330,7 +3184,6 @@ index	text	sentence	token
 		169	its
 		169	place
 		169	.
-		169	
 170	Then said Rabbi Shelomoh, Here the righteous man wishes to be buried, and they buried there the coffin, and built a beautiful palace over his grave.	170	Then
 		170	said
 		170	Rabbi
@@ -3361,7 +3214,6 @@ index	text	sentence	token
 		170	his
 		170	grave
 		170	.
-		170	
 171	Rabbi Samuel, the head of the academy, gave Rabbi Petachia a document with his seal, that they should give him safe conduct whithersoever he should go, and that they should show him the graves of the disciples of the wise, and of the righteous.	171	Rabbi
 		171	Samuel
 		171	,
@@ -3412,7 +3264,6 @@ index	text	sentence	token
 		171	the
 		171	righteous
 		171	.
-		171	
 172	In the land of Babel they study the commentary of Rabbi Saadiah,44 which he made on the whole of Scripture, and on the six volumes of the Mishna; as also the commentary of Rabbi Hai Gaon.45	172	In
 		172	the
 		172	land
@@ -3474,7 +3325,6 @@ index	text	sentence	token
 		173	Mount
 		173	Sinai
 		173	.
-		173	
 174	They say that from thence to Mount Sinai it is all one mountain.	174	They
 		174	say
 		174	that
@@ -3489,13 +3339,11 @@ index	text	sentence	token
 		174	one
 		174	mountain
 		174	.
-		174	
 175	It is near Bagdad.	175	It
 		175	is
 		175	near
 		175	Bagdad
 		175	.
-		175	
 176	Rabbi Petachia carried the seal of Rabbi Samuel with him; and the people did all that he required; and they feared him.	176	Rabbi
 		176	Petachia
 		176	carried
@@ -3521,7 +3369,6 @@ index	text	sentence	token
 		176	feared
 		176	him
 		176	.
-		176	
 177	And Rabbi Petachia travelled to a city the name of which is Polos,46 a day’s journey from Bagdad.	177	And
 		177	Rabbi
 		177	Petachia
@@ -3543,7 +3390,6 @@ index	text	sentence	token
 		177	from
 		177	Bagdad
 		177	.
-		177	
 178	There lives a distinguished priest, and all testify that he is of the seed of Aaron the priest, both from father’s and mother’s side, without any blemish.	178	There
 		178	lives
 		178	a
@@ -3575,7 +3421,6 @@ index	text	sentence	token
 		178	any
 		178	blemish
 		178	.
-		178	
 179	He also possesses a book of genealogy.	179	He
 		179	also
 		179	possesses
@@ -3584,7 +3429,6 @@ index	text	sentence	token
 		179	of
 		179	genealogy
 		179	.
-		179	
 180	Before that city is a grave over which a beautiful house is built.	180	Before
 		180	that
 		180	city
@@ -3599,7 +3443,6 @@ index	text	sentence	token
 		180	is
 		180	built
 		180	.
-		180	
 181	He was told that some rich man saw in his dream an apparition, saying to him, I am a Jew whose name is Brosak, one of the princes that went into captivity with Jeconiah.	181	He
 		181	was
 		181	told
@@ -3638,18 +3481,15 @@ index	text	sentence	token
 		181	with
 		181	Jeconiah
 		181	.
-		181	
 182	I am righteous.	182	I
 		182	am
 		182	righteous
 		182	.
-		182	
 183	Thou hast no children.	183	Thou
 		183	hast
 		183	no
 		183	children
 		183	.
-		183	
 184	If thou wilt build a beautiful house over my grave thou wilt have children.	184	If
 		184	thou
 		184	wilt
@@ -3665,7 +3505,6 @@ index	text	sentence	token
 		184	have
 		184	children
 		184	.
-		184	
 185	He built over it a house, and he had children.	185	He
 		185	built
 		185	over
@@ -3678,7 +3517,6 @@ index	text	sentence	token
 		185	had
 		185	children
 		185	.
-		185	
 186	They then put the question in a dream,47 to learn who was buried there, and he said, I am Brosak, I have no other name.	186	They
 		186	then
 		186	put
@@ -3710,7 +3548,6 @@ index	text	sentence	token
 		186	other
 		186	name
 		186	.
-		186	
 187	And the priest appointed about fifty youths, armed with spears and other weapons, who escorted him; for there is a people in the neighbourhood of Babel which does not respect the king’s authority It lives in the desert; and is called Charamim,48 because it robs and plunders every nation.	187	And
 		187	the
 		187	priest
@@ -3767,7 +3604,6 @@ index	text	sentence	token
 		187	every
 		187	nation
 		187	.
-		187	
 188	Their face is like the herb grona.49	188	Their
 		188	face
 		188	is
@@ -3794,7 +3630,6 @@ index	text	sentence	token
 		189	call
 		189	them
 		189	.
-		189	
 190	About a day’s or half a day’s journey from Bagdad, in the desert, is the grave of the prophet Ezekiel.	190	About
 		190	a
 		190	day’s
@@ -3818,7 +3653,6 @@ index	text	sentence	token
 		190	prophet
 		190	Ezekiel
 		190	.
-		190	
 191	It is in the possession of the Charamim.	191	It
 		191	is
 		191	in
@@ -3828,7 +3662,6 @@ index	text	sentence	token
 		191	the
 		191	Charamim
 		191	.
-		191	
 192	The city is about a mile from the grave.	192	The
 		192	city
 		192	is
@@ -3839,14 +3672,12 @@ index	text	sentence	token
 		192	the
 		192	grave
 		192	.
-		192	
 193	The Jews possess the keys.	193	The
 		193	Jews
 		193	possess
 		193	the
 		193	keys
 		193	.
-		193	
 194	Round the grave of Ezekiel is a wall, and a large town, and a large enclosure.	194	Round
 		194	the
 		194	grave
@@ -3866,7 +3697,6 @@ index	text	sentence	token
 		194	large
 		194	enclosure
 		194	.
-		194	
 195	The Jews open the wicket, which is so low that those entering have to crawl on hands and feet.	195	The
 		195	Jews
 		195	open
@@ -3888,7 +3718,6 @@ index	text	sentence	token
 		195	and
 		195	feet
 		195	.
-		195	
 196	On the festival of Tabernacles people from all countries resort hither, when the entrance becomes enlarged by itself, so that they can enter it even on camels.	196	On
 		196	the
 		196	festival
@@ -3919,7 +3748,6 @@ index	text	sentence	token
 		196	on
 		196	camels
 		196	.
-		196	
 197	About 60,000 or80,000 Jews meet there, besides Ishmaelites.	197	About
 		197	60
 		197	,
@@ -3935,7 +3763,6 @@ index	text	sentence	token
 		197	besides
 		197	Ishmaelites
 		197	.
-		197	
 198	Tabernacles are erected in the enclosure of Ezekiel.	198	Tabernacles
 		198	are
 		198	erected
@@ -3945,7 +3772,6 @@ index	text	sentence	token
 		198	of
 		198	Ezekiel
 		198	.
-		198	
 199	Afterwards the entrance shrinks to its former dimensions.	199	Afterwards
 		199	the
 		199	entrance
@@ -3955,13 +3781,11 @@ index	text	sentence	token
 		199	former
 		199	dimensions
 		199	.
-		199	
 200	All can see that.	200	All
 		200	can
 		200	see
 		200	that
 		200	.
-		200	
 201	Vows and free-will offerings take place over his grave.	201	Vows
 		201	and
 		201	free-will
@@ -3972,7 +3796,6 @@ index	text	sentence	token
 		201	his
 		201	grave
 		201	.
-		201	
 202	And whoever is barren, or whose cattle is barren, makes a vow, or prays over his grave.	202	And
 		202	whoever
 		202	is
@@ -3994,7 +3817,6 @@ index	text	sentence	token
 		202	his
 		202	grave
 		202	.
-		202	
 203	Rabbi Petachia was told that some person of distinction had a mare which had become barren,50 and he vowed that if the mare would bring forth a foal he would give it to Ezekiel.	203	Rabbi
 		203	Petachia
 		203	was
@@ -4032,13 +3854,11 @@ index	text	sentence	token
 		203	to
 		203	Ezekiel
 		203	.
-		203	
 204	His desire was gratified.	204	His
 		204	desire
 		204	was
 		204	gratified
 		204	.
-		204	
 205	But as the foal was beautiful, he wished to keep it for himself.	205	But
 		205	as
 		205	the
@@ -4054,7 +3874,6 @@ index	text	sentence	token
 		205	for
 		205	himself
 		205	.
-		205	
 206	But the foal left him of its own accord, and went into the enclosure of Ezekiel, through the gate, which was enlarged for the purpose.	206	But
 		206	the
 		206	foal
@@ -4084,7 +3903,6 @@ index	text	sentence	token
 		206	the
 		206	purpose
 		206	.
-		206	
 207	The master searched for the horse everywhere without finding it.	207	The
 		207	master
 		207	searched
@@ -4096,7 +3914,6 @@ index	text	sentence	token
 		207	finding
 		207	it
 		207	.
-		207	
 208	At last he considered that having vowed it to the righteous Ezekiel, it might have gone there, and indeed he found it there; but when he desired to take it away he could not, for the entrance was too low.	208	At
 		208	last
 		208	he
@@ -4142,7 +3959,6 @@ index	text	sentence	token
 		208	too
 		208	low
 		208	.
-		208	
 209	Then a Jew said to him, The horse came here in a miraculous manner; you may perhaps have vowed it to the saint.	209	Then
 		209	a
 		209	Jew
@@ -4169,7 +3985,6 @@ index	text	sentence	token
 		209	the
 		209	saint
 		209	.
-		209	
 210	He confessed it, and said, Yes, I have vowed it to him, and what shall I do to be able to bring it out ? The Jew said, Take money and lay it on his grave.	210	He
 		210	confessed
 		210	it
@@ -4212,7 +4027,6 @@ index	text	sentence	token
 		210	his
 		210	grave
 		210	.
-		210	
 211	If you lay down its value the horse will be able to go forth.	211	If
 		211	you
 		211	lay
@@ -4228,7 +4042,6 @@ index	text	sentence	token
 		211	go
 		211	forth
 		211	.
-		211	
 212	He gradually increased the amount of the money until it reached the value, when the entrance became enlarged, and it could go forth.	212	He
 		212	gradually
 		212	increased
@@ -4255,7 +4068,6 @@ index	text	sentence	token
 		212	go
 		212	forth
 		212	.
-		212	
 213	Rabbi Petachia went to the grave of Ezekiel, and took with him gold, and gold grains, and the grains fell from his hands, and he said, My Lord Ezekiel, for thy honour have I come, and now the grains have dropped from my hands and are lost.	213	Rabbi
 		213	Petachia
 		213	went
@@ -4311,7 +4123,6 @@ index	text	sentence	token
 		213	are
 		213	lost
 		213	.
-		213	
 214	Wherever they may be they are thine.	214	Wherever
 		214	they
 		214	may
@@ -4320,7 +4131,6 @@ index	text	sentence	token
 		214	are
 		214	thine
 		214	.
-		214	
 215	And he saw something, at some distance, like a star. 	215	And
 		215	he
 		215	saw
@@ -4334,7 +4144,6 @@ index	text	sentence	token
 		215	a
 		215	star
 		215	.
-		215	
 216	He thought it might be a precious stone.	216	He
 		216	thought
 		216	it
@@ -4344,7 +4153,6 @@ index	text	sentence	token
 		216	precious
 		216	stone
 		216	.
-		216	
 217	He then went there and found the grains, when he placed them on the tomb of Ezekiel.	217	He
 		217	then
 		217	went
@@ -4364,7 +4172,6 @@ index	text	sentence	token
 		217	of
 		217	Ezekiel
 		217	.
-		217	
 218	Every Ishmaelite that goes in pilgrimage to the tomb of Mahomet takes his way over the tomb of Ezekiel, and makes some present or free-will offering to Ezekiel, making a vow and praying, Our Lord Ezekiel, if I return I will give thee such and such a thing.	218	Every
 		218	Ishmaelite
 		218	that
@@ -4418,7 +4225,6 @@ index	text	sentence	token
 		218	a
 		218	thing
 		218	.
-		218	
 219	By way of the desert they go in forty days, from the tomb of Ezekiel to the river Sambation.51	219	By
 		219	way
 		219	of
@@ -4486,7 +4292,6 @@ index	text	sentence	token
 		220	its
 		220	heir
 		220	.
-		220	
 221	And many purses with money lie there rotting because they lay there many years.52	221	And
 		221	many
 		221	purses
@@ -4538,7 +4343,6 @@ index	text	sentence	token
 		222	fears
 		222	Ezekiel
 		222	.
-		222	
 223	Whoever has not seen the beautiful large structure over his grave has never seen a fine building.	223	Whoever
 		223	has
 		223	not
@@ -4557,7 +4361,6 @@ index	text	sentence	token
 		223	fine
 		223	building
 		223	.
-		223	
 224	It is inside overlaid with gold.	224	It
 		224	is
 		224	inside
@@ -4565,7 +4368,6 @@ index	text	sentence	token
 		224	with
 		224	gold
 		224	.
-		224	
 225	Over the grave is a mass of lime, as high as a man, and round the lime, and over it, is a structure of cedar wood, which is gilded; the eye never saw the like.	225	Over
 		225	the
 		225	grave
@@ -4608,7 +4410,6 @@ index	text	sentence	token
 		225	the
 		225	like
 		225	.
-		225	
 226	There are windows in it, through which people pass their heads and pray.	226	There
 		226	are
 		226	windows
@@ -4624,7 +4425,6 @@ index	text	sentence	token
 		226	and
 		226	pray
 		226	.
-		226	
 227	At the top is a large cupola of gold, and beautiful carpets cover the inside.	227	At
 		227	the
 		227	top
@@ -4642,7 +4442,6 @@ index	text	sentence	token
 		227	the
 		227	inside
 		227	.
-		227	
 228	There are also in it beautiful glass vases, and31 thirty lamps fed with olive oil burn there day and night.	228	There
 		228	are
 		228	also
@@ -4666,7 +4465,6 @@ index	text	sentence	token
 		228	and
 		228	night
 		228	.
-		228	
 229	They supply the olive oil from the gifts deposited for the lighting of the thirty lamps.	229	They
 		229	supply
 		229	the
@@ -4684,7 +4482,6 @@ index	text	sentence	token
 		229	thirty
 		229	lamps
 		229	.
-		229	
 230	There are about 200 overseers appointed for the administration of the gifts deposited on his grave, who discharge their office one after the other. 	230	There
 		230	are
 		230	about
@@ -4711,7 +4508,6 @@ index	text	sentence	token
 		230	the
 		230	other
 		230	.
-		230	
 231	From the money deposited on his grave the synagogue requiring repair is repaired, orphans receive marriage portions, and destitute disciples are supported.	231	From
 		231	the
 		231	money
@@ -4737,7 +4533,6 @@ index	text	sentence	token
 		231	are
 		231	supported
 		231	.
-		231	
 232	At Bagdad there are three synagogues, besides that built by Daniel on the spot on which the angel stood on the brink of the river, one on each bank, as is written in the book of Daniel.	232	At
 		232	Bagdad
 		232	there
@@ -4779,7 +4574,6 @@ index	text	sentence	token
 		232	of
 		232	Daniel
 		232	.
-		232	
 233	Whilst Rabbi Petachia was on the grave of Ezekiel he saw in the building a bird the face of which was like that of a human being,53 at which the overseer acting as doorkeeper grieved, for he said, It is a tradition with us, from our fathers, that every house wherein such a bird is found will become a ruin.	233	Whilst
 		233	Rabbi
 		233	Petachia
@@ -4847,7 +4641,6 @@ index	text	sentence	token
 		233	a
 		233	ruin
 		233	.
-		233	
 234	But when the overseer observed that as the bird was going to quit the window it turned and died, he rejoiced greatly, for he said that since the bird was dead the doom was annulled.	234	But
 		234	when
 		234	the
@@ -4886,7 +4679,6 @@ index	text	sentence	token
 		234	was
 		234	annulled
 		234	.
-		234	
 235	The head of the academy told Rabbi Petachia that formerly a column of fire rested over the grave of Ezekiel,54 but that wicked persons had come and desecrated it, since there had come about 80,000 individuals to the feast of Tabernacles, among whom there were unworthy persons, and the column of fire was removed.	235	The
 		235	head
 		235	of
@@ -4949,7 +4741,6 @@ index	text	sentence	token
 		235	was
 		235	removed
 		235	.
-		235	
 236	The Tabernacles are erected in the same enclosure, close to the burial ground.33	236	The
 		236	Tabernacles
 		236	are
@@ -4982,7 +4773,6 @@ index	text	sentence	token
 		237	be
 		237	distinguished
 		237	.
-		237	
 238	On the other side of the river Euphrates, about a mile, opposite to the grave of Ezekiel, are the graves of Hananiah, Mishael, and Esariah.	238	On
 		238	the
 		238	other
@@ -5014,12 +4804,10 @@ index	text	sentence	token
 		238	and
 		238	Esariah
 		238	.
-		238	
 239	Each is separate.	239	Each
 		239	is
 		239	separate
 		239	.
-		239	
 240	Ezra, the scribe, is also buried there.56	240	Ezra
 		240	,
 		240	the
@@ -5065,7 +4853,6 @@ index	text	sentence	token
 		242	is
 		242	desolate
 		242	.
-		242	
 243	There is a congregation in a portion of the city.	243	There
 		243	is
 		243	a
@@ -5077,7 +4864,6 @@ index	text	sentence	token
 		243	the
 		243	city
 		243	.
-		243	
 244	And when he produced the seal of the head of the academy they showed him the synagogue Shaf-Wyathib.58	244	And
 		244	when
 		244	he
@@ -5115,7 +4901,6 @@ index	text	sentence	token
 		245	river
 		245	Euphrates
 		245	.
-		245	
 246	No portion of the wall is built of either stone or brick, but consists entirely of the dust which Jechaniah brought with him.	246	No
 		246	portion
 		246	of
@@ -5141,7 +4926,6 @@ index	text	sentence	token
 		246	with
 		246	him
 		246	.
-		246	
 247	The synagogue has no roof, for everything is desolate.	247	The
 		247	synagogue
 		247	has
@@ -5153,7 +4937,6 @@ index	text	sentence	token
 		247	is
 		247	desolate
 		247	.
-		247	
 248	And the Jews told him that in the night they see a column of fire issue from it, extending as far as the grave of Brusak, which he mentioned before.	248	And
 		248	the
 		248	Jews
@@ -5187,7 +4970,6 @@ index	text	sentence	token
 		248	mentioned
 		248	before
 		248	.
-		248	
 249	He then returned, and came to a city called Mella,59 where the grave of Rabbi Meir is, the same Rabbi Meir mentioned in the Mishnah.60	249	He
 		249	then
 		249	returned
@@ -5239,7 +5021,6 @@ index	text	sentence	token
 		250	the
 		250	grave
 		250	.
-		250	
 251	And as the Euphrates, when it rose, inundated the grave, they took of the money vowed by Jews and Ishmaelites and built a city round his grave, with towers in the midst of the water.	251	And
 		251	as
 		251	the
@@ -5280,7 +5061,6 @@ index	text	sentence	token
 		251	the
 		251	water
 		251	.
-		251	
 252	There is a beautiful house over his grave, which the Ishmaelites call Chinuk (Choking).	252	There
 		252	is
 		252	a
@@ -5299,7 +5079,6 @@ index	text	sentence	token
 		252	Choking
 		252	)
 		252	.
-		252	
 253	The reason thereof is that one day the sultan came and took away one of the 35 stones forming one of the steps leading to his grave.	253	The
 		253	reason
 		253	thereof
@@ -5328,7 +5107,6 @@ index	text	sentence	token
 		253	his
 		253	grave
 		253	.
-		253	
 254	But in the night Rabbi Meir appeared to him in a dream, seized him by the throat as though he was going to choke him, saying to him, Why didst thou carry away my stone ? 	254	But
 		254	in
 		254	the
@@ -5368,7 +5146,6 @@ index	text	sentence	token
 		254	my
 		254	stone
 		254	?
-		254	
 255	Dost thou not know that I am righteous, and beloved by God ? 	255	Dost
 		255	thou
 		255	not
@@ -5383,7 +5160,6 @@ index	text	sentence	token
 		255	by
 		255	God
 		255	?
-		255	
 256	The sultan then begged the rabbi’s pardon.	256	The
 		256	sultan
 		256	then
@@ -5392,7 +5168,6 @@ index	text	sentence	token
 		256	rabbi’s
 		256	pardon
 		256	.
-		256	
 257	But he replied, I will not do so until thou earnest it back on thy own shoulder, before the eyes of all, saying, I was wicked in robbing my lord the righteous.	257	But
 		257	he
 		257	replied
@@ -5430,7 +5205,6 @@ index	text	sentence	token
 		257	the
 		257	righteous
 		257	.
-		257	
 258	In the morrow he carried the stone on his shoulder and put it on its former place, saying, I was wicked in robbing my lord the righteous.	258	In
 		258	the
 		258	morrow
@@ -5461,7 +5235,6 @@ index	text	sentence	token
 		258	the
 		258	righteous
 		258	.
-		258	
 259	Therefore the Ishmaelites fear him, worship on his grave, make him presents, and vow that if they should return in peace they would give him this or that.	259	Therefore
 		259	the
 		259	Ishmaelites
@@ -5494,7 +5267,6 @@ index	text	sentence	token
 		259	or
 		259	that
 		259	.
-		259	
 260	Whereever Rabbi Petachia showed the seal of the head of the academy, men armed with spears came immediately forward and escorted him.	260	Whereever
 		260	Rabbi
 		260	Petachia
@@ -5519,7 +5291,6 @@ index	text	sentence	token
 		260	escorted
 		260	him
 		260	.
-		260	
 261	From the grave of Ezekiel to that of Baruch, son of Neriah, is a distance of a mile, and from the grave of Baruch, son of Neriah, to that of Nahum, the Elkoshite,61 is about four parasangs.	261	From
 		261	the
 		261	grave
@@ -5566,7 +5337,6 @@ index	text	sentence	token
 		261	four
 		261	parasangs
 		261	.
-		261	
 262	Between them, in the middle, is the grave of Abba Aricha.62	262	Between
 		262	them
 		262	,
@@ -5600,7 +5370,6 @@ index	text	sentence	token
 		263	buried
 		263	there
 		263	.
-		263	
 264	The mill which Raba64 had erected for the disciples is there, but it has no water.	264	The
 		264	mill
 		264	which
@@ -5620,7 +5389,6 @@ index	text	sentence	token
 		264	no
 		264	water
 		264	.
-		264	
 265	In his days they ground in it.	265	In
 		265	his
 		265	days
@@ -5629,7 +5397,6 @@ index	text	sentence	token
 		265	in
 		265	it
 		265	.
-		265	
 266	There is a beautiful house over it.	266	There
 		266	is
 		266	a
@@ -5638,7 +5405,6 @@ index	text	sentence	token
 		266	over
 		266	it
 		266	.
-		266	
 267	They have a tradition whereby they know graves of prophets and Amoraim, 550 in number, like the number of Sarim.65	267	They
 		267	have
 		267	a
@@ -5704,7 +5470,6 @@ index	text	sentence	token
 		268	no
 		268	building
 		268	.
-		268	
 269	Underneath most of the cloths or mats covering the graves a serpent is coiled, which guards the grave.66	269	Underneath
 		269	most
 		269	of
@@ -5742,7 +5507,6 @@ index	text	sentence	token
 		270	the
 		270	serpent
 		270	.
-		270	
 271	The head of the academy wrote down for him who the Amoraim buried there are.	271	The
 		271	head
 		271	of
@@ -5759,7 +5523,6 @@ index	text	sentence	token
 		271	there
 		271	are
 		271	.
-		271	
 272	Rabbi Petachia, however, forgot the list in Bohemia, for he came from Bohemia hither.67	272	Rabbi
 		272	Petachia
 		272	,
@@ -5796,7 +5559,6 @@ index	text	sentence	token
 		273	the
 		273	east
 		273	.
-		273	
 274	Bohemia being to the east of Ratisbon, Russia to the east of Poland.	274	Bohemia
 		274	being
 		274	to
@@ -5812,7 +5574,6 @@ index	text	sentence	token
 		274	of
 		274	Poland
 		274	.
-		274	
 275	From thence he turned to the east, and came in six days to the grave of our lord Ezra, the scribe.	275	From
 		275	thence
 		275	he
@@ -5837,7 +5598,6 @@ index	text	sentence	token
 		275	the
 		275	scribe
 		275	.
-		275	
 276	They said that in the days of old the grave of Ezra, the scribe, was ruinous.	276	They
 		276	said
 		276	that
@@ -5857,7 +5617,6 @@ index	text	sentence	token
 		276	was
 		276	ruinous
 		276	.
-		276	
 277	Once a shepherd came, who saw a mound and slept on it.	277	Once
 		277	a
 		277	shepherd
@@ -5872,7 +5631,6 @@ index	text	sentence	token
 		277	on
 		277	it
 		277	.
-		277	
 278	Some one then appeared to him in a dream, saying to him, Tell the sultan I am Ezra, the scribe.	278	Some
 		278	one
 		278	then
@@ -5897,7 +5655,6 @@ index	text	sentence	token
 		278	the
 		278	scribe
 		278	.
-		278	
 279	Let him take me up through the instrumentality of Jews, and place me in such and such a spot; if not all his people will die.	279	Let
 		279	him
 		279	take
@@ -5927,7 +5684,6 @@ index	text	sentence	token
 		279	will
 		279	die
 		279	.
-		279	
 280	However, he did not attend to the matter, and so many people died.	280	However
 		280	,
 		280	he
@@ -5944,7 +5700,6 @@ index	text	sentence	token
 		280	people
 		280	died
 		280	.
-		280	
 281	Now Jews were called upon, who buried him with honour.	281	Now
 		281	Jews
 		281	were
@@ -5957,7 +5712,6 @@ index	text	sentence	token
 		281	with
 		281	honour
 		281	.
-		281	
 282	The grave was of marble stone, and upon the marble was a tablet, upon which was engraven, “I am Ezra, the scribe.” They buried him on the spot named to the shepherd, and erected a fine structure over his grave.	282	The
 		282	grave
 		282	was
@@ -6007,7 +5761,6 @@ index	text	sentence	token
 		282	his
 		282	grave
 		282	.
-		282	
 283	In the eleventh hour a column of fire ascends from his grave to the sky.	283	In
 		283	the
 		283	eleventh
@@ -6024,7 +5777,6 @@ index	text	sentence	token
 		283	the
 		283	sky
 		283	.
-		283	
 284	This continues during the eleventh and twelfth hour.	284	This
 		284	continues
 		284	during
@@ -6034,7 +5786,6 @@ index	text	sentence	token
 		284	twelfth
 		284	hour
 		284	.
-		284	
 285	It is also seen in the first hour of the night.	285	It
 		285	is
 		285	also
@@ -6047,7 +5798,6 @@ index	text	sentence	token
 		285	the
 		285	night
 		285	.
-		285	
 286	People can walk three or four parasangs by the light of the pillar.	286	People
 		286	can
 		286	walk
@@ -6062,14 +5812,12 @@ index	text	sentence	token
 		286	the
 		286	pillar
 		286	.
-		286	
 287	All the Ishmaelites worship there.	287	All
 		287	the
 		287	Ishmaelites
 		287	worship
 		287	there
 		287	.
-		287	
 288	The keys of the houses over the graves are in the hands of the Jews.	288	The
 		288	keys
 		288	of
@@ -6086,7 +5834,6 @@ index	text	sentence	token
 		288	the
 		288	Jews
 		288	.
-		288	
 289	They employ the proceeds of the vows in giving marriage portions to orphans, supporting disciples, and repairing synagogues of the poor.	289	They
 		289	employ
 		289	the
@@ -6111,7 +5858,6 @@ index	text	sentence	token
 		289	the
 		289	poor
 		289	.
-		289	
 290	Before Rabbi Petachia set out for the grave of Ezra, the scribe, he journeyed in eight days to Shushan,68 the former capital.	290	Before
 		290	Rabbi
 		290	Petachia
@@ -6139,7 +5885,6 @@ index	text	sentence	token
 		290	former
 		290	capital
 		290	.
-		290	
 291	There are only two Jews there, who are dyers.	291	There
 		291	are
 		291	only
@@ -6151,7 +5896,6 @@ index	text	sentence	token
 		291	are
 		291	dyers
 		291	.
-		291	
 292	And he showed them the seal of the head of the academy, and they showed him the coffin of Daniel.69	292	And
 		292	he
 		292	showed
@@ -6198,7 +5942,6 @@ index	text	sentence	token
 		293	and
 		293	blessing
 		293	.
-		293	
 294	Then those on the other side of the river said, Because the righteous man is not buried in our portion therefore our district is not blessed.	294	Then
 		294	those
 		294	on
@@ -6227,7 +5970,6 @@ index	text	sentence	token
 		294	not
 		294	blessed
 		294	.
-		294	
 295	And there were constantly great wars between the two districts, during which the coffin was violently transferred from bank to bank.	295	And
 		295	there
 		295	were
@@ -6251,7 +5993,6 @@ index	text	sentence	token
 		295	to
 		295	bank
 		295	.
-		295	
 296	At last some elders came, who having brought about a settlement between them, they took the coffin and suspended it by iron chains, on high iron pillars, erected in the middle of the river.	296	At
 		296	last
 		296	some
@@ -6291,7 +6032,6 @@ index	text	sentence	token
 		296	the
 		296	river
 		296	.
-		296	
 297	The coffin is made of polished copper conspicuous in the middle of the river ten cubits above the water.	297	The
 		297	coffin
 		297	is
@@ -6312,7 +6052,6 @@ index	text	sentence	token
 		297	the
 		297	water
 		297	.
-		297	
 298	At the distance it looks lustrous like glass.	298	At
 		298	the
 		298	distance
@@ -6322,7 +6061,6 @@ index	text	sentence	token
 		298	like
 		298	glass
 		298	.
-		298	
 299	The Jews told him that any vessel passing underneath the coffin will proceed in safety if those in it be pious, but will founder if this be not the case.	299	The
 		299	Jews
 		299	told
@@ -6355,7 +6093,6 @@ index	text	sentence	token
 		299	the
 		299	case
 		299	.
-		299	
 300	He was further told that underneath the coffin there are fish with golden pendants in their ears.70	300	He
 		300	was
 		300	further
@@ -6399,14 +6136,12 @@ index	text	sentence	token
 		301	the
 		301	coffin
 		301	.
-		301	
 302	He then returned to Bagdad.	302	He
 		302	then
 		302	returned
 		302	to
 		302	Bagdad
 		302	.
-		302	
 303	There he was shown a flying camel.71	303	There
 		303	he
 		303	was
@@ -6447,7 +6182,6 @@ index	text	sentence	token
 		304	fall
 		304	down
 		304	.
-		304	
 305	The rider traverses in one day the space over which a man on foot would have to pass fifteen days.	305	The
 		305	rider
 		305	traverses
@@ -6469,7 +6203,6 @@ index	text	sentence	token
 		305	fifteen
 		305	days
 		305	.
-		305	
 306	One might go even swifter if the rider only could stand it.	306	One
 		306	might
 		306	go
@@ -6483,7 +6216,6 @@ index	text	sentence	token
 		306	stand
 		306	it
 		306	.
-		306	
 307	In one second it gallops a mile.	307	In
 		307	one
 		307	second
@@ -6492,7 +6224,6 @@ index	text	sentence	token
 		307	a
 		307	mile
 		307	.
-		307	
 308	They also showed him the gates of Bagdad.	308	They
 		308	also
 		308	showed
@@ -6502,7 +6233,6 @@ index	text	sentence	token
 		308	of
 		308	Bagdad
 		308	.
-		308	
 309	They are a hundred cubits high and ten cubits wide.	309	They
 		309	are
 		309	a
@@ -6514,7 +6244,6 @@ index	text	sentence	token
 		309	cubits
 		309	wide
 		309	.
-		309	
 310	They are of polished copper, and ornamented with figures, so that no one can produce the like.	310	They
 		310	are
 		310	of
@@ -6535,7 +6264,6 @@ index	text	sentence	token
 		310	the
 		310	like
 		310	.
-		310	
 311	A nail once fell out, and no artificer is able to fix it again.	311	A
 		311	nail
 		311	once
@@ -6552,7 +6280,6 @@ index	text	sentence	token
 		311	it
 		311	again
 		311	.
-		311	
 312	Formerly the horses used to be startled back at the sight of the gates, for seeing the brightness of the gates they perceived as it were other horses running towards them, whereby they took fright and started off.	312	Formerly
 		312	the
 		312	horses
@@ -6594,7 +6321,6 @@ index	text	sentence	token
 		312	started
 		312	off
 		312	.
-		312	
 313	They therefore poured boiling vinegar over the gates, and thus deadened the brightness of the polished copper, so that the horses should enter.	313	They
 		313	therefore
 		313	poured
@@ -6621,7 +6347,6 @@ index	text	sentence	token
 		313	should
 		313	enter
 		313	.
-		313	
 314	However, the polish of the copper is still partly perceived at the top, where no vinegar was poured.	314	However
 		314	,
 		314	the
@@ -6643,7 +6368,6 @@ index	text	sentence	token
 		314	was
 		314	poured
 		314	.
-		314	
 315	These gates are of the gates of Jerusalem.	315	These
 		315	gates
 		315	are
@@ -6653,7 +6377,6 @@ index	text	sentence	token
 		315	of
 		315	Jerusalem
 		315	.
-		315	
 316	The head of the academy has many servants.	316	The
 		316	head
 		316	of
@@ -6663,7 +6386,6 @@ index	text	sentence	token
 		316	many
 		316	servants
 		316	.
-		316	
 317	They flog any one not immediately executing his orders; therefore people fear him.	317	They
 		317	flog
 		317	any
@@ -6679,7 +6401,6 @@ index	text	sentence	token
 		317	fear
 		317	him
 		317	.
-		317	
 318	He, however, is righteous, humble, and full of knowledge of the law.	318	He
 		318	,
 		318	however
@@ -6697,7 +6418,6 @@ index	text	sentence	token
 		318	the
 		318	law
 		318	.
-		318	
 319	He is clothed in golden and coloured garments like the king; his palace also is hung with costly tapestry like that of the king.	319	He
 		319	is
 		319	clothed
@@ -6724,7 +6444,6 @@ index	text	sentence	token
 		319	the
 		319	king
 		319	.
-		319	
 320	Rabbi Petachia travelled in two days from Bagdad to the boundary of Old Babylon.72	320	Rabbi
 		320	Petachia
 		320	travelled
@@ -6749,7 +6468,6 @@ index	text	sentence	token
 		321	all
 		321	desolate
 		321	.
-		321	
 322	Near his house is a pillar, and the house of Daniel looks as if it were new.	322	Near
 		322	his
 		322	house
@@ -6769,7 +6487,6 @@ index	text	sentence	token
 		322	were
 		322	new
 		322	.
-		322	
 323	On the place where Daniel used to sit there is a stone, and where his feet rested a marble stone.	323	On
 		323	the
 		323	place
@@ -6792,7 +6509,6 @@ index	text	sentence	token
 		323	marble
 		323	stone
 		323	.
-		323	
 324	There is also a stone at the top, upon which the book lay out of which he used to write.	324	There
 		324	is
 		324	also
@@ -6815,7 +6531,6 @@ index	text	sentence	token
 		324	to
 		324	write
 		324	.
-		324	
 325	In the wall between the house of Daniel and that of Nebuchadnezzar is a small window through which he threw writings.	325	In
 		325	the
 		325	wall
@@ -6838,7 +6553,6 @@ index	text	sentence	token
 		325	threw
 		325	writings
 		325	.
-		325	
 326	There are steps below, upon which three pious sages used to sit before him.	326	There
 		326	are
 		326	steps
@@ -6855,7 +6569,6 @@ index	text	sentence	token
 		326	before
 		326	him
 		326	.
-		326	
 327	On his right, by his seat, a stone is fixed, and they declared that there was a tradition that there the vessels from the holy temple were hidden.	327	On
 		327	his
 		327	right
@@ -6888,7 +6601,6 @@ index	text	sentence	token
 		327	were
 		327	hidden
 		327	.
-		327	
 328	One day rulers who had heard of it came for the purpose of digging there ; but when they laid hold on the stone they all fell down dead, therefore they did not remove anything.	328	One
 		328	day
 		328	rulers
@@ -6926,7 +6638,6 @@ index	text	sentence	token
 		328	remove
 		328	anything
 		328	.
-		328	
 329	They then went from that room, and took him through the thickness of the wall to an upper room, wherein Daniel used to offer up his prayers.	329	They
 		329	then
 		329	went
@@ -6957,7 +6668,6 @@ index	text	sentence	token
 		329	his
 		329	prayers
 		329	.
-		329	
 330	The entrance is so inclined that it is exactly opposite Jerusalem, and it is so artificially made that nobody could point it out.	330	The
 		330	entrance
 		330	is
@@ -6983,12 +6693,10 @@ index	text	sentence	token
 		330	it
 		330	out
 		330	.
-		330	
 331	He then returned.	331	He
 		331	then
 		331	returned
 		331	.
-		331	
 332	He stated that he did not see any woman whilst staying in Babylon, because they were all veiled and modest.	332	He
 		332	stated
 		332	that
@@ -7011,7 +6719,6 @@ index	text	sentence	token
 		332	and
 		332	modest
 		332	.
-		332	
 333	Everyone has a bath in his courtyard; and no one offered up his prayer before he had bathed.	333	Everyone
 		333	has
 		333	a
@@ -7032,7 +6739,6 @@ index	text	sentence	token
 		333	had
 		333	bathed
 		333	.
-		333	
 334	All travellers there travel in the night, on account of the heat.	334	All
 		334	travellers
 		334	there
@@ -7047,7 +6753,6 @@ index	text	sentence	token
 		334	the
 		334	heat
 		334	.
-		334	
 335	Everything grows there in winter as here in summer.	335	Everything
 		335	grows
 		335	there
@@ -7058,7 +6763,6 @@ index	text	sentence	token
 		335	in
 		335	summer
 		335	.
-		335	
 336	Most of their labours are performed during the night.	336	Most
 		336	of
 		336	their
@@ -7069,7 +6773,6 @@ index	text	sentence	token
 		336	the
 		336	night
 		336	.
-		336	
 337	Babylon is, in fact, quite a different world.	337	Babylon
 		337	is
 		337	,
@@ -7081,7 +6784,6 @@ index	text	sentence	token
 		337	different
 		337	world
 		337	.
-		337	
 338	The Jews are devoted to the study of the law and the fear of God.	338	The
 		338	Jews
 		338	are
@@ -7098,14 +6800,12 @@ index	text	sentence	token
 		338	of
 		338	God
 		338	.
-		338	
 339	The Ishmaelites also are trustworthy.	339	The
 		339	Ishmaelites
 		339	also
 		339	are
 		339	trustworthy
 		339	.
-		339	
 340	When a merchant arrives there he deposits his goods in a house and goes away.	340	When
 		340	a
 		340	merchant
@@ -7122,7 +6822,6 @@ index	text	sentence	token
 		340	goes
 		340	away
 		340	.
-		340	
 341	The goods are then offered for sale in the market-places.	341	The
 		341	goods
 		341	are
@@ -7134,7 +6833,6 @@ index	text	sentence	token
 		341	the
 		341	market-places
 		341	.
-		341	
 342	If the price demanded by the merchant is given, it is good.	342	If
 		342	the
 		342	price
@@ -7149,7 +6847,6 @@ index	text	sentence	token
 		342	is
 		342	good
 		342	.
-		342	
 343	If not, the goods are shown to all the brokers.	343	If
 		343	not
 		343	,
@@ -7162,7 +6859,6 @@ index	text	sentence	token
 		343	the
 		343	brokers
 		343	.
-		343	
 344	Should they become spelled they are sold.	344	Should
 		344	they
 		344	become
@@ -7171,7 +6867,6 @@ index	text	sentence	token
 		344	are
 		344	sold
 		344	.
-		344	
 345	All that is done with honesty.	345	All
 		345	that
 		345	is
@@ -7179,7 +6874,6 @@ index	text	sentence	token
 		345	with
 		345	honesty
 		345	.
-		345	
 346	In Babylon there are thirty synagogues, besides that of Daniel.	346	In
 		346	Babylon
 		346	there
@@ -7192,7 +6886,6 @@ index	text	sentence	token
 		346	of
 		346	Daniel
 		346	.
-		346	
 347	However, there is no minister there, and he whom the head of the academy bids to do so acts as precentor.	347	However
 		347	,
 		347	there
@@ -7217,7 +6910,6 @@ index	text	sentence	token
 		347	as
 		347	precentor
 		347	.
-		347	
 348	It is done in this manner.	348	It
 		348	is
 		348	done
@@ -7225,7 +6917,6 @@ index	text	sentence	token
 		348	this
 		348	manner
 		348	.
-		348	
 349	Some one recites the hundred benedictions, and those present say Amen ; then some one recites the prayer of Baruch Sheamar73 with a loud voice, another rises and recites all the Praises, who is joined by the whole congregation; his voice, however, is heard above them all that they should not recite too fast, and they all follow him.	349	Some
 		349	one
 		349	recites
@@ -7294,7 +6985,6 @@ index	text	sentence	token
 		349	follow
 		349	him
 		349	.
-		349	
 350	He recites the prayer of Yeshtabach before Vayosha, and then goes on with the other prayers.	350	He
 		350	recites
 		350	the
@@ -7313,7 +7003,6 @@ index	text	sentence	token
 		350	other
 		350	prayers
 		350	.
-		350	
 351	Thus the prayer is divided between several precentors.	351	Thus
 		351	the
 		351	prayer
@@ -7323,7 +7012,6 @@ index	text	sentence	token
 		351	several
 		351	precentors
 		351	.
-		351	
 352	No one talks to his neighbour at synagogue; all stand decorously, and they are all at synagogue without shoes, barefooted.	352	No
 		352	one
 		352	talks
@@ -7348,7 +7036,6 @@ index	text	sentence	token
 		352	,
 		352	barefooted
 		352	.
-		352	
 353	When, whilst practising, they should be mistaken in a tune, the head of the academy gives them a sign with his finger; they then understand what is the tune.	353	When
 		353	,
 		353	whilst
@@ -7383,7 +7070,6 @@ index	text	sentence	token
 		353	the
 		353	tune
 		353	.
-		353	
 354	If there be any young man having a pleasing voice he recites a psalm.	354	If
 		354	there
 		354	be
@@ -7399,7 +7085,6 @@ index	text	sentence	token
 		354	a
 		354	psalm
 		354	.
-		354	
 355	On the half-holidays74 they recite the psalms with the accompaniment of musical instruments, and they know by tradition with what tunes.75	355	On
 		355	the
 		355	half-holidays
@@ -7449,7 +7134,6 @@ index	text	sentence	token
 		356	each
 		356	psalm
 		356	.
-		356	
 357	When Rabbi Petachia was in the room of Daniel they showed him a very deep lions’ den, and also a lime-kiln half filled with water.	357	When
 		357	Rabbi
 		357	Petachia
@@ -7477,7 +7161,6 @@ index	text	sentence	token
 		357	with
 		357	water
 		357	.
-		357	
 358	Whoever is attacked by fever bathes therein and is healed.	358	Whoever
 		358	is
 		358	attacked
@@ -7489,7 +7172,6 @@ index	text	sentence	token
 		358	is
 		358	healed
 		358	.
-		358	
 359	Whilst at Bagdad he saw ambassadors from the kings of Meshech, for Magog is about ten days’ journey from thence.77	359	Whilst
 		359	at
 		359	Bagdad
@@ -7576,7 +7258,6 @@ index	text	sentence	token
 		362	of
 		362	Amram
 		362	.
-		362	
 363	If not, he threatened to lay waste their country.	363	If
 		363	not
 		363	,
@@ -7588,7 +7269,6 @@ index	text	sentence	token
 		363	their
 		363	country
 		363	.
-		363	
 364	However, they delayed until the angel commenced to lay waste their country, when the kings of Meshech and all the inhabitants of their countries became proselytes, and they sent to the head of the academy a request to send them some disciples of the wise.	364	However
 		364	,
 		364	they
@@ -7638,7 +7318,6 @@ index	text	sentence	token
 		364	the
 		364	wise
 		364	.
-		364	
 365	Every disciple of the wise that is poor goes there to teach them the law and Babylonian Talmud.80	365	Every
 		365	disciple
 		365	of
@@ -7671,7 +7350,6 @@ index	text	sentence	token
 		366	to
 		366	study
 		366	.
-		366	
 367	He saw the ambassadors visit the grave of Ezekiel when they heard of the miracles, and that they who prayed there were heard.	367	He
 		367	saw
 		367	the
@@ -7697,7 +7375,6 @@ index	text	sentence	token
 		367	were
 		367	heard
 		367	.
-		367	
 368	Rabbi Petachia said that the mountains of Ararat are five days’ journey from Babylon.	368	Rabbi
 		368	Petachia
 		368	said
@@ -7713,7 +7390,6 @@ index	text	sentence	token
 		368	from
 		368	Babylon
 		368	.
-		368	
 369	The mountains of Ararat are high.	369	The
 		369	mountains
 		369	of
@@ -7721,7 +7397,6 @@ index	text	sentence	token
 		369	are
 		369	high
 		369	.
-		369	
 370	There is one high mountain, above which there are four others, of which two are opposite two.	370	There
 		370	is
 		370	one
@@ -7742,7 +7417,6 @@ index	text	sentence	token
 		370	opposite
 		370	two
 		370	.
-		370	
 371	The ark of Noah was carried between these mountains and could not get out.	371	The
 		371	ark
 		371	of
@@ -7758,7 +7432,6 @@ index	text	sentence	token
 		371	get
 		371	out
 		371	.
-		371	
 372	However, the ark is not there, for it has decayed.	372	However
 		372	,
 		372	the
@@ -7772,7 +7445,6 @@ index	text	sentence	token
 		372	has
 		372	decayed
 		372	.
-		372	
 373	The mountains are full of thorns and other herbs; when the dew falls upon them, manna falls upon them, but when the sun shines warm it melts.	373	The
 		373	mountains
 		373	are
@@ -7804,7 +7476,6 @@ index	text	sentence	token
 		373	it
 		373	melts
 		373	.
-		373	
 374	Whatever portion of it is gathered in the night, if it be kept, likewise melts.	374	Whatever
 		374	portion
 		374	of
@@ -7823,7 +7494,6 @@ index	text	sentence	token
 		374	likewise
 		374	melts
 		374	.
-		374	
 375	They therefore carry off the manna together with the thorns and herbs, which they are obliged to cut off, since they are very hard.	375	They
 		375	therefore
 		375	carry
@@ -7851,14 +7521,12 @@ index	text	sentence	token
 		375	very
 		375	hard
 		375	.
-		375	
 376	It is white like snow.	376	It
 		376	is
 		376	white
 		376	like
 		376	snow
 		376	.
-		376	
 377	The herbs and nettles are very bitter.	377	The
 		377	herbs
 		377	and
@@ -7867,7 +7535,6 @@ index	text	sentence	token
 		377	very
 		377	bitter
 		377	.
-		377	
 378	However, when boiled together with the manna they become sweeter than honey and every other sweet stuff.	378	However
 		378	,
 		378	when
@@ -7887,7 +7554,6 @@ index	text	sentence	token
 		378	sweet
 		378	stuff
 		378	.
-		378	
 379	Were it boiled without the nettles the limbs of the partaker thereof would become disjointed for excessive sweetness.	379	Were
 		379	it
 		379	boiled
@@ -7907,14 +7573,12 @@ index	text	sentence	token
 		379	excessive
 		379	sweetness
 		379	.
-		379	
 380	They look like small grains.	380	They
 		380	look
 		380	like
 		380	small
 		380	grains
 		380	.
-		380	
 381	They gave him a few to taste; they melted in his mouth; they were sweet; penetrating into all his limbs, so that he could not bear the sweetness.81	381	They
 		381	gave
 		381	him
@@ -8073,7 +7737,6 @@ index	text	sentence	token
 		383	bear
 		383	it
 		383	.
-		383	
 384	He then said to his people that there was nothing substantial either in Mahomet or his religion, for they knew that the body of Baruch, son of Neriah, was preserved, that his praying scarf protruded from his tomb, that he was a disciple to a prophet, and that the Ishmaelites who dug up his grave perished, whilst the Jews were not hurt; therefore we may know that the Jews hold by the law kept by Baruch, son of Neriah.	384	He
 		384	then
 		384	said
@@ -8163,7 +7826,6 @@ index	text	sentence	token
 		384	of
 		384	Neriah
 		384	.
-		384	
 385	He, however, could not gain time to convert himself and his people before he died, and thus the resolution of converting all his people became void.	385	He
 		385	,
 		385	however
@@ -8194,7 +7856,6 @@ index	text	sentence	token
 		385	became
 		385	void
 		385	.
-		385	
 386	Ezra, the scribe, is buried on the boundary of the land of Babylon.84	386	Ezra
 		386	,
 		386	the
@@ -8240,7 +7901,6 @@ index	text	sentence	token
 		387	his
 		387	grave
 		387	.
-		387	
 388	Behind the upper chamber of Daniel is a beautiful pleasure garden, wherein the palm trees, as well as his well, are still in existence.	388	Behind
 		388	the
 		388	upper
@@ -8269,7 +7929,6 @@ index	text	sentence	token
 		388	in
 		388	existence
 		388	.
-		388	
 389	Whoever of us stays in the place some little time understands their language, for it is nearly allied to ours, or the Targum: for instance, derech becomes droch, lechem, lechom.85	389	Whoever
 		389	of
 		389	us
@@ -8338,7 +7997,6 @@ index	text	sentence	token
 		391	or
 		391	lime
 		391	.
-		391	
 392	They then come in the morning and gather the herbs upon which the gold is found.	392	They
 		392	then
 		392	come
@@ -8356,7 +8014,6 @@ index	text	sentence	token
 		392	is
 		392	found
 		392	.
-		392	
 393	Therefore gold coins are found there, and they possess much gold.	393	Therefore
 		393	gold
 		393	coins
@@ -8370,7 +8027,6 @@ index	text	sentence	token
 		393	much
 		393	gold
 		393	.
-		393	
 394	He then turned to the west, came back to Nineveh, from Nineveh to Nisibis.	394	He
 		394	then
 		394	turned
@@ -8388,7 +8044,6 @@ index	text	sentence	token
 		394	to
 		394	Nisibis
 		394	.
-		394	
 395	There is the synagogue which Ezra built; upon the stone is engraved “Ezra, the Scribe.” He then went to Haran, and to Aram Naharaim, situate between two rivers.87	395	There
 		395	is
 		395	the
@@ -8462,7 +8117,6 @@ index	text	sentence	token
 		397	to
 		397	city
 		397	.
-		397	
 398	However, there is no occasion to write it down.	398	However
 		398	,
 		398	there
@@ -8474,7 +8128,6 @@ index	text	sentence	token
 		398	it
 		398	down
 		398	.
-		398	
 399	From thence (he went) to Haleb,89 that is Aram Zobah.	399	From
 		399	thence
 		399	(
@@ -8490,13 +8143,11 @@ index	text	sentence	token
 		399	Aram
 		399	Zobah
 		399	.
-		399	
 400	Why is it called Haleb? 	400	Why
 		400	is
 		400	it
 		400	called
 		400	Haleb?
-		400	
 401	Because on the mountain was the flock of Abraham our father.	401	Because
 		401	on
 		401	the
@@ -8509,7 +8160,6 @@ index	text	sentence	token
 		401	our
 		401	father
 		401	.
-		401	
 402	Steps led down from the mountain, whence he was accustomed to reach milk to the poor.	402	Steps
 		402	led
 		402	down
@@ -8528,7 +8178,6 @@ index	text	sentence	token
 		402	the
 		402	poor
 		402	.
-		402	
 403	From thence he went to Damascus.	403	From
 		403	thence
 		403	he
@@ -8536,7 +8185,6 @@ index	text	sentence	token
 		403	to
 		403	Damascus
 		403	.
-		403	
 404	This is a large city; the King of Egypt rules over it.	404	This
 		404	is
 		404	a
@@ -8551,7 +8199,6 @@ index	text	sentence	token
 		404	over
 		404	it
 		404	.
-		404	
 405	There are there about 10,000 Jews, who have a prince.	405	There
 		405	are
 		405	there
@@ -8566,7 +8213,6 @@ index	text	sentence	token
 		405	a
 		405	prince
 		405	.
-		405	
 406	The head of their academy is Rabbi Esra, who is full of the knowledge of the law, for Rabbi Samuel, head of the academy of Babylon, ordained him.	406	The
 		406	head
 		406	of
@@ -8600,7 +8246,6 @@ index	text	sentence	token
 		406	ordained
 		406	him
 		406	.
-		406	
 407	Damascus has goodly lands; it lies in the midst of gardens and pleasure grounds.	407	Damascus
 		407	has
 		407	goodly
@@ -8617,7 +8262,6 @@ index	text	sentence	token
 		407	pleasure
 		407	grounds
 		407	.
-		407	
 408	There are also high fountains from which the water pours, and many large pools.	408	There
 		408	are
 		408	also
@@ -8634,7 +8278,6 @@ index	text	sentence	token
 		408	large
 		408	pools
 		408	.
-		408	
 409	The Ishmaelites say, If Paradise be on earth then Damascus is the Paradise, and if it be in heaven, then Damascus is opposite on the earth.	409	The
 		409	Ishmaelites
 		409	say
@@ -8665,7 +8308,6 @@ index	text	sentence	token
 		409	the
 		409	earth
 		409	.
-		409	
 410	Whosoever goes to Damascus sees mount Seir on the side, as also mount Hermon,90 and mount Lebanon.	410	Whosoever
 		410	goes
 		410	to
@@ -8687,7 +8329,6 @@ index	text	sentence	token
 		410	mount
 		410	Lebanon
 		410	.
-		410	
 411	In the land of Sihon and Og there is neither grass nor plant, as though it had been overturned like Sodom and Gomorra.	411	In
 		411	the
 		411	land
@@ -8713,7 +8354,6 @@ index	text	sentence	token
 		411	and
 		411	Gomorra
 		411	.
-		411	
 412	He saw there a grave80 cubits long.	412	He
 		412	saw
 		412	there
@@ -8723,7 +8363,6 @@ index	text	sentence	token
 		412	cubits
 		412	long
 		412	.
-		412	
 413	He was told that it was the grave of Shem, son of Noah.	413	He
 		413	was
 		413	told
@@ -8739,7 +8378,6 @@ index	text	sentence	token
 		413	of
 		413	Noah
 		413	.
-		413	
 414	But the Jews did not tell him so.	414	But
 		414	the
 		414	Jews
@@ -8749,7 +8387,6 @@ index	text	sentence	token
 		414	him
 		414	so
 		414	.
-		414	
 415	There is about two days’ journey to Syria.	415	There
 		415	is
 		415	about
@@ -8759,7 +8396,6 @@ index	text	sentence	token
 		415	to
 		415	Syria
 		415	.
-		415	
 416	The Jordan passes through a cave, as they said, from the cave of Paneas.	416	The
 		416	Jordan
 		416	passes
@@ -8777,7 +8413,6 @@ index	text	sentence	token
 		416	of
 		416	Paneas
 		416	.
-		416	
 417	He then came to Tiberias; at which place there is a congregation, for there are also congregations in the land of Israel, which, however, only number one hundred, two hundred, or three hundred families.91	417	He
 		417	then
 		417	came
@@ -8836,7 +8471,6 @@ index	text	sentence	token
 		418	,
 		418	built
 		418	.
-		418	
 419	At Sepphoris there is buried our holy rabbi.92	419	At
 		419	Sepphoris
 		419	there
@@ -8855,7 +8489,6 @@ index	text	sentence	token
 		420	his
 		420	grave
 		420	.
-		420	
 421	This odour is smelt at the distance of a mile from his grave.	421	This
 		421	odour
 		421	is
@@ -8870,7 +8503,6 @@ index	text	sentence	token
 		421	his
 		421	grave
 		421	.
-		421	
 422	The graves in the land of Israel are in hollows, but not those of Babylon.	422	The
 		422	graves
 		422	in
@@ -8888,7 +8520,6 @@ index	text	sentence	token
 		422	of
 		422	Babylon
 		422	.
-		422	
 423	For in Babylon water appears, and therefore they cannot dig deep caves.	423	For
 		423	in
 		423	Babylon
@@ -8903,7 +8534,6 @@ index	text	sentence	token
 		423	deep
 		423	caves
 		423	.
-		423	
 424	Of the posterity of Rabbi Yehoodah a descendant exists, whose name is Rabbi Nehorai, who has a son whose name is Yehoodah, after Rabbi Yehoodah, the prince.93	424	Of
 		424	the
 		424	posterity
@@ -8949,7 +8579,6 @@ index	text	sentence	token
 		425	Rabbi
 		425	Yehoodah
 		425	.
-		425	
 426	Rabbi Nehorai is a physician, and sells spices in the market.	426	Rabbi
 		426	Nehorai
 		426	is
@@ -8963,7 +8592,6 @@ index	text	sentence	token
 		426	the
 		426	market
 		426	.
-		426	
 427	His children are with him in the shop.	427	His
 		427	children
 		427	are
@@ -8973,7 +8601,6 @@ index	text	sentence	token
 		427	the
 		427	shop
 		427	.
-		427	
 428	They are wrapt in that they should not look about.	428	They
 		428	are
 		428	wrapt
@@ -8985,7 +8612,6 @@ index	text	sentence	token
 		428	look
 		428	about
 		428	.
-		428	
 429	He is a disciple of the wise and righteous.	429	He
 		429	is
 		429	a
@@ -8996,7 +8622,6 @@ index	text	sentence	token
 		429	and
 		429	righteous
 		429	.
-		429	
 430	Tiberias, Sepphoris,94 and all the cities in the plain, belong to Lower Galilea.	430	Tiberias
 		430	,
 		430	Sepphoris
@@ -9015,7 +8640,6 @@ index	text	sentence	token
 		430	Lower
 		430	Galilea
 		430	.
-		430	
 431	He also saw Usha and Shifrem, where Rabbi Gamliel lived at the seat of the Sanhedrin.95	431	He
 		431	also
 		431	saw
@@ -9081,7 +8705,6 @@ index	text	sentence	token
 		434	and
 		434	high
 		434	.
-		434	
 435	On one side of the cave are buried Shamai and his disciples; and on the other Hillel and his disciples.	435	On
 		435	one
 		435	side
@@ -9104,7 +8727,6 @@ index	text	sentence	token
 		435	his
 		435	disciples
 		435	.
-		435	
 436	In the middle of the cave there is a large stone, hollow like a cup, which is capable of containing more than forty seah.98	436	In
 		436	the
 		436	middle
@@ -9147,7 +8769,6 @@ index	text	sentence	token
 		437	sweet
 		437	water
 		437	.
-		437	
 438	One may then wash his hands and feet, and pray, imploring God for what one desires.	438	One
 		438	may
 		438	then
@@ -9167,7 +8788,6 @@ index	text	sentence	token
 		438	one
 		438	desires
 		438	.
-		438	
 439	The stone, however, is not hollow from below, for the water does not come from the bottom, as it only occurs in honour of a man of worth, since to an unworthy man the water does not appear.	439	The
 		439	stone
 		439	,
@@ -9212,7 +8832,6 @@ index	text	sentence	token
 		439	not
 		439	appear
 		439	.
-		439	
 440	Though one should draw from the stone a thousand jugs of water, it would not be diminished, but would remain full as before.	440	Though
 		440	one
 		440	should
@@ -9239,7 +8858,6 @@ index	text	sentence	token
 		440	as
 		440	before
 		440	.
-		440	
 441	He then went to Upper Galilea and stayed among the mountains.	441	He
 		441	then
 		441	went
@@ -9252,7 +8870,6 @@ index	text	sentence	token
 		441	the
 		441	mountains
 		441	.
-		441	
 442	There is Nithai, the Arbelite, buried at Arbel.99	442	There
 		442	is
 		442	Nithai
@@ -9282,7 +8899,6 @@ index	text	sentence	token
 		443	is
 		443	buried
 		443	.
-		443	
 444	The mountain is ascended by means of steps formed in the mountain.	444	The
 		444	mountain
 		444	is
@@ -9296,7 +8912,6 @@ index	text	sentence	token
 		444	the
 		444	mountain
 		444	.
-		444	
 445	In the midst of the mountain Joshua, son of Nun, is buried; and by his side Kaleb, son of Jephunah.	445	In
 		445	the
 		445	midst
@@ -9322,7 +8937,6 @@ index	text	sentence	token
 		445	of
 		445	Jephunah
 		445	.
-		445	
 446	Close by, a spring of good water gushes from the mountain ; there are beautiful palaces erected near the graves.	446	Close
 		446	by
 		446	,
@@ -9345,7 +8959,6 @@ index	text	sentence	token
 		446	the
 		446	graves
 		446	.
-		446	
 447	Every building in the land of Israel is of stone.	447	Every
 		447	building
 		447	in
@@ -9357,7 +8970,6 @@ index	text	sentence	token
 		447	of
 		447	stone
 		447	.
-		447	
 448	Near one of the palaces a footprint is perceptible, like that of a human being treading on snow.	448	Near
 		448	one
 		448	of
@@ -9378,7 +8990,6 @@ index	text	sentence	token
 		448	on
 		448	snow
 		448	.
-		448	
 449	This is that which the angel imprinted after the death of Joshua, son of Nun, when the land of Israel was shaken.101	449	This
 		449	is
 		449	that
@@ -9424,7 +9035,6 @@ index	text	sentence	token
 		450	three
 		450	days
 		450	.
-		450	
 451	From thence he went to the grave of Jonah, son of Amittai.	451	From
 		451	thence
 		451	he
@@ -9439,7 +9049,6 @@ index	text	sentence	token
 		451	of
 		451	Amittai
 		451	.
-		451	
 452	There is a beautiful palace built over it.	452	There
 		452	is
 		452	a
@@ -9449,7 +9058,6 @@ index	text	sentence	token
 		452	over
 		452	it
 		452	.
-		452	
 453	Near it is a pleasure garden wherein all kinds of fruit are found.	453	Near
 		453	it
 		453	is
@@ -9464,7 +9072,6 @@ index	text	sentence	token
 		453	are
 		453	found
 		453	.
-		453	
 454	The keeper of the pleasure garden is a Gentile.	454	The
 		454	keeper
 		454	of
@@ -9475,7 +9082,6 @@ index	text	sentence	token
 		454	a
 		454	Gentile
 		454	.
-		454	
 455	Nevertheless, when Gentiles come there he gives them no fruit, but when Jews come he gives them a friendly reception, saying, Jonah, son of Amittai, was a Jew, therefore it is due to you to partake of what is his, and then gives to the Jews to eat thereof.	455	Nevertheless
 		455	,
 		455	when
@@ -9534,7 +9140,6 @@ index	text	sentence	token
 		455	eat
 		455	thereof
 		455	.
-		455	
 456	He then came to Rachel’s grave, at Ephroth, half a day’s journey from Jerusalem.	456	He
 		456	then
 		456	came
@@ -9552,7 +9157,6 @@ index	text	sentence	token
 		456	from
 		456	Jerusalem
 		456	.
-		456	
 457	Upon her grave are eleven stones, according to the number of the eleven tribes; and because Benjamin was only born at her death there is no stone erected for him.	457	Upon
 		457	her
 		457	grave
@@ -9586,13 +9190,11 @@ index	text	sentence	token
 		457	for
 		457	him
 		457	.
-		457	
 458	They are of marble.	458	They
 		458	are
 		458	of
 		458	marble
 		458	.
-		458	
 459	The stone of Jacob, however, consisting of one piece of marble, above all of them, is very large, a load for many persons.	459	The
 		459	stone
 		459	of
@@ -9622,7 +9224,6 @@ index	text	sentence	token
 		459	many
 		459	persons
 		459	.
-		459	
 460	A mile from hence are priests who took away the large stone from the grave and placed it in a building for strange service.102	460	A
 		460	mile
 		460	from
@@ -9664,7 +9265,6 @@ index	text	sentence	token
 		461	as
 		461	before
 		461	.
-		461	
 462	This was repeated several times, until at last they abstained from carrying it away.	462	This
 		462	was
 		462	repeated
@@ -9681,7 +9281,6 @@ index	text	sentence	token
 		462	it
 		462	away
 		462	.
-		462	
 463	On the stone is engraved the name of Jacob.	463	On
 		463	the
 		463	stone
@@ -9692,7 +9291,6 @@ index	text	sentence	token
 		463	of
 		463	Jacob
 		463	.
-		463	
 464	He also saw the stone over the well near Haran.	464	He
 		464	also
 		464	saw
@@ -9704,10 +9302,7 @@ index	text	sentence	token
 		464	near
 		464	Haran
 		464	.
-		464	
-465	, Forty persons could not move it from its place.	465	
-		465	,
-		465	Forty
+465	Forty persons could not move it from its place.	465	Forty
 		465	persons
 		465	could
 		465	not
@@ -9717,7 +9312,6 @@ index	text	sentence	token
 		465	its
 		465	place
 		465	.
-		465	
 466	The well is about thirty cubits deep; there is, however, no water in it.	466	The
 		466	well
 		466	is
@@ -9736,14 +9330,12 @@ index	text	sentence	token
 		466	in
 		466	it
 		466	.
-		466	
 467	He then went to Jerusalem.	467	He
 		467	then
 		467	went
 		467	to
 		467	Jerusalem
 		467	.
-		467	
 468	The only Jew there is Rabbi Abraham, the dyer,103 and he pays a heavy tax to the king to be permitted to remain there.	468	The
 		468	only
 		468	Jew
@@ -9772,7 +9364,6 @@ index	text	sentence	token
 		468	remain
 		468	there
 		468	.
-		468	
 469	They showed him Mount Olivet, and he saw that the pavement was three cubits high, which is the breadth thereof.104	469	They
 		469	showed
 		469	him
@@ -9823,7 +9414,6 @@ index	text	sentence	token
 		470	the
 		470	Ishmaelites
 		470	.
-		470	
 471	Then came worthless persons who brought to the king of the Ishmaelites the slanderous report, saying, There is an old man among us who knows the locality of the temple and the court.	471	Then
 		471	came
 		471	worthless
@@ -9860,7 +9450,6 @@ index	text	sentence	token
 		471	the
 		471	court
 		471	.
-		471	
 472	Then the king urged him until he pointed it out.	472	Then
 		472	the
 		472	king
@@ -9872,7 +9461,6 @@ index	text	sentence	token
 		472	it
 		472	out
 		472	.
-		472	
 473	The king was a friend of the Jews, and said, I will build here a temple, and none but Jews shall pray therein.	473	The
 		473	king
 		473	was
@@ -9900,7 +9488,6 @@ index	text	sentence	token
 		473	pray
 		473	therein
 		473	.
-		473	
 474	He built the temple of marble stone, a beautiful structure consisting of red, green, and variegated marble.	474	He
 		474	built
 		474	the
@@ -9922,7 +9509,6 @@ index	text	sentence	token
 		474	variegated
 		474	marble
 		474	.
-		474	
 475	Then came Gentiles and put images in it; but they fell down.	475	Then
 		475	came
 		475	Gentiles
@@ -9937,7 +9523,6 @@ index	text	sentence	token
 		475	fell
 		475	down
 		475	.
-		475	
 476	They then fixed the images in the thickness of the wall; but in the holy of holies they could not place any.105	476	They
 		476	then
 		476	fixed
@@ -9975,7 +9560,6 @@ index	text	sentence	token
 		477	another
 		477	side
 		477	.
-		477	
 478	The ground is cleft, and is called Valley of the Son of Hinom, where their burial place is.	478	The
 		478	ground
 		478	is
@@ -9997,7 +9581,6 @@ index	text	sentence	token
 		478	place
 		478	is
 		478	.
-		478	
 479	The circuit of the land of Israel may be made in about three days.	479	The
 		479	circuit
 		479	of
@@ -10013,7 +9596,6 @@ index	text	sentence	token
 		479	three
 		479	days
 		479	.
-		479	
 480	He saw the salt sea of Sodom and Gomorra.	480	He
 		480	saw
 		480	the
@@ -10024,14 +9606,12 @@ index	text	sentence	token
 		480	and
 		480	Gomorra
 		480	.
-		480	
 481	There is no herb there.	481	There
 		481	is
 		481	no
 		481	herb
 		481	there
 		481	.
-		481	
 482	As to the pillar of salt, he said that he did not see it, and that it no longer existed.	482	As
 		482	to
 		482	the
@@ -10055,7 +9635,6 @@ index	text	sentence	token
 		482	longer
 		482	existed
 		482	.
-		482	
 483	Nor did he see the stones which Joshua erected.107	483	Nor
 		483	did
 		483	he
@@ -10073,7 +9652,6 @@ index	text	sentence	token
 		484	to
 		484	Hebron
 		484	.
-		484	
 485	He saw over the cave a large palace, which Abraham, our father, built.	485	He
 		485	saw
 		485	over
@@ -10091,7 +9669,6 @@ index	text	sentence	token
 		485	,
 		485	built
 		485	.
-		485	
 486	There are in it large stones of twenty-seven or twenty-eight cubits.	486	There
 		486	are
 		486	in
@@ -10104,7 +9681,6 @@ index	text	sentence	token
 		486	twenty-eight
 		486	cubits
 		486	.
-		486	
 487	Every corner stone is about seventy cubits.	487	Every
 		487	corner
 		487	stone
@@ -10113,7 +9689,6 @@ index	text	sentence	token
 		487	seventy
 		487	cubits
 		487	.
-		487	
 488	He gave to the keeper of the key of the cave a gold piece to take him to the graves of the fathers; and he opened it, and behold there was over the entrance an image,108 and inside three cells.	488	He
 		488	gave
 		488	to
@@ -10159,7 +9734,6 @@ index	text	sentence	token
 		488	three
 		488	cells
 		488	.
-		488	
 489	The Jews of Acco had told him previously, Beware, for they have placed three corpses at the entrance of the cave, saying that these were the patriarchs; but they are not.	489	The
 		489	Jews
 		489	of
@@ -10196,7 +9770,6 @@ index	text	sentence	token
 		489	are
 		489	not
 		489	.
-		489	
 490	But the keeper of the cave said that they were.	490	But
 		490	the
 		490	keeper
@@ -10208,7 +9781,6 @@ index	text	sentence	token
 		490	they
 		490	were
 		490	.
-		490	
 491	He, therefore, gave him another gold piece to take him inside the cave.	491	He
 		491	,
 		491	therefore
@@ -10225,7 +9797,6 @@ index	text	sentence	token
 		491	the
 		491	cave
 		491	.
-		491	
 492	He then opened it, saying, I never permitted a Gentile before to enter this gate.	492	He
 		492	then
 		492	opened
@@ -10244,7 +9815,6 @@ index	text	sentence	token
 		492	this
 		492	gate
 		492	.
-		492	
 493	He then brought lights and they went inside, and had to descend steps, and before he entered the cave he had outside to descend fifteen steps.	493	He
 		493	then
 		493	brought
@@ -10274,7 +9844,6 @@ index	text	sentence	token
 		493	fifteen
 		493	steps
 		493	.
-		493	
 494	They then came to a very spacious cave.	494	They
 		494	then
 		494	came
@@ -10284,7 +9853,6 @@ index	text	sentence	token
 		494	spacious
 		494	cave
 		494	.
-		494	
 495	In the midst of the cave there is an entrance in the ground.	495	In
 		495	the
 		495	midst
@@ -10299,7 +9867,6 @@ index	text	sentence	token
 		495	the
 		495	ground
 		495	.
-		495	
 496	The ground consists all of rock; and all the graves are in the hollow of the rock; and over that entrance, in the middle, are placed very thick iron bars, the like no man can make unless through heavenly instrumentality, and a storm-wind blows from between the holes between bar and bar.	496	The
 		496	ground
 		496	consists
@@ -10359,7 +9926,6 @@ index	text	sentence	token
 		496	and
 		496	bar
 		496	.
-		496	
 497	He could not enter there with lights.	497	He
 		497	could
 		497	not
@@ -10368,7 +9934,6 @@ index	text	sentence	token
 		497	with
 		497	lights
 		497	.
-		497	
 498	Then he understood that the fathers were there, and he prayed there.	498	Then
 		498	he
 		498	understood
@@ -10383,7 +9948,6 @@ index	text	sentence	token
 		498	prayed
 		498	there
 		498	.
-		498	
 499	Whenever he bent towards65 the mouth of the cave a storm-wind went forth and cast him backwards.	499	Whenever
 		499	he
 		499	bent
@@ -10403,7 +9967,6 @@ index	text	sentence	token
 		499	him
 		499	backwards
 		499	.
-		499	
 500	At Jerusalem there is a gate, its name is, Gate of Mercy.109	500	At
 		500	Jerusalem
 		500	there
@@ -10429,7 +9992,6 @@ index	text	sentence	token
 		501	and
 		501	lime
 		501	.
-		501	
 502	No Jew, and still less a Gentile, is permitted to go there.	502	No
 		502	Jew
 		502	,
@@ -10445,7 +10007,6 @@ index	text	sentence	token
 		502	go
 		502	there
 		502	.
-		502	
 503	One day the Gentiles wished to remove the rubbish and open the gate, but the whole land of Israel shook, and there was a tumult in the city until they left off.	503	One
 		503	day
 		503	the
@@ -10481,7 +10042,6 @@ index	text	sentence	token
 		503	left
 		503	off
 		503	.
-		503	
 504	There is a tradition amongst the Jews that the divine glory appeared through this gate, and that through it it would return.	504	There
 		504	is
 		504	a
@@ -10506,7 +10066,6 @@ index	text	sentence	token
 		504	would
 		504	return
 		504	.
-		504	
 505	It is exactly opposite Mount Olivet.	505	It
 		505	is
 		505	exactly
@@ -10514,7 +10073,6 @@ index	text	sentence	token
 		505	Mount
 		505	Olivet
 		505	.
-		505	
 506	Mount Olivet is lower than it.	506	Mount
 		506	Olivet
 		506	is
@@ -10522,7 +10080,6 @@ index	text	sentence	token
 		506	than
 		506	it
 		506	.
-		506	
 507	Nevertheless, whoever stands on that mountain may see it.	507	Nevertheless
 		507	,
 		507	whoever
@@ -10534,7 +10091,6 @@ index	text	sentence	token
 		507	see
 		507	it
 		507	.
-		507	
 508	His feet will stand that day on Mount Olivet.110	508	His
 		508	feet
 		508	will
@@ -10561,14 +10117,12 @@ index	text	sentence	token
 		509	that
 		509	gate
 		509	.
-		509	
 510	Prayers are offered up there.	510	Prayers
 		510	are
 		510	offered
 		510	up
 		510	there
 		510	.
-		510	
 511	The Tower of David still exists.	511	The
 		511	Tower
 		511	of
@@ -10576,7 +10130,6 @@ index	text	sentence	token
 		511	still
 		511	exists
 		511	.
-		511	
 512	At Damascus there is a synagogue which Elihsa built, also one built by Rabbi Elieser, son of Asariah;111 it is large, and service is performed in it.	512	At
 		512	Damascus
 		512	there
@@ -10610,7 +10163,6 @@ index	text	sentence	token
 		512	in
 		512	it
 		512	.
-		512	
 513	Among the oaks of Mamre, at a distance from there, dwelled an old man, who was near death when Rabbi Petachia arrived there, and he told his son to show Rabbi Petachia the tree under which the angels rested.	513	Among
 		513	the
 		513	oaks
@@ -10655,7 +10207,6 @@ index	text	sentence	token
 		513	angels
 		513	rested
 		513	.
-		513	
 514	He also showed him a fine olive tree cleft into three parts with a stone in the middle.	514	He
 		514	also
 		514	showed
@@ -10675,7 +10226,6 @@ index	text	sentence	token
 		514	the
 		514	middle
 		514	.
-		514	
 515	They have a tradition that when the angels sat down the tree was cleft into three parts, each resting under one tree whilst sitting on the stone.	515	They
 		515	have
 		515	a
@@ -10705,7 +10255,6 @@ index	text	sentence	token
 		515	the
 		515	stone
 		515	.
-		515	
 516	The fruits of the tree are very sweet.	516	The
 		516	fruits
 		516	of
@@ -10715,7 +10264,6 @@ index	text	sentence	token
 		516	very
 		516	sweet
 		516	.
-		516	
 517	By the tree is the well of Sarah; its waters are clear and sweet.	517	By
 		517	the
 		517	tree
@@ -10732,7 +10280,6 @@ index	text	sentence	token
 		517	and
 		517	sweet
 		517	.
-		517	
 518	By the well is the tent of Sarah.	518	By
 		518	the
 		518	well
@@ -10742,7 +10289,6 @@ index	text	sentence	token
 		518	of
 		518	Sarah
 		518	.
-		518	
 519	Close by Mamre is a plain, and on the other side there are about a hundred cubits from the well of Sarah to the well of Abraham; its water is very agreeable.	519	Close
 		519	by
 		519	Mamre
@@ -10778,7 +10324,6 @@ index	text	sentence	token
 		519	very
 		519	agreeable
 		519	.
-		519	
 520	They also showed him a stone of twenty-eight cubits, upon which Abraham, our father, was circumcised.	520	They
 		520	also
 		520	showed
@@ -10799,7 +10344,6 @@ index	text	sentence	token
 		520	was
 		520	circumcised
 		520	.
-		520	
 521	The old man affirmed, with an oath, that now that he was quitting the world and would not say a falsehood, that one day, on the fast of the Day of Atonement, he saw a fiery angel and a fiery horse by the well of Sarah, who was offering up his devotion.	521	The
 		521	old
 		521	man
@@ -10859,7 +10403,6 @@ index	text	sentence	token
 		521	his
 		521	devotion
 		521	.
-		521	
 522	In Greece the Jews are subject to great oppression; and even compelled to perform menial work personally.	522	In
 		522	Greece
 		522	the
@@ -10879,7 +10422,6 @@ index	text	sentence	token
 		522	work
 		522	personally
 		522	.
-		522	
 523	There are youths among them who are expert in the use of the divine name, and conjure evil spirits, which are compelled to serve them like slaves.112	523	There
 		523	are
 		523	youths
@@ -10932,7 +10474,6 @@ index	text	sentence	token
 		524	settled
 		524	therein
 		524	.
-		524	
 525	In the village of Usa113 is buried Jonah, son of Amittai, in Basra, of Babylon, Ezra, the scribe.	525	In
 		525	the
 		525	village
@@ -10958,7 +10499,6 @@ index	text	sentence	token
 		525	the
 		525	scribe
 		525	.
-		525	
 526	Rabbi Chana, the Bagdadian,114 who wrote in the Talmud, was of Bagdad, the great city as mentioned before.	526	Rabbi
 		526	Chana
 		526	,
@@ -10983,7 +10523,6 @@ index	text	sentence	token
 		526	mentioned
 		526	before
 		526	.
-		526	
 527	At Babylon there are no stones, but everything is of brick.	527	At
 		527	Babylon
 		527	there
@@ -10997,7 +10536,6 @@ index	text	sentence	token
 		527	of
 		527	brick
 		527	.
-		527	
 528	End of the words of Rabbi Petachia, brother of Rabbi Yizchak, the White, author of the Tosephoth, and of Rabbi Nachman, of Ratisbon.	528	End
 		528	of
 		528	the
@@ -11027,4 +10565,3 @@ index	text	sentence	token
 		528	of
 		528	Ratisbon
 		528	.
-		528	
