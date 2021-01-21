@@ -15,9 +15,10 @@ It was OCR'd and corrected using Transkribus.
 | tokenization | (using Open Refine, preserving punctuation as well as (for now) page number) |
 
 
-## Warnings/Quirks
-* Hebrew placename segmentation 
-In order to cite a place name, a string like ומתורגמה will have to be further segmented to: ו (which means "and"), מ (which means "from") and תוגרמה which is the name for the Ottoman area. Can we/should we segment only the placenames?
+## Questions
+ Hebrew placename segmentation: the problems of prefixes
+In order to cite a toponym, a string like ומתורגמה will have to be further segmented to: ו (which means "and"), מ (which means "from") and תוגרמה which is the toponym for the Ottoman area. Can we/should we segment only these strings?
+* should the English and Hebrew versions have the same citation schema to begin with?
 
 
 
