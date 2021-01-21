@@ -16,8 +16,8 @@ It was OCR'd and corrected using Transkribus.
 
 
 ## Warnings/Quirks
-- [list of warnings/quirks/NB items] 
-| Hebrew placename segmentation | in order to cite a place name, a string like ומתורגמה will have to be further segmented to: ו (which means "and"), מ (which means "from" and תוגרמה which is the name for the Ottoman area. Can we/should we segment only the placenames?|
+* Hebrew placename segmentation 
+In order to cite a place name, a string like ומתורגמה will have to be further segmented to: ו (which means "and"), מ (which means "from" and תוגרמה which is the name for the Ottoman area. Can we/should we segment only the placenames?
 
 
 
