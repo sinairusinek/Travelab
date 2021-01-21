@@ -13,14 +13,10 @@ It was OCR'd and corrected using Transkribus.
 | English: merging end of line hyphenations |  |
 | splitting to sentences |  in Hebrew, the dot was used as we use comma and colon to express end of sentences|
 | tokenization |  |
-| types |  |
-| matches |  |
-| start |  |
-| title_source |  |
-| title_uri | |
+
 
 ## Warnings/Quirks
-- [list of warnings/quirks/NB items for your dataset] 
+- [list of warnings/quirks/NB items] 
 
 
 
