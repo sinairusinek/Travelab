@@ -2,7 +2,7 @@
 
 ## source
 
-Both text files originated in a [Google books scan](https://books.google.co.il/books?id=M_EoAAAAYAAJ&dq=petachia+of+regensburg&source=gbs_navlinks_s) of the London edition, published by Messrs. Trubner & Company, 1856. This edition is bi-lingual, with facing pages in Hebrew and in the English translation, by A. Benisch.
+Both text files of Petachia (Hebrew and English) originated in a [Google books scan](https://books.google.co.il/books?id=M_EoAAAAYAAJ&dq=petachia+of+regensburg&source=gbs_navlinks_s) of the London edition, published by Messrs. Trubner & Company, 1856. This edition is bi-lingual, with facing pages in Hebrew and in the English translation, by A. Benisch.
 It was OCR'd and corrected using Transkribus.
 
 
