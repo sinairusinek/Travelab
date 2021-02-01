@@ -6,7 +6,7 @@ Both text files of Petachia (Hebrew and English) originated in a [Google books s
 It was OCR'd and corrected using Transkribus.
 
 
-## processing
+## processing stages (for future documentation)
 | file | actions |
 | --- | --- |
 | correcting quotation|  |
