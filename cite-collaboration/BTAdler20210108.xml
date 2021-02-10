@@ -23,7 +23,7 @@
       
       <head>HEBREW INTRODUCTION.
       </head>
-      <p>
+      <ab>
          This is the book of travels, which was compiled by <persName xml:id="recogito-086c8115-7e43-4f3f-ae4d-549dfc0f5410">Rabbi Benjamin</persName>, the
          son of <persName xml:id="recogito-b100b332-712d-42ff-95b3-33d9de17339c">Jonah</persName>, of the land of <placeName xml:id="recogito-0bce778c-e196-4694-8130-988d0d725d35">Navarre</placeName>--his repose be in Paradise.
          The said <persName xml:id="recogito-59cd30b2-103c-42de-89dd-8d73c2ee61b5">Rabbi Benjamin</persName> set forth from <placeName xml:id="recogito-c53868dc-832a-4aa4-87dd-ca36406fb685">Tudela</placeName>, his native city, and
@@ -39,18 +39,18 @@
          for he is a trustworthy man.
          <pb n="1"/>
          
-         His book commences as follows:</p></front><body><ab><milestone unit="GeoNar1"/>--I journeyed first from my native town to the city of <placeName
+         His book commences as follows:</ab></front><body><ab><milestone unit="GeoNar1"/><seg>--I journeyed first from my native town to the city of <placeName
             xml:id="recogito-5508cf84-4012-4a87-a619-3f0de18e71b8">Saragossa</placeName><note n="3"></note>,
             and thence by way of the River <placeName
                xml:id="recogito-f3b5be3a-d5f5-49e7-a9d9-cbc73236af30">Ebro</placeName> to
             <placeName xml:id="recogito-07b921d9-c162-426f-911d-400ec6417756"
-               >Tortosa</placeName>.
+               >Tortosa</placeName>.</seg><seg>
             From there I went a journey of two days to the ancient city of <placeName
                xml:id="recogito-503791b6-22e3-409b-8ec1-6fc9c597edfb">Tarragona</placeName> with
                its Cyclopean and Greek buildings<note n="4"></note>. The like thereof is not found among any of the
                buildings in the country of <placeName
                   xml:id="recogito-68588574-7507-43b3-9bd6-22401742dfba">Sepharad</placeName>. It is
-               situated by the sea,
+               situated by the sea,</seg><seg>
             and two days' journey from the city of <placeName
                xml:id="recogito-271d5bf3-d89e-4bdd-9325-fdaf9c649777">Barcelona</placeName>,
                where there is a holy congregation, including sages, wise and illustrious men, such
@@ -76,7 +76,7 @@
                <placeName xml:id="recogito-f1b29d17-a153-4f25-b21b-90440c5bd03b"
                   >Palestine</placeName>, <placeName
                      xml:id="recogito-0949cde6-7174-4d9e-996d-5ef6c5b3b122">Africa</placeName> and all
-               its coasts. Thence it is a day and a half to <placeName
+               its coasts.</seg><seg> Thence it is a day and a half to <placeName
                   xml:id="recogito-df4ae499-e978-4882-9481-38aa814a1aba">Gerona</placeName>, in which
                   there is a small congregation of Jews<note n="6"></note>. A three days'journey takes one to <placeName
                      xml:id="recogito-a19b7131-a2de-4f5e-81d5-5bc384773abe">Narbonne</placeName>, which is
