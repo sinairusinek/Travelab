@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="GenerateSegIds.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI_r3h_nxn_wmb"><?xml-stylesheet type="text/css" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/tei.css"?><?xml-stylesheet type="text/css" href="../travelab.css"?>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Asher's Benjamin of Tudela</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc xml:id="Asher" corresp="BT">
+				<biblStruct>
+					<monogr>
+						<title>The Itinerary of Rabbi Benjamin of Tudela</title>
+						<author>Benjamin of Tudela</author>
+						<editor>A. Asher</editor>
+						<imprint>
+							<date>1840</date>
+							<pubPlace>London</pubPlace>
+							<publisher>A. Asher and co.</publisher>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<pb n="1"/>
+			<pb n="2"/>
+			<lb/>
+			<head>הקדמה</head>
+			<ab>
+				<lb/>זה הספר מחובר מדברים שספר <lb/>איש אחד מארץ <placeName>נבארה</placeName> ששמו
+				רבי <lb/>בנימין בר יונה מ<placeName>טודילה</placeName>. וילך הלוך <lb/>ויבא בארצות
+				רבות ורחוקות כאשר <lb/>יתפרש בדבריו אלו ובכל מקום <placeName>שבא</placeName>
+				<lb/>בו כתב כל הדברים שראה או ששמע <lb/>מפי אנשי אמת אשר נשמעו בארץ
+				<placeName>ספרד</placeName>: וכך הוא זוכר מקצת הגדולים <lb/>והנשיאים שבמקצת
+				מקומות וכשבא <lb/>הביא דבריו אלה עמו לארץ <placeName>קשטיליא</placeName>
+				<lb/>בשנת תתקל״ג . <pb n="3"/>
+				<lb/>והיה רבי בנימן הנזכר איש מבין <lb/>ומשכיל בעל תורה ובכל דבר ודבר <lb/>שבדקוהו
+				כדי לפשפש אחריו נמצאו <lb/>דבריו מתוקנים ויציבים בפיו כי היה איש <lb/>.אמת וזה תחלת
+				דבריו </ab>
+			<pb n="4"/>
+		</front>
+		<body>
+			<lb/>
+			<head> מסעות <lb/>של <lb/>רבי בנימן ז״ל . </head>
+			<pb n="5"/>
+			<pb n="6"/>
+			<lb/>
+			<head>מסעות <lb/>של רבי בנימן ז״ל.</head>
+			<ab xml:id="GeoNar1">
+				<seg xml:id="GN1S1">
+					<lb/>אמר <persName>רבי בנימן בר יונה ז״ל</persName> יצאתי <lb/>תחלה מעיר
+					<placeName>שרקושטה</placeName> וירדתי דרך נהר <placeName>איברו</placeName>
+					ל<placeName>טורטושה</placeName>
+				</seg>
+				<seg xml:id="GN1S2"> ומשם הלכתי דרך שני <lb/>ימים לעיר
+					<placeName>טרכונה</placeName> הקדמונה והיא היתה <lb/>מבנין ענקים ויונים ולא
+					נמצא כבנין <lb/>ההוא בכל-ארצות <placeName>ספרד</placeName> והיא יושבת <lb/>על
+					הים|</seg>
+				<seg xml:id="GN1S3"> ומשם שני ימים לעיר <placeName>ברצלונה</placeName>
+					<lb/>ויש שם קהל קדוש ואנשים חכמים <lb/>ונבונים ונשיאים גדולים כגון <persName>רבי
+						ששת</persName>
+					<lb/>ו<persName>רבי שאלתיאל</persName> ו<persName>רבי שלמה בן רבי <lb/>אברהם בן
+						חסדאי ז״ל</persName> והיא עיר קטנה <lb/>ויפה ויושבת על-שפת הים באים אליה
+					<lb/>בסחורה תגרים מכל-מקום מארץ <pb n="7"/>
+					<placeName>יון</placeName> ו<placeName>פישה</placeName>
+					ו<placeName>גינואה</placeName> ו<placeName>סיסילייא</placeName> וארץ
+					<placeName>אלכסנדריה</placeName> של <placeName>מצרים</placeName>
+					ומ<placeName>ארץ ישראל</placeName>
+					<lb/>וכל גבוליה.</seg>
+				<seg xml:id="GN1S4"> ומשם מהלך יום וחצי
+					<lb/>ל<placeName>גירונדה</placeName> ובה קהל קטן מיהודים.</seg>
+				<seg xml:id="GN1S5"> ומשם
+					<lb/>מהלך שלשת ימים ל<placeName>נרבונה</placeName> והיא עיר <lb/>קדומה לתורה
+					וממנה תצא תורה לכל- <lb/>הארצות ובה חכמים גדולים ונשיאים <lb/>ובראשם
+					<persName>רבי קלונימוס בן הנשיא הגדול <lb/>רבי טודרוס ז״ל</persName> מזרע
+					בית דוד מכונה <lb/>ביחוס ויש לו נחלות וקרקעות מאת <lb/>מושלי הארץ ואין אדם יכול
+					ליקח ממנו <lb/>בחזקה. ובראשם <persName>רבי אברהם ראש <lb/>הישיבה</persName>
+					ו<persName>רבי מכיר</persName> ו<persName>רבי יהודה</persName> ואחרים
+					<lb/>כנגדם הרבה תלמידי חכמים ויש בה <lb/>היום כמו שלש מאות יהודים.
+				</seg>
+				<seg xml:id="GN1S6">ומשם <lb/>ארבע פרסאות ל<placeName>בידרש</placeName> העיר ושם קהל
+					<lb/>תלמידי חכמים ובראשם <persName>רבי שלמה <lb/>חלפתא</persName> ו<persName>רבי
+						יוסף בר רבי נתנאל ז״ל</persName>
+				</seg>
+				<seg xml:id="GN1S7">
+					<lb/>ומשם שני ימים ל<placeName>הר געש</placeName> הנקרא
+					<placeName>מונפישלייר</placeName> והוא מקום יפה לסחורה. <pb n="8"/>
+					<lb/>קרוב מן הים שתי פרסאות ובאים אליו <lb/>מכל-מקום לסחורה אדום וישמעאל
+					<lb/>מארץ <placeName>אל-ערוה</placeName> ו<placeName>לונברדייא</placeName>
+					ומלכות <placeName>רומא רבתא</placeName> ומכל-ארץ <placeName>מצרים</placeName>
+					ו<placeName>ארץ ישראל</placeName> וארץ <placeName>יון</placeName> וארץ
+					<placeName>צרפת</placeName> וארץ <placeName>ספרד</placeName>
+					<lb/>ו<placeName>אינגלטירה</placeName> ומכל-לשונות הגוים נמצאים <lb/>שם על-ידי
+					גינואיין ופישנין ושם תלמידי <lb/>חכמים חשובי הדור ובראשם <persName>רבי ראובן
+						<lb/>בר טודרוס</persName> ו<persName>רבי נתן בן רבי זכריה</persName>
+					ו<persName>רבי <lb/>שמואל</persName> הרב שלהם ו<persName>רבי
+						שלמיא</persName> ו<persName>רבי <lb/>מרדכי ז״ל</persName>. ויש ביניהם עשירים
+					גדולים <lb/>ובעלי צדקה ועומדים בפרץ לכל הבאים <lb/>לידם.</seg>
+				<seg xml:id="GN1S8"> ומשם ארבע
+					פרסאות ל<placeName>לוניל</placeName>
+					<lb/>ושם קהל קדוש מישראל מתעסקים <lb/>בתורה יומם ולילה. ושם <persName>רבינו
+						משולם <lb/>הרב הגדול ז״ל</persName> וחמשה בניו חכמים <lb/>גדולים ועשירים
+					<persName>רבי יוסף</persName> ו<persName>רבי יצחק</persName>
+					<lb/>ו<persName>רבי יעקב</persName> ו<persName>רבי אהרן</persName>
+					ו<persName>רבי אשר הפרוש</persName>
+					<lb/>שנפרש מעניני העולם ועומד על-הספר <lb/>יום ולילה ומתענה ואינו אוכל בשר <pb n="9"/>
+					<lb/>והוא חכם גדול בתלמוד ו<persName>הרב רבי משה</persName>
+					<lb/>גיסו ו<persName>רבי שמואל החזן</persName> ו<persName>רבי שלמה
+						הכהן</persName>
+					<lb/>ו<persName>רבי יהודה הרופא בן תיבון</persName> הספרדי <lb/>וכל-הבאים מארץ
+					מרחק ללמוד תורה <lb/>מפרנסים אותם ומלמדים אותם <lb/>ומוציאין *) שם פרנסה ומלבוש
+					מאצל <lb/>הקהל כל ימי היותם בבית המדרש והם <lb/>אנשים חכמים וקדושים בעלי מצות
+					<lb/>עומדים בפרץ לכל-אחיהם הקרובים <lb/>והרחוקים ובה קהל יהודים כמו שלש
+					<lb/>מאות יצ״ו והיא רחוקה מן הים שתי <lb/>פרסאות. </seg>
+				<seg xml:id="GN1S9">ומשם שתי פרסאות
+					<lb/>ל<placeName>פותייקיירש</placeName> והיא כרך גדול ויש בו <lb/>יהודים כמו
+					ארבע מאות**) ושם ישיבה <lb/>גדולה על-יד הרב הגדול <persName>רבי אברהם בר
+						<lb/>רבי דוד זצ״ל</persName> רב פעלים חכם גדול <lb/>בתלמוד ובפסוק ובאים מארץ
+					מרחק <lb/>אליו ללמוד תורה ומוצאים מנוחה בביתו <lb/>והוא מלמדם ומי שאין לו להוציא
+					הוא <pb n="10"/>
+					<lb/>מוציא להם משלו ומממונו לכל-צרכיהם <lb/>והוא עשיר גדול ושם חכמים
+					<persName>רבי יוסף <lb/>בר רבי מנחם</persName> ו<persName>רבי
+						בנבנשת</persName> ו<persName>רבי בנימן</persName>
+					<lb/>ורבי אברהם ו<persName>רבי יצחק בר רבי משה <lb/>ז״ל</persName>.</seg>
+				<seg xml:id="GN1S10">
+					ומשם שלש פרסאות ל<placeName>נוגריש</placeName>
+					<lb/>הנקרא <placeName>בורק דשל גיל</placeName> ושם קהל מיהודים <lb/>כמו מאה
+					חכמים ובראש <persName>רבי יצחק בר <lb/>רבי יעקב</persName> ו<persName>רבי אברהם
+						בר רבי יהודה</persName>
+					<lb/>ו<persName>רבי אלעזר</persName> ו<persName>רבי יצחק</persName>
+					ו<persName>רבי משה</persName> ו<persName>רבי <lb/>יעקב בן הרב רבי לוי
+						ז״ל</persName> והוא מקום <lb/>טעות*) לגוים ולאיים מאפסי הארץ והיא <lb/>קרובה
+					מן הים שלשה מילין ויושבת על <lb/>שפת הנהר הגדול הנקרא
+					<placeName>רודי</placeName> והוא <lb/>הסובב כל-ארץ
+					<placeName>פרובנצה</placeName> ושם <persName>הנשיא <lb/>רבי אבא מרי בר רבי
+						יצחק ז״ל</persName> והוא <lb/>פקיד השלטון רמון, </seg>
+				<seg xml:id="GN1S11">ומשם שלש פרסאות
+					<lb/>לעיר <placeName>ארליט</placeName> ושם כמו מאתים מישראל <lb/>ובראש
+					<persName>רבי משה</persName>
+					<persName>ורבי טובי</persName> ו<persName>רבי ישעיה</persName>
+					<lb/>ורבי שלמה ורבי נתן הרב ורבי <pb n="11"/>
+					<lb/>אבא מרי ז״ל.</seg>
+				<seg xml:id="GN1S12"> ומשם שלשת ימים
+					<lb/>ל<placeName>מרשילייה</placeName> והיא עיר גאונים וחכמים והם <lb/>שתי
+					קהלות ובם כמו שלש מאות יהודים. <lb/>הקהל האחד יושב על שפת הים למטה. <lb/>והקהל
+					האחר (יושב על-שפת הים) יושבים <lb/>ב<placeName>מגדל למעלה</placeName> והם ישיבה
+					גדולה ותלמידי <lb/>חכמים <persName>רבי שמעון בר רבי אנטולי</persName>*)
+					ו<persName>רבי <lb/>יעקב</persName> אחיו ו<persName>רבי לבארו</persName> והם
+					ראשי של <lb/>מעלה. ובראש הקהל של מטה <persName>רבי <lb/>יעקב פירפיינו
+						העשיר</persName> ו<persName>רבי אברהם</persName> ו<persName>רבי
+							<lb/>מאיר</persName> חתנו ו<persName>רבי יצחק</persName>
+					<persName>ורבי מאיר זצ״ל</persName>
+					<lb/>והיא עיר סחורה מאד על-שפת הים.</seg>
+			</ab>
+			<ab xml:id="GeoNar2">
+				<seg xml:id="GN2S1">
+					<lb/>ומשם יכנס אדם בספינה לעיר <placeName>גינואה</placeName>
+					<lb/>היושבת על-שפת הים והוא מהלך ארבעה <lb/>ימים בים ושם שני יהודים אחים
+					<persName>רבי <lb/>שמואל בן כלאם</persName> ואחיו שהיו מעיר
+					<placeName>סבתה</placeName>
+					<lb/>והם אנשים טובים והעיר מוקפת חומה <lb/>ואין מלך שולט עליהם כי אם השופטים
+					<lb/>שהם מקימים עליהם כרצונם וכל אחד <pb n="12"/>
+					<lb/>ואד מהם מגדל בביתו ובשעת מחלקותם <lb/>נלחמים אלו עם אלו על-ראשי המגדלים
+					<lb/>והם מושלי הים ועושים דוגיות הנקראות <lb/>גליראש והולכים לשלול שלל ולבוז בכל
+					<lb/>המקומות שלל ובזה ומביאים אל <placeName>גינואה</placeName>. והם נלחמים עם
+					אנשי <placeName>פישה</placeName>
+				</seg>
+				<seg xml:id="GN2S2">
+					<lb/>וביניהם ובין <placeName>פישה</placeName> מהלך שני ימים והיא <lb/>עיר גדולה
+					מאד ובה כמו עשרת אלפים <lb/>מגדלים בבתים שלהם ללחום בעת <lb/>המחלוקת וכל-אנשיה
+					גבורים ואין מלך <lb/>ואין שר שולט עליהם כי אם השופטים <lb/>אשר הם מקימים עליהם
+					ובה כמו עשרים <lb/>יהודים והראש שלהם <persName>רבי משה</persName> ו<persName>רבי
+						חיים</persName>
+					<lb/>ו<persName>רבי יוסף ז״ל</persName> ואינה מוקפת חומה והיא <lb/>רחוקה מן הים
+					ארבעה מילין ויוצאין ונכנסין <lb/>אליה בספינות על-יד הנהר (היות*) בתוך
+					<lb/>המדינה. </seg>
+				<seg xml:id="GN2S3">ומשם ארבע פרסאות לעיר <placeName>לוקא</placeName>
+					<lb/>ושם כמו ארבעים יהודים והיא גדולה והראש <lb/>של היהודים <persName>רבי
+						דוד</persName> ו<persName>רבי שמואל</persName> ו<persName>רבי <pb n="13"/>
+							<lb/>יעקב</persName>
+				</seg>
+			</ab>
+			<ab xml:id="GeoNar3">
+				<seg xml:id="GN3S1"> ומשם מהלך ששה ימים לעיר <placeName>רומא רבתא</placeName> והיא
+					ראש מלכות אדום. ושם <lb/>כמו מאתים יהודים נכבדים ואין פורעין <lb/>מס לשום אדם
+					ומהם משרתי <persName>הפפא אלכשנדירוש</persName> הוא ההגמון הגדול הממונה <lb/>על
+					כל דת אדום ושם חכמים גדולים <lb/>ובראשם <persName>רבי דניאל</persName>
+					ו<persName>רבי יחיאל משרת של פפא</persName> והוא בחור יפה נבון וחכם והוא
+					<lb/>יוצא ובא בבית <persName>הפפא</persName> והוא פקיד ביתו <lb/>ועל-כל-אשר-לו
+					והוא נכדו של <persName>רבי נתן שעשה ספר הערוך ופירושיו</persName> ו<persName>רבי
+						יואב בן הרב רבי שלמה</persName> ו<persName>רבי מנחם ראש הישיבה</persName>
+					ו<persName>רבי יחיאל הדר בטרשטיברי </persName>
+					<lb/>ו<persName>רבי בנימן בר רבי שבתי ז״ל</persName> והיא רומא <lb/> העיר שני
+					חלקים והנהר <placeName>טיברוס</placeName> חולק <lb/>באמצע המדינה חלק אחד מצד אחד
+					<lb/>וחלק אחד מצד שני ובחלק הראשון <lb/>הבמה הגדולה שקוראין לה
+					<placeName>שלביטרא די רומא</placeName> ושם היה ארמון של י<persName>וליוס
+						קיסר הגדול</persName>. ויש שם בניינים הרבה ומעשים <pb n="14"/>
+					<lb/>משונים מכל-בנין שבעולם ובין המיושב <lb/>והחרב מן רומא ארבע ועשרים מילין
+					<lb/>ושם שמונים היכלות משמונים מלכים <lb/>גדולים (בתורה) הנקראים כלם אינפירדור
+					<lb/>ממלכות <persName>טרקיינוס</persName> ועד מלכות <persName>פפוס*) אביו של
+						קרלו אשר כבש ארץ ספרד מיד הישמעאלים בתחלה</persName>. ושם <placeName>היכל
+							<persName>טיטוס</persName>
+						</placeName> לחוץ לרומא שלא קבלוהו שלש
+					<lb/>מאות יועציו בשביל שלא עשה מצותם <lb/>שלא לקח <placeName>ירושלים</placeName>
+					אלא לשלוש שנים <lb/>וגזרו הם עליו שתי שנים ושם כמו היכל <placeName>ארמון המלך
+						<persName>אספסיינוס</persName>
+					</placeName> בנין גדול וחזק <lb/>מאד | ושם
+					ארמון המלך <persName>מלך גלבין</persName> ויש <lb/>בתוך ארמון שלו שלש מאות וששים
+					<lb/>ארמונים**) כמנין ימות השנה. והקפת <lb/>הארמונים שלשה מילין. והיתה מלחמה
+					<lb/>ביניהם בימי קדם ונפלו בתוך הארמון <lb/>יותר ממאה אלף בני אדם הרוגים והיו
+					<lb/>העצמות עד היום הזה תלויות וצייר <persName>המלך</persName>
+					<pb n="15"/>
+					<lb/>ענין המלחמה מצד ומצד מערכה לקראת <lb/>מערכה בני אדם וסוסיהם וכלי מלחמתם
+					<lb/>הכל אבן שיש להראות לבני העולם <lb/>המלחמה שהיתה בימי קדם ושם ימצא
+					<placeName>מערה</placeName> שהולכת תחת הארץ ונמצאים
+					<persName>המלך</persName> ו<persName>המלכה</persName> אשתו על-כסאותם ועמם
+					<lb/>כמו מאה בני אדם שרי המלוכה וכלם <lb/>חקוקים במלאכת הרופאים עד היום הזה.
+					<lb/>ושם ב<placeName>שלטיאני א-לטישנא</placeName> ובבמה שני <lb/>עמודים מנחשת
+					ממעשה <persName>שלמה המלך עליו השלום</persName> ובכל-עמוד ועמוד חקוק
+					<persName>שלמה בן דוד</persName> ואמרו לו*) היהודים אשר <lb/>ברומא כי
+					בכל-שנה ושנה בימי תשעה <lb/>באב נמצאה זיעה עליהם נגרת כמים. <lb/>ושם
+					<placeName>מערה</placeName> שגנז <persName>טיטוס בן אספסיינוס</persName>
+					<lb/>כלי בית המקדש שהביא מירושלם וגם <placeName>מערה</placeName> אחת בהר על-שפת
+					הנהר טיברו. <lb/>ושם קבורים <persName>הצדיקים ז״ל עשרה הרוגי מלכות</persName>
+					ולפני שלגוון דלטרנה מצוייר <pb n="16"/>
+					<lb/>שמשון וכידור*) בידו של אבן | וגם <persName>אבשלום בן דוד</persName> וגם
+					המלך <persName>קושטדינוס</persName> שבנה <placeName>קושטנדינה</placeName> ועל
+					שמו נקראת <placeName>קושטנטינופולי</placeName>. והוא מצוייר מנחשת <lb/>וסופו
+					ומצפים בזהב. ויש בניינים אחרים <lb/>ועניינים ברומא שלא יוכל אדם
+					לספרם.</seg>
+			</ab></body></text></TEI>
