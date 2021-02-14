@@ -1,5 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="GenerateSegIds.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI_r3h_nxn_wmb">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI_r3h_nxn_wmb"> <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 	<?xml-stylesheet type="text/css" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/tei.css"?>
 	<?xml-stylesheet type="text/css" href="../travelab.css"?>
 	<teiHeader>
