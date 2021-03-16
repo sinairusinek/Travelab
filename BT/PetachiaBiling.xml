@@ -1,0 +1,1862 @@
+<TEI xmlns="www.tei-c.org/ns/1.0">
+        <teiHeader>
+          <fileDesc>
+            <titleStmt>
+              <title> Travels_of_Rabbi_Petachia_of_Ratisbon.txt</title>
+              <author>sinai</author>
+            </titleStmt>
+            <publicationStmt>
+              <p><date>2020-03-21</date></p>             
+            </publicationStmt>
+            <sourceDesc>
+              <bibl source="https://recogito.pelagios.org/document/iiybakjbzasto2"/>
+              
+               
+                  
+                  <title>Travels_of_Rabbi_Petachia_of_Ratisbon.txt</title>
+                    
+                
+              
+            </sourceDesc>
+          </fileDesc>
+          <profileDesc>
+              
+              <particDesc>
+                  <ab>
+          <listRelation>
+            <relation name="in" active="recogito-15dcc513-fd00-40d1-8e6b-aeb2f3911237" passive="recogito-6096127a-04f7-4262-88ea-3f5a2fde9c7b"/><relation name="day_or_day_and_half" active="recogito-c8a570ae-18cb-4fb3-b9f1-49e5753bf546" passive="recogito-4fbef023-f5ff-41f3-940b-9daad2d1ec7b"/><relation name="to" active="recogito-f40c4964-abbe-4f5d-beec-7555bcb6b601" passive="recogito-830c4046-dd92-4220-b2e4-6f30a63a2535"/><relation name="in" active="recogito-f40c4964-abbe-4f5d-beec-7555bcb6b601" passive="recogito-ae91d35e-c77e-41a8-87c9-ceff944482ce"/><relation name="6days" active="recogito-ebed6836-c382-4c2d-83e9-fb2187d554b4" passive="recogito-7de206af-db27-48ee-abe0-ead665e45023"/><relation name="to" active="recogito-00daf244-78d5-457d-98fd-c79c268ae619" passive="recogito-15dcc513-fd00-40d1-8e6b-aeb2f3911237"/><relation name="to" active="recogito-7de206af-db27-48ee-abe0-ead665e45023" passive="recogito-1bb99e3f-a545-4850-bd5d-c1ec2eff2573"/>
+          </listRelation>
+        </ab>
+                </particDesc>
+              <settingDesc>
+                  <listPlace>
+          <place xml:id="pleiades.stoa.org/places/687915">
+              <placeName>Hebron</placeName>
+            </place><place xml:id="geo-kima.org/place/21355">
+              <placeName>Mount Lebanon (Lebanon : Province)</placeName>
+            </place><place xml:id="geo-kima.org/place/5198">
+              <placeName>Gomorrah (Extinct city)</placeName>
+            </place><place xml:id="geo-kima.org/place/261">
+              <placeName>Shefar'am (Israel)</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/678324">
+              <placeName>Paneas/Caesarea Philippi</placeName>
+            </place><place xml:id="dare.ht.lu.se/places/33884">
+              <placeName>Bagdata, Baghdad</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/226778">
+              <placeName>Taurike Chersonesos</placeName>
+            </place><place xml:id="geo-kima.org/place/638">
+              <placeName>Prague (Czech Republic)</placeName>
+            </place><place xml:id="sws.geonames.org/409313">
+              <placeName>Ararat</placeName>
+            </place><place xml:id="geo-kima.org/place/794">
+              <placeName>Aleppo (Syria)</placeName>
+            </place><place xml:id="geo-kima.org/place/14078">
+              <placeName>Nīnawá (Iraq)</placeName>
+            </place><place xml:id="geo-kima.org/place/966">
+              <placeName>Hebron (West Bank)</placeName>
+            </place><place xml:id="geo-kima.org/place/939">
+              <placeName>Damascus (Syria)</placeName>
+            </place><place xml:id="geo-kima.org/place/11713">
+              <placeName>Yonne (France)</placeName>
+            </place><place xml:id="geo-kima.org/place/2448">
+              <placeName>Susa (Extinct city)</placeName>
+            </place><place xml:id="geo-kima.org/place/8822">
+              <placeName>Greece</placeName>
+            </place><place xml:id="geo-kima.org/place/1869">
+              <placeName>Bohemia (Czech Republic)</placeName>
+            </place><place xml:id="geo-kima.org/place/21050">
+              <placeName>Tower of David (Jerusalem, Israel)</placeName>
+            </place><place xml:id="dare.ht.lu.se/places/27975">
+              <placeName>Taphros, Perekop</placeName>
+            </place><place xml:id="geo-kima.org/place/1412">
+              <placeName>Euphrates River</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/678445">
+              <placeName>Usha</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/903080">
+              <placeName>Media/Mad(aya)</placeName>
+            </place><place xml:id="dare.ht.lu.se/places/27108">
+              <placeName>Macoraba, Mecca</placeName>
+            </place><place xml:id="geo-kima.org/place/662">
+              <placeName>Baghdad (Iraq)</placeName>
+            </place><place xml:id="geo-kima.org/place/21590">
+              <placeName>Kefar Hananya (Israel)</placeName>
+            </place><place xml:id="geo-kima.org/place/8046">
+              <placeName>Egypt</placeName>
+            </place><place xml:id="geo-kima.org/place/9541">
+              <placeName>Basrah (Iraq)</placeName>
+            </place><place xml:id="geo-kima.org/place/21521">
+              <placeName>Galilee, Upper (Israel)</placeName>
+            </place><place xml:id="geo-kima.org/place/2501">
+              <placeName>Eretz Israel</placeName>
+            </place><place xml:id="geo-kima.org/place/7275">
+              <placeName>Regensburg (Germany)</placeName>
+            </place><place xml:id="geo-kima.org/place/6913">
+              <placeName>Galilee, Lower (Israel)</placeName>
+            </place><place xml:id="geo-kima.org/place/691">
+              <placeName>Jerusalem (Israel)</placeName>
+            </place><place xml:id="geo-kima.org/place/2680">
+              <placeName>Jordan River</placeName>
+            </place><place xml:id="geo-kima.org/place/3526">
+              <placeName>Babylon (Extinct city)</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/893951">
+              <placeName>Babylon</placeName>
+            </place><place xml:id="dare.ht.lu.se/places/22328">
+              <placeName>Babylon, Babylon</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/226544">
+              <placeName>Borysthenes (river)</placeName>
+            </place><place xml:id="geo-kima.org/place/4703">
+              <placeName>Mount Hermon (Lebanon and Syria)</placeName>
+            </place><place xml:id="geo-kima.org/place/18678">
+              <placeName>Hasankeyf (Turkey)</placeName>
+            </place><place xml:id="geo-kima.org/place/2804">
+              <placeName>Nineveh (Extinct city)</placeName>
+            </place><place xml:id="geo-kima.org/place/71">
+              <placeName>Acre (Israel)</placeName>
+            </place><place xml:id="geo-kima.org/place/807">
+              <placeName>Tiberias (Israel)</placeName>
+            </place><place xml:id="geo-kima.org/place/1257">
+              <placeName>Hamat (Extinct city) (Israel)</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/697709">
+              <placeName>Mortuum Mare/Asphaltitis L.</placeName>
+            </place><place xml:id="geo-kima.org/place/22081">
+              <placeName>Valley of Hinnom (Jerusalem, Israel)</placeName>
+            </place><place xml:id="dare.ht.lu.se/places/27144">
+              <placeName>[Basra], Old Basra IRQ</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/678431">
+              <placeName>Tiberias</placeName>
+            </place><place xml:id="dare.ht.lu.se/places/21087">
+              <placeName>Damascus, Damascus</placeName>
+            </place><place xml:id="geo-kima.org/place/1017">
+              <placeName>Dead Sea (Israel and Jordan)</placeName>
+            </place><place xml:id="geo-kima.org/place/21812">
+              <placeName>Tsippori (Israel)</placeName>
+            </place><place xml:id="geo-kima.org/place/2273">
+              <placeName>Tigris River</placeName>
+            </place><place xml:id="geo-kima.org/place/9637">
+              <placeName>Yavne (Israel)</placeName>
+            </place><place xml:id="geo-kima.org/place/12986">
+              <placeName>Assyria</placeName>
+            </place><place xml:id="geo-kima.org/place/5979">
+              <placeName>Poros Island (Greece)</placeName>
+            </place><place xml:id="geo-kima.org/place/17099">
+              <placeName>Crimea (Ukraine)</placeName>
+            </place><place xml:id="geo-kima.org/place/17893">
+              <placeName>Harran (Turkey)</placeName>
+            </place><place xml:id="geo-kima.org/place/2996">
+              <placeName>Mount of Olives (Jerusalem, Israel)</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/678387">
+              <placeName>Sepphoris/Diocaesarea</placeName>
+            </place><place xml:id="dare.ht.lu.se/places/22221">
+              <placeName>Shushan/Shusha/Susa/Seleucia ad Eulaeum/Shush-i er-Kar, Shush</placeName>
+            </place><place xml:id="sws.geonames.org/281184">
+              <placeName>Jerusalem</placeName>
+            </place><place xml:id="geo-kima.org/place/958">
+              <placeName>Kiev (Ukraine)</placeName>
+            </place><place xml:id="geo-kima.org/place/22186">
+              <placeName>Nusaybin (Turkey)</placeName>
+            </place><place xml:id="sws.geonames.org/3067696">
+              <placeName>Prague</placeName>
+            </place><place xml:id="geo-kima.org/place/8048">
+              <placeName>Syria</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/912964">
+              <placeName>Tigris/Diglitus (river)</placeName>
+            </place><place xml:id="geo-kima.org/place/1109">
+              <placeName>Dnieper River</placeName>
+            </place><place xml:id="dare.ht.lu.se/places/32797">
+              <placeName>‘Mespila’?, Mosul</placeName>
+            </place><place xml:id="geo-kima.org/place/4027">
+              <placeName>Sodom (Extinct city)</placeName>
+            </place><place xml:id="sws.geonames.org/303750">
+              <placeName>Nusaybin</placeName>
+            </place><place xml:id="geo-kima.org/place/3373">
+              <placeName>Nehardea (Extinct city)</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/912849">
+              <placeName>Euphrates (river)</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/894084">
+              <placeName>Seleucia/Sliq Kharawta</placeName>
+            </place><place xml:id="pleiades.stoa.org/places/118929">
+              <placeName>Reginum/Castra Regina</placeName>
+            </place>
+        </listPlace>
+                </settingDesc>
+            </profileDesc>
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+            <classDecl>
+                <taxonomy>
+          <category xml:id="typo">
+              <catDesc>typo</catDesc>
+            </category><category xml:id="reference">
+              <catDesc>reference</catDesc>
+            </category><category xml:id="Asher">
+              <catDesc>Asher</catDesc>
+            </category>
+        </taxonomy>
+              </classDecl>
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <body><div><p>סבוב הרב <persName xml:id="recogito-54dcb8b9-88e8-4576-b8e9-dca86c377d4f">רבי פתחיה</persName>
+מ<placeName ref="geo-kima.org/place/7275" xml:id="recogito-665089de-b6b5-44c1-9f5b-92dc15225e42" cert="high">רעגנשפורג</placeName>.
+אלה הסבובים אשר סבב <persName xml:id="recogito-dff8b15b-7dea-4c18-9d35-71391ce27e82">רבי פתחיה</persName> שסבב את
+כל הארצות: ובתחלה הלך מ<placeName ref="geo-kima.org/place/638" xml:id="recogito-f40c4964-abbe-4f5d-beec-7555bcb6b601" cert="high">פראג</placeName> שב<placeName ref="geo-kima.org/place/1869" xml:id="recogito-ae91d35e-c77e-41a8-87c9-ceff944482ce" cert="high">ביהם</placeName>
+ל<placeName xml:id="recogito-830c4046-dd92-4220-b2e4-6f30a63a2535" cert="unknown">פולין</placeName>. ומ<placeName xml:id="recogito-00daf244-78d5-457d-98fd-c79c268ae619" cert="unknown">פולין</placeName> ל<placeName ref="geo-kima.org/place/958" xml:id="recogito-15dcc513-fd00-40d1-8e6b-aeb2f3911237" cert="high">קיוב</placeName> שב<placeName xml:id="recogito-6096127a-04f7-4262-88ea-3f5a2fde9c7b" cert="unknown">רוסייא</placeName>. ומ<placeName xml:id="recogito-ebed6836-c382-4c2d-83e9-fb2187d554b4" cert="unknown">רוסייא</placeName> הלך
+<span xml:id="recogito-9c4c6890-6982-435c-9327-6efc64140ef9" ana="#typo">בששה</span> ימים עד על נהר <placeName ref="geo-kima.org/place/1109" xml:id="recogito-7de206af-db27-48ee-abe0-ead665e45023" cert="high">דנפרא</placeName>. ומעבר הנהר
+התחיל לילך ב<placeName xml:id="recogito-1bb99e3f-a545-4850-bd5d-c1ec2eff2573" cert="unknown">ארץ קדר</placeName>: ואין להם ספינות. אלא
+תופרין עשר עורות סוסים שטוחין. ורצועה אחת
+בשפה סביב. ויושבין והעגלות וכל המשא בתוך
+העורות וקושרין רצועה שבשפת העורות בזנבות
+הסוסים, והסוסים שטין. וכן עוברין את המים:
+וב<placeName xml:id="recogito-b06942ef-f551-45e8-8152-9b17f5fa27a3" cert="unknown">ארץ קדר</placeName> אין אוכלין את הלחם. אלא אורז
+ודוחן מבושל בחלב וחלב וגבינה: וחתיכות בשר</p><p>
+TRAVELS OF RABBI <persName xml:id="recogito-1b89a3a1-8252-4ce1-972e-121c68286c69">PETACHIA</persName>,</p><p>
+OF <placeName ref="pleiades.stoa.org/places/118929" xml:id="recogito-439ebee0-690f-4b00-9306-50d8ea226d08" cert="high">RATISBON</placeName>.</p><p>
+These are the travels undertaken by <persName xml:id="recogito-26f3825e-fd5d-4625-8d13-52983035efc9">Rabbi Petachia</persName>, who
+travelled through all the countries. He set out from
+<placeName ref="sws.geonames.org/3067696" xml:id="recogito-58e92ed9-fb4a-4042-9e96-156215377208" cert="high">Prague</placeName>, which is in <placeName xml:id="recogito-8db0e36e-97db-4ccf-bb93-950bc891d638" cert="unknown">Bohemia</placeName>, going to <placeName xml:id="recogito-8fd68651-7ed5-4338-a1d9-037778395dda" cert="unknown">Poland</placeName>, from <placeName xml:id="recogito-6e22cd6e-0744-4081-86ea-b23d31db669a" cert="unknown">Poland</placeName>
+to <placeName xml:id="recogito-ba94dd98-86fc-4067-baac-88cdc02dd1d9" cert="unknown">Kieff</placeName> in <placeName xml:id="recogito-303521ca-7f76-4edc-af04-db8d7b4cb259" cert="unknown">Russia</placeName>, and from <placeName xml:id="recogito-7990b0e0-e5d6-4558-bc52-1a515315664d" cert="unknown">Russia</placeName> he went in six days to
+the river <placeName ref="pleiades.stoa.org/places/226544" xml:id="recogito-44ee93c3-7469-4fb1-a869-145cab3fe3be" cert="high">Dnieper</placeName>. On the other side of the river he
+commenced his travels in the land of <placeName xml:id="recogito-5606b7c0-0600-44d0-a608-e0c1dddb1416" cert="unknown">Kedar</placeName>.1 They
+have no ships, but sew together ten extended horse hides,
+and a thong on the border round; they then seat them¬
+selves on the hides, placing there also the waggons and
+all luggage. They then tie the thong, on the border of
+the hides, to the tails of the horses, which swim, and thus
+they pass over the water. They eat no bread in the land
+of <placeName xml:id="recogito-fd5f5601-c54b-4d7f-bd49-2c2ae2021c48" cert="unknown">Kedar</placeName>, but rice and millet boiled in milk, as well as
+milk and cheese. They also put pieces of flesh under the</p><p>
+משימין תחתיהן על הסוס תחת האוכף. ומייגעין
+את הסוס ומזיע. והבשר חם ואוכלין את הבשר:
+ואין הולכין ב<placeName xml:id="recogito-7471249d-df97-407b-8c75-d7fc1a71bfa9" cert="unknown">ארץ קדר</placeName> כי אם על ידי תיור: וכך
+נשבעין אחד מבני <placeName xml:id="recogito-45cfc9e0-f419-4edb-bafe-1ebe192a7edd" cert="low">קדר</placeName> לחבירו: נועץ מחט
+באצבעו. ונותן לאותו שיש ללכת עמו בדרך
+לבלוע הדם. והוא לו כדמו ובשרו: ועוד שבועה
+אחרת. הם ממלאין כלי נחושת של מתכות כמו
+פרצוף. ושותין שניהם המתייר וההולך עמו. ולא
+ישקר לו לעולם: ואין להם מלך. אלא נשיאים
+ומשפחות:
+ועבר <persName xml:id="recogito-554b2536-d926-46fa-a903-73b42de39d07">רבי פתחיה</persName> את <placeName xml:id="recogito-9e8d416f-8236-4e1d-bca2-60f6b3d27abb" cert="unknown">ארץ קדר</placeName> לרחבה <span xml:id="recogito-03671026-f850-41a4-b3b9-3379aa7ea531" ana="#typo">בששה</span>.
+עשר ימים: ויושבי אוהלין הם. והם רואים למרחוק.
+ועיניהם יפים. מפני שאינם אוכלים מלח והונים
+בעשבים שנותנים ריח טוב. ובעלי חצים הם.
+ומורים את העוף בהדי דקא פרח. ורואין יותר
+ממהלך יום ומכירין ואין להם הרים אלא הכל
+גיא: ומהלך יום <placeName xml:id="recogito-e8e0874f-f8cd-4996-9641-a926645551c5" cert="low">אחר</placeName> <placeName xml:id="recogito-1ccd5cab-046c-4f4b-8841-62c833a2b2f0" cert="unknown">ארץ קדר</placeName> הולך לשון ים.
+ומפסיק בין <placeName xml:id="recogito-8a538740-eb5c-4722-8359-60770d29fbb6" cert="unknown">ארץ קדר</placeName> ובין ארץ <placeName ref="geo-kima.org/place/17099" xml:id="recogito-ff98d883-85ee-4979-a83b-26bb722969e5" cert="high">כזריא</placeName>: ושם מנהג
+שהנשים מספידות ומיללות כל היום וכל הלילה
+את אבותיהן שמתו ואת אמותיהן. וכן עושין עד
+שימותו מבניהם או מבנותיהם או מן המשפחה.
+והאחרונים מספידים את הראשונים שמתו. ומלמדין</p><p>
+saddle of a horse, which they ride, and, urging on the
+animal, cause it to sweat. The flesh getting warm, they
+eat it. They only travel in the land of <placeName xml:id="recogito-798af0b0-be99-4ebc-ae40-046874c4a16d" cert="unknown">Kedar</placeName> under es¬
+cort. This is the manner in which the sons of <placeName xml:id="recogito-78ced082-430f-4172-95d4-e2a2810d8ff7" cert="unknown">Kedar</placeName>
+pledge their faith to each other. One thrusts a needle
+into his finger, and invites the intended companion of his
+journey to swallow the blood of the wounded finger. He
+then becomes, with the person, as it were the same blood
+and flesh. There is also another mode of taking an oath.
+They fill a vessel of cast copper of the shape of a human
+face, then the traveller and his escorter drink thereout,
+after which he never proves faithless to him. They have
+no king, but only princes and (noble) families.</p><p>
+Rabbi <persName xml:id="recogito-54a0c60f-ada6-4818-837f-4bb2c2292886">Petachia</persName> passed through the land of <placeName xml:id="recogito-3ae7ed6c-7566-424d-b92e-bf0a309c71a4" cert="unknown">Kedar</placeName> in its
+breadth in sixteen days. The inhabitants live in tents,
+they are far-sighted, and have beautiful eyes, because they
+eat no salt and enjoy fragrant plants. They are good
+archers, bringing down the bird whilst on the wing. They
+perceive and recognise (objects) at more than a day’s dis¬
+tance. There are are no mountains in their country, but
+all is level. And a day’s journey behind the land of
+<persName xml:id="recogito-7b135cd2-fdad-4272-a7b0-56a14640583d">Kedar</persName> extends a <placeName ref="dare.ht.lu.se/places/27975" xml:id="recogito-93223a4c-45b3-4100-a71b-31e2bcd5054e" ana="#reference #Asher" cert="high">gulf2</placeName><note target="recogito-93223a4c-45b3-4100-a71b-31e2bcd5054e" resp="sinai">not a toponym!</note> intervening between the land of
+<persName xml:id="recogito-39ec87d4-5d1f-46b8-baa3-695f4ca65147">Kedar</persName> and the land of <placeName ref="pleiades.stoa.org/places/226778" xml:id="recogito-c6d254b9-b852-42b0-935c-68c9bb4311ea" cert="high">Chazaria</placeName>.3 There it is customary
+for women the whole day and night to bemoan and lament
+their deceased fathers and mothers. This they continue
+until any of their sons or daughters or other members of
+the family die, and the last lament those that preceded
+them in death. They teach their daughters' lamentations.</p><p>
+את בנותיהן קינה. ובלילה מתאנחות ומיללות.
+והכלבים בוכין וצועקין לקולן:
+והלך כשמונה ימים: ובסוף ארץ <placeName ref="geo-kima.org/place/17099" xml:id="recogito-bf5b143c-52c3-48af-92c7-585878bf20bf" cert="high">כזריא</placeName> שבעה
+עשר נהרות יסובבונהו ושם מתקבצים. וכל הרוצה
+לילך בספינה למרחוק יבא שמה: ויש שם <placeName xml:id="recogito-25965737-81ca-4ae0-8d7a-81b37846e7ae" cert="low">ים
+שמעלה סרחון גדול</placeName> משם לצד אחד, ולצד אחר
+יש שאינו מסריח. והוא כמהלך יום בין שני ימים:
+ואם עבר אדם ים של סרחון מיד מת. וכשהרוח
+בא מים שמסריח לים שאינו מסריח רבים ימותו.
+ואין הולכין אלא כשהרוח נוטה לצד אחר:
+ועבר <persName xml:id="recogito-562b3f8c-83b2-4ae4-b7e8-c6731b7db3f3">רבי פתחיה</persName> בארץ תורגמה. ומשם והלאה
+מאמינים כחוקת <persName xml:id="recogito-85f0e50b-84c1-4a8d-bfbc-c27c98244ff6">מחמט</persName>. ומ<placeName xml:id="recogito-69a67afa-9f7c-436f-8577-ce1fdeb5da23" cert="low">תוגרמה</placeName> נכנס בארץ
+אררט: ובשמונה ימים הלך עד <placeName ref="geo-kima.org/place/22186" xml:id="recogito-deb61056-b510-48c8-966e-71edb99ef452" cert="high">נציבין</placeName>. ועזב הרים
+גבוהים <placeName xml:id="recogito-f1b87996-97d6-43f8-85aa-24b0d28bad15" cert="low">הרי אררט</placeName> לימין:
+וב<placeName xml:id="recogito-8b1e8c8e-55a0-4a67-bf98-c60a9535a3ff" cert="unknown">ארץ קדר</placeName> אין יהודים. ויש שם מינים: ואמר
+להם הרב <persName xml:id="recogito-46ccf4a0-43f4-4b03-94d9-6608e9399407">רבי פתחיה</persName> למה אינכם מאמינים בדברי
+חכמים. ואמרו בשביל שלא למדום אבותינו:
+ובערב שבת חותכין כל הלחם שאוכלין בשבת.
+ואוכלין בחושך. ויושבין במקום אחד כל היום.
+ואינם מתפללים אלא מזמורים: וכשסיפר להם הרב
+<persName xml:id="recogito-6a63c857-7a2f-4c57-83e5-53b9aabf2994">רבי פתחיה</persName> התפלה שלנו וברכת המזון. היה טוב
+בעיניהם: ואמרו לא שמענו מעולם מה הוא
+תלמוד:</p><p>
+In the night they groan and howl. The dogs also whine
+and bark at their voice.</p><p>
+He then travelled about eight days, and at the ex¬
+tremity of the land of <placeName ref="pleiades.stoa.org/places/226778" xml:id="recogito-2bd0326f-d4ca-41a0-859f-cae628354659" cert="high">Chazaria</placeName> <placeName xml:id="recogito-23b33181-0d50-44cc-8438-decf9edea673" cert="low">seventeen rivers4</placeName><note target="recogito-23b33181-0d50-44cc-8438-decf9edea673" resp="sinai">not a toponym. according to Asher, the 17 rivers flowing to the black sea</note> sur¬
+rounding it unite, and whoever wishes to undertake
+a distant journey repairs hither.5 There is a sea there
+on one side, from which there arises a great stench,6
+whilst on the other side there (is a sea) which does not
+emit any offensive smell. There is about a day’s journey
+between the two seas. If any individual passed the
+stinky sea, he would die immediately. When the wind
+blows from the stinky sea to that not emitting any offen¬
+sive smell many die. People only go there when the
+wind blows in a different direction.7</p><p>
+Rabbi Petachia passed into the land of <placeName xml:id="recogito-7c6dd280-7974-4ba7-8903-5ebf6de1817b" cert="unknown">Togarma</placeName>.8 From
+thence, and further on, people believe in the law of Ma¬
+homet. From <placeName xml:id="recogito-bb602aed-bf86-417f-8dad-67bb3d0ba44f" cert="unknown">Togarma</placeName> he entered the country of <placeName ref="sws.geonames.org/409313" xml:id="recogito-afa8b1de-9a60-4d2c-9c88-6509ba4e411d" cert="high">Ararat</placeName>.
+In eight days he journeyed as far as <placeName ref="sws.geonames.org/303750" xml:id="recogito-21f4ba10-f54b-4785-a46b-09249f32ad56" cert="high">Nisibis</placeName>, leaving the
+high mountains of Ararat9 at the right.</p><p>
+In the land of <placeName xml:id="recogito-f9daf343-1a01-4b88-bbb7-334a00182178" cert="unknown">Kedar</placeName> there are no Jews, only heretics.10
+And Rabbi <persName xml:id="recogito-8aeebf15-8ec8-43a2-ac91-8c40b4a39781">Petachia</persName> asked them, Why do you not believe
+in the words of the sages ? They replied, Because our
+fathers did not teach them to us. On the eve of Sabbath
+they cut all the bread which they eat on Sabbath. They
+eat in the dark, and sit the whole day on one spot. Their
+prayers consist only of psalms. And when Rabbi Pe¬
+tachia imparted to them our ritual and prayer after meals</p><p>
+וב<placeName xml:id="recogito-b52f38b8-d504-40f5-a44a-02a478a07c02" cert="low">ארץ אררט</placeName> הלך ב<placeName xml:id="recogito-663b157e-5f0d-4e3b-83a7-12907ada0e57" cert="low">הרי אררט</placeName> עד <placeName ref="geo-kima.org/place/22186" xml:id="recogito-ab6f6549-4642-4dfc-83b3-bcb757f5e74e" cert="high">נציבין</placeName> ועד
+עיר <placeName ref="geo-kima.org/place/18678" xml:id="recogito-33762d8f-5b40-447e-8f24-90cfee85af5f" cert="high">חוסן כיפא</placeName> (פירוש: חוסן סלע גדול): ובסוף
+של <placeName xml:id="recogito-f6bc7890-3928-48cc-a8fa-3dcb855cd1c8" cert="low">הרי אררט</placeName> הלך יומים לצד שכנגדו: וב<placeName ref="geo-kima.org/place/22186" xml:id="recogito-791ccd19-3b9f-407d-b96d-0bedb686de82" cert="high">נציבין</placeName>
+יש קהילה גדולה. ובית הכנסת של רבי <persName xml:id="recogito-c6783126-6d09-458f-b9cf-33137aaae56b">יהודה בן
+בתירה</persName> ושתי בתי כנסיות שבנה <persName xml:id="recogito-d3761f96-8f05-4bfb-bcbe-daff01cd32f3">עזרא הסופר</persName>. ויש
+באחת אבן אדומה קבועה בכותל. שהביא עמו
+שלקח מאבני בית המקדש. ומ<placeName ref="geo-kima.org/place/22186" xml:id="recogito-0b036274-6831-4bc6-840f-cde52aa0f338" cert="high">נציבין</placeName> ואילך <placeName xml:id="recogito-fe012a65-ce88-4dd6-80a9-eade4d71a22b" cert="low">ארץ
+אשור</placeName>: ו<placeName ref="geo-kima.org/place/17099" xml:id="recogito-03ffed24-a3fb-4c7d-9738-cab56f184137" cert="high">כזריא</placeName> לשון אחד. ו<placeName xml:id="recogito-e8bb1559-60eb-4827-9833-894d2db8104f" cert="low">תוגרמה</placeName> לשון אחד.
+ונותנין מס למלך <placeName ref="geo-kima.org/place/11713" xml:id="recogito-e2863d17-53f5-4637-ad5c-0b995a07ea5f" cert="low">יון</placeName>. ו<placeName xml:id="recogito-8e59d0ba-69d4-47b4-ae47-6ef54e9d8636" cert="low">קדר</placeName> לשון אחר:
+ומ<placeName ref="geo-kima.org/place/22186" xml:id="recogito-dad39e25-f833-4e75-9d4b-4b52f739a01a" cert="high">נציבין</placeName> הלך בשמונה ימים ל<placeName ref="dare.ht.lu.se/places/32797" xml:id="recogito-fd17b534-ba5a-4767-9dc5-4313c509b830" cert="high">נינוה החדשה</placeName>.
+ונהר <placeName ref="geo-kima.org/place/2273" xml:id="recogito-13d489ac-e93f-4e6d-83cf-c00653b16f32" cert="high">חדקל</placeName> הולך לפני <placeName ref="geo-kima.org/place/2804" xml:id="recogito-d21b4c07-30c0-4a6c-b3bc-5e10e72ecb7b" cert="high">נינוה</placeName>: ומעבר הנהר הלך
+לצד אחר מהלך שלשה ימים. היא <placeName ref="geo-kima.org/place/2804" xml:id="recogito-2c781da4-37eb-4c52-89bc-b8d7634ffb10" cert="high">נינוה</placeName> הישנה.
+והיא שממה: וכל ארץ <placeName ref="geo-kima.org/place/2804" xml:id="recogito-22068369-1ea1-481b-88ce-8bc7bbcb68b1" cert="high">נינוה</placeName> שחורה כזפת.
+ובמקום העיקר של <placeName ref="geo-kima.org/place/2804" xml:id="recogito-2169fa9e-abaa-49ea-914d-a9f869695102" cert="high">נינוה</placeName> שהיה היער נהפך כ<placeName ref="geo-kima.org/place/4027" xml:id="recogito-e2fe9e1c-8dbd-433a-a9cf-d1fa0c0feccf" cert="low">סדום</placeName>.
+ואין בו עשב וצמח. ו<placeName ref="dare.ht.lu.se/places/32797" xml:id="recogito-ab6b0c9c-492f-4983-98e6-c8ecdb33ec5f" cert="high">נינוה החדשה</placeName> כנגדה מעבר
+השני: וב<placeName ref="dare.ht.lu.se/places/32797" xml:id="recogito-a203aeba-c142-4bbe-92f3-ab007bd400bb" cert="high">נינוה החדשה</placeName> יש קהל גדול כששת
+אלפים ויותר, ושני נשיאים בה. אחד שמו <persName xml:id="recogito-9e4c7743-30c1-416f-a0ab-ac5954b7c09b">רבי
+דוד</persName> ואחד שמו <persName xml:id="recogito-9c929374-a27f-49d3-90a9-21d2901429eb">רבי שמואל</persName>. והם שני בני אחים
+והם מזרע <persName xml:id="recogito-faa9364e-fee2-4dc1-8349-6c6182c237dd">דוד המלך</persName>: וכל אדם נותן זהוב לשנה
+מגלגולת. ומה שבא מהיהודים חציו לשלטון
+המלך. אלא שאין קורין אותו מלך כי אם שלטון.</p><p>
+9</p><p>
+they were pleased. The<span xml:id="recogito-b3b9a9bf-0761-42f0-b5cf-ec2387aa0246" ana="#typo">v</span><note target="recogito-b3b9a9bf-0761-42f0-b5cf-ec2387aa0246" resp="sinai">v-y</note> also said, We have never heard
+what the Talmud is.</p><p>
+In the land of <placeName ref="sws.geonames.org/409313" xml:id="recogito-c4058e2c-4d46-449a-99f5-d061558855c1" cert="high">Ararat</placeName> he travelled in the mountains of
+<placeName ref="sws.geonames.org/409313" xml:id="recogito-03fd0947-50f8-4b30-90aa-55669708456f" cert="high">Ararat</placeName> as far as <placeName ref="sws.geonames.org/303750" xml:id="recogito-658481a5-4765-4cd2-816a-f54e54afab78" cert="high">Nisibis</placeName> and the city of <placeName ref="geo-kima.org/place/18678" xml:id="recogito-dd0b40c9-9709-4194-abb4-035e9e183ece" cert="high">Chosen Capha</placeName>11 (that
+is, Strength of a Great Rock). At the extremity of the
+mountains of <placeName ref="sws.geonames.org/409313" xml:id="recogito-adc36cbb-2ccd-4c9c-81b4-faa77b3faccb" cert="high">Ararat</placeName> he travelled two days to the opposite
+side. At <placeName ref="sws.geonames.org/303750" xml:id="recogito-8369f203-623f-40bc-856f-927b0d5aff82" cert="high">Nisibis</placeName> there is a large congregation, also the
+synagogue of Rabbi <persName xml:id="recogito-f4d9cb89-ad99-49b4-bf5f-9dc97f84ab2c">Yehudah</persName>, son of <persName xml:id="recogito-20dd281a-9d67-4fbf-9f58-ebfec0b5f2b1">Bethera</persName>, and two
+synagogues which <persName xml:id="recogito-ad4902f4-a6d1-4944-befb-cbdb36067c67">Esdra</persName> the scribe built.12 In one of them
+is a red stone fixed in the wall, which he had brought
+with him, being from the stones of the Temple. From
+<placeName ref="sws.geonames.org/303750" xml:id="recogito-cd0108cd-1119-4795-87e3-f5051b750f00" cert="high">Nisibis</placeName> and further extends the land of <placeName ref="geo-kima.org/place/12986" xml:id="recogito-e287fc92-09bb-4144-bb1d-888e2e4f8047" cert="low">Assur</placeName>. <placeName ref="pleiades.stoa.org/places/226778" xml:id="recogito-88d8aba5-a9c3-463c-b114-ccd8009c0322" cert="high">Chazaria</placeName>
+has a language of its own; <placeName xml:id="recogito-1812269a-a1dc-4329-8362-66fd03f4c658" cert="unknown">Togarma</placeName> has a language of its
+own (they pay tribute to the King of <placeName ref="geo-kima.org/place/8822" xml:id="recogito-c37c3cbb-2d9f-4d01-8ea1-934f20f66ebe" cert="low">Greece</placeName>13); and <placeName xml:id="recogito-92c76063-eb59-4699-8a90-34246d5822d2" cert="unknown">Kedar</placeName>
+has a language of its own.</p><p>
+From <placeName ref="sws.geonames.org/303750" xml:id="recogito-2668f9fe-b506-40a5-9679-e9e6618ddb2f" cert="high">Nisibis</placeName> he went in three days to <placeName ref="geo-kima.org/place/14078" xml:id="recogito-9703feeb-7df8-40f3-bf77-3d81f7a85777" cert="high">New Nineveh</placeName>.14
+The river <placeName ref="pleiades.stoa.org/places/912964" xml:id="recogito-02ec6d5e-4cc6-458e-adbb-2d3d8cd567f8" cert="low">Tigris</placeName> flows before <placeName ref="geo-kima.org/place/2804" xml:id="recogito-d7704cda-d9a4-411d-8ef9-c5fe958b3c58" cert="low">Nineveh</placeName>. On the other
+side of the river he went a journey of three days in a
+different direction; there is <placeName ref="geo-kima.org/place/2804" xml:id="recogito-04325103-8ffd-4877-9f4e-26ff68c2af1c" cert="high">Old Nineveh</placeName>, which is deso¬
+late. The whole land of <placeName ref="geo-kima.org/place/2804" xml:id="recogito-f815204d-b555-48a3-b747-c8bbcfffc014" cert="low">Nineveh</placeName> is black like pitch.
+The site of Nineveh Proper, where a forest was, is over¬
+turned like <placeName ref="geo-kima.org/place/4027" xml:id="recogito-94a8fbbe-9186-481f-9328-1cbb308570c8" cert="high">Sodom</placeName>.&quot; There is there neither herb nor any
+vegetation whatever. <placeName ref="geo-kima.org/place/14078" xml:id="recogito-76bfaf8f-12a3-4b86-940d-f5661925e372" cert="high">New Nineveh</placeName>, opposite, is on the
+other side of the river. At <placeName ref="geo-kima.org/place/14078" xml:id="recogito-800ef0b9-6515-4493-8c4e-9138aba8f8a2" cert="high">New Nineveh</placeName> is a large con¬
+gregation numbering more than six thousand souls. It
+has two princes. The name of the one is Rabbi <persName xml:id="recogito-fd6b7ffe-c33a-49ed-8902-294faa7ff6dc">David</persName>,
+and of the other Rabbi <persName xml:id="recogito-a14b4148-10f5-46d6-a491-13ad67474eff">Samuel</persName>. They are sons of two
+brothers, and of the seed of King <persName xml:id="recogito-6e07dfcf-74f6-486b-b075-ce59e3f68d62">David</persName>. Everyone pays</p><p>
+10
+והוא תחת מלך <placeName ref="geo-kima.org/place/3526" xml:id="recogito-0a62090c-c091-4e53-952e-cea9f5cf242e" cert="low">בבל</placeName>. וחצי המס לנשיאין: ויש
+להם שדות וכרמים:
+ואין באותן הארצות חזנים. וגם בארץ <placeName ref="geo-kima.org/place/5979" xml:id="recogito-91ed6e2f-752f-44d3-8821-92a1476ec64d" cert="low">פרס</placeName>
+ומדי וב<placeName xml:id="recogito-7ed89cd6-2ce0-48c3-a16b-af15fefcb5db" cert="unknown">דמשק</placeName> ובכל אותן הארצות אין להם חזנים.
+אלא יש לנשיאים אוכלי שולחנם ת&quot;ח רבים.
+פעמים אומר לזה להתפלל ופעמים אומר לזה
+להתפלל: ויש להנשיא בית הסוהר, וחובש בו
+את הרשעים: אם גוי ויהודי מתקוטטים יחד.
+אם היהודי חייב חובשו. ואם הישמעאלי חייב
+חובשו:
+ו<persName xml:id="recogito-3e10f153-78e8-4c26-8b67-669db178fa95">רבי פתחיה</persName> היה חולה ב<placeName ref="geo-kima.org/place/2804" xml:id="recogito-77fdff03-2eed-45cc-bfcc-abafb5e307d9" cert="high">נינוה</placeName>. ואמרו הרופאים
+של המלך שלא יחיה. ומנהג שם כל יהודי
+אורח שימות. חצי הממון לוקח השלטון: ומפני
+ש<persName xml:id="recogito-29ee7477-de1f-4a9a-b1df-6d2ee9226fea">רבי פתחיה</persName> היה לבוש בגדים נאים אמרו עשיר
+הוא. וסופרי השלטון היו שם לקחת הממון
+כשימות: ואמר הרב <persName xml:id="recogito-68d403cf-4eee-462c-a108-18fe25a0b207">רבי פתחיה</persName> להעבירו כל כך
+חולה את הנהר <placeName ref="geo-kima.org/place/2273" xml:id="recogito-e294b383-baf5-495d-822d-68e591a9d692" cert="high">חדקל</placeName>: והנהר רחב. <span xml:id="recogito-08f2a74c-2975-4b54-8663-7f418e3f994e" ana="#typo">ואיי</span> עוברין
+אותו בספינה. כי הנהר <placeName ref="geo-kima.org/place/2273" xml:id="recogito-b11331d8-0dcd-4cde-8ad8-449b46458b36" cert="high">חדקל</placeName> חד וקל ומהפך
+הספינה. אלא עושים קנים רפסודות שקורין
+ולו״ס. ועליהם המשא והאדם: והמים בריאים.
+ומיד נתרפא:
+וב<placeName ref="geo-kima.org/place/2804" xml:id="recogito-9bebb2d6-c638-41c5-9fc8-5ae19fad3307" cert="high">נינוה</placeName> היה פיל: ואין ראשו בולט חוץ. והוא</p><p>
+11</p><p>
+there annually a gold florin; of that coming from the
+Jews half belongs to the king <persName xml:id="recogito-6d9e8520-fca5-44c3-93e6-e2b6909a49da">sultan</persName> (whom they do not
+call king, but <persName xml:id="recogito-528609df-2237-402f-8ac5-1a27b4e6de8d">sultan</persName>), who stands under the King of <placeName ref="dare.ht.lu.se/places/22328" xml:id="recogito-27657e92-0a18-401e-b8ca-b4e5a1f45e70" cert="high">Babel</placeName>.16
+The other half of the tribute belongs to the princes; they
+have fields and vineyards.</p><p>
+In those countries there are no precentors ;17 nor have
+they any in the land of <placeName xml:id="recogito-4a713d4d-4752-4203-b3b5-e3b2872bc932" cert="unknown">Persia</placeName>, <placeName ref="pleiades.stoa.org/places/903080" xml:id="recogito-d5b62f09-cc08-492b-95b4-6565fd3f7865" cert="high">Media</placeName> and <placeName xml:id="recogito-669813fb-0c2a-4b39-bbdd-8e10c0e06596" cert="unknown">Damascus</placeName>.
+But among the household of the princes there are many
+disciples of the wise. Sometimes they call upon this, and
+sometimes upon the other, to say the prayers. The prince
+has also a prison, wherein he locks up the wicked.18 If a
+Gentile and a Jew have a dispute, whether the Jew or the
+Ishmaelite19 be the guilty, he locks him up.</p><p>
+<persName xml:id="recogito-ebe4c184-85d4-4b7d-803c-499190f9d1b1">R. Petachia</persName> fell sick at <placeName ref="geo-kima.org/place/2804" xml:id="recogito-5baeb643-314f-4fd6-b1b7-a315129d45e1" cert="low">Nineveh</placeName>, and the king’s physicians
+said that he would not live. It is customary there that
+when a travelling Jew dies, the <persName xml:id="recogito-1e7f77be-da17-4c15-8abe-3eae2c03577c">sultan</persName> takes half of his pro¬
+perty ; and because <persName xml:id="recogito-7603b31f-d50c-4733-a2ab-7927938163ea">R. Petachia</persName> was dressed in beautiful
+clothes they thought that he was rich; therefore the scribes
+of the <persName xml:id="recogito-cba1af0b-e9fb-4abd-8598-df2ef54ce010">sultan</persName> were there to take possession of the property,
+should he die. But <persName xml:id="recogito-8ba8c4d7-fa60-44a7-be64-be4880031528">R. Petachia</persName> gave directions, sick
+as he was, to carry him over the river <placeName ref="pleiades.stoa.org/places/912964" xml:id="recogito-d38ac584-8697-4708-8864-a1d580bcb82f" cert="low">Tigris</placeName>. The river
+is broad, and not crossed over in boats, for the river is swift
+and impetuous, and would upset the boat. Therefore they
+make rafts of reeds, which are called floss,20 upon which
+they put man and luggage. The waters being healthy, he
+recovered immediately.</p><p>
+At <placeName ref="geo-kima.org/place/2804" xml:id="recogito-302d5136-23f0-420a-b090-06a721278bcf" cert="low">Nineveh</placeName> there was an elephant. Its head is not at
+all protruding. It is big, eats about two waggon loads of</p><p>
+12
+גדול ואוכל כשתי עגלות תבן בפעם אחת: ופיו
+בחזה. וכשחפץ לאכול מוציא שפתו כאמתיים.
+ובה מקבץ התבן ומכניס בפיו: וכשנתחייב אדם
+לשלטון הריגה. אומרים לפיל, זה נתחייב. והוא
+יקחהו בשפתו ומשליכו למעלה וממיתו: וכמו
+שאדם עושה ביד כך הוא עושה בשפתו. ומשונה
+ומפואר הוא: ועל הפיל בניין עיר. ושנים עשר
+פרשים עליו עם שריונים. ומוציא שפתו ועולין בו
+כגשר:
+וב<placeName ref="geo-kima.org/place/2804" xml:id="recogito-3023484b-3ea9-4845-9267-d4d66d99b35e" cert="high">נינוה</placeName> היה איש חוזה בכוכבים ושמו <persName xml:id="recogito-3d7aa2f3-f5d6-4822-9d4c-c830d82fce59">רבי
+שלמה</persName>. וב<placeName ref="geo-kima.org/place/2804" xml:id="recogito-37c9e236-145c-49df-bcef-391c8bc35e63" cert="high">נינוה</placeName> ובכל ארץ <placeName xml:id="recogito-0110dd70-7352-4a90-9f6b-66980973636a" cert="unknown">אשור</placeName> ובכל החכמים
+אין כמוהו בקי במזלות: ושאל לו <persName xml:id="recogito-4ccc704f-5f3d-49ca-846b-1299df1329d9">רבי פתחיה</persName>
+מתי יבא משיח. ואמר לו כבר ראיתי במזלות
+כמה פעמים בבירור: אבל <persName xml:id="recogito-1da3698b-1d73-448e-adca-e95375937dbf">רבי יהודה החסיד</persName> לא
+רצה לכתבו. פן יחשדוחו שהוא מאמין בדברי <persName xml:id="recogito-e00376f1-16a5-43a6-bd8a-6d12a719e0bc">רבי
+שלמה</persName>:
+ועבר את <placeName ref="geo-kima.org/place/2273" xml:id="recogito-6b1ca967-dcdd-40fe-a41f-9f718e604565" cert="high">חדקל</placeName>. וירד במורד המים בחמשה
+עשר יום עד גן של ראש הישיבה שב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-155b5afd-bc81-4666-86c1-5f10c2fe0099" cert="low">בבל</placeName>:
+והולכין בחדש אחד: ומ<placeName ref="geo-kima.org/place/2804" xml:id="recogito-0de382de-f8a1-467d-8f71-132e21d502a7" cert="high">נינוה</placeName> ואילך קהילות בכל
+עיר ועיר ובכפר: ובא ל<placeName xml:id="recogito-a904a853-a6ca-496f-80f8-d9f235100f03" cert="low">גן אחד של ראש הישיבה</placeName>.
+ובגן כל מיני פירות: והגן גדול מאוד ובו
+דודאים. ופרצוף אדם להם ועשבים שלהם רחבים:</p><p>
+straw at once; its mouth is in its breast, and when it
+wants to eat it protrudes its lips about two cubits, takes
+up with it the straw, and puts it into its mouth. When
+the <persName xml:id="recogito-b6b1a235-834f-46f7-aa66-4c09448649ab">sultan</persName> condemns anybody to death, they say to the
+elephant, This person is guilty. It then seizes him with its
+lip, casts him aloft, and kills him. Whatever a human
+being performs with his hand it performs with its lip; this
+is exceedingly strange and marvellous. Upon the ele¬
+phant is the structure of a city,21 upon which there are
+twelve armed warriors; when it stretches forth its lip they
+ascend as over a bridge.</p><p>
+At <placeName ref="geo-kima.org/place/2804" xml:id="recogito-66daf678-aef3-47b2-83f2-3d7db6f44867" cert="low">Nineveh</placeName> there was an astrologer whose name was <persName xml:id="recogito-567a2865-7a7a-4f30-af98-dfae971918c6">R. Shelomoh</persName>. There is among all the sages in <placeName ref="geo-kima.org/place/2804" xml:id="recogito-3c3b5f94-f0db-4ba2-b5f3-51d03a437de2" cert="low">Nineveh</placeName>, and
+the land of <placeName ref="geo-kima.org/place/12986" xml:id="recogito-0f11d5af-22c8-4bd3-ace2-52a4a7d8f11f" cert="low">Assur</placeName>, none as expert in the planets as he. <persName xml:id="recogito-e9e5ac81-87f8-4fba-b9c7-1ab86b27a2bd">R. Petachia</persName> asked him when <persName xml:id="recogito-b411b87c-a22f-4898-9869-98e4e84cc56f">Messiah</persName> would come. He re¬
+plied, I have seen this often distinctly in the planets. But
+Rabbi <persName xml:id="recogito-6ed57cb2-a7cc-4f8b-8940-2b3bbec06df3">Yehudah</persName>, the Pious, would not write it down, lest
+he should be suspected as a believer in the words of Rabbi
+Shelomoh.22</p><p>
+He then embarkedon the <placeName ref="pleiades.stoa.org/places/912964" xml:id="recogito-a74e8bff-a45a-41c5-81d9-cdb34499b15a" cert="low">Tigris</placeName>, and went with the current
+of the river, in fifteen days, to the garden23 of the head of
+the academy24 in <placeName ref="dare.ht.lu.se/places/22328" xml:id="recogito-428d48f6-01fd-45f4-8c7b-855723d12a1a" cert="high">Babel</placeName>. The journey takes one month.
+From <placeName ref="geo-kima.org/place/2804" xml:id="recogito-f8c757fa-ab06-43b7-9124-47f14f37ceed" cert="low">Nineveh</placeName>, and further on, there are congregations in
+every city and village. He came to a garden of the head
+of the academy. In the garden there are all kinds of fruit.
+The garden is very large, there are mandrakes25 in it. They
+have the face of a human being, their foliage is broad.
+From thence he went, in one day, to <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-a735b123-ff0e-4b1f-98f0-7b04eac973f8" cert="high">Bagdad</placeName>, in <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-2d01525f-9b0d-4336-b64c-4bc0675d5988" cert="low">Babylon</placeName>.</p><p>
+14
+ומשם ואילך הלך ביום אחד עד <placeName ref="geo-kima.org/place/662" xml:id="recogito-d9ebe5a4-cda1-4121-a143-8c77a1293bc7" cert="high">בגדת</placeName> ב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-5f039f8d-0c12-44b3-b789-f76cdeae184a" cert="low">בבל</placeName>:
+ואין אדם עולה בנהר <placeName ref="geo-kima.org/place/2273" xml:id="recogito-a43eaa9d-0ed9-4bf0-8ea0-cc2d9dbfcd2a" cert="high">חדקל</placeName> מפני שחדים ועזים.
+אלא בגמלין ובפרדות ביבשה. וקושרין הנודות
+אחורי הגמל:
+ו<placeName ref="geo-kima.org/place/662" xml:id="recogito-a80ac597-40ea-4d09-a899-e4bfc4fa234c" cert="high">בגדת</placeName> היא עיר מלוכה. ובה חליפי השלטון.
+הוא המלך הגדול המושל ושולט על כל העמים:
+ו<placeName ref="geo-kima.org/place/662" xml:id="recogito-b824eeb4-8ba8-493f-9ed5-55c569940f35" cert="high">בגדת</placeName> גדולה מאוד יותר ממהלך יום מראש עד
+סוף. ובהיקף יותר משלשה ימים: ובעיר <placeName ref="geo-kima.org/place/662" xml:id="recogito-dc3d5d61-849f-4ee1-b65d-dae5fa378247" cert="high">בגדת</placeName>
+אלף יהודים. והולכים בסודרים: ואין אדם רואה
+שום אשה שם: ואין שום אחד מהם הולך לבית
+חבירו. שמא יראה אשת חבירו. ומיד היה אומר
+לו פריץ למה באת. אלא מכה בבדיל. והוא יוצא
+ומדבר עמו: והם מעוטפים בטליתות של צמר
+וציצית. והולכים בהם: וראש ישיבה ב<placeName ref="geo-kima.org/place/662" xml:id="recogito-0ccc9945-7039-43ff-9b9a-fdcc81541fa4" cert="high">בגדת</placeName> <persName xml:id="recogito-e035d111-58a1-46d3-b7ce-3e6c96692142">רבי
+שמואל הלוי</persName> <span xml:id="recogito-5fd39f2c-fee1-46e6-9696-b0d2a1ffb168" ana="#typo">כן</span><note target="recogito-5fd39f2c-fee1-46e6-9696-b0d2a1ffb168" resp="sinai">כן-בן</note> עלי ראש ישיבה. והוא שר ומלא
+חכמה בתורה שבכתב ותורה שבעל פה וכל
+חכמת מצרים. ואין דבר נעלם ממנו. ויודע שמות.
+וכל התלמוד יודע בגירסא:
+ואין עם הארץ בכל ארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-c1314862-2028-4069-bf9e-39f31b3ab79b" cert="low">בבל</placeName> ובארץ <placeName xml:id="recogito-d237326f-03ad-4048-aec0-dfdcafce9476" cert="unknown">אשור</placeName>
+ובארץ מדי ו<placeName ref="geo-kima.org/place/5979" xml:id="recogito-f80de423-2f54-4abf-970f-f9975a201df3" cert="low">פרס</placeName>. שלא יודע כל עשרים וארבעה
+ספרים וניקוד ודיוק וחסירות ויתירות. כי החזן
+אינו קורא בתורה אלא מי שיעמוד לספר תורה
+הוא קורא:</p><p>
+Nobody ascends the river <placeName ref="pleiades.stoa.org/places/912964" xml:id="recogito-abe0100c-bf75-4f53-9f1f-d58945e41e72" cert="low">Tigris</placeName>, because its waters are
+swift and impetuous, but they employ camels and mules on
+dry land, tying the inflated skins on the backs of the
+camels.26</p><p>
+<placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-40821787-def7-4d57-bcc5-ceee4579b3f9" cert="high">Bagdad</placeName> is a metropolis. It is the seat of the khaliph
+the <persName xml:id="recogito-91b37ab0-37b5-4605-9c90-18475c69bceb">sultan</persName>. This is the great king who rules and governs
+nations.27 <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-c511a0de-4b53-4644-91eb-bea860244e33" cert="high">Bagdad</placeName> is very large, more than a day’s journey
+from end to end. Its circuit is more than three days’ jour¬
+ney.28 In the city of <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-29f5b19b-a7eb-4b63-9af0-7435be89f075" cert="high">Bagdad</placeName> there are a thousand Jews.
+They walk about wrapped in cloths. Nobody sees there
+any woman, nor does anybody go into the house of his
+friend, lest he should see the wife of his neighbour. He
+would immediately say unto him, Insolent man, wherefore
+art thou come ? But he knocks with a tin (knocker), when
+the other comes forth and speaks to him. They are all
+wrapped in praying scarfs of wool with fringes, in which
+they walk about.29 The head of the academy at <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-13f0c2e0-d274-4dd8-8f55-1e36b2acf930" cert="high">Bagdad</placeName>,
+is <persName xml:id="recogito-ac6b454f-08c2-44ed-9528-5bdf135fff40">R. Samuel</persName>, the Levite, son of <placeName xml:id="recogito-4a67a853-38a1-4cf0-b8e7-01579d3aabc9" cert="low">Ilai</placeName>, head of the academy.30
+He is the superior, full of wisdom, both in the written and
+oral law, and all the wisdom of <placeName ref="geo-kima.org/place/8046" xml:id="recogito-fcad36e4-444e-4512-b7ff-448a72e31732" cert="low">Egypt</placeName>. Nothing is hidden
+from him. He knows the names,31 and is profoundly versed
+in the Talmud. There is no one so ignorant in the whole
+of <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-46251386-9c76-4d67-9482-03c9341f2e76" cert="low">Babylon</placeName>, <placeName ref="geo-kima.org/place/12986" xml:id="recogito-335ee7ee-449e-46f9-9898-baa8883eb29a" cert="high">Assyria</placeName>, <placeName ref="pleiades.stoa.org/places/903080" xml:id="recogito-af1c1a55-6104-47f7-b269-69c0974f60ff" cert="high">Media</placeName>, and <placeName xml:id="recogito-982a0434-b924-4551-8fa0-29265c3b1e20" cert="unknown">Persia</placeName>, but he knows
+the twenty-four books, the punctuation, the grammar, the
+superfluous and omitted letters, for the precentor does
+not read the law, but he that is called up to the scroll of
+the law reads himself.32</p><p>
+And the head of the academy has about two thousand</p><p>
+16
+ויש לראש ישיבה כאלפים תלמידים בפעם אחת.
+וסביביו כחמש מאות ויותר וכולם מבינים בטוב:
+וקודם שידעו לומדין בעיר לפני לומדים אחרים.
+וכשיודעים אז יבואו לפני ראש הישיבה: ורבי
+אליעזר הוא ראש הגולה. ותחתיו ראש הישיבה:
+ובית גדול יש לראש הישיבה. ומחופה במעילים.
+והוא מלובש בגדי זהב. והואא יושב למעלה.
+והתלמידים יושבים על הקרקע: והוא אומר
+למתורגמן. והמתורגמן אומר לתלמידים:
+והתלמידים שואלין מן המתורגמן. ואם אינו יודע
+ישאל המתורגמן לראש הישיבה: ומתורגמן אחד
+אומר לצד אחד מסכתא אחת. ומתורגמן אחר
+אומר מסכתא אחרת לצד אחר: וכל התלמוד
+בניגון. ואחר שגורסין מפרש להם:
+ושנה אחת קודם שבא הרב <persName xml:id="recogito-a5385639-465b-489a-b013-10e00aab2df6">רבי פתחיה</persName> מת
+<persName xml:id="recogito-bb1e712e-7667-489d-b8df-9eae1a9dca94">רבי דניאל ראש הגולה</persName>: והוא יותר שר מראש
+הישיבה: ולכלם יש ספר היחס עד השבטים.
+ו<persName xml:id="recogito-6f35023c-e1cd-4686-85e0-4808cc5ef702">רבי דניאל</persName> היה מבית דוד: ואין המלך נותן להם
+ראש הגולה אלא על פי שרי היהודים: ואין שם
+הראוי להיות ראש גולה אלא אותן שני נשיאים
+מבית דוד, ומקצת השרים בוחרים ב<persName xml:id="recogito-f35c565b-009c-4307-a25a-7b9bd665abd2">רבי דוד</persName>.
+ומקצת ב<persName xml:id="recogito-85c99a32-4c39-492f-9dc0-0f84691edbc6">רבי שמואל</persName>: ועדיין לא הושוו, והם</p><p>
+17</p><p>
+disciples simultaneously, and more than five hundred sur¬
+round him, and they are all well informed. But before
+they are ripe for the academy they study in the city under
+other teachers, and when ripe they are brought before the
+head of the academy. The head of the captivity is <persName xml:id="recogito-aa6cc445-3af6-4809-af0b-751f605a5e2e">Rabbi Elieser</persName>, and under him is the head of the academy. The
+head of the academy occupies a large house, which is
+covered with tapestry; he himself is clothed in garments
+adorned with gold. He sits above, whilst the disciples
+are sitting on the ground. He discourses to the inter¬
+preter, and the interpreter to the disciples. The disciples
+address their queries to the interpreter,33 and if the inter¬
+preter does not know anything, he addresses himself to the
+head of the academy. An interpreter expounds a treatise34
+on one side, and another interpreter expounds another
+treatise on another side. The whole study is with an in¬
+tonation,35 and after the delivery he expounds it to them.</p><p>
+A year before the arrival of Rabbi Petachia, Rabbi
+<persName xml:id="recogito-7cbb1c21-1c68-461e-99ba-76256e165e61">Daniel</persName>, the head of the captivity, died. He is a higher
+authority than the head of the academy. They all possess
+a book of genealogy, up to the founders of the tribes; Rabbi
+<persName xml:id="recogito-31662122-56a7-41ea-8a50-90d41612567c">Daniel</persName> descended from the house of <persName xml:id="recogito-ea7c8e60-128c-4d86-9cad-794cabc880f0">David</persName>. The monarch
+does not appoint a head of the captivity, save at the re¬
+commendation of the principal men among the Jews. There
+is no one there eligible to be head of the captivity, except
+the two princes of the house of <persName xml:id="recogito-c607ed9c-fa41-4ab6-8f99-e277d43c1d87">David</persName>, and some of the
+principal men prefer Rabbi <persName xml:id="recogito-8de11845-580d-4705-b81d-e0caf28ac0c7">David</persName>, and some Rabbi <persName xml:id="recogito-0f95eecf-379f-404a-b90a-734fe7eda544">Samuel</persName>.36
+They have not yet come to an understanding. They are</p><p>
+18
+תלמידי חכמים: ול<persName xml:id="recogito-a8fb073c-8941-4bc9-8cbd-3b86663431bb">רבי דניאל</persName> לא היו בנים כי
+אם בנות: ו<persName xml:id="recogito-3815d4a9-78be-43f5-933c-1ad3a84e1116">רבי שמואל</persName> יש לו ספר היחס שלו עד
+<persName xml:id="recogito-6a15ca14-2707-469d-8819-593ad6c432f7">שמואל הרמתי בן אלקנה</persName>: ואין לו בנים אלא בת
+אחת: והיא בקיאה בקרייה ובתלמוד והיא
+מלמדת הקרייה לבחורים דרך חלון אחד. והיא
+סגורה בבנין. והתלמידים בחוץ למטה ואינם
+רואים אותה: ובכל ארץ <placeName xml:id="recogito-2fc6e779-54e8-46e0-9374-b85ebcda4533" cert="unknown">אשור</placeName> וב<placeName xml:id="recogito-95a82409-f3bc-4130-8d7d-f2da1ad5679d" cert="unknown">דמשק</placeName> בערי
+<placeName ref="geo-kima.org/place/5979" xml:id="recogito-4d5f6bb8-8fb3-4da3-85ea-490f3ddbe73e" cert="low">פרס</placeName> ומדי ובארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-e6f9d86a-71da-42d5-8433-ce98953032eb" cert="low">בבל</placeName> אין להם דיין אלא מי
+שמוסר <persName xml:id="recogito-0ef675a1-de00-49b9-8955-3091a0c4ab6b">רבי שמואל</persName> ראש ישיבה: ונותן רשות
+בכל עיר לדון ולהורות. וחותמו הולך בכל
+הארצות וב<placeName ref="geo-kima.org/place/2501" xml:id="recogito-87ed69d7-4470-4e80-9012-84c317591ff3" cert="high">ארץ ישראל</placeName>. והכל יראים ממנו:
+ויש לו כששים עבדים משרתים: שרודים את העם
+במקלות: והזקנים לאחר עמידת התלמידים
+שואלים ממנו חכמת המזלות ושאר כל מיני
+חכמה:
+וערים גדולים הם ב<placeName xml:id="recogito-ff3668bf-8ba7-4e19-9c68-998a80957eb7" cert="low">ארץ אררט</placeName>. ומעט יהודים
+שם. כי מתחלה היו שם יהודים הרבה בימי
+קדם. והרגו זה את זה. ונפרדו והלכו לערי <placeName ref="geo-kima.org/place/3526" xml:id="recogito-837afa72-dcea-49ad-8fbd-03ed02a86e98" cert="low">בבל</placeName>
+<placeName xml:id="recogito-05737121-d5aa-41fe-8ce8-0d9c540db600" cert="low">מדי</placeName> ו<placeName ref="geo-kima.org/place/5979" xml:id="recogito-69f5ad01-9c7a-4628-80b4-254d2e979df4" cert="low">פרס</placeName>: וב<placeName xml:id="recogito-7326bb13-ae33-44f8-8b87-30d7dedaa66b" cert="unknown">ארץ כוש</placeName> ובארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-24f411bf-5a2a-4d9e-9f0e-6c225c293016" cert="low">בבל</placeName> יותר מששים
+רבוא יהודים, וכן בארץ <placeName ref="geo-kima.org/place/5979" xml:id="recogito-226726e2-1e18-48ff-9f3f-86b36de0096e" cert="low">פרס</placeName>: וב<placeName ref="geo-kima.org/place/5979" xml:id="recogito-87f910d6-5a87-47ce-9bff-5a8e97c32685" cert="low">פרס</placeName> שעבוד
+וצעד גדול ליהודים. ולכן לא בא <persName xml:id="recogito-969f87bb-b19b-401c-8095-bed3d87001ac">רבי פתחיה</persName>
+אלא בעיר אחת של <placeName ref="geo-kima.org/place/5979" xml:id="recogito-dbeedb64-c6b3-41ef-bc08-13e67cb6dc8c" cert="low">פרס</placeName>: וכל יהודי שב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-03946401-2787-487a-8600-0c6ff79ea0bf" cert="low">בבל</placeName></p><p>
+19</p><p>
+both of the disciples of the wise. Rabbi <persName xml:id="recogito-f54a47ec-58e1-4614-b7aa-0d9fe497781a">Daniel</persName> had no
+sons, only daughters. Rabbi <persName xml:id="recogito-f77ca8bf-6720-4a5c-ba8a-bf4e43ca91ea">Samuel</persName> has a book of gene¬
+alogy going back as far as <persName xml:id="recogito-411d4a75-7e03-4e92-a9ea-5936b960dd0b">Samuel the Ramathean</persName>, son of
+Elkanah. He has no sons, but only one daughter. She
+is expert in the Scripture and Talmud. She gives instruc¬
+tion in Scripture to young men, through a window. She,
+herself, is within the building, whilst the disciples are be¬
+low outside, and do not see her. In all the land of <placeName ref="geo-kima.org/place/12986" xml:id="recogito-f9befa45-9e20-4160-a153-960541bbd5fe" cert="high">Assyria</placeName>
+and <placeName xml:id="recogito-3f51e2bb-d6e3-4d50-a15e-167ed58349b2" cert="unknown">Damascus</placeName>, in the cities of <placeName xml:id="recogito-650e1630-1877-41a4-8cff-d390406c2a0b" cert="unknown">Persia</placeName> and <placeName ref="pleiades.stoa.org/places/903080" xml:id="recogito-cd687d2d-70b8-4792-9358-18ca2b9938a0" cert="high">Media</placeName>, as well as
+in the land of <placeName ref="dare.ht.lu.se/places/22328" xml:id="recogito-7aefa029-8248-40f7-9ca8-b8283f37f7d5" cert="high">Babel</placeName>, they have no other judge, unless ap¬
+pointed by <persName xml:id="recogito-50df7297-6883-4776-b911-774daf169fe7">Rabbi Samuel</persName>, the head of the academy. It is
+he that gives license in every city to judge and to teach.
+His authority is acknowledged in all countries, and also in
+the land of Israel.37 They all respect him; he has about
+sixty beadles, who hold the people in submission by means
+of rods. After the leaving of the disciples, the elders
+derive instruction from him in the science of the planets,
+and other branches of knowledge.</p><p>
+There are large cities in the land of <placeName ref="sws.geonames.org/409313" xml:id="recogito-6a5908fc-596c-401e-a76f-65dbf0c190c6" cert="high">Ararat</placeName>.38 There are
+few Jews there. In ancient times many Jews lived there.
+However they slew each other and separated, and went to
+the cities of <placeName ref="dare.ht.lu.se/places/22328" xml:id="recogito-fdf134cc-6ad2-4390-9ed9-b68dcd199f47" cert="high">Babel</placeName>, <placeName ref="pleiades.stoa.org/places/903080" xml:id="recogito-eb3a3edd-8cb6-4700-8559-dd77e4997fbb" cert="high">Media</placeName>, and <placeName xml:id="recogito-5e99be8d-0f60-408b-ba94-ce39c013750a" cert="unknown">Persia</placeName>.39 But in the <placeName xml:id="recogito-2e4b7d7f-cf52-41ff-a96a-b1fdee38e27a" cert="low">land of
+Cush</placeName>40 and <persName xml:id="recogito-05ee3c39-67d6-4826-9eef-34f56941ae15">Babel</persName> there are more than sixty myriads of
+Jews; as many are in the land of <placeName xml:id="recogito-6851cad5-363c-4bae-8464-37af7ea3b761" cert="unknown">Persia</placeName>. But in <placeName xml:id="recogito-3a1de294-864e-4d06-b444-efdc98283a2c" cert="unknown">Persia</placeName>
+the Jews are subject to hard bondage and sufferings.
+Therefore Rabbi <persName xml:id="recogito-fcebf0d9-39fb-4ca0-8806-df73bf17bc04">Petachia</persName> visited only one city in <placeName xml:id="recogito-de4a3589-de42-4a6b-8467-c8f37fb76a56" cert="unknown">Persia</placeName>.
+Every Jew in <placeName ref="dare.ht.lu.se/places/22328" xml:id="recogito-3ccd2ba3-46dc-42cc-8a17-48c56f78a503" cert="high">Babel</placeName> pays a gold florin annually to the
+head of the academy, as a poll-tax. For the monarch re-</p><p>
+נותן זהוב לשנה לגולגלתו לראש הישיבה. כי אין
+המלך מבקש מהם מס אלא ראש הישיבה. ושלום
+ליהודים שבארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-c5ea0ca2-9900-4cdc-b879-da396b95a464" cert="low">בבל</placeName>:
+והמלך שהיה קודם בימי <persName xml:id="recogito-a18c50e7-3435-4e5c-b416-d0d236c8e8f4">רבי שלמה</persName> אביו של
+<persName xml:id="recogito-34c61d78-c732-49a5-a13b-5df1f4d5e33d">רבי דניאל</persName> היה אוהב את <persName xml:id="recogito-a8e4bfe2-7d0c-4d0a-8b06-8f3c61070c1a">רבי שלמה</persName>. מפני
+שהמלך היה מזרע <persName xml:id="recogito-c2810c2e-7941-4b4b-9b7f-553eccfde21a">מחמט</persName> וראש גולה מדוד
+המלך: ואמר ל<persName xml:id="recogito-d6c563c4-f0f9-42b8-a1ec-8bb2f3112723">רבי שלמה</persName>. שהוא רוצה לראות
+את <persName xml:id="recogito-16750ff6-297c-4afb-a515-4a1a7957facb">יחזקאל הנביא</persName> שעשה נסים: ואמר לו <persName xml:id="recogito-1ade0793-26f4-44f3-9b11-4afe6036fe75">רבי
+שלמה</persName>. לא תוכל לראותו כי קדוש הוא. ולא
+תוכל לגלות את קברו: אמר לו המלך. שהוא
+רוצה לדעת: אמר לו <persName xml:id="recogito-8aa4f5b2-6a57-48cb-b746-8d52f3867d69">רבי שלמה</persName> והזקנים. אדוני
+המלך. הנה <persName xml:id="recogito-0a0a83f9-5e4b-4cf8-afcf-da388dcee615">ברוך בן נריה</persName> תלמידו קבור סמוך
+לחצרו אם תחפוץ תגלה קברו. אם תוכל לראות
+תלמידו אחר כך תראה את רבו: הלך וקבץ כל
+השרים וצוה לחפור, וכל מי שחפר בקברו של
+<persName xml:id="recogito-52279833-f4f2-40c3-a57a-f61258855b2b">ברוך בן נריה</persName> מיד נפל מת: היה שם זקן אחד
+ישמעאלי ואמר למלך. אמור ליהודים שיחפרו
+אחריו: ואמרו היהודים. אנו יראים: אמר המלך.
+אם אתם תופסים תורתו של <persName xml:id="recogito-18fdf86f-df90-422c-84fa-2fa08eaedc94">ברוך בן נריה</persName> לא
+יזיק לכם. כי כל ישמעאלי שחפר נפל מת: אמר
+<persName xml:id="recogito-6fb78d55-d280-4cab-9437-fe1440d59d1e">רבי שלמה</persName>. תן לנו זמן שלשה ימים. שנתענה
+כדי שימחול לנו. ואחר שלשה ימים חפרו
+היהודים. ולא הוזקו: וארון של ברוך בן נריה</p><p>
+quires no taxes, but only the head of the academy. The
+Jews in the land of <placeName ref="dare.ht.lu.se/places/22328" xml:id="recogito-8c543dc7-73bd-4d9f-bfb5-38db0efc5f04" cert="high">Babel</placeName> live in peace.</p><p>
+The monarch who reigned in the days of Rabbi She-
+lomoh, father of Rabbi <persName xml:id="recogito-a836456c-cfe4-4f1a-9479-e49b66308b41">Daniel</persName>, was a friend of Rabbi She-
+lomoh, because the monarch was of the seed of <persName xml:id="recogito-ee134f5e-5dad-445e-96dc-a06c2321a106">Mahomet</persName>,
+and the head of the captivity descended from King <persName xml:id="recogito-dc929c55-6f64-4157-b576-c4021d16fa42">David</persName>.
+And he said to <persName xml:id="recogito-297474f4-e4b4-4eba-81e4-5608cffa04d8">Rabbi Shelomoh</persName> that he wished to see the
+prophet <persName xml:id="recogito-41fc5471-aef9-4845-beff-3ece9a2d08b0">Ezekiel</persName>, who performed miracles. And <persName xml:id="recogito-d41fb219-fefa-4b5a-9fa9-2e3bee03bbaf">Rabbi Shelomoh</persName> said to him, Thou canst not see him, for he is
+holy, nor must thou uncover his grave. The monarch
+replied that he would explore it. Then Rabbi <persName xml:id="recogito-827851f8-1b36-498d-a310-4bc045678e87">Shelomoh</persName>
+and the elders said to him, My lord and king, <persName xml:id="recogito-7388b0e5-b914-4854-8655-c6761b08edad">Baruch,
+son of Neriah</persName>, his disciple,41 is buried near the enclosure of
+the prophet. If it be thy will uncover his grave. If thou
+canst see his disciple then thou mayest try to see his mas¬
+ter. He then assembled all the princes, and commanded
+them to dig. But every one that dug into the <placeName xml:id="recogito-b3356a00-e350-4356-8306-56c4d1e921a3" cert="low">grave of
+Baruch, son of Neriah</placeName>, fell down immediately and died.
+There was there an old man, an Ishmaelite, who said to
+the monarch, Tell the Jews that they should dig. The
+Jews replied, We are afraid. But the king said, If
+you keep the law of Baruch, son of Neriah, he will not hurt
+you, for every Ishmaelite that dug fell down dead. Then
+Rabbi <persName xml:id="recogito-8c108e2a-5b64-4327-8434-4ee760bbdc4e">Shelomoh</persName> said, Give us time, three days, that we
+may fast in order to obtain his pardon. After three days
+the Jews dug, and were not hurt. The coffin of <persName xml:id="recogito-1d8b5be6-0b08-4d9b-92cf-2f490f6b7ebb">Baruch,
+son of Neriah</persName>, was between two marble stones, he being
+between the two. A portion of his praying scarf42 pro-</p><p>
+22
+בתוך שני אבני שיש. והוא בתוך שניהם. ומקצת
+הטלית יצא מבין האבנים: אמר המלך. אין שני
+מלכים משתמשים בכתר אחד. ואין נאה לצדיק
+זה להיות אצל יחזקאל, אני רוצה להביאו למקום
+אחר: ונשאו אבני השיש עם הארון: וכשבאו
+ברחוק מ<placeName xml:id="recogito-17d8a233-5614-4675-8188-e99c4f7ec777" cert="unknown">קבר יחזקאל</placeName> מיל לא יוכלו לזוז ממקומם.
+וכל הסוסים וכל הפרדות לא יכלו להזיז הארון
+ממקומו: ואמר <persName xml:id="recogito-89040e04-a580-4c52-8796-2f908be09dfd">רבי שלמה</persName>. כאן בחר הצדיק
+ליקבר: וקברו שם את הארון. ובנו פלטין יפה
+על קברו:
+ונתן <persName xml:id="recogito-23a50711-9e0a-4e43-b979-89f2e4fe2633">רבי שמואל</persName> ראש ישיבה כתב וחותמו לרבי
+פתחיה. שיתיירו אותו בכל מקום שיבוא שם;
+ויראו לו קבורת תלמידי חכמים והצדיקים: ובארץ
+<placeName ref="geo-kima.org/place/3526" xml:id="recogito-1acc1116-08b7-4ce9-b0b1-2e7f9c708f28" cert="low">בבל</placeName> לומדים פירוש <persName xml:id="recogito-064382bf-a82b-4f66-b02f-efaf905bba18">רבינו סעדיה</persName> שעשה מכל
+הקרייה ומששה סדרים. ופירוש <persName xml:id="recogito-8bfa97d9-2eb0-4319-b0d3-dce367d6bbb1">רב האי גאון</persName>:
+והם קבורים תחת <placeName xml:id="recogito-a7808327-b192-4402-846c-918b3ad9cfc3" cert="unknown">הר</placeName> <persName xml:id="recogito-2f9e612e-7ac5-4e29-9dd3-83709da2ce03">רבינו סעדיה</persName> ורב האי. ואמרו
+שכלם הר אחד משם עד <placeName xml:id="recogito-f7ed892e-2a04-499a-98cb-2017dbe10529" cert="unknown">הר סיני</placeName>. והוא קרוב
+ל<placeName ref="geo-kima.org/place/662" xml:id="recogito-a89fd91d-afb4-4eae-9e08-b55b7b117084" cert="high">בגדת</placeName>: והוליך <persName xml:id="recogito-27901c02-776d-4767-9506-2772739e1f8b">רבי פתחיה</persName> חותם של <persName xml:id="recogito-bcb1de2d-de10-4c3e-9245-d507a6d70ed7">רבי שמואל</persName>
+עמו. וכל שהיה מבקש היו עושין. ויראים ממנו:
+והלך <persName xml:id="recogito-f7f001c7-90dd-4eea-aa45-40af7ed0acc8">רבי פתחיה</persName> עד עיר אחת ששמה <placeName xml:id="recogito-b69aac12-ac4a-42b0-99b6-b9db68487ba1" cert="unknown">פולוש</placeName>.
+מהלך יום אחד מ<placeName ref="geo-kima.org/place/662" xml:id="recogito-17e0f50c-3abd-48db-b677-f45e0951c6cc" cert="high">בגדת</placeName>: ושם כהן חשוב. והכל
+מעידין עליו שהוא מזרע אהרן הכהן מאב ואם</p><p>
+23</p><p>
+truded between the stones. The king said, No two kings
+make use of the same crown.43 It does not become this
+righteous man to be near <persName xml:id="recogito-8c7957f6-04e3-4eb8-94c2-0d1358e7aaf9">Ezekiel</persName>. I will transfer it to ano¬
+ther locality. They then carried away the marble stones
+together with the coffin. When they came at the distance
+of a mile from the grave of <persName xml:id="recogito-22954d5e-8723-4b85-bb43-c1a9fd7a7705">Ezekiel</persName>, they could not stir from
+the place. Nor could any horses or mules move the coffin
+from its place. Then said <persName xml:id="recogito-35fb90c9-497f-4c80-a187-3dc6c3fd2aaa">Rabbi Shelomoh</persName>, Here the
+righteous man wishes to be buried, and they buried there
+the coffin, and built a beautiful palace over his grave.</p><p>
+Rabbi <persName xml:id="recogito-a237787a-e544-4645-af7a-0590ca396b3f">Samuel</persName>, the head of the academy, gave <persName xml:id="recogito-594f9c36-f2e5-486b-9ecd-8ced16457ad1">Rabbi Pe - tachia</persName>a document with his seal, that they should give him
+safe conduct whithersoever he should go, and that they
+should show him the graves of the disciples of the wise,
+and of the righteous. In the land of <persName xml:id="recogito-65eac5b7-947d-4988-8892-63314f310e15">Babel</persName> they study
+the commentary of Rabbi Saadiah,44 which he made on the
+whole of Scripture, and on the six volumes of the Mishna;
+as also the commentary of Rabbi <persName xml:id="recogito-7ecd24bf-ad04-4cbe-bbdd-c323d8551315">Hai Gaon</persName>.45 Both of
+them, viz., <persName xml:id="recogito-a7bf0c8a-a219-431c-8d6a-72ba404d914e">Rabbi Saadiah</persName> and <persName xml:id="recogito-af0880d5-c82a-4e1f-96c1-09c8b5d5bd86">Rabbi Hai</persName>, are buried
+under <placeName xml:id="recogito-6a3c2640-6b0d-4ffa-9afe-45c40ae873ae" cert="unknown">Mount Sinai</placeName>. They say that from thence to <placeName xml:id="recogito-01e9c5f0-d1e9-4477-8482-fea617fb1106" cert="unknown">Mount Sinai</placeName> it is all one mountain. It is near <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-516ffca1-a9fe-420e-8087-a9522c195d79" cert="high">Bagdad</placeName>. Rabbi
+<persName xml:id="recogito-844fb383-60b4-44dd-a6aa-5f5406209652">Petachia</persName> carried the seal of Rabbi <persName xml:id="recogito-0dca10a7-f055-41ce-ba9a-f1ea468eadb2">Samuel</persName> with him; and
+the people did all that he required; and they feared him.
+And Rabbi <persName xml:id="recogito-eba0e15e-18a2-4b32-9f7a-662c366e4dd4">Petachia</persName> travelled to a city the name of which
+is <placeName ref="pleiades.stoa.org/places/894084" xml:id="recogito-0ad3057b-b186-44c7-a532-5a21e7749e9e" ana="#Asher" cert="high">Polos</placeName><note target="recogito-0ad3057b-b186-44c7-a532-5a21e7749e9e" resp="sinai">note 46</note>,46 a day’s journey from <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-4c5c4a2b-52ce-40ff-a2c0-1dc74e7ab9ae" cert="high">Bagdad</placeName>. There lives a
+<persName xml:id="recogito-e3c34a12-3152-416c-8cca-dcde669e7e6b">distinguished priest</persName>, and all testify that he is of the seed
+of <persName xml:id="recogito-33163806-28cb-4c27-89b3-dff4ccd80393">Aaron the priest</persName>, both from father’s and mother’s side,
+without any blemish. He also possesses a book of gene-</p><p>
+24
+בלי דופי, ויש לו ספר יחס: ולפני אותה עיר
+<placeName xml:id="recogito-f4e1401e-adea-4d50-a0ed-16a6acfc7865" ana="#reference" cert="unknown">קבר</placeName><note target="recogito-f4e1401e-adea-4d50-a0ed-16a6acfc7865" resp="sinai">קבר ברוזאק</note>, ובית יפה בנוי עליו: ואמרו לו. כי בא
+בחלום לאיש עשי. יהודי אני ששמו ברוזק משרי
+יכניה שהלכו בגולה. ואני צדיק. ואין לך בנים.
+ואם תבנה על קברי בית יפה יהיו לו בנים: ובנה
+עליו בית. והיו לו בנים: ועשו שאלת חלום. מי
+הוא הנקבר שם. ואמר אני ברוזק. ואין לי שם
+אחר:
+ונתן לו הכהן כחמשים בחורים ברמחים ובכלי
+זיין. ותיירו אותו: כי אומה אחת אצל <placeName ref="geo-kima.org/place/3526" xml:id="recogito-17ab15a0-b26c-4d09-bec3-29857ffc1803" cert="low">בבל</placeName>. ואין
+חוששין על המלך: והם במדבר. ונקראים חרמים
+על שם שגוזלים וחומסים מכל אומה: ופניהם
+כעשב גרונא. <span xml:id="recogito-9b2d816d-9b26-40ef-9ffa-dff2ed471d11" ana="#typo">ואיי</span> מאמינים אלא באלוה יחזקאל.
+וכן קוראים לו כל הישמעאלים: וכמהלך יום או
+חצי יום מ<placeName ref="geo-kima.org/place/662" xml:id="recogito-b5d3101e-7d16-4a43-8f75-142b0c7dc3e3" cert="high">בגדת</placeName> קברו של יחזקאל במדבר. וישנו
+ביד החרמים: והעיר קרובה כמיל לקבר. וביד
+היהודים המפתחות: וסביב ל<placeName xml:id="recogito-33cfcfa2-2029-4cc5-8b91-7a522362e935" cert="unknown">קבר יחזקאל</placeName> מוקף
+חומה ועיר גדולה. וחצר גדול: ולחומה אין שער
+כי אם שער קטן וקצר. והיהודים פותחין השער
+ונכנסין בו על ידיהם ועל רגליהם כי נמוך הוא:
+ובחג הסוכות באין מכל הארצות שמה: והפתח
+מרחיב ומגביה מאליו את עצמו. עד שנכנסין בו
+עם הגמלים: ובאין שם כששים או כשמונים אלף</p><p>
+25</p><p>
+alogy. Before that city is a grave over which a beautiful
+house is built. He was told that some rich man saw in
+his dream an apparition, saying to him, I am a Jew whose
+name is <persName xml:id="recogito-c3150530-06f6-49de-84e0-acdd4e1e1d1d">Brosak</persName>, one of the princes that went into captivity
+with <persName xml:id="recogito-572c24f3-f8d9-423c-b66d-465b07c71a63">Jeconiah</persName>. I am righteous. Thou hast no children.
+If thou wilt build a beautiful house over my grave thou
+wilt have children. He built over it a house, and he had
+children. They then put the question in a dream,47 to learn
+who was buried there, and he said, I am <persName xml:id="recogito-72c90d23-c2a0-41e3-a27b-dc84bb9d25d1">Brosak</persName>, I have
+no other name.</p><p>
+And the priest appointed about fifty youths, armed with
+spears and other weapons, who escorted him; for there is a
+people in the neighbourhood of <placeName ref="dare.ht.lu.se/places/22328" xml:id="recogito-3c4bfff4-002c-4ce7-b0e0-7a0363ece059" cert="high">Babel</placeName> which does not
+respect the <span xml:id="recogito-987897c4-6167-4fea-adea-76092177aed2" ana="#typo">king’s authority It lives in the desert</span>; and is
+called Charamim,48 because it robs and plunders every nation.
+Their face is like the herb grona.49 They only believe in
+the God of <persName xml:id="recogito-1bf07cf2-6ffb-49bf-ab01-f4c44edc200f">Ezekiel</persName>, and thus all the Ishmaelites call them.
+About a day’s or half a day’s journey from <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-c8a570ae-18cb-4fb3-b9f1-49e5753bf546" cert="high">Bagdad</placeName>, in the
+desert, is the <placeName xml:id="recogito-4fbef023-f5ff-41f3-940b-9daad2d1ec7b" cert="unknown">grave of the prophet Ezekiel</placeName><note target="recogito-4fbef023-f5ff-41f3-940b-9daad2d1ec7b" resp="sinai">al Kifl, Iraq</note>. It is in the
+possession of the Charamim. The city is about a mile
+from the grave. The Jews possess the keys. Round the
+grave of <persName xml:id="recogito-c9b5b17e-7d57-4a12-91da-74444fefc9dc">Ezekiel</persName> is a wall, and a large town, and a large
+enclosure. The Jews open the wicket, which is so low
+that those entering have to crawl on hands and feet. On
+the festival of Tabernacles people from all countries resort
+hither, when the entrance becomes enlarged by itself, so
+that they can enter it even on camels. About 60,000 or
+80,000 Jews meet there, besides Ishmaelites. Tabernacles</p><p>
+26
+יהודים לבד מישמעאלים. ועושין סוכות בחצרו
+של יחזקאל: ואחר כך מקטין הפתח כבתחילה:
+וכלם רואים. ונותנין נדרים ונדבות על קברו: וכל
+מי שהוא עקר או עקרה או בהמתו עקרה. נודר
+ומתפלל על קברו: ואמרו ל<persName xml:id="recogito-4ce89997-fca9-49e8-a87b-733872507507">רבי פתחיה</persName>. שהיה
+לשר אחד סוסיא ונתעקרה. והיה כמהלך ארבעה
+ימים מ<placeName xml:id="recogito-c197de99-5c6e-463f-8cc3-be077c02b2e9" cert="unknown">קבר יחזקאל</placeName>: ונדר, אם תלד הסוסיא יתן
+הולד ליחזקאל: ואחר ימים ילדה. וראה כי הוא
+טוב וחמל עליו ולא נתנו ליחזקאל: וברח לו הולד
+של הסוסיא מעצמו. ונכנס לתוך חצרו של יחזקאל.
+ונתרחב השער עד שנכנס. והיה השר מחפש בכל
+מקום הסוס ולא מצא. עד ששם אל לבו ואמר
+בשביל שנדרתיהו לתת ליחזקאל הצדיק ברח
+לקברו: הלך שם ומצאו שם. ורצה להוציאו. ולא
+יכול כי הפתח נמוך: אמר יהודי אחד. אינו אלא
+על הנס שנכנס הנה. שמא נדרת אותו לצדיק:
+והודה לו ואמר נדרתי לו. ומה אעשה שאוציאנו:
+אמר היהודי קח כסף ושים על קברו. אם תשים
+שויו ויצא הסוס: ונתן הכסף מעט מעט. עד שנתן
+שויו ונתרחב הפתח ויצא:
+ו<persName xml:id="recogito-07a3b072-9263-48db-b0af-e51c1ce73c07">רבי פתחיה</persName> הלך על <placeName xml:id="recogito-22dc3b00-ef00-4913-aa53-57a320a12347" cert="unknown">קבר יחזקאל</placeName>. והביא בידו
+זהב וגרעינין של זהב: ונפלו מידו הגרעינין. ואמר.</p><p>
+are erected in the enclosure of <persName xml:id="recogito-87df251c-eef1-4484-8ad1-f67727abb375">Ezekiel</persName>. Afterwards the
+entrance shrinks to its former dimensions. All can see
+that. Vows and free-will offerings take place over his
+grave. And whoever is barren, or whose cattle is barren,
+makes a vow, or prays over his grave. Rabbi <persName xml:id="recogito-b323b5a4-e75a-45ec-a821-8e4cfbe9bb3c">Petachia</persName>
+was told that some person of distinction had a mare which
+had become barren,50 and he vowed that if the mare would
+bring forth a foal he would give it to <persName xml:id="recogito-03cbcd40-40e6-4ea1-9548-f2d4071d3c03">Ezekiel</persName>. His desire
+was gratified. But as the foal was beautiful, he wished to
+keep it for himself. But the foal left him of its own ac¬
+cord, and went into the enclosure of <persName xml:id="recogito-765ff814-99a7-4a3a-b0ec-e2de750d091f">Ezekiel</persName>, through the
+gate, which was enlarged for the purpose. The master
+searched for the horse everywhere without finding it. At
+last he considered that having vowed it to the righteous
+<persName xml:id="recogito-14955a42-40e5-44b0-a7fa-36a28fcff2ac">Ezekiel</persName>, it might have gone there, and indeed he found it
+there; but when he desired to take it away he could not,
+for the entrance was too low. Then a Jew said to him,
+The horse came here in a miraculous manner; you may
+perhaps have vowed it to the saint. He confessed it, and
+said, Yes, I have vowed it to him, and what shall I do to
+be able to bring it out ? The Jew said, Take money and
+lay it on his grave. If you lay down its value the horse
+will be able to go forth. He gradually increased the
+amount of the money until it reached the value, when the
+entrance became enlarged, and it could go forth.</p><p>
+Rabbi <persName xml:id="recogito-40fb9ab3-9ba1-4a77-b63b-3bd952bd40a9">Petachia</persName> went to the grave of <persName xml:id="recogito-2d60b86e-5af4-4bb3-be64-df512b21abee">Ezekiel</persName>, and took with
+him gold, and gold grains, and the grains fell from his hands,
+and he said, My Lord <persName xml:id="recogito-25237e85-5bfa-4de2-af34-f8a574f4e813">Ezekiel</persName>, for thy honour have I come,</p><p>
+28
+אדוני יחזקאל לכבודך באתי. ויפלו ממני הגרעינין
+ונאבדו. בכל מקום שהן יהיו שלך. והיה נראה
+בעיניו רחוק ממנו כמין כוכב. והיה סבור שמא
+אבן טובה. והלך וראה ומצא הגרעינין. ונתנם על
+<placeName xml:id="recogito-43c18a2b-7988-4e48-a7aa-9e0afb71f028" cert="unknown">קבר יחזקאל</placeName>: וכל ישמעאלי שהיה הולך על <placeName ref="dare.ht.lu.se/places/27108" xml:id="recogito-1c5d9f3d-4edd-442c-b1d7-ba06b03026a7" ana="#reference" cert="high">קבר
+מחמט</placeName> הלך דרך <placeName xml:id="recogito-ba4e84be-3fb7-45bc-8308-c9713fb81ec1" cert="unknown">קבר יחזקאל</placeName>. ונתן מתנה ונדבה
+ליחזקאל: ונודר ומתפלל ואומר. אדונינו יחזקאל.
+אם אשוב אתן לך כך וכך: ודרך מדבר הולכים
+שם בארבעים יום. ומי שיודע בדרך הולך בעשרה
+ימים מקבר יחזקאל עד נהר סמבטיון: וכל מי 
+שרוצה לילך בארץ מרחקים מפקיד כיסו או שום
+חפץ ליחזקאל. ואומר אדונינו יחזקאל שמור לי
+חפץ זה עד שאשוב. ואל תניח שום אדם לקחתו
+אלא יורשיו: וכמה כיסים של ממון מונחים שם
+שנרקבו. לפי שכמה שנים מונחים שם: והיו שם
+ספרים. ורצה אחד מן הריקים להוציא אחד מן
+הספרים. ולא היה יכול כי אחזוהו יסורים ועורון.
+ולכן מתיראים כל העולם מיחזקאל: וכל מי שלא
+ראה בנין פלטין שלו הגדול על קברו. לא ראה
+בנין יפה מעולם: ובפנים מחופה זהב: ועל הקבר
+סיד גבוה כאדם. ועל הסיד סביב ועל גביו בנין
+של ארז מוזהב. ועין לא ראתה דוגמתו: ויש לו
+חלונות. שאדם מכניס ראשו ומתפלל: ולמעלה
+עשויה כיפה גדולה של זהב ומעילים יפים</p><p>
+and now the grains have dropped from my hands and are
+lost. Wherever they may be they are thine. And he saw
+something, at some distance, like a star. He thought it
+might be a precious stone. He then went there and found
+the grains, when he placed them on the tomb of <persName xml:id="recogito-ce550266-76b3-41f7-8463-810a1ba47413">Ezekiel</persName>.
+Every Ishmaelite that goes in pilgrimage to the tomb of
+<persName xml:id="recogito-1ac5177a-d321-43c9-b9ed-9d0c5747ea3e">Mahomet</persName> takes his way over the tomb of <persName xml:id="recogito-7d2b7975-9867-4352-9421-994dd34360fc">Ezekiel</persName>, and
+makes some present or free-will offering to <persName xml:id="recogito-33340480-7f81-4632-83ec-8a57b0de7ed2">Ezekiel</persName>, making
+a vow and praying, Our Lord <persName xml:id="recogito-6d4bc78c-f06f-435e-8299-3e6b0cc9d7b6">Ezekiel</persName>, if I return I will
+give thee such and such a thing. By way of the desert
+they go in forty days, from the tomb of <persName xml:id="recogito-6f97923c-b86b-4ebe-9a1e-fc1681bb8f76">Ezekiel</persName> to
+the river <placeName xml:id="recogito-33c4d0f3-3289-4fcf-bf86-f4be777a5e6a" cert="unknown">Sambation</placeName>.51 Whoever wishes to go to a distant
+land deposits his purse, or any valuables, with <persName xml:id="recogito-b09ca9cc-2550-4ce0-aede-ecdfc6df38f5">Ezekiel</persName>,
+saying, Our Lord <persName xml:id="recogito-eefbda33-5a30-4eee-828b-0741c752069a">Ezekiel</persName>, take charge of this valuable for
+me until I return, and let nobody take it but its heir. And
+many purses with money lie there rotting because they lay
+there many years.52 There were books there, and a worth¬
+less person wished to carry away one of the books, but
+could not, for pain and blindness seized him; therefore
+every one fears <persName xml:id="recogito-364bb8fc-6520-45c5-a035-ca7574c1243c">Ezekiel</persName>. Whoever has not seen the beauti¬
+ful large structure over his grave has never seen a fine
+building. It is inside overlaid with gold. Over the grave
+is a mass of lime, as high as a man, and round the lime,
+and over it, is a structure of cedar wood, which is gilded;
+the eye never saw the like. There are windows in it,
+through which people pass their heads and pray. At the
+top is a large cupola of gold, and beautiful carpets cover
+the inside. There are also in it beautiful glass vases, and</p><p>
+30
+מקיפים מבפנים. וכלי זכוכית בתוכו יפים מאוד:
+ושלשים נרות של שמן זית דולקים שם יומם ולילה.
+וקונים מן המתנות שנותנים שם שמן הזית.
+ומדליקין עליו שלשים הנרות: ויש ממונים על
+המתנות שנותנים על קברו כמאתים פרנסין, זה
+ממונה אחר זה: ומאותו ממון שנותנים על קברו
+מתקנים בית הכנסת שצריך תיקון. ומשיאין בו
+יתומים ויתומות. ופרנסין התלמידים שאין להם
+במה להתפרנס:
+וב<placeName ref="geo-kima.org/place/662" xml:id="recogito-99e0a479-1759-49d3-8199-a72e6ae0a233" cert="high">בגדת</placeName> יש שלשה בתי כנסיות לבד מבית  הכנסת
+שבנה דניאל במקום שעמד המלאך על שפת היאור
+מזה אחד ומזה אחד. כמו שכתוב בספר דניאל:
+ובהיות <persName xml:id="recogito-d261678d-ffc7-4441-bc66-4315ac621911">רבי פתחיה</persName> על <placeName xml:id="recogito-afb295a8-1aad-4806-9304-40e8c4f8293f" cert="unknown">קבר יחזקאל</placeName>. ראה בביתו
+עוף שפניו כפני אדם: והיה הפרנס השוער מצטער.
+ואמר מסורת בידינו מאבותינו. כל בית שזה העוף
+נמצא בו יהיה חרב: וראה שכשרצה העוף לצאת
+מהחלון נהפך העוף ומת. ושמח הפרנס השוער
+מאוד. ואמר מאחר שמת העוף נהפכה הגזירה:
+ואמר ראש הישיבה ל<persName xml:id="recogito-372fd6ac-83fb-4d1f-82ba-8970d1d0adb6">רבי פתחיה</persName>. שבימי קדם היה
+עמוד אש על <placeName xml:id="recogito-d3793db2-ccb9-4c2e-b7f4-720ef22b5069" cert="unknown">קבר יחזקאל</placeName>. אלא שבאו בו פריצים
+וחיללוהו. שהיו באים בחג הסוכות לרגל בשמונים
+אלף. והיו ביניהם אנשים שאינם הגונים. ונסתלק
+עמוד האש: ובאותו חצר עושין סוכות ואצל בית
+הקברות:</p><p>
+31</p><p>
+thirty lamps fed with olive oil burn there day and night.
+They supply the olive oil from the gifts deposited for the
+lighting of the thirty lamps. There are about 200 over¬
+seers appointed for the administration of the gifts deposited
+on his grave, who discharge their office one after the other.
+From the money deposited on his grave the synagogue re¬
+quiring repair is repaired, orphans receive marriage por¬
+tions, and destitute disciples are supported.</p><p>
+At <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-ca42bbcf-c22e-4f5a-aa2b-d25ff1d33006" cert="high">Bagdad</placeName> there are three synagogues, besides that built
+by <persName xml:id="recogito-052d1b4a-c59e-4047-8a16-edc6b90f3c24">Daniel</persName> on the spot on which the angel stood on the brink
+of the river, one on each bank, as is written in the book of
+<persName xml:id="recogito-7f02fd34-674a-4c9a-94c4-85a596104263">Daniel</persName>.</p><p>
+Whilst Rabbi <persName xml:id="recogito-03b24a91-9e16-4f06-b44b-87237c906339">Petachia</persName> was on the grave of <persName xml:id="recogito-ad260c72-7fb2-4e6b-be33-6bddab90a710">Ezekiel</persName> he
+saw in the building a bird the face of which was like that of
+a human being,53 at which the overseer acting as doorkeeper
+grieved, for he said, It is a tradition with us, from our fa¬
+thers, that every house wherein such a bird is found will
+become a ruin. But when the overseer observed that as
+the bird was going to quit the window it turned and died,
+he rejoiced greatly, for he said that since the bird was
+dead the doom was annulled. The head of the academy
+told <persName xml:id="recogito-fc6c386f-ccfe-490a-9145-7f21780d1156">Rabbi Petachia</persName> that formerly a column of fire rested
+over the grave of <persName xml:id="recogito-6fb8e3e7-c49f-4da4-8b4b-20aa076eee28">Ezekiel</persName>,54 but that wicked persons had
+come and desecrated it, since there had come about 80,000
+individuals to the feast of Tabernacles, among whom there
+were unworthy persons, and the column of fire was re¬
+moved. The Tabernacles are erected in the same enclo¬
+sure, close to the burial ground.</p><p>
+32
+ו<placeName ref="geo-kima.org/place/1412" xml:id="recogito-a8b6a5e8-58b9-41f5-9465-30895003cea3" cert="high">נהר פרת</placeName> ו<placeName xml:id="recogito-64a48aa7-550e-4bef-bb0a-242b4f97897c" cert="unknown">נהר כבר</placeName> נופלין זה בזה וניכרים:
+ומעבר ל<placeName ref="geo-kima.org/place/1412" xml:id="recogito-02ad3fd5-74aa-4222-a223-20521379e2b8" cert="high">נהר פרת</placeName> כמיל נגד <placeName xml:id="recogito-1e258cd5-3ed1-45ad-83a3-71f1bed8adf0" cert="unknown">קבר יחזקאל</placeName> <placeName xml:id="recogito-ff27f1be-1f85-46f7-aace-81ba9c6de506" cert="unknown">קברי
+חנניה מישאל ועזריה. וכל אחד לבד, ועזרא
+הסופר</placeName> (גם הוא קבור שם:) וחזר ובא בשני ימים
+עד <placeName ref="geo-kima.org/place/3373" xml:id="recogito-120edc08-ba47-4dd0-8416-4ef0ae8b04d8" cert="high">נהרדעא</placeName>: והעיר כמהלך שלשה ימים. והכל
+חרב. ובקצה העיר יש קהילה: והראה חותם של
+ראש הישיבה. והראו לו כנישתא דשף ויתיב:
+ושלש חומותיה מאבנים. וחומה מערבית על נהר
+פרת כל החומה אין לה לא אבן ולא לבינה. אלא
+הכל מעפר שהביא עמו יכניה: ואין גג לאותו בית
+הכנסת. כי הכל חרב: ואמרו לו היהודים.
+שבלילה רואים עמוד אש יוצא משם והולך עד
+קבר ברוזק שכתבנו לעיל: וחזר שמה ובא לעיר
+ששמה <placeName xml:id="recogito-13b763e9-317c-4449-9e6f-448df7ff240d" cert="unknown">מילה</placeName>. ושם <placeName xml:id="recogito-cacbbce6-5d8b-44f2-9262-c5088addc9c0" cert="unknown">קברו של רבי מאיר</placeName>. הוא
+רבי מאיר דמתניתין: ויש לפני העיר אצל המים
+שדה. ובאותו השדה יש הקבר: והנה הפרת
+רבה לעלות על קברו, ולקחו מן הממון שנודרין
+היהודים והישמעאלים. ובנו עליו עיר סביב
+לקברו ומגדלים בתוך המים. ובית יפה על קברו:
+והישמעאלים קורין אותו <placeName xml:id="recogito-ca97e27f-a475-4d61-bd98-32deb1d22b0a" cert="unknown">חנוק</placeName>. מפני שפעם אחת
+בא השלטון וחמס אבן אחת ממעלות שעולין בהן
+לקברו: ובלילה בא אליו רבי מאיר בחלום. ותפס</p><p>
+33</p><p>
+The river <placeName ref="pleiades.stoa.org/places/912849" xml:id="recogito-de93f626-b61c-430e-9d23-1b9c53246588" cert="low">Euphrates</placeName> and the river <placeName xml:id="recogito-6eb522e7-4bec-47b8-acf2-4b6573e7ad3b" cert="unknown">Chabo</placeName>55 join; they
+can nevertheless be distinguished. On the other side of
+the river <placeName ref="pleiades.stoa.org/places/912849" xml:id="recogito-8b35b765-4a6d-4a30-adef-d054caf56767" cert="low">Euphrates</placeName>, about a mile, opposite to the grave
+of <persName xml:id="recogito-2c9b1352-0366-4bbb-ac0f-5c2b14e2e7ee">Ezekiel</persName>, are the graves of <placeName ref="geo-kima.org/place/21590" xml:id="recogito-655c3eaf-1c94-4c20-b656-8efff4d04983" cert="low">Hananiah</placeName>, <persName xml:id="recogito-e692a69a-a286-4992-aa00-e6ff4df13e57">Mishael</persName>, and
+<persName xml:id="recogito-06c48450-84ee-4bb7-b42f-3dca747e0d05">Esariah</persName>. Each is separate. <persName xml:id="recogito-8cb25f60-dcea-41d7-8ac9-179f9580e0c1">Ezra</persName>, the scribe, is also
+buried there.56 He (Rabbi Petachia) then returned, and in
+two days went as far as Nehardeah.57 The city has a cir¬
+cuit of about three days; but everything is desolate.
+There is a congregation in a portion of the city. And
+when he produced the seal of the head of the academy
+they showed him the synagogue Shaf-Wyathib.58 Its three
+walls are of stone, and the western wall is on the river
+<placeName ref="pleiades.stoa.org/places/912849" xml:id="recogito-8e2152bb-1603-4862-a4cf-b1bd41504cfb" cert="low">Euphrates</placeName>. No portion of the wall is built of either stone
+or brick, but consists entirely of the dust which <persName xml:id="recogito-86c8452a-bdf9-42c6-8827-7b4928bd4f5a">Jechaniah</persName>
+brought with him. The synagogue has no roof, for every¬
+thing is desolate. And the Jews told him that in the
+night they see a column of fire issue from it, extending as
+far as the grave of Brusak, which he mentioned before.
+He then returned, and came to a city called <placeName xml:id="recogito-478efbec-d0df-4167-a48a-a0d93c34c1ed" cert="unknown">Mella</placeName>,59 where
+the grave of Rabbi <persName xml:id="recogito-ed7f0251-b3b4-4ada-8dcd-6994d12b9bb3">Meir</persName> is, the same Rabbi <persName xml:id="recogito-f8d36219-bac9-464d-b343-79b0a7a1dd5e">Meir</persName> men¬
+tioned in the Mishnah.60 Before the town, by the water, is
+a field, and in that field is the grave. And as the Eu-
+phrates, when it rose, inundated the grave, they took of
+the money vowed by Jews and Ishmaelites and built a city
+round his grave, with towers in the midst of the water.
+There is a beautiful house over his grave, which the Ish¬
+maelites call <placeName xml:id="recogito-267533ab-82c5-4954-bf04-518178e84c50" cert="unknown">Chinuk</placeName> (Choking). The reason thereof is
+that one day the <persName xml:id="recogito-2a29fe9e-2ca5-4f80-8fcc-280a6c93d638">sultan</persName> came and took away one of the</p><p>
+p</p><p>
+34
+אותו בגרונו ורצה לחנקו. ואמר לו למה גזלת
+אבן שלי. וכי אינך יודע שאני צדיק ואהוב
+למקום: אז בקש ממנו מחילה: ואמר לא אעשה
+עד שתשאנה אתה בעצמך על כתיפך לעין כל.
+ותאמר רשעתי שגזלתי אדוני הצדיק: למחר נשא
+האבן על כתיפו לעין כל והחזירה למקומה. ואמר
+רשעתי שגזלתי אדוני הצדיק: ויראים ממנו
+הישמעאלים ומשתחוים שם על קברו. ונותנין לו
+מתנות ונודרים שאם יחזרו בשלום נותנין לו
+כך וכך:
+ובכל מקום שהראה <persName xml:id="recogito-0243086f-771f-4d1b-9a88-83340cfaea02">רבי פתחיה</persName> חותם של ראש
+הישיבה. מיד יוצאים ברמחים ומתיירין אותו:
+ומ<placeName xml:id="recogito-7e4aa098-5495-4fdd-bfe5-0a9cfc06708a" cert="unknown">קבר יחזקאל</placeName> עד <placeName xml:id="recogito-df213ebd-a674-490d-be64-e97fdb7de3ad" cert="unknown">קבר ברוך בן נריה</placeName> רחוק
+מיל. ומקבר ברוך עד <placeName xml:id="recogito-9ce06058-5740-4a98-8445-e062c76c6cb6" cert="unknown">קבר נחום האלקושי</placeName> כארבע
+פרסאות: ובינתיים באמצע <placeName xml:id="recogito-58d74266-3999-400e-9892-d0d4c39c8773" cert="low">קבר של אבא אריכא</placeName>.
+וקברו ארוך שמנה עשרה אמה: וחמשה מן
+האמוראים קבורים שם: ורחיים שעשה <persName xml:id="recogito-7126d837-b3cf-4651-b921-d83e0b148088">רבא</persName>
+לתלמידים היא שם בלי מים. והיו טוחנין בה
+בימיו. ובית יפה עליה: ויש להם מסורת. שיודעים
+קברי הנביאים ואמוראים חמש מאות וחמשים.
+כמנין שרי״ם: וכשיש קהילה סמוך לקבר של</p><p>
+35</p><p>
+stones forming one of the steps leading to his grave. But
+in the night <persName xml:id="recogito-d9c04c2f-aaf8-4eca-8241-4b9e9efa255c">Kabbi Meir</persName> appeared to him in a dream,
+seized him by the throat as though he was going to choke
+him, saying to him, Why didst thou carry away my stone ?
+<persName xml:id="recogito-233bc515-8530-451d-acd9-930856ae1d30">Dost</persName> thou not know that I am righteous, and beloved by
+God ? The <persName xml:id="recogito-af10ac68-e27c-430a-8c79-1e04dd1bd3b5">sultan</persName> then begged the rabbi’s pardon. But
+he replied, I will not do so until thou earnest it back on
+thy own shoulder, before the eyes of all, saying, I was
+wicked in robbing my lord the righteous. In the morrow
+he carried the stone on his shoulder and put it on its
+former place, saying, I was wicked in robbing my lord the
+righteous. Therefore the Ishmaelites fear him, worship on
+his grave, make him presents, and vow that if they should
+return in peace they would give him this or that. Where¬
+ever <persName xml:id="recogito-31c9c505-3b1e-4ae6-82e6-e1d2aa8584ee" ana="#typo">Babbi Petachia</persName> showed the seal of the head of the
+academy, men armed with spears came immediately for¬
+ward and escorted him.</p><p>
+From the <placeName xml:id="recogito-27155797-807e-4221-b530-a38f317918c4" cert="low">grave of Ezekiel</placeName> to that of Baruch, son of
+Neriah, is a distance of a mile, and from the <placeName xml:id="recogito-8fad29d4-79ac-48eb-9aa0-4f52370d848c" cert="low">grave of
+Baruch, son of Neriah</placeName>, to <placeName xml:id="recogito-b354281f-8a9e-4758-a812-007c27e54c81" cert="unknown">that of Nahum, the Elkoshite,61</placeName>
+is about four parasangs. Between them, in the middle, is
+the <placeName xml:id="recogito-e35c18b5-2ec1-4369-81e5-f695a4ced5ca" cert="unknown">grave of Abba Aricha</placeName>.62 The length of his grave is
+eighteen cubits; five of the Amoraim63 are buried there.
+The mill which <persName xml:id="recogito-1805caae-64a8-4d31-9ff9-6e86d5ca7579">Raba</persName>64 had erected for the disciples is
+there, but it has no water. In his days they ground in it.
+There is a beautiful house over it. They have a tradition
+whereby they know graves of prophets and Amoraim, 550
+in number, like the number of Sarim.65 Where there ex-</p><p>
+36
+צדיק אחד פורשים כלי מילת על הקבר:
+וכשרחוקים משם פורשים מחצלת על הקבר שאין
+בית עליו: ועל רוב הקברים שעליהם בגד או
+מחצלת נחש כרוך תחת המחצלת. ששומר
+הקבר: ואומרים לו. כשתגביה המחצלת שמור
+מן הנחש: וראש הישיבה כתב לו מי הם אותן
+האמוראים שקבורים שם: ושכח הכתב ב<placeName ref="geo-kima.org/place/1869" xml:id="recogito-29878138-6e9d-4b30-9691-d6840edfe32f" cert="high">ביהם</placeName>:
+והוא בא מ<placeName ref="geo-kima.org/place/1869" xml:id="recogito-25cf6992-88ff-4659-ae6f-6bbe0782264c" cert="high">ביהם</placeName> הנה. וסיפר שכל מה שהלך
+מ<placeName ref="geo-kima.org/place/1869" xml:id="recogito-03e4bd05-947f-4013-8931-1e14a24b6378" cert="high">ביהם</placeName> הכל למזרחו של עולם. <placeName ref="geo-kima.org/place/1869" xml:id="recogito-2ba99fae-ac22-4e2d-bd8d-2fe74c3f9752" cert="high">ביהם</placeName> מזרח
+ל<placeName ref="geo-kima.org/place/7275" xml:id="recogito-99400e88-5868-4359-87d3-2cdee4b2247e" cert="high">רעגנשפורג</placeName>. <placeName xml:id="recogito-ae98dc24-7258-4deb-a665-5c7edf801e3c" cert="unknown">רוסייא</placeName> מזרח ל<placeName xml:id="recogito-0d3c8c5e-afaa-4ca3-83cf-597a72992af7" cert="unknown">פולין</placeName>: ומשם פנה
+למזרח. והלך בששה ימים עד <placeName xml:id="recogito-756ebe44-008f-4995-88a4-41e9c4b08149" cert="unknown">קברו של אדונינו
+עזרא הסופר</placeName>: ואמרו. כי בימי קדם היה קברו של
+<persName xml:id="recogito-fe7b9e61-73ec-4a38-9337-a6d70c24778b">עזרא הסופר</persName> נשבר: ובא רועה אחד, וראה תל
+וישן עליו: ובא לו בחלום. אמור לשלטון אני
+<persName xml:id="recogito-7e3f21b3-d107-4227-acd7-ae9e1b5ff69f">עזרא הסופר</persName>, שיקחני על ידי היהודים וישימני
+במקום פלוני. ואם לאו כל בני עמו ימותו: ולא
+חש לאותו דבר. ומתו הרבה: והביאו יהודים.
+וחפרו בכבוד: והיה באבני שיש. ועל השיש
+לוח חקוק עליו אני <placeName xml:id="recogito-2443c2de-0de6-453a-ae39-2de4c6789f2c" cert="low">עזרא הסופר</placeName>, וקברוהו
+במקום שאמר לרועה: ועשו פלטין על קברו:
+ובשעה אחת עשרה עמוד אש יוצא מקברו עד
+לרקיע. שעה אחת עשרה ביום ושעה שתים</p><p>
+37</p><p>
+ists a congregation near the grave of a righteous man they
+spread a costly cloth over the grave, and when they re¬
+move thence they spread a mat over the grave, on which
+there is no building. Underneath most of the cloths or
+mats covering the graves a serpent is coiled, which guards
+the grave.66 Therefore they say to everyone, When thou
+raisest the mat beware of the serpent. The head of the
+academy wrote down for him who the Amoraim buried
+there are. Rabbi Petachia, however, forgot the list in
+<placeName xml:id="recogito-f6f9cfac-b384-4e34-a896-40ff7b7bce42" cert="unknown">Bohemia</placeName>, for he came from <placeName xml:id="recogito-05821f4e-38eb-4e52-9e6f-90f8f190c4fe" cert="unknown">Bohemia</placeName> hither.67 He re¬
+lated that ever since he set out from <placeName xml:id="recogito-a4cba144-b25b-446a-92f8-d931301bd8be" cert="unknown">Bohemia</placeName> it was all
+towards the east. <placeName xml:id="recogito-3d71712d-cb02-4e74-8d39-dc7e9c48f428" cert="unknown">Bohemia</placeName> being to the east of Ra-
+tisbon, <placeName xml:id="recogito-b914ce70-1c18-4c70-9960-30695439fe4f" cert="unknown">Russia</placeName> to the east of <placeName xml:id="recogito-632fdbb0-c59c-4abe-81b9-eef70cdd10e8" cert="unknown">Poland</placeName>. From thence he
+turned to the east, and came in six days to the grave of
+our lord <persName xml:id="recogito-6ef99f3f-c9f9-4ed5-bccf-733144ffb7d0">Ezra</persName>, the scribe. They said that in the days
+of old the grave of <persName xml:id="recogito-91e32d30-e82c-4d45-b36b-df65d5bb5245">Ezra</persName>, the scribe, was ruinous. Once
+a shepherd came, who saw a mound and slept on it.
+Some one then appeared to him in a dream, saying to him,
+Tell the <persName xml:id="recogito-b80c39ac-a179-481c-9795-d98748ce8d2a">sultan</persName> I am <persName xml:id="recogito-43cccf81-722e-444e-a3ed-e51491718e7b">Ezra</persName>, the scribe. Let him take
+me up through the instrumentality of Jews, and place me
+in such and such a spot; if not all his people will die.
+However, he did not attend to the matter, and so many
+people died. Now Jews were called upon, who buried
+him with honour. The grave was of marble stone, and
+upon the marble was a tablet, upon which was engraven, “I
+am <persName xml:id="recogito-6d1ed2a6-1dd7-418c-98ff-bfa2a03a6454">Ezra</persName>, the scribe.” They buried him on the spot
+named to the shepherd, and erected a fine structure over
+his grave. In the eleventh hour a column of fire ascends</p><p>
+38
+עשרה: וגם נראה בשעה ראשונה של לילה.
+והולכין שלש או ארבע פרסאות באור של העמוד:
+וכל הישמעאלים משתחוים שמה: והמפתחות מן
+הבתים שעל הקברים המה בידי היהודים.
+והיהודים לוקחים הנדרים ומשיאין בהם יתומים
+ויתומות. ומפרנסין התלמידים ומתקנין בתי כנסיות
+של עניים:
+וקודם שהלך לקברו של עזרא הלך בשמונה
+ימים ל<placeName ref="geo-kima.org/place/2448" xml:id="recogito-3b6891e5-dc30-426a-b885-01ed44d2141b" cert="high">שושן הבירה</placeName>. ואין בה אלא שני יהודים
+(צבעים): והראה חותם של ראש הישיבה. והראו
+לו את <placeName xml:id="recogito-f223b1c0-1bb3-493f-a6da-d3ad24b8b445" cert="low">ארונו של דניאל</placeName>: ומתחילה היה קבור
+בצד אחד על הנהר, והיה שם שובע גדול
+והצלחה וברכה: והיו בעבר הנהר בצד האחר
+אומרים. בשביל שאין הצדיק קבור בחלקנו
+לפיכך אין ארצנו מבורכת: והיו מלחמות גדולות
+תדיר ביניהם. וגזלו אלו את הארון גם חזרו אלו
+וגזלוהו, עד שבאו זקנים ועשו פשרה ביניהם:
+ולקחו הארון. ועשו עמודי ברזל גבוהים בתוך
+הנהר. ותלוהו עליהם בשלשלאות של ברזל:
+והארון הוא נחושת קלל. והוא באמצע הנהר
+עשר אמות גבוה מן המים. ורואין אותו למרחוק
+בזכוכית יפה: ואמרו היהודים. כל ספינה
+ההולכת תחת הארון אם הן זכאין ילכו לשלום.
+ואם לאו תטבע במים: ויראים לעבור שם: ואמרו</p><p>
+from his grave to the sky. This continues during the
+eleventh and twelfth hour. It is also seen in the first
+hour of the night. People can walk three or four para-
+sangs by the light of the pillar. All the Ishmaelites wor¬
+ship there. The keys of the houses over the graves are in
+the hands of the Jews. They employ the proceeds of the
+vows in giving marriage portions to orphans, supporting
+disciples, and repairing synagogues of the poor.</p><p>
+Before Rabbi <persName xml:id="recogito-a7bc34e3-95e2-4083-8cc2-1ee34394ea64">Petachia</persName> set out for the grave of <persName xml:id="recogito-55da73aa-5e9c-475b-84ea-9ba19b940afc">Ezra</persName>, the
+scribe, he journeyed in eight days to <placeName ref="dare.ht.lu.se/places/22221" xml:id="recogito-866b4e3f-29c1-48da-a19f-4d66f0a5915a" cert="high">Shushan</placeName>,68 the former
+capital. There are only two Jews there, who are dyers.
+And he showed them the seal of the head of the academy,
+and they showed him the <placeName xml:id="recogito-9a1fa82c-0ee0-45d1-a315-90c8c7c6958b" cert="unknown">coffin of Daniel.</placeName>69 Originally he
+was buried on one side of the river, and there was there
+great plenty, prosperity, and blessing. Then those on the
+other side of the river said, Because the righteous man is
+not buried in our portion therefore our district is not
+blessed. And there were constantly great wars between
+the two districts, during which the coffin was violently
+transferred from bank to bank. At last some elders came,
+who having brought about a settlement between them, they
+took the coffin and suspended it by iron chains, on high
+iron pillars, erected in the middle of the river. The
+coffin is made of polished copper conspicuous in the middle
+of the river ten cubits above the water. At the distance it
+looks lustrous like glass. The Jews told him that any
+vessel passing underneath the coffin will proceed in safety
+if those in it be pious, but will founder if this be not the</p><p>
+40
+לו שתחת <placeName xml:id="recogito-a7e1e0a9-57bb-4e6d-8c50-a91c1be18383" cert="low">ארונו של דניאל</placeName> יש דגים נזמים של
+זהב באזניהם: והוא לא עבר תחת ארונו. אלא
+עמד על שפת הנהר וראה הארון:
+וחזר ל<placeName ref="geo-kima.org/place/662" xml:id="recogito-191f13aa-f916-450d-afc6-905e14ea6c86" cert="high">בגדת</placeName>. והראו לו גמלא פרחא. דנמיך
+הוא ורגליו דקין. וכשחפץ האדם לרכוב עליו
+קושרו עליו שלא יפול: ו<span xml:id="recogito-8fcc476a-0514-44ae-9fec-e3f3ce81e7ba" ana="#typo">הרוכב מהלך ה</span>
+שאדם הולך בחמשה עשר ימים. הולך על גמלא
+פרחא ביום אחד: ויותר היה יכול לרכוב. אלא
+שאין האדם יכול לסבול. וברגע אחר מדלג מיל:
+והראו לו <placeName xml:id="recogito-79c391e8-1a3a-49d4-afc2-e1432ea1ec61" cert="unknown">שערי בגדת</placeName>. והשערים גבוהים מאה
+אמות ורחבם עשר אמות: והם של נחושת קלל
+ומצוייר, שאין אדם יכול לעשות דוגמתו: ומסמר
+אחד נפל ממנו. ואין אומן יודע לתקוע בו אותו
+מסמר: ומתחלה היו הסוסים נרתעים לאחוריהם
+כשרואין (השערים.) מפני שרואין זוהר הנחושת
+והסוסים נראים להסוסים כרצים לקראתם וברחו:
+ולקחו חומץ והרתיחו ושפכו על השערים.
+להעביר זוהר הזהב של נחושת הקלל. בשביל
+הסוסים שיכנסו: ונראה (זוהר הנחושת) למעלה
+מעט. שלא נשפך החומץ עליו: והשערים האלו
+הם משערי <placeName ref="geo-kima.org/place/691" xml:id="recogito-9ba8672c-5380-434b-b7dd-90eade7bed03" cert="high">ירושלים</placeName>: וראש הישיבה יש לו כמה
+עבדים. ומי שלא יעשה במהרה הציווי יכוהו.
+ויראים ממנו: והוא צדיק ועניו ומלא תורה:</p><p>
+case. He was further told that underneath the coffin
+there are fish with golden pendants in their ears.70 He,
+however, did not pass underneath the coffin, but stood on
+the brink of the river looking at the coffin.</p><p>
+He then returned to <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-7c37ff5c-b7e1-4169-82b2-e36216df6ec3" cert="high">Bagdad</placeName>. There he was shown a
+flying camel.71 It is low, and its legs are slender; and if
+anybody wishes to ride on it, he must tie himself to it lest
+he should fall down. The rider traverses in one day the
+space over which a man on foot would have to pass fifteen
+days. One might go even swifter if the rider only could
+stand it. In one second it gallops a mile. They also
+showed him the <placeName xml:id="recogito-256c99b3-cc77-4fea-a626-648cdc92956d" cert="unknown">gates of Bagdad</placeName>. They are a hundred
+cubits high and ten cubits wide. They are of polished
+copper, and ornamented with figures, so that no one can
+produce the like. A nail once fell out, and no artificer is
+able to fix it again. Formerly the horses used to be
+startled back at the sight of the gates, for seeing the
+brightness of the gates they perceived as it were other
+horses running towards them, whereby they took fright
+and started off. They therefore poured boiling vinegar
+over the gates, and thus deadened the brightness of the
+polished copper, so that the horses should enter. How¬
+ever, the polish of the copper is still partly perceived at
+the top, where no vinegar was poured. <placeName xml:id="recogito-ed21a7df-0baa-4d37-8969-fc45d8ee1f5b" cert="unknown">These gates are
+of the gates of Jerusalem</placeName>. The head of the academy has
+many servants. They flog any one not immediately ex¬
+ecuting his orders; therefore people fear him. He, how¬
+ever, is righteous, humble, and full of knowledge of the</p><p>
+42
+ולובש בגדי זהב וצבעונין כמלך: ופלטין שלו
+ביריעות של מילת כמלך:
+והלך בשני ימים מ<placeName ref="geo-kima.org/place/662" xml:id="recogito-07c2e1f0-5867-4187-b816-dd062aa44bc3" cert="high">בגדת</placeName> עד קצה <placeName ref="geo-kima.org/place/3526" xml:id="recogito-a7e4ef62-5527-4741-a67a-e66ce38e6eea" cert="low">בבל</placeName> הישנה.
+והנה <placeName xml:id="recogito-a3bef0f3-3461-4675-8034-f89c546afb43" cert="unknown">ביתו של נבוכדנצר</placeName> חרב כלו. ואצל ביתו
+עמוד ו<placeName xml:id="recogito-b7cc4e3e-d3cc-42c9-b38d-63b3f52120b0" cert="low">ביתו של דניאל</placeName> כאילו הוא חדש: ובמקום
+מושבו של דניאל יש אבן. ובמקום רגליו שיש.
+ואבן אחד למעלה. שהספר מונח עליו שכתב
+משם: ובכותל שבין (בית) דניאל לבית נבוכדנצר
+חלון קטן שהיה משליך בו כתבים. ומעלות למטה.
+שהיו יושבים לפניו שלשים חכמים כשרים: ואצל
+מקום מושבו לימינו תקועה אבן. ואמרו מסורת
+בידינו ששם כלי בית המקדש טמונים: ופעם אחת
+באו שלטונים לחפור מפני שהוגד להם. וכשלקחו
+האבן נפלו מתים. לפיכך לא לקחו כלום משם:
+ויצאו מאותו חדר. והעלוהו בעובי החומה
+במדריגות לעיליתיה שהיה מתפלל בה דניאל.
+והפתח מוטה שמכוון נגד <placeName ref="geo-kima.org/place/691" xml:id="recogito-4a88b4c2-6bf7-4f27-908c-6f6cd63a7368" cert="high">ירושלים</placeName>. וכך נעשה
+באומנות שלא היה אדם יכול להגיד:
+וחזר ואמר שלא ראה אשה כל זמן שהיה
+ב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-e54d063c-6406-4a73-b240-5195d4211739" cert="low">בבל</placeName>. מפני שמכוסות וצנועות הן: וכל אחד
+ואחד יש לו מקוה בחצרו, ואינו מתפלל עד</p><p>
+law. He is clothed in golden and coloured garments like
+the king; his palace also is hung with costly tapestry like
+that of the king.</p><p>
+Rabbi <persName xml:id="recogito-1f00ab52-f900-407b-8588-dde7f5e75498">Petachia</persName> travelled in two days from <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-3cfe7cec-6688-4946-881a-2b82f05e9720" cert="high">Bagdad</placeName> to
+the boundary of Old <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-4ec2078b-5ab9-4a48-bbf0-3cd296d3bdca" cert="low">Babylon</placeName>.72 The house of <persName xml:id="recogito-c963d678-3f82-4e33-b89d-feecac9d7a40">Nebuchad¬
+nezzar</persName> is all desolate. Near his house is a pillar, and the
+house of <persName xml:id="recogito-8e7aeb41-9284-402f-9d17-f44262b16da8">Daniel</persName> looks as if it were new. On the place
+where <persName xml:id="recogito-892c29b9-c511-4aa5-aea6-3510dbf6e295">Daniel</persName> used to sit there is a stone, and where his
+feet rested a marble stone. There is also a stone at the
+top, upon which the book lay out of which he used to
+write. In the wall between the house of <persName xml:id="recogito-bff5154e-4031-4451-8199-f6f1e0d28537">Daniel</persName> and that
+of <persName xml:id="recogito-5698ac88-b535-4793-b890-0c1744097b43">Nebuchadnezzar</persName> is a small window through which he
+threw writings. There are steps below, upon which three
+pious sages used to sit before him. On his right, by his
+seat, a stone is fixed, and they declared that there was a
+tradition that there the vessels from the holy temple were
+hidden. One day rulers who had heard of it came for
+the purpose of digging there ; but when they laid hold on
+the stone they all fell down dead, therefore they did not
+remove anything. They then went from that room, and
+took him through the thickness of the wall to an upper
+room, wherein <persName xml:id="recogito-d10d2f26-3b06-4b30-a6a4-bb9811125a11">Daniel</persName> used to offer up his prayers. The
+entrance is so inclined that it is exactly opposite <placeName ref="sws.geonames.org/281184" xml:id="recogito-4e9d606c-295c-40e5-ba41-482afe8a830e" cert="high">Jerusalem</placeName>,
+and it is so artificially made that nobody could point it
+out.</p><p>
+He then returned. He stated that he did not see any
+woman whilst staying in <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-7d32cf5b-176c-445f-a4b3-788b01f6db0c" cert="low">Babylon</placeName>, because they were all
+veiled and modest. Everyone has a bath in his court-</p><p>
+44
+שיטבול: והולכי דרכים שם הולכים בלילה מפני
+החמימות: ובימות החורף גדל הכל שם כבימות
+הקיץ בכאן: ומלאכתם רובה בלילה: ובכל ממש
+עולם אחר. ועסקיהם בתורה וביראת שמים: ואף
+הישמעאלים נאמנים: וכשהסוחר הולך שמה נותן
+הסחורה בבית אחד. והולך לו: ומביאין אותה
+הסחורה בכל מקום על השוקים. אם רוצים לתת
+כמו שדבר הסוחר הרי טוב. ואם לאו יראו
+הסחורה לכל התגרים: ואם רואה שיתקלקל.
+ימכור אותה: והכל בנאמנות:
+וב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-e19f34f4-fe4b-425a-ad96-dcf14587cacc" cert="low">בבל</placeName> יש שלשים בתי כנסיות. לבד משל
+דניאל: ואין חזן שם. ולמי שיצוה ראש הישיבה
+להתפלל מתפלל: אחד אומר ביחיד מאה ברכות.
+ועונין אחריו אמן: ואחר כך יעמוד אחד ויאמר
+ברוך שאמר בקול רם. ויעמוד אחר ויאמר כל
+השבחות: ומסייעין אותו הקהל: וקולו נשמע
+למעלה מכולם כדי שלא ימהרו. והכל אחריו:
+ואומר ישתבח קודם ויושע. ואחר כך מתפלל
+וחולקים התפלה לכמה חזנים: ולא ידבר אחד עם
+חבירו בבית הכנסת ועומדים בתרבות: והכל בלא
+מנעלים בבית הכנסת יחפים: וכשלומדים וטועים
+עצמם בניגון מראה להם ראש הישיבה באצבע.</p><p>
+yard; and no one offered up his prayer before he had
+bathed. All travellers there travel in the night, on ac¬
+count of the heat. Everything grows there in winter as
+here in summer. Most of their labours are performed
+during the night. <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-54f716ca-e6d7-4914-b2d5-9b1c3dca45f4" cert="low">Babylon</placeName> is, in fact, quite a different
+world. The Jews are devoted to the study of the law and
+the fear of God. The Ishmaelites also are trustworthy.
+When a merchant arrives there he deposits his goods in a
+house and goes away. The goods are then offered for sale
+in the market-places. If the price demanded by the mer¬
+chant is given, it is good. If not, the goods are shown to
+all the brokers. Should they become spelled they are
+sold. All that is done with honesty.</p><p>
+In <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-6167417f-bd52-4223-a36e-a4013c753b62" cert="low">Babylon</placeName> there are thirty synagogues, besides that of
+<persName xml:id="recogito-b79269e7-24fd-41ed-bd38-a053cbc71c98">Daniel</persName>. However, there is no minister there, and he
+whom the head of the academy bids to do so acts as pre¬
+centor. It is done in this manner. Some one recites the
+hundred benedictions, and those present say Amen ; then
+some one recites the prayer of Baruch Sheamar73 with a loud
+voice, another rises and recites all the Praises, who is
+joined by the whole congregation; his voice, however, is
+heard above them all that they should not recite too fast,
+and they all follow him. He recites the prayer of Yeshta-
+bach before Vayosha, and then goes on with the other
+prayers. Thus the prayer is divided between several pre¬
+centors. No one talks to his neighbour at synagogue; all
+stand decorously, and they are all at synagogue without
+shoes, barefooted. When, whilst practising, they should</p><p>
+46
+ומבינים היאך הוא הניגון: ויש בחור שיש לו קול
+נעים. ואומר מזמור בקול נעים: בחולו של מועד
+אומרים המזמורים בכלי שיר. ויש מסורות באיזה
+ניגונים. (ואל עשור) יש להם עשר ניגונים. ואל
+השמינית שמונה ניגונים. ועל כל מזמור יש כמה
+ניגונים:
+וכשהיה <persName xml:id="recogito-3f36a9e8-070d-4b8d-a615-6077e6b8dd32">רבי פתחיה</persName> ב<placeName xml:id="recogito-f2cdcbce-ee48-4356-bb6f-3bc2c7229552" cert="unknown">עיליתיה דדניאל</placeName> הראו לו
+גוב אריות עמוק מאוד. וכבשן האש חציו מלא
+מים: ומי שיש לו חולי קדחת רוחץ וטובל בו.
+והוא מתרפא:
+ועוד כשהיה ב<placeName ref="geo-kima.org/place/662" xml:id="recogito-d3600c95-e760-441d-9357-926fe9f2a3a1" cert="high">בגדת</placeName> ראה שלוחים של מלכי
+<placeName xml:id="recogito-adc4d180-3467-471c-bff5-5c671fffeb16" cert="unknown">משך</placeName>. כי <placeName xml:id="recogito-d67956e5-08ac-487c-8acc-26274a45827b" cert="unknown">מגוג</placeName> רחוק משם כמהלך עשרה ימים.
+והארץ מושך עד הרי חושך. ומעבר להרי חושך
+בני <persName xml:id="recogito-d9409713-3e63-495e-8891-8c1e18af1d42">יונדב בן רכב</persName>: ולשבעה מלכי <placeName xml:id="recogito-ad7b3189-4768-4251-b227-41e2c1a51c89" cert="unknown">משך</placeName> בא מלאך
+בחלום. שיניחו דתיהם וחוקותיהם ויתפשו בתורת
+<persName xml:id="recogito-2699a939-a3ed-4f57-8992-8b682dd1d39c">משה בן עמרם</persName>. ואם לא יחריבו את ארצם:
+ונשתהו עד שהתחיל המלאך לשחת את ארצם:
+ונתגיירו מלכי <placeName xml:id="recogito-ed368c39-144d-4f74-939c-af4c461cd88a" cert="unknown">משך</placeName> וכל ארצם. ושלחו לראש
+הישיבה שישלח להם תלמידי חכמים: וכל מי
+שהוא עני ותלמיד חכם הולך שמה: ללמדם ואת
+בניהם התורה ותלמוד הבבלי: ומ<placeName xml:id="recogito-63f8ecbb-8918-44e0-ac82-6f18d2899c03" cert="unknown">ארץ מצרים</placeName>
+הולכים התלמידים שמה ללמוד: והוא ראה גם</p><p>
+be mistaken in a tune, the head of the academy gives
+them a sign with his finger; they then understand what is
+the tune. If there be any young man having a pleasing
+voice he recites a psalm. On the half-holidays74 they recite
+the psalms with the accompaniment of musical instruments,
+and they know by tradition with what tunes.75 For the Asor
+they have ten tunes, and for the Shemineth eight tunes ;78
+they have several tunes for each psalm. When <persName xml:id="recogito-4af988e1-c561-4f46-9c33-c02539fbe44f">Rabbi Petachia</persName> was in the room of <persName xml:id="recogito-3214185f-c9e1-4e10-b801-fdde2339933b">Daniel</persName> they showed him a
+very deep lions’ den, and also a lime-kiln half filled with
+water. Whoever is attacked by fever bathes therein and
+is healed.</p><p>
+Whilst at <placeName ref="dare.ht.lu.se/places/33884" xml:id="recogito-10c8c0a2-9502-4183-b29f-a35eeb18c5bf" cert="high">Bagdad</placeName> he saw ambassadors from the kings
+of <placeName xml:id="recogito-80a69343-248f-4e2e-8c41-0042d78be427" cert="low">Meshech</placeName>, for Magog is about ten days’ journey from
+thence.77 The land extends as far as the Mountains of
+Darkness.78 Beyond the Mountains of Darkness are the
+sons of <persName xml:id="recogito-09255406-ae43-4385-9961-1b447fea68c4">Jonadab</persName>, son of Rechab.79 To the seven kings of
+Meshech an angel appeared in a dream, bidding them to
+give up the laws and statutes, and to embrace the law of
+Moses, son of <persName xml:id="recogito-18300943-1900-45ce-a0ad-d41c08f8ab3a">Amram</persName>. If not, he threatened to lay waste
+their country. However, they delayed until the angel
+commenced to lay waste their country, when the kings of
+<persName xml:id="recogito-8dfd9233-35a1-4d84-a60f-21a3376573d1">Meshech</persName> and all the inhabitants of their countries became
+proselytes, and they sent to the head of the academy a
+request to send them some disciples of the wise. Every
+disciple of the wise that is poor goes there to teach them
+the law and Babylonian Talmud.80 From the land of
+<placeName ref="geo-kima.org/place/8046" xml:id="recogito-406e66fb-deba-494f-abac-2bf83e64d628" cert="low">Egypt</placeName> the disciples go there to study. He saw the am-</p><p>
+48
+השלוחים הולכים ל<placeName xml:id="recogito-886a873e-4a19-49d8-b9bc-536c61918989" cert="unknown">קבר יחזקאל</placeName>. כששמעו הנסים
+<span xml:id="recogito-2109dd02-fb1a-4505-8fef-684209a898ef" ana="#typo">והמתפללים שם נענים:
+ואמר הרב רבי פתחיה. שהרי אררט רחוקים</span>
+מ<placeName ref="geo-kima.org/place/3526" xml:id="recogito-e93bbaa0-19d5-4cc4-a8b7-6ebf77cfe8ae" cert="low">בבל</placeName> מהלך חמשה ימים: ו<placeName xml:id="recogito-84519531-ba7e-4bc0-b0da-b31bf2bcee68" cert="low">הרי אררט</placeName> גבוהים.
+והר אחד גבוה ולמעלה ממנו ארבעה הרים. שנים
+כנגד שנים: ונכנסה תיבת נח בין אותן ההרים.
+ולא יכלה לצאת משם: ואין התיבה שם. אלא
+נרקבה: וההרים מלאים קמשונים ועשבים.
+וכשירד הטל עליהם ירד מן עליהם. וחם השמש
+ונמס: ומה שמלקטין בלילה. אם הוא ממתין
+הוא נימוס: אלא לוקחין המן עם הקמשונים ועם
+העשבים. וחותכין אותם. כי קשים הם מאוד:
+והוא לבן כשלג: והעשבים והקמשונים מאוד
+מרים: וכשמבשלין אותם עם המן יהיו מתוקין
+מדבש ומכל מיני מתיקה. ואם היו מבשלין אותו
+בלא קמשונים. איבריו היו מתפרדות מרוב
+המתיקה. והם כגרעינים קטנים. ונתנו לו לאכול
+מעט. ונמס בפיו: והיה מתוק. ונכנס בכל איבריו.
+ולא היה יכול לסבול המתיקה:
+וכשהלך <persName xml:id="recogito-1a4cd26d-adb8-447d-941b-9907013f5e4a">רבי פתחיה</persName> על <placeName xml:id="recogito-53ca7d80-642b-45da-acfc-b90095f6ae9d" cert="unknown">קבר יחזקאל</placeName>. ראה
+<placeName xml:id="recogito-bb8bfc4e-1dbc-4b86-b8dc-355a81e40675" cert="unknown">מגדל של דור הפלגה</placeName>. וכלו נפל. והוא הר גבוה
+(מאוד) תל עולם. והעיר לפניו חרבה:</p><p>
+49</p><p>
+bassadors visit the grave of <persName xml:id="recogito-e18a4a4a-b797-485c-aedb-f4cc06d32130">Ezekiel</persName> when they heard of
+the miracles, and that they who prayed there were heard.</p><p>
+Rabbi <persName xml:id="recogito-b9377a85-51c4-4020-a7c4-00541aa26716">Petachia</persName> said that the mountains of <placeName ref="sws.geonames.org/409313" xml:id="recogito-bbd062f8-3d59-4ed1-9adb-5a0770b40528" cert="high">Ararat</placeName> are
+five days’ journey from <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-b6c215da-e670-4e90-ae84-92cf65629a9f" cert="low">Babylon</placeName>. The mountains of
+<placeName ref="sws.geonames.org/409313" xml:id="recogito-dd21e774-599d-4675-b48e-5971ed8a7ffe" cert="high">Ararat</placeName> are high. There is one high mountain, above
+which there are four others, of which two are opposite
+two. The ark of <persName xml:id="recogito-3d17d7b5-5e4f-4612-9b1c-b3b18f16da41">Noah</persName> was carried between these moun¬
+tains and could not get out. However, the ark is not
+there, for it has decayed. The mountains are full of
+thorns and other herbs; when the dew falls upon them,
+manna falls upon them, but when the sun shines warm it
+melts. Whatever portion of it is gathered in the night, if
+it be kept, likewise melts. They therefore carry off the
+manna together with the thorns and herbs, which they are
+obliged to cut off, since they are very hard. It is white like
+snow. The herbs and nettles are very bitter. However,
+when boiled together with the manna they become sweeter
+than honey and every other sweet stuff. Were it boiled
+without the nettles the limbs of the partaker thereof
+would become disjointed for excessive sweetness. They
+look like small grains. They gave him a few to taste;
+they melted in his mouth; they were sweet; penetrating
+into all his limbs, so that he could not bear the sweetness.81</p><p>
+When Rabbi <persName xml:id="recogito-b05da12f-2fe5-44c6-911c-c190bb4b66fd">Petachia</persName> visited the <placeName xml:id="recogito-3c2c02ba-1ed9-4fa0-8f8b-6e9cc3fa3e41" cert="low">grave of Ezekiel</placeName> he
+saw the <placeName xml:id="recogito-78e78006-510f-4c43-808b-edfd8ec063ce" cert="unknown">tower of the generation of the dispersed</placeName>; it is
+all fallen in, forming a high mountain, a mound for ever.82</p><p>
+The king, contemporaneous with <persName xml:id="recogito-c6c2225e-a40a-4fdd-8579-634eb4a0dd1c" ana="#typo">Eabbi Shelomoh</persName>,
+father of Rabbi <persName xml:id="recogito-bc4fcd6f-028b-4847-a058-a35d91597a86">Daniel</persName>, head of the captivity, having seen</p><p>
+50
+והמלך שהיה בימי <persName xml:id="recogito-35901e83-1fac-4ab8-8051-c2fb28d54820">רבי שלמה</persName> אביו של רבי
+דניאל ראש גולה. כשראה הנוגה שיצא מקבר
+<persName xml:id="recogito-83e179b0-1686-475d-96a0-157a2b61a9f6">ברוך בן נריה</persName>. וטליתן נראה מעט בין שני אבני
+שיש יפה וזוהר גדול. הלך לעיר <placeName ref="dare.ht.lu.se/places/27108" xml:id="recogito-376de8ab-3ab0-4b84-872b-594ff2249961" cert="high">מק</placeName> ששם קבר
+<persName xml:id="recogito-d0a7c2f3-3f58-4548-8386-294027ad18fa">מחמט</persName> לראותו בקברו, והנה הא פגר מובס
+ונרקב. וריח רע עולה מקברו שלא היה אדם
+יכול לסבול: ואמר לכל עמו. שאין ממשות לא
+ב<persName xml:id="recogito-0afb103b-0703-46f7-81dc-c91fc92ed424">מחמט</persName> ולא בדתו. והם רואים ש<persName xml:id="recogito-17d23328-3c99-4db8-bbd9-93fb1a5dbb95">ברוך בן נריה</persName>
+שלם וטליתו יוצא מקברו. והוא תלמיד לנביא.
+והישמעאלים שהיו חופרים היו מתים. והיהודים
+לא הוזקו. לכך ידענו שהיהודים תופסים תורה
+של <persName xml:id="recogito-6aa69dc8-4e9f-4e11-a4e9-e5fa0c8be4dc">ברוך בן נריה</persName>: ולא הספיק לגייר הוא וכל
+עמו עד שמת. ונתבטלה הגזירה שרצה לגייר
+כל עמו:
+ו<placeName xml:id="recogito-55e036a9-8d04-42f6-af16-34b2f3f5b2e2" cert="low">עזרא הסופר</placeName> (קבור) בסוף ארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-6f90dcd4-97f5-4c3d-810a-a5f1e138c994" cert="low">בבל</placeName>: וכשעמוד
+האש על קברו אין רואין הבית אשר בנוי עליו.
+מפני הזוהר שעל קברו: ואחורי <placeName xml:id="recogito-ecf8d551-9f5e-4e9d-819f-f05ee8ae6b20" cert="unknown">עיליתיה דדניאל</placeName>
+פרדס נאה. והתמרים עדיין עומדים גם הבאר
+שלו: ומי (ממנו) שהיה שם מעט היה מבין לשונם.
+כי קרוב הוא ללשוננו או לתרגום. כגון דרוך
+דֶרֶך, לחום לֶחֶם: ובארץ ישמעאל גדל הזהב
+כעשבים: ובלילה רואין זוהרו. ועושין סימן בעפר</p><p>
+51</p><p>
+the brightness ascending from the grave of Baruch, son of
+Neriah, and whose beautiful and splendid praying scarf
+was faintly visible between the marble stones, went after¬
+wards to the city of <placeName xml:id="recogito-c0abaaf7-f8ad-431d-845a-a8a13fe69f86" cert="low">Meccah</placeName>, to the tomb of <persName xml:id="recogito-d8424385-baae-4e1c-9e0d-93cf864ac0a5">Mahomet</persName> ;83
+and behold there was a decayed and putrefied corpse, from
+whose grave such a disagreeable smell arose that nobody
+could bear it. He then said to his people that there was
+nothing substantial either in <persName xml:id="recogito-d0bfe333-b435-4a60-ac55-7d69160918ae">Mahomet</persName> or his religion,
+for they knew that the body of Baruch, son of Neriah,
+was preserved, that his praying scarf protruded from his
+tomb, that he was a disciple to a prophet, and that the
+Ishmaelites who dug up his grave perished, whilst the
+Jews were not hurt; therefore we may know that the
+Jews hold by the law kept by Baruch, son of Neriah.
+He, however, could not gain time to convert himself
+and his people before he died, and thus the resolution of
+converting all his people became void.</p><p>
+<persName xml:id="recogito-c81af612-53a2-4ef2-a016-de24761570cd">Ezra</persName>, the scribe, is buried on the boundary of the
+land of <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-6df71ed9-431f-4c95-929a-5a2e2e007aa7" cert="low">Babylon</placeName>.84 When the pillar of fire is over his
+grave, the structure erected on it is not visible, on account
+of the brightness over his grave. Behind the upper
+chamber of <persName xml:id="recogito-dbed3a68-5707-452c-8f3f-9e0bae66cb0f">Daniel</persName> is a beautiful pleasure garden, wherein
+the palm trees, as well as his well, are still in existence.
+Whoever of us stays in the place some little time under¬
+stands their language, for it is nearly allied to ours, or
+the Targum: for instance, derech becomes droch, lechem,
+lechom.85 In the land of Ishmael the gold grows like
+herbs.86 In the night its brightness is seen, when a mark</p><p>
+52
+או בסיד. ולמחר באין ולוקטין העשבין שהזהב
+עליהם: והזהובים מצויים שם. ויש להם זהב
+הרבה:
+והחזיר פניו למערב. וחזר ל<placeName ref="geo-kima.org/place/2804" xml:id="recogito-87f48c27-9cfa-4d04-b4e4-bf3be610e5bf" cert="high">נינוה</placeName>: ומ<placeName ref="geo-kima.org/place/2804" xml:id="recogito-5a99580d-2d9a-4a18-9e2d-0cb56e14940e" cert="high">נינוה</placeName>
+ל<placeName ref="geo-kima.org/place/22186" xml:id="recogito-a9cc0fc9-c826-42f8-bb35-dd781d7f88e8" cert="high">נציבין</placeName>. ושם <placeName xml:id="recogito-762efc6d-5b98-4799-b9d8-db2919e32f9a" cert="unknown">בית הכנסת שבנה עזרא</placeName>. ועל האבן
+חקוק <persName xml:id="recogito-57116c17-5f45-43e4-b3b5-3cb660667fde">עזרא הסופר</persName>: והלך ל<placeName ref="geo-kima.org/place/17893" xml:id="recogito-766faaa6-37e6-4c7e-ba4f-c38912bdf707" cert="low">חרן</placeName> ול<placeName xml:id="recogito-d16f775a-8873-4121-bf53-9f6cb5010164" ana="#typo" cert="unknown">ארם
+נהרים</placeName>: ויש ב<placeName ref="geo-kima.org/place/22186" xml:id="recogito-eb2ff579-427c-459f-8625-22e6891c3d9c" cert="high">נציבין</placeName> כשמונה מאות יהודים:
+ומשם ל<placeName ref="geo-kima.org/place/1257" xml:id="recogito-c99ca7f7-c98d-4c29-96b8-eb5cd6e8dae9" cert="high">חמת</placeName>: וכל הערים הגיד שמם. וכמה ימים
+הלך מזו לזו, ואין צורך לכתוב: ומשם ל<placeName ref="geo-kima.org/place/794" xml:id="recogito-61bd4a55-a369-472b-b54c-473d2f9830c0" cert="high">חלב</placeName>.
+היא <placeName ref="geo-kima.org/place/794" xml:id="recogito-5ada5237-8935-471f-bad9-6a5887c1e59f" cert="high">ארם צובה</placeName>: ולמה קורין אותה חלב. כי בהר
+היה צאנו של אברהם אבינו. ומעלות יורדות מן
+ההר: שמשם היה מושיט לעניים חלב: והלך
+ל<placeName ref="geo-kima.org/place/939" xml:id="recogito-2d968b3c-f51a-4c60-a7ee-38a293a573d2" cert="high">דמשק</placeName>. והיא עיר גדולה. ומלך של מצרים
+מושל עליה: ושם <span xml:id="recogito-f8c182f1-3903-45a7-b15e-4b6f47e8cfca" ana="#typo">בעשרת</span> אלפים יהודים. ונשיא
+להם: וראש ישיבה שלהם רבי עזרא מלא תורה.
+כי סמכו <persName xml:id="recogito-64e135ec-4707-4ea6-8bd8-e9f87681a385">רבי שמואל</persName> ראש הישיבה מ<placeName ref="geo-kima.org/place/3526" xml:id="recogito-6fa35578-d354-47b2-b8e9-edc31742a78e" cert="low">בבל</placeName>: ו<placeName ref="geo-kima.org/place/939" xml:id="recogito-14c31638-6726-4d4c-b615-a8a44ebc6735" cert="high">דמשק</placeName>
+ארץ טובה בתוך גנות ופרדסים. וסילונות גבוהות
+שמהן מקלחים מים ובריכות גדולות מאוד.
+והמים טובים מאוד וכל מיני פירות ומגדים שם:
+ואומרים הישמעאלים. אם גן עדן בארץ אז <placeName ref="geo-kima.org/place/939" xml:id="recogito-d712121a-9afb-4f77-a67a-b613eaf5d188" cert="high">דמשק</placeName>
+הוא גן עדן. ואם בשמים הוא אז <placeName ref="geo-kima.org/place/939" xml:id="recogito-b61fd100-c80c-40bc-a435-17e880eebeef" cert="high">דמשק</placeName> עומד
+כנגדו בארץ מלמטה: ומי שהולך ל<placeName ref="geo-kima.org/place/939" xml:id="recogito-d1788a93-10d9-4be6-9534-ce070de96b15" cert="high">דמשק</placeName> רואה</p><p>
+is made with dust or lime. They then come in the
+morning and gather the herbs upon which the gold is
+found. Therefore gold coins are found there, and they
+possess much gold.</p><p>
+He then turned to the west, came back to <placeName ref="geo-kima.org/place/2804" xml:id="recogito-5fe3264e-2b74-4ff9-aa7e-ff9cb63fbf3f" cert="low">Nineveh</placeName>,
+from <placeName ref="geo-kima.org/place/2804" xml:id="recogito-d508c929-1986-4acc-a0e7-5d62efe775c4" cert="low">Nineveh</placeName> to <placeName ref="sws.geonames.org/303750" xml:id="recogito-647f1789-eac5-4672-907d-af8deb181c05" cert="high">Nisibis</placeName>. There is the synagogue which
+<persName xml:id="recogito-3073ea6b-11ab-4216-bdef-71ccbaf13d9d">Ezra</persName> built; upon the stone is engraved “<persName xml:id="recogito-1e900a25-4fcf-459f-9bca-7c3adce71e4e">Ezra</persName>, the
+Scribe.” He then went to <placeName ref="geo-kima.org/place/17893" xml:id="recogito-1a220651-9697-44c0-b70b-5aa6d889dc91" cert="low">Haran</placeName>, and to <placeName xml:id="recogito-128a85ba-26bc-4c40-aeae-b9f807741a79" cert="unknown">Aram Naha - raim</placeName> situate between two rivers.87 At <placeName ref="sws.geonames.org/303750" xml:id="recogito-22d44ad9-bc66-4e66-8190-d84f0c21dd0f" cert="high">Nisibis</placeName> there are
+about 800 Jews From thence he went to <placeName xml:id="recogito-4009549a-ff31-4ad1-b6ab-a21869bb932f" cert="unknown">Hemoth</placeName>.88 He
+named all the cities; and stated how many days it took
+him to travel from city to city. However, there is no oc¬
+casion to write it down. From thence (he went) to <placeName ref="geo-kima.org/place/794" xml:id="recogito-649459f6-119f-4856-a4bc-97b2d7a0092b" cert="high">Haleb</placeName>,89
+that is <placeName ref="geo-kima.org/place/794" xml:id="recogito-27acaf06-d711-4aa4-a144-5dad3cc9599a" cert="high">Aram Zobah</placeName>. Why is it called <placeName ref="geo-kima.org/place/794" xml:id="recogito-b68462bd-6330-4265-996d-21150de3adee" cert="high">Haleb</placeName>? Because on
+the mountain was the flock of <persName xml:id="recogito-f7412655-fea5-4334-b8a4-2f30c6244973">Abraham</persName> our father. Steps
+led down from the mountain, whence he was accustomed
+to reach milk to the poor. From thence he went to
+<placeName ref="dare.ht.lu.se/places/21087" xml:id="recogito-1ab0fc9c-8133-4156-8e73-f5e4229667d6" cert="high">Damascus</placeName>. This is a large city; the King of <placeName ref="geo-kima.org/place/8046" xml:id="recogito-f139e7ef-475d-4d51-a242-bf6e9ef94f88" cert="high">Egypt</placeName>
+rules over it. There are there about 10,000 Jews, who
+have a prince. The head of their academy is <persName xml:id="recogito-324eb58a-7cfa-43d3-8cf9-a2b3dc85f510">Rabbi Esra</persName>,
+who is full of the knowledge of the law, for Rabbi Sa¬
+muel, head of the academy of <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-e9efd030-1626-4f2b-9226-5cee2eb838a9" cert="low">Babylon</placeName>, ordained him.
+<placeName xml:id="recogito-0e2b1509-2f1d-4c28-a02b-b41de640bacb" cert="unknown">Damascus</placeName> has goodly lands; it lies in the midst of
+gardens and pleasure grounds. There are also high
+fountains from which the water pours, and many large
+pools. The Ishmaelites say, If Paradise be on earth then
+<placeName xml:id="recogito-7b46c657-5c40-4208-95d3-56d2ac208669" cert="unknown">Damascus</placeName> is the Paradise, and if it be in heaven, then Da¬
+mascus is opposite on the earth. Whosoever goes to <persName xml:id="recogito-0ea09f39-7140-4f48-b715-44c52a2cfc15">Da</persName>-</p><p>
+54
+<placeName xml:id="recogito-a51eaf42-a3d1-43c5-8ef3-5bfc0d900424" cert="unknown">הר שעיר</placeName> לצדדין. ו<placeName ref="geo-kima.org/place/4703" xml:id="recogito-3d1b3f3c-799c-4ff8-951a-bd2a7f65cb6b" cert="high">הר חרמון</placeName> ו<placeName ref="geo-kima.org/place/21355" xml:id="recogito-b22f8946-fe50-4edc-896d-5762d2a8bb75" cert="high">הר הלבנון</placeName>. ובארץ
+<placeName xml:id="recogito-e1190bc6-9389-4746-a29f-081844c040f8" cert="unknown">סיחון</placeName> ו<placeName xml:id="recogito-51be365c-d8bb-4074-90ff-9f219c6fd927" cert="unknown">עוג</placeName> אין עשב וצמח. כמהפכת <placeName ref="geo-kima.org/place/4027" xml:id="recogito-9918a7d9-e0c6-49bf-a098-d7e22e8dd3d3" cert="low">סדום</placeName> ו<placeName ref="geo-kima.org/place/5198" xml:id="recogito-324d2307-d7e7-47ce-8f7e-7024bc5d55b4" cert="high">עמורה</placeName>:
+וראה קבר ארוך שמונים אמה. ואמרו שהוא <placeName xml:id="recogito-a6ab8a90-b2ad-4458-8055-fccbe706bacc" cert="unknown">קבר
+של שם בן נח</placeName>. אבל היהודים לא אמרו זה:
+ול<placeName xml:id="recogito-e792fb86-c1fc-4f80-a121-563f748cb304" cert="unknown">סוריא</placeName> כמהלך שני ימים. ועובר הירדן במערה
+כמו שאמרו מ<placeName xml:id="recogito-802c241e-72f3-4b81-beb8-b59d1e60a9c8" cert="unknown">מערת פמייס</placeName>: ובא ל<placeName ref="geo-kima.org/place/807" xml:id="recogito-d06df4af-e152-482d-8788-fac341acdf12" cert="high">טבריה</placeName> ושם
+קהילה. כי גם ב<placeName ref="geo-kima.org/place/2501" xml:id="recogito-821f48fe-3a99-4e72-b17f-f58acd7fcf33" cert="high">ארץ ישראל</placeName> יש קהילות. אלא
+שאין בהן אלא כמאה או כמאתים או כשלש
+מאות בעלי בתים: וב<placeName ref="geo-kima.org/place/807" xml:id="recogito-7bad3223-51dc-4230-bfd3-fd50b2ec12f0" cert="high">טבריה</placeName> יש <placeName xml:id="recogito-da5c08a3-ccbc-4643-bf95-3a5496e9b4fb" cert="unknown">בית הכנסת
+שבנה יהושע בן נון</placeName>: וב<placeName ref="geo-kima.org/place/21812" xml:id="recogito-e3622a2e-e93c-44fa-958c-4ac5f9dd63fa" cert="high">צפורי</placeName> קבור רבינו הקדוש.
+וריח טוב יוצא מקברו. וכשרחוקים מיל משם
+מריחין הריח הטוב היוצא מקברו: וקברים של
+<placeName ref="geo-kima.org/place/2501" xml:id="recogito-dfd24d3f-6c0c-4aff-a6b8-3f5509d4a032" cert="high">ארץ ישראל</placeName> בכוכין. ולא של <placeName ref="geo-kima.org/place/3526" xml:id="recogito-602990d7-5e0d-4321-9f5c-14e3e526acf0" cert="low">בבל</placeName>. לפי שב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-ae7ff51b-b8dc-4d2f-98e4-650e402a4071" cert="low">בבל</placeName>
+מים מצויים. ואינם יכולים לחפור מערות עמוקות:
+ומזרע <persName xml:id="recogito-b420fa5c-255b-443d-81a3-1e922c3ea384">רבי</persName> יש בחור ושמו <persName xml:id="recogito-9a7e642e-adeb-4a1c-a6d1-c04dbfdcf6c6">רבי נהוראי</persName>. ויש לו בן
+ושמו <persName xml:id="recogito-121d0ae2-f09b-4d93-bd88-72c23c73cfc1">רבי יהודה</persName> על שם <persName xml:id="recogito-b9216334-d949-4951-877d-5988ee054464">רבי יהודה הנשיא</persName>. ויש
+לו ספר היחס עד רבי: ורבי נהוראי רופא ומוכר
+בשמים בשוק. ובניו לפניו בחנותו. ומכוסין שלא
+יראו לכאן ולכאן. והוא תלמיד חכם וצדיק:
+ו<placeName ref="geo-kima.org/place/807" xml:id="recogito-67a82d13-5062-4e13-aa2d-2d463bf0fd9b" cert="high">טבריה</placeName> ו<placeName ref="geo-kima.org/place/21812" xml:id="recogito-818b0c54-f7aa-4b1d-9b75-40e7bd5ff230" cert="high">ציפורי</placeName> וכל הערים <span xml:id="recogito-71b714bf-1043-4f9f-8509-3c4e310b9380" ana="#typo">שבמישור. גליל</span>
+התחתון: וראה <placeName xml:id="recogito-2b7798e6-1912-4ca0-b302-f20091e19445" cert="unknown">אושא</placeName> ו<placeName ref="geo-kima.org/place/261" xml:id="recogito-ae6a0a2d-8848-49c1-b141-a3e63a63f436" cert="high">שפרעם</placeName>. שהיה <persName xml:id="recogito-5c2962e1-abee-49f7-b05f-180447aedf69">רבן
+גמליאל</persName> במקום סנהדרין: וב<placeName ref="geo-kima.org/place/71" xml:id="recogito-c0342b4e-e9a1-422f-bb98-5e26bdc9a414" cert="high">עכו</placeName> יש יהודים</p><p>
+mascus sees mount Seir on the side, as also mount Hermon,90
+and <placeName ref="geo-kima.org/place/21355" xml:id="recogito-33ff80c6-92a6-4a38-bb8a-0c16e363f0cf" cert="low">mount Lebanon</placeName>. In the land of <placeName xml:id="recogito-7d8f14a5-e4a8-4f8c-95aa-59d70c4621c5" cert="low">Sihon</placeName> and <placeName xml:id="recogito-9125f08f-a46e-441d-8a2c-f244fb41767f" cert="unknown">Og</placeName> there
+is neither grass nor plant, as though it had been over¬
+turned like <placeName ref="geo-kima.org/place/4027" xml:id="recogito-a29e2282-53f1-402e-9c00-f421d104dcb6" cert="high">Sodom</placeName> and <placeName ref="geo-kima.org/place/5198" xml:id="recogito-2269e59c-f7a8-4252-818d-ef06070e78e9" cert="high">Gomorra</placeName>. He saw there a grave
+80 cubits long. He was told that it was the grave of
+<persName xml:id="recogito-f2098d34-f4a0-4111-ad53-ee69023a480d">Shem</persName>, son of <persName xml:id="recogito-71079762-eeae-4c05-845c-bfc18104ab55">Noah</persName>. But the Jews did not tell him so.
+There is about two days’ journey to <placeName ref="geo-kima.org/place/8048" xml:id="recogito-282e4fb1-1ae4-4e30-af40-dfc65f0afa2a" cert="high">Syria</placeName>. The <placeName ref="geo-kima.org/place/2680" xml:id="recogito-f9a0bfe5-93ac-40ef-8afe-d3662fa7df99" cert="high">Jordan</placeName>
+passes through a cave, as they said, from the cave of
+<placeName ref="pleiades.stoa.org/places/678324" xml:id="recogito-2444b5e1-9a9d-45a1-a052-5a4211fe2e86" cert="low">Paneas</placeName>. He then came to <placeName ref="pleiades.stoa.org/places/678431" xml:id="recogito-3089c57d-12b0-41cf-ac30-71505da77a4e" cert="high">Tiberias</placeName>; at which place
+there is a congregation, for there are also congregations
+in the land of Israel, which, however, only number one
+hundred, two hundred, or three hundred families.91 At
+<placeName ref="pleiades.stoa.org/places/678431" xml:id="recogito-48d9ddf5-c443-4fd9-bf61-6a31b80c9fdc" cert="high">Tiberias</placeName> there is a synagogue which <persName xml:id="recogito-ee646e55-d398-4a3e-b70d-f758f6b5219b">Joshua</persName>, son of Nun,
+built. At <placeName ref="pleiades.stoa.org/places/678387" xml:id="recogito-049bbc65-30b6-40fb-966b-8137dc5380ee" cert="high">Sepphoris</placeName> there is buried our holy rabbi.92 A
+pleasing odour ascends from his grave. This odour is
+smelt at the distance of a mile from his grave. The graves
+in the land of Israel are in hollows, but not those of Baby¬
+lon. For in <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-30149ca6-1f1a-4c5b-9fc6-76ab6ac52c0b" cert="low">Babylon</placeName> water appears, and therefore they
+cannot dig deep caves. Of the posterity of Rabbi <persName xml:id="recogito-520b6e42-1c77-4bd0-9e66-b15dd9821bb1">Yehoodah</persName>
+a descendant exists, whose name is <persName xml:id="recogito-286b2693-1b64-4ab3-991c-42aecc6df6e1">Rabbi Nehorai</persName>, who
+has a son whose name is <persName xml:id="recogito-388dba8e-1bbb-4f46-a06f-4c1c3912b1e4">Yehoodah</persName>, after <persName xml:id="recogito-69ba7ce0-3ca2-470f-8b69-08f8d253c49c">Rabbi Yehoodah</persName>,
+the prince.93 He possesses a book of genealogy going back
+to <persName xml:id="recogito-f8a35b50-f9e1-48b3-807d-e7c63a668653">Rabbi Yehoodah</persName>. Rabbi <persName xml:id="recogito-86e19e87-5ceb-458d-9ec7-f6a38055542e">Nehorai</persName> is a physician, and sells
+spices in the market. His children are with him in the
+shop. They are wrapt in that they should not look about.
+He is a disciple of the wise and righteous. <placeName ref="pleiades.stoa.org/places/678431" xml:id="recogito-27170a9b-c910-4fe0-991b-5b927a8a3d15" cert="high">Tiberias</placeName>,
+<placeName ref="pleiades.stoa.org/places/678387" xml:id="recogito-15fdbc1a-07b1-40b5-a525-f4c1b1a4a65b" cert="high">Sepphoris</placeName>,94 and all the cities in the plain, belong to <persName xml:id="recogito-06618747-9722-4565-ae6e-e5bbaf055851">Lower Galilea</persName>. He also saw <placeName ref="pleiades.stoa.org/places/678445" xml:id="recogito-134ab1c8-9033-412f-9cba-0664087d368a" cert="high">Usha</placeName> and <placeName xml:id="recogito-caa5d7a8-be30-46e3-8c8c-3e88e75efd9b" cert="low">Shifrem</placeName>, where Rabbi</p><p>
+56
+וב<placeName ref="geo-kima.org/place/9637" xml:id="recogito-f43a35c1-6623-4e16-b32e-d68b72885d75" cert="low">יבנה</placeName><note target="recogito-f43a35c1-6623-4e16-b32e-d68b72885d75" resp="sinai">הקפיצה מעכו ליבנה (וחזרה לגליל התחתון) משונה</note> יש <placeName xml:id="recogito-5c23f109-7cc8-4e3d-8ec2-d34e9155c951" cert="unknown">מעיין שנובע כל ששת הימים</placeName>. ובשבת
+אפילו טיפה אחת לא נמצאת בו: ובגליל התחתון
+יש <placeName xml:id="recogito-303ccd2e-83c1-4a5d-ba42-3362b64b2935" ana="#reference" cert="low">מערה</placeName><note target="recogito-303ccd2e-83c1-4a5d-ba42-3362b64b2935" resp="sinai">מערת הלל ושמאי</note>. ובפנים היא רחבה וגבוהה. מצד אחד
+של המערה קבורים <persName xml:id="recogito-ae73c0ce-3e4f-4b75-b964-6f334417da4f">שמאי</persName> ותלמידיו. ומצד אחר
+<persName xml:id="recogito-e4278667-7879-4cf6-89e1-938b8e9fb863">הילל</persName> ותלמידיו: ובאמצע המערה אבן גדולה
+חלולה כמו כוס. ונכנס בבית קיבולה כארבעים
+סאה ויותר: וכשבאין שמה אנשים הגונים יראה
+האבן מלא מים יפים. וירחץ ידיו ומתפלל. ויבקש
+מה שירצה: ואין האבן חלולה מתחת. כי המים
+אינם באים מן הקרקע. אלא נעשה לכבוד אדם
+הגון. ולאדם שאינו הגון לא יראו המים: ואם
+ישאבון מן האבן אלף כדים מים. לא יהיה חסר
+אלא מלא כהוויתו:
+והלך ל<placeName ref="geo-kima.org/place/21521" xml:id="recogito-2883bd9e-77a4-44f5-b10a-6f3abcfa42a1" cert="high">גליל העליון</placeName>. ועמד בהרים: ושם <placeName xml:id="recogito-0ac85e51-d800-4dfd-8eea-2c86c1753e55" cert="low">ניתאי
+הארבלי</placeName> ב<placeName xml:id="recogito-4cdace0a-ee2b-4e3d-bbb7-ae162dea1e8f" cert="unknown">ארבל</placeName>: ו<placeName xml:id="recogito-e294e811-8251-4cf1-9722-a14ad6e3b14d" cert="unknown">הר געש</placeName> גבוה מאוד. ובו קבור
+<persName xml:id="recogito-cbdc54e7-8103-4593-ad95-aa6b903da839">עובדיה הנביא</persName>. ועולין בו במעלות שעשויין בהר:
+<placeName xml:id="recogito-53ed7fe0-14be-4beb-ac95-2d2f8027cc64" cert="unknown">ובאמצע ההר קבור יהושע בן נון. ואצלו כלב בן
+יפונה</placeName>: ואצלם נובע מעיין מים טובים מן ההר.
+ובנויים היכלות נאים אצל הקברים: וכל בנין
+<placeName ref="geo-kima.org/place/2501" xml:id="recogito-961700f7-9d53-4bbb-ab24-af3e1b9cce6a" cert="high">ארץ ישראל</placeName> של אבנים: ואצל היכל אחד ניכרת
+פסיעה אחת כאדם הפוסע בשלג. וזו היא שדרך</p><p>
+<persName xml:id="recogito-0b0d7ac5-0c7b-4e87-b283-3c8ea73e7e5e">Gamliel</persName> lived at the seat of the Sanhedrin.95 There are
+Jews at Acco.96</p><p>
+At <placeName xml:id="recogito-420982ed-6970-4194-b3bb-df7a40f64128" cert="low">Yabneh</placeName> there is a spring which flows all six days,
+but on Sabbath not a single drop is found in it.97 In
+<placeName ref="geo-kima.org/place/6913" xml:id="recogito-76a1bd6e-025c-4317-8000-d90569ee14a9" cert="high">Lower Galilea</placeName> there is a cave which inside is spacious
+and high. On one side of the cave are buried <persName xml:id="recogito-f686ab86-9d13-4685-aaee-ea2816fa2bb2">Shamai</persName>
+and his disciples; and on the other <persName xml:id="recogito-6bfcee6f-f051-40cc-96c1-176cec772e05">Hillel</persName> and his disci¬
+ples. In the middle of the cave there is a large stone,
+hollow like a cup, which is capable of containing more
+than forty seah.98 When men of worth enter, the stone
+appears full of sweet water. One may then wash his
+hands and feet, and pray, imploring God for what one de¬
+sires. The stone, however, is not hollow from below,
+for the water does not come from the bottom, as it only
+occurs in honour of a man of worth, since to an unworthy
+man the water does not appear. Though one should
+draw from the stone a thousand jugs of water, it would
+not be diminished, but would remain full as before.</p><p>
+He then went to <placeName ref="geo-kima.org/place/21521" xml:id="recogito-713841d6-28b3-4d6f-9945-3d22567310ec" cert="high">Upper Galilea</placeName> and stayed among the
+mountains. There is <persName xml:id="recogito-f69c6f1b-d4aa-4bde-b5bb-5f435caeb9c5">Nithai</persName>, the Arbelite, buried at
+<placeName xml:id="recogito-fdb43ef7-89ad-43e8-b1d0-24d98dc6aa0c" cert="unknown">Arbel</placeName>.99 <placeName xml:id="recogito-d2aa7b08-3a9a-43f1-8a25-df73699da197" cert="unknown">Mount Gaash</placeName>100 is very high, on it <persName xml:id="recogito-f5e20132-d1ff-4b24-ad7c-73da74aa2896">Obadiah</persName>, the
+prophet, is buried. The mountain is ascended by means
+of steps formed in the mountain. In the midst of the
+mountain <persName xml:id="recogito-5059d84e-d169-45c7-b3a8-c43314a85c46">Joshua</persName>, son of Nun, is buried; and by his side
+<persName xml:id="recogito-fedc3e1f-e074-43b5-9865-ececea521a3c">Kaleb</persName>, son of <persName xml:id="recogito-b7c0be72-7e98-435d-9897-7f3a939adb3e">Jephunah</persName>. Close by, a spring of good
+water gushes from the mountain ; there are beautiful
+palaces erected near the graves. Every building in the
+land of Israel is of stone. Near one of the palaces a foot-</p><p>
+58
+בה המלאך. ונתגעשה <placeName ref="geo-kima.org/place/2501" xml:id="recogito-ff27e3c2-9efa-4081-98ed-18d7b5762c1d" cert="high">ארץ ישראל</placeName> לאחר מות
+יהושע: ואמר <persName xml:id="recogito-ed02b088-1669-4ea5-8f8e-9967bf526d6d">רבי פתחיה</persName>. שכל <placeName ref="geo-kima.org/place/2501" xml:id="recogito-7254c15e-7db3-43c0-ae9e-a5d27f6df999" cert="high">ארץ ישראל</placeName> היא
+כמהלך שלשה ימים: והלך משם ל<placeName xml:id="recogito-766e6825-45bf-4b62-a4e7-26158a28dd2b" cert="unknown">קבר יונה בן
+אמיתי</placeName>. והיכל יפה בנוי עליו: ויש אצלו פרדס:
+וכל מיני פירות שם: ושומר הפרדס הוא גוי:
+וכשבאים גוים שמה אינו נותן להם מאומה מן
+הפירות. וכשהיהודים באים שמה מקבל אותם
+בסבר פנים יפות. ואומר להם <persName xml:id="recogito-85ce7e8d-264b-4e43-a4d8-fc34b6f9be64">יונה בן אמיתי</persName>
+יהודי היה. לכך ראוי לכם משלו. ומאכיל את
+היהודים: ובא ל<placeName xml:id="recogito-27b6fc73-3863-4052-9f81-ab0ea5f3deea" cert="unknown">קבר רחל</placeName> ל<placeName xml:id="recogito-a77f83a2-eab9-40fa-b880-b4efe7973e29" cert="unknown">אפרת</placeName>. מהלך חצי
+יום מ<placeName ref="geo-kima.org/place/691" xml:id="recogito-e6994e08-2da7-4821-a3ae-993a2cfe9ed4" cert="high">ירושלים</placeName>: ועל קברה אחת עשרה אבנים
+כמניין אחד עשר שבטים. ולפי שעדיין לא נולד
+בנימין אלא בצאת נפשה. (אין שם אבן כנגדו:)
+והם שיש. ואבן של יעקב שיש אחד והיא על
+כלם. וגדולה היא מאוד משא הרבה בני אדם.
+ומשם מיל אחד יש <placeName xml:id="recogito-766c3a0b-c5d6-4998-aa78-9a6493883e88" ana="#reference" cert="low">כומרים</placeName>. ולקחו את האבן
+הגדולה מעל הקבר וקבעו אותה בבנין עבודה
+זרה: ולמחר ראו אותה על הקבר כאשר בתחלה.
+כן עשו כמה פעמים. ונמנעו מלקחתה עוד:
+וחקוק על האבן שם יעקב: וראה האבן שעל
+הבאר אצל <placeName ref="geo-kima.org/place/17893" xml:id="recogito-286686c6-f439-48dd-9ca9-478ea5256497" cert="low">חרן</placeName>. וארבעים בני אדם אין מזיזין
+אותה ממקומו: והבאר עמוק כשלש מאות אמות.
+ואין מים מצויים שם:</p><p>
+print is perceptible, like that of a human being treading
+on snow. This is that which the angel imprinted after
+the death of <persName xml:id="recogito-291b97cd-b108-490f-886b-fc81626d7892">Joshua</persName>, son of Nun, when the land of Israel
+was shaken.101 Rabbi <persName xml:id="recogito-904bf32a-6c46-4390-b437-91bec3d30df5">Petachia</persName> said that a circuit of the
+whole land of Israel might be made in three days. From
+thence he went to the <placeName xml:id="recogito-8bb95999-1a56-448f-a93a-2b3e13458817" cert="unknown">grave of Jonah, son of Amittai</placeName>.
+There is a beautiful palace built over it. Near it is a
+pleasure garden wherein all kinds of fruit are found.
+The keeper of the pleasure garden is a Gentile. Never¬
+theless, when Gentiles come there he gives them no fruit,
+but when Jews come he gives them a friendly reception,
+saying, <persName xml:id="recogito-c5dadc60-9e52-4a71-acca-b239369753b2">Jonah</persName>, son of Amittai, was a Jew, therefore it is
+due to you to partake of what is his, and then gives to
+the Jews to eat thereof. He then came to <persName xml:id="recogito-7265d5da-6262-42a2-9617-a5c1f3f81f4f">Rachel</persName>’s
+grave, at <placeName xml:id="recogito-12b92cf1-c2ff-4070-b495-17de14f71f1e" cert="low">Ephroth</placeName>, half a day’s journey from <placeName ref="sws.geonames.org/281184" xml:id="recogito-97ec9d54-62fb-4141-899d-5ddd48a7c002" cert="high">Jerusalem</placeName>.
+Upon her grave are eleven stones, according to the num¬
+ber of the eleven tribes; and because <persName xml:id="recogito-396130ef-9cc8-4742-919a-660eacf398ef">Benjamin</persName> was only
+born at her death there is no stone erected for him.
+They are of marble. The stone of <persName xml:id="recogito-8fb67fa0-f177-4979-ae4a-e28677898cf7">Jacob</persName>, however, con¬
+sisting of one piece of marble, above all of them, is very
+large, a load for many persons. A mile from hence are
+<placeName xml:id="recogito-d44049d5-effe-4a35-985d-0c3b172f0527" ana="#reference" cert="unknown">priests</placeName> who took away the large stone from the grave and
+placed it in a building for strange service.102 In the morn¬
+ing, however, it was seen on the grave as before. This
+was repeated several times, until at last they abstained
+from carrying it away. On the stone is engraved the
+name of <persName xml:id="recogito-791bffd3-1fec-44fe-aed8-fbdee6326222">Jacob</persName>. He also saw the stone over the well
+near <placeName ref="geo-kima.org/place/17893" xml:id="recogito-072410e5-f919-413c-8866-c76ff45c2344" cert="low">Haran</placeName>. , Forty persons could not move it from its</p><p>
+60
+והלך ל<placeName ref="geo-kima.org/place/691" xml:id="recogito-b5d4850a-7676-458c-92dc-6e42026e9326" cert="high">ירושלים</placeName>. ואין שם אלא <persName xml:id="recogito-38ee1688-b727-400a-aa73-6a3f7b148a00">רבי אברהם
+הצבע</persName>. והוא נותן מס הרבה למלך שמניחו שם:
+והראו לו <placeName ref="geo-kima.org/place/2996" xml:id="recogito-f1f6dad6-7fc1-4b73-bd5b-bedeecf354aa" cert="high">הר הזיתים</placeName>. וראה ש<placeName xml:id="recogito-384cbcb8-effc-4b1c-b322-ea47e11c27cb" cert="unknown">המעזיבה</placeName> ריצפה
+גבוהה שלש אמות. והיא רחבה: והיכל נאה שם
+שבנו הישמעאלים בימי קדם. כשהיתה <placeName ref="geo-kima.org/place/691" xml:id="recogito-50c5cc77-af22-4847-94f3-c60d05fb94ef" cert="high">ירושלים</placeName>
+בידי הישמעאלים: ובאו פריצים והלשינו למלך
+הישמעאלים. ואמרו זקן אחד יש בינינו שיודע
+מקום היכל ועזרה: ודחק אותו המלך. עד שהראה
+לו: והמלך היה אוהב יהודים. ואמר אני רוצה
+לבנות היכל שם. ולא יתפללו שם אלא יהודים:
+ובנה ההיכל מאבני שיש. בנין נאה מן אבני
+שיש אדומים וירוקים וכל מיני מראה: ובאו גוים
+ושמו בו צלמים. והיו נופלים. וקבעו הצלם בעובי
+הכותל. אבל בבית קדשי הקדשים לא היה יכול
+לעמוד: וה<placeName xml:id="recogito-729353c9-8b18-45ec-bf98-7db8dece3044" cert="unknown">שפיטל</placeName> שהעניים שם מצד אחד.
+והארץ מבוקעת. ונקרא <placeName ref="geo-kima.org/place/22081" xml:id="recogito-0ea1b39f-42aa-43f2-bcb8-3be09e8cd32c" cert="high">גיא בן הינום</placeName>. ושם בית
+קבורה שלהם:
+וכל <placeName ref="geo-kima.org/place/2501" xml:id="recogito-5f24eef4-73f2-42bd-9317-8a0c9465ac77" cert="high">ארץ ישראל</placeName> כמהלך שלשה ימים: וראה <placeName ref="geo-kima.org/place/1017" xml:id="recogito-20ec3c72-a2bc-4cfd-86d8-aab1906ab2fe" cert="high">ים
+המלח</placeName> <placeName ref="geo-kima.org/place/4027" xml:id="recogito-95b49318-46ed-4747-967c-97da29184ad0" cert="low">סדום</placeName> ו<placeName ref="geo-kima.org/place/5198" xml:id="recogito-fe005643-1fa5-421a-bd6e-efbad406afdd" cert="high">עמורה</placeName>. ואין בו עשב: ו<placeName xml:id="recogito-04c3cf8e-4e23-4d2c-9ca5-d73b6d852829" cert="unknown">נציב מלח</placeName>
+אמר שלא ראה ואינו בעולם. וגם <placeName xml:id="recogito-263fc664-eeeb-4845-8756-9b617267f909" cert="unknown">האבנים שהעמיד
+יהושע</placeName> לא ראה: והלך ל<placeName ref="geo-kima.org/place/966" xml:id="recogito-8e2691e2-2fd4-4fb8-bc3d-0467fd341d49" cert="high">חברון</placeName>. וראה על ה<placeName xml:id="recogito-308f06cc-e62e-453c-8a44-b8f68762a337" ana="#reference" cert="unknown">מערה</placeName>
+היכל גדול שבנה אברהם אבינו: ויש בו אבנים</p><p>
+place. The well is about thirty cubits deep; there is,
+however, no water in it.</p><p>
+He then went to <placeName ref="sws.geonames.org/281184" xml:id="recogito-8d8ed2b5-24f7-4611-ae6d-88098db27686" cert="high">Jerusalem</placeName>. The only Jew there is
+<persName xml:id="recogito-a9d57bda-dc4b-4f60-9c35-7fade21fda3d">Rabbi Abraham</persName>, the dyer,103 and he pays a heavy tax to the
+king to be permitted to remain there. They showed him
+<persName xml:id="recogito-60839e29-7927-4da6-8e0b-0baf83edf1a6">Mount Olivet</persName>, and he saw that the pavement was three
+cubits high, which is the breadth thereof.104 There is
+also there a beautiful palace which the Ishmaelites built
+in ancient times, when <placeName ref="sws.geonames.org/281184" xml:id="recogito-6956fe6a-8e5a-4855-8619-44694c24c555" cert="high">Jerusalem</placeName> was still in the hands
+of the Ishmaelites. Then came worthless persons who
+brought to the king of the Ishmaelites the slanderous re¬
+port, saying, There is an old man among us who knows
+the locality of the temple and the court. Then the king
+urged him until he pointed it out. The king was a friend
+of the Jews, and said, I will build here a temple, and
+none but Jews shall pray therein. He built the temple of
+marble stone, a beautiful structure consisting of red, green,
+and variegated marble. Then came Gentiles and put
+images in it; but they fell down. They then fixed the
+images in the thickness of the wall; but in the holy of
+holies they could not place any.105 <placeName xml:id="recogito-e1ccc3ac-a427-4bd7-bb89-07040240e8e6" ana="#reference" cert="unknown">The hospital</placeName>106 where
+the poor are is on another side. The ground is cleft, and
+is called <placeName ref="geo-kima.org/place/22081" xml:id="recogito-1ed6be15-0f8d-4fd6-a87a-d31480f26877" cert="high">Valley of the Son of Hinom</placeName>, where their burial
+place is.</p><p>
+The circuit of the land of Israel may be made in about
+three days. He saw the <placeName ref="pleiades.stoa.org/places/697709" xml:id="recogito-ee8806f6-1602-44cd-9576-f0153458f283" cert="high">salt sea</placeName> of <placeName ref="geo-kima.org/place/4027" xml:id="recogito-03dfa9d9-414c-49f8-bcf8-f5bff830f25d" cert="high">Sodom</placeName> and <placeName ref="geo-kima.org/place/5198" xml:id="recogito-621b1ba2-4f35-4bba-a237-efa8ee79326f" cert="high">Gomorra</placeName>.
+There is no herb there. As to the pillar of salt, he said
+that he did not see it, and that it no longer existed. Nor</p><p>
+62
+גדולות שבע ועשרים או שמונה ועשרים אמות.
+וכל ראש פינה כמו שבעים אמות: ונתן למי
+שהמפתח של המערה בידו זהוב. להביא אותו
+לקברי האבות: ופתח לו. והנה על הפתח צלם
+ושלשה כוכין בפנים: ואמרו היהודים שב<placeName ref="geo-kima.org/place/71" xml:id="recogito-6f88b95b-ef63-42b1-b658-ba089326ae03" cert="high">עכו</placeName>
+הזהר כי שמו שלשה פגרים בתחלת המערה ואמרו
+שהם האבות. ואינם: ושומר המערה אמר לו
+שהם: והוסיף לו עוד זהוב. להכניסו למערה:
+להכנס בזה השער: והביא נרות. והכניסו לפנים:
+וירדו במעלות. ולקודם זאת המערה מבחוץ ירדו
+בחמש עשרה מעלות: ובאו לתוך מערה רחבה
+מאוד. ובאמצע המערה פתח בקרקע: והקרקע
+כלה סלע. וכל הקברות הם בחלל הסלע: ועל
+אותו פתח שבאמצע מונחים חתיכות ברזל עבין
+ביותר, ואין אדם יכול לעשות כזה אם לא בידי
+שמים: ורוח סערה יוצא מן הנקבים שבין ברזל
+לברזל, ולא היה יכול לבוא בנרות שמה: והבין
+ששם האבות. והתפלל שם: וכשהיה <span xml:id="recogito-5d38f8ae-9b89-4626-8d56-58f194beb618" ana="#typo">שוחה</span> על
+פי המערה. היה רוח סערה יוצוא ומשליכו
+לאחוריו:</p><p>
+did he see the stones which <persName xml:id="recogito-bb9fb94f-f02f-4c3e-a8e9-21a06f5927e2">Joshua</persName> erected.107 He then
+went to <placeName ref="pleiades.stoa.org/places/687915" xml:id="recogito-f751a289-f5ad-49e1-b49f-6dda02b616c5" cert="low">Hebron</placeName>. He saw over the cave a large palace,
+which <persName xml:id="recogito-95e23aaf-1693-43ae-b789-dc5fcc97f7d9">Abraham</persName>, our father, built. There are in it large
+stones of twenty-seven or twenty-eight cubits. Every
+corner stone is about seventy cubits. He gave to the
+keeper of the key of the cave a gold piece to take him to
+the graves of the fathers; and he opened it, and behold
+there was over the entrance an image,108 and inside three
+cells. The Jews of Acco had told him previously, Be¬
+ware, for they have placed three corpses at the entrance
+of the cave, saying that these were the patriarchs; but
+they are not. But the keeper of the cave said that they
+were. He, therefore, gave him another gold piece to
+take him inside the cave. He then opened it, saying, I
+never permitted a Gentile before to enter this gate. He
+then brought lights and they went inside, and had to de¬
+scend steps, and before he entered the cave he had out¬
+side to descend fifteen steps. They then came to a very
+spacious cave. In the midst of the cave there is an en¬
+trance in the ground. The ground consists all of rock;
+and all the graves are in the hollow of the rock; and over
+that entrance, in the middle, are placed very thick iron
+bars, the like no man can make unless through heavenly
+instrumentality, and a storm-wind blows from between
+the holes between bar and bar. He could not enter there
+with lights. Then he understood that the fathers were
+there, and he prayed there. Whenever he bent towards</p><p>
+64
+וב<placeName ref="geo-kima.org/place/691" xml:id="recogito-bfe6bd13-4559-48c5-a405-e3c02fa83a10" cert="high">ירושלים</placeName> יש שער. ושמו <placeName xml:id="recogito-c9a99471-a58c-488c-b793-dbaa7623e23b" cert="unknown">שער הרחמים</placeName>: ואותו
+שער ממולא אבנים וסיד. ואין שום יהודי וכל שכן
+שאין גוי רשאי לבוא שמה: ופעם אחת רצו הגוים
+להסיר ולפתוח השער. ונתרעשה <placeName ref="geo-kima.org/place/2501" xml:id="recogito-3598ba12-90c6-4dcc-857e-4cd7e7b89b3e" cert="high">ארץ ישראל</placeName>.
+והיתה מהומה בעיר עד שחדלו. ויש מסורת בידי
+היהודים. שדרך אותו השער גלתה השכינה. ובו
+עתידה לשוב. והוא מכוון נגד <placeName ref="geo-kima.org/place/2996" xml:id="recogito-9779fc4e-2870-4334-846b-f5fee8ce9622" cert="high">הר הזיתים</placeName>. והר
+הזיתים נמוך ממנו, והעומד בהר הזה רואהו:
+ועמדו רגליו ביום ההוא על <placeName ref="geo-kima.org/place/2996" xml:id="recogito-c179a1ce-14b7-4e92-b7da-f100b081419f" cert="high">הר הזיתים</placeName>. עין בעין
+יראו בשוב ה׳ <placeName xml:id="recogito-8515b5d0-e727-41b9-9b10-2f0a53dd9a89" cert="unknown">ציון</placeName>: דרך אותו שער ומתפללין
+שם. ו<placeName ref="geo-kima.org/place/21050" xml:id="recogito-b887c3a1-bd11-4861-bf1d-8062af9f1955" cert="high">מגדל דוד</placeName> קיים:
+וב<placeName xml:id="recogito-9997f44c-09bb-4f4f-80de-d2eac706b884" cert="unknown">דמשק</placeName> יש <placeName xml:id="recogito-0bc7ebbd-3802-43cf-a386-eef2f3d3d59b" cert="unknown">בית הכנסת אחת שבנה אלישע</placeName>:
+ו<placeName xml:id="recogito-4740d10b-690a-435f-8fd3-527b35108ade" ana="#reference" cert="unknown">אחת שבנה רבי אליעזר בן עזריה</placeName>. והיא גדולה
+ובה מתפללין:
+.ב<placeName xml:id="recogito-8c52b0cf-d8c0-4c03-a951-3b6b5464debe" cert="unknown">אילוני ממרא</placeName> רחוק משם היה יושב זקן אחד
+וכשבא <persName xml:id="recogito-7d0a1531-3735-49de-965d-9386879cf0e9">רבי פתחיה</persName> שמה נטה הזקן למות: וצוה
+לבנו להראות ל<persName xml:id="recogito-01bc53e8-682b-403d-827d-c5427a36ae4e">רבי פתחיה</persName> ה<placeName xml:id="recogito-221e45ce-5729-4d59-a683-82f10e734722" cert="unknown">עץ שנשענו בו
+המלאכים</placeName>. והראה לו זית אחד יפה. ונחלק
+לשלשה חלקים. ואבן שיש באמצע. וקבלה בידם.
+שכשישבו המלאכים נחלק העץ לשלשה חלקים.
+שכל אחד נשען על עץ אחד. וישבו על האבן.
+ופירות העץ מתוקים מאוד, ואצל העץ <placeName xml:id="recogito-7e7f7dc1-3b62-4b97-9a0e-874ea6fd3079" cert="unknown">בארה</placeName><note target="recogito-7e7f7dc1-3b62-4b97-9a0e-874ea6fd3079" resp="sinai">באר שרה</note> של</p><p>
+65</p><p>
+the mouth of the cave a storm-wind went forth and cast
+him backwards.</p><p>
+At <placeName ref="sws.geonames.org/281184" xml:id="recogito-dd102dde-f66c-445b-ba84-8ebfa77948ab" cert="high">Jerusalem</placeName> there is a gate, its name is, <placeName xml:id="recogito-a5d37aee-8409-44e6-aa4b-b2d6b2373457" cert="unknown">Gate of
+Mercy</placeName>.109 The gate is full of stone and lime. No Jew,
+and still less a Gentile, is permitted to go there. One
+day the Gentiles wished to remove the rubbish and open
+the gate, but the whole land of Israel shook, and there
+was a tumult in the city until they left off. There is a
+tradition amongst the Jews that the divine glory appeared
+through this gate, and that through it it would return. It
+is exactly opposite <placeName ref="geo-kima.org/place/2996" xml:id="recogito-29645886-f9b0-40e0-b818-0511dc5a36fa" cert="high">Mount Olivet</placeName>. <placeName ref="geo-kima.org/place/2996" xml:id="recogito-7bae2180-a316-4b66-bee3-dd9d9a2d083d" cert="high">Mount Olivet</placeName> is lower
+than it. Nevertheless, whoever stands on that mountain
+may see it. His feet will stand that day on Mount
+Olivet.110 They shall see distinctly when the Eternal will
+return to <placeName xml:id="recogito-08d7676d-943b-4293-a8dd-b43d7bf97aee" cert="unknown">Zion</placeName> through that gate. Prayers are offered
+up there. The <placeName ref="geo-kima.org/place/21050" xml:id="recogito-e6650988-fe8a-44e3-97e9-cebf4e9a6265" cert="high">Tower of David</placeName> still exists.</p><p>
+At <placeName xml:id="recogito-8fb10163-bfd9-499e-a430-bfeff50531cb" cert="unknown">Damascus</placeName> there is a <placeName xml:id="recogito-e49e6f36-8015-49b0-a839-03f4d91a0975" cert="unknown">synagogue which Elihsa built</placeName>,
+also <placeName xml:id="recogito-ce96149d-46cd-46d1-a042-07be8091586a" cert="unknown">one built by Rabbi Elieser, son of Asariah</placeName>;111 it is
+large, and service is performed in it.</p><p>
+Among the <placeName xml:id="recogito-d508bfd6-f260-4467-a403-a8cc35f7747f" cert="unknown">oaks of Mamre</placeName>, at a distance from there,
+dwelled an old man, who was near death when <persName xml:id="recogito-ede36c0a-0bbd-48d9-8d33-4bd4eb5a28a5">Rabbi Petachia</persName> arrived there, and he told his son to show Rabbi
+Petachia the tree under which the angels rested. He also
+showed him a fine olive tree cleft into three parts with a
+stone in the middle. They have a tradition that when
+the angels sat down the tree was cleft into three parts,
+each resting under one tree whilst sitting on the stone.
+The fruits of the tree are very sweet. By the tree is the</p><p>
+66
+שרה. ומימיה מתוקין וצלולין. ואצל הבאר <placeName xml:id="recogito-58d3b4fa-6636-4aff-9593-17a173b2d308" cert="unknown">אוהל
+שרה</placeName>. ואצל <placeName xml:id="recogito-b6fec31e-d232-4e51-a812-a444dbc37481" cert="unknown">ממרא</placeName> מישור: ומצדו האחר כמאה
+אמות מ<placeName xml:id="recogito-754a38cd-9abb-418d-b8c6-32fbf1808699" cert="unknown">בארה של שרה</placeName> עד <placeName xml:id="recogito-4b73e07c-16a7-4f16-80d6-9932600c8462" cert="unknown">בארו של אברהם</placeName>
+אבינו. ומימיו יפים מאוד: והראו לו <placeName xml:id="recogito-2b758e84-5694-4a15-9976-c43c61418142" cert="unknown">אבן (גדולה)
+שמונה ועשרים אמות. שנימול עליו אברהם אבינו</placeName>:
+ואמר הזקן. הנה הוא הולך לעולמו ואינו משקר.
+והגיד בשבועה. שפעם אחת בצום כפור ראה
+מלאך של אש וסוסו אש אצל <placeName xml:id="recogito-6acf3b26-09ed-4037-afe7-de80aac123b2" cert="unknown">בארה של שרה</placeName>:
+שהיה מתפלל שם:
+וב<placeName xml:id="recogito-3730544c-cfbe-4ba2-af06-3c2f0bc5a0dc" cert="unknown">ארץ יון</placeName> יש להם גלות גדול. ומשועבדים
+בגופם. ויש (בהם) בחורים בקיאים בשמות.
+ומשביעים השדים שמשרתים להם כעבדים: ויש
+מהם קהילות רבות. ש<placeName ref="geo-kima.org/place/2501" xml:id="recogito-a88968c8-aeef-4cfd-810e-e523b16f1701" cert="high">ארץ ישראל</placeName> אינה יכולה
+לשאת אותן אם היו עליה:
+וב<placeName xml:id="recogito-884f2a1e-0418-4d55-8f71-7953c12b62e0" cert="unknown">כפר עוזא</placeName> קבור <persName xml:id="recogito-5f84192a-b763-4437-bc05-a10d2a9cb914">יונה בן אמיתי</persName>. וב<placeName ref="geo-kima.org/place/9541" xml:id="recogito-478c217e-77db-4942-b0f0-f18657649f4c" cert="high">בצרה</placeName> של
+<placeName ref="geo-kima.org/place/3526" xml:id="recogito-9342d553-f1fc-41ed-bc1d-c55ca40c5acf" cert="low">בבל</placeName> <persName xml:id="recogito-5ee300ce-f016-41d9-b4da-110d3a3ed532">עזרא הסופר</persName>: ורב חנא בגדתאה שכתוב
+בתלמוד הוא מ<placeName ref="geo-kima.org/place/662" xml:id="recogito-f1c753bc-ebe4-4001-ae25-2f46662dd489" cert="high">בגדת</placeName> העיר הגדולה כמו שכתוב
+לעיל: וב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-82ad50d6-54ed-4ff4-96e4-c6cc0cafe714" cert="low">בבל</placeName> אין אבן אלא הכל של לבנים:
+תמו דברי <persName xml:id="recogito-6746daa0-c8d1-4d3a-a149-6ba83d135b93">רבי פתחיה</persName> אחיו של
+הרב רבי יצדק הלבן בעל
+התוספות ושל הרב רבי
+נחמן מ<placeName ref="geo-kima.org/place/7275" xml:id="recogito-23732875-96c9-4894-8744-8c32bcbb21b8" cert="high">רעגנשפורג</placeName>:</p><p>
+<placeName xml:id="recogito-c5cd1ee7-c155-456d-b794-065c416bcc1f" cert="unknown">well of Sarah</placeName>; its waters are clear and sweet. By the
+well is the <placeName xml:id="recogito-8a29f30e-70f9-4299-91d5-fe89faea7c8f" cert="unknown">tent of Sarah</placeName>. Close by <placeName xml:id="recogito-d0b3f10d-7bbd-4459-950b-e595829092f9" cert="unknown">Mamre</placeName> is a plain,
+and on the other side there are about a hundred cubits
+from the well of <persName xml:id="recogito-842e2dd3-19f4-4af1-9a58-4fc99918b758">Sarah</persName> to the <placeName xml:id="recogito-53d3f371-a221-4e39-ac5c-0fd2069afcde" cert="unknown">well of Abraham</placeName>; its water
+is very agreeable. They also showed him a <placeName xml:id="recogito-ef3a4275-1e27-4093-86cc-3392fd0dd371" cert="unknown">stone of
+twenty-eight cubits, upon which Abraham, our father,
+was circumcised</placeName>. The old man affirmed, with an oath,
+that now that he was quitting the world and would not
+say a falsehood, that one day, on the fast of the Day of
+Atonement, he saw a fiery angel and a fiery horse by the
+well of <persName xml:id="recogito-d78fa36b-23e8-42e7-b86b-846d5d5b8d48">Sarah</persName>, who was offering up his devotion.</p><p>
+In <placeName ref="geo-kima.org/place/8822" xml:id="recogito-b3aaae5e-8d01-4870-8a27-aca49f2941fc" cert="low">Greece</placeName> the Jews are subject to great oppression;
+and even compelled to perform menial work personally.
+There are youths among them who are expert in the use
+of the divine name, and conjure evil spirits, which are
+compelled to serve them like slaves.112 There are there
+many congregations, so that the land of Israel could not
+contain them were they settled therein.</p><p>
+In the village of <span xml:id="recogito-4f74256e-26f8-4e9a-8400-e4aa446c31c6" ana="#typo">Usam is</span> buried <persName xml:id="recogito-1bac93b8-5d36-4256-bc98-8755d2bdf2be">Jonah</persName>, son of Amittai,
+in <placeName ref="dare.ht.lu.se/places/27144" xml:id="recogito-a7e6a0bd-fea7-4b06-abbf-66bf94ff715e" cert="high">Basra</placeName>, of <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-a1c7fcec-ef30-4568-8fef-5d212255eb51" cert="low">Babylon</placeName>, <persName xml:id="recogito-1752ed3b-165d-4b21-aad8-e6e70d7b3995">Ezra</persName>, the scribe. Rabbi <persName xml:id="recogito-9bd836b7-b585-4699-9936-24516c9218f2">Chana</persName>,
+the Bagdadian,114 who wrote in the Talmud, was of Bag¬
+dad, the great city as mentioned before. At <placeName ref="pleiades.stoa.org/places/893951" xml:id="recogito-c7465f69-e5b2-485c-947c-2d48b993438c" cert="low">Babylon</placeName>
+there are no stones, but everything is of brick.</p><p>
+End of the words of Rabbi Petachia, brother of <persName xml:id="recogito-15cd0bc0-8edc-4aee-9da8-8c73ff29ee7f">Rabbi Yizchak</persName>, the White, author of the Tosephoth, and of Rabbi
+<persName xml:id="recogito-3f395a5c-f593-4878-8cee-9b1ad98674f1">Nachman</persName>, of <placeName ref="pleiades.stoa.org/places/118929" xml:id="recogito-2d03ab7b-c301-468c-8864-988af17a5d42" cert="low">Ratisbon</placeName>.</p></div></body>
+        </text>
+      </TEI>
