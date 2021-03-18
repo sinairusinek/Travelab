@@ -1191,7 +1191,7 @@
                as <placeName xml:id="recogito-6f006719-89fa-4973-baee-4933eee82191" cert="unknown"
                   >Zelzah</placeName><note target="recogito-6f006719-89fa-4973-baee-4933eee82191"
                   resp="assafmolbach">צלצח, שם מקום מקראי</note> in the territory of Benjamin.</seg>
-               Around <placeName xml:id="recogito-a4fc8456-638a-4ba0-ace1-290840c94a0e"
+               <seg xml:id="d1e3048">Around <placeName xml:id="recogito-a4fc8456-638a-4ba0-ace1-290840c94a0e"
                   >Jerusalem</placeName> are high mountains. <pb n="38"/> On <placeName
                   xml:id="recogito-afb12533-d079-4c67-ae89-cdea8ab80818">Mount Zion</placeName> are
                the sepulchres of the House of David, and the sepulchres of the kings that ruled
@@ -1232,29 +1232,29 @@
                on his bed in terror, and the men said: "We will not enter there, for the Lord doth
                not desire to show it to any man." Then the Patriarch gave orders that the place
                should be closed up and hidden from the sight of man unto this day. These things were
-               told me by the said Rabbi Abraham. </ab><ab xml:id="GeoNar11">From <placeName
+               told me by the said Rabbi Abraham.</seg> </ab><ab xml:id="GeoNar11"><seg xml:id="d1e3206">From <placeName
                   xml:id="recogito-e398b90c-9635-4d90-aa98-b56cee6f0414">Jerusalem</placeName> it is
                two parasangs to <placeName xml:id="recogito-0150f372-eed3-4ffc-9815-90d501bcb6f2"
                   >Bethlehem</placeName>, which is called by the Christians <placeName
-                  xml:id="recogito-9e8a6f64-3133-4426-ae3e-153a6c90452c">Beth-Leon</placeName>, and
+                  xml:id="recogito-9e8a6f64-3133-4426-ae3e-153a6c90452c">Beth-Leon</placeName>,</seg> <seg xml:id="d1e3211">and
                close thereto, at a distance of about half a mile, at the parting of the way, is the
                pillar of Rachel's grave, which is made up of eleven stones, corresponding with the
                number of the sons of <persName
                   xml:id="recogito-a80458c1-bfcc-4837-8fce-1dfdfce76c67">Jacob</persName>. Upon it
                is a cupola resting on four columns, and all the Jews that pass by carve their names
-               upon the stones of the pillar<note>85</note>. At <placeName
+               upon the stones of the pillar<note>85</note>.</seg> <seg xml:id="d1e3233">At <placeName
                   xml:id="recogito-f6a80665-8fde-4e43-bb36-ade13c94acb6">Bethlehem</placeName> there
                are two Jewish dyers. It is a land of brooks of water, and contains wells and
-               fountains. At a distance of six parasangs is <placeName
+               fountains.</seg> <seg xml:id="d1e3240">At a distance of six parasangs is <placeName
                   xml:id="recogito-1616ec41-bdbd-49d0-9163-587917bbce0f">St. Abram de
                   Bron</placeName><note target="recogito-1616ec41-bdbd-49d0-9163-587917bbce0f"
                   resp="assafmolbach">The Crusader name for Hebron</note>, which is <placeName
                   xml:id="recogito-33c06839-ec14-4740-acf8-d1ec17b81aec">Hebron</placeName>; the old
                city stood on the mountain, but is now in ruins; and in the valley by the field of
                   <placeName xml:id="recogito-0c437cfa-8af0-4497-a9a3-9c351d0ee618"
-                  >Machpelah</placeName> lies the present city. 
+                  >Machpelah</placeName> lies the present city. </seg>
                   
-            <pb n="41"/> Here there is the great church called <placeName xml:id="recogito-c43c44a8-e070-46f3-8d4f-4c2025593334"   >St. Abram</placeName>, and this was a Jewish
+            <pb n="41"/><seg xml:id="d1e3258"> Here there is the great church called <placeName xml:id="recogito-c43c44a8-e070-46f3-8d4f-4c2025593334"   >St. Abram</placeName>, and this was a Jewish
             place of worship at the time of the Mohammedan rule, but the Gentiles have erected there
             six tombs, respectively called those of <persName xml:id="recogito-f0053bcd-704f-4298-aeae-626f68b0666d">Abraham</persName> and <persName xml:id="recogito-cd2401b4-7020-4bc5-952e-0dd3be6ca1c6">Sarah</persName>, <persName xml:id="recogito-858e5e31-7473-46ce-9669-112b9896a9bf">Isaac</persName> and <persName xml:id="recogito-d4700b53-c1a9-432f-a7b2-2aa6aca20063">Rebekah</persName>, <persName xml:id="recogito-5ba2f845-7b2e-4456-ac34-0e497ba9ea66">Jacob</persName> and
             <persName xml:id="recogito-2fc776f7-8207-4339-a178-bbc1f51c4189">Leah</persName>. The custodians tell the pilgrims that these are the tombs of the Patriarchs, for
@@ -1272,34 +1272,34 @@
             the grave of <persName xml:id="recogito-5ad6c408-a6c8-4cf5-9820-4c90f3c0453c">Leah</persName>." A lamp burns day and night upon the graves in the cave.
           One finds there many casks filled with the bones of Israelites, as the members of the
             house of Israel were wont to bring the bones of their fathers thither and to deposit
-            them there to this day[86].
+            them there to this day[86].</seg>
          
-            <pb n="42"/> Beyond the field of <placeName xml:id="recogito-023fc7eb-ce9a-4335-b65e-56ce5ccfbdbb"   >Machpelah</placeName> is the house of <persName xml:id="recogito-60fdee8a-93aa-4cd9-bcfa-8ed11dce5556">Abraham</persName>; there is a well in
+            <pb n="42"/> <seg xml:id="d1e3354">Beyond the field of <placeName xml:id="recogito-023fc7eb-ce9a-4335-b65e-56ce5ccfbdbb"   >Machpelah</placeName> is the house of <persName xml:id="recogito-60fdee8a-93aa-4cd9-bcfa-8ed11dce5556">Abraham</persName>; there is a well in
             front of the house, but out of reverence for the Patriarch <persName xml:id="recogito-1b1d56fe-9731-4151-9b55-2bcb8afc61e8">Abraham</persName> no one is allowed to
-            build in the neighbourhood.
-          From <placeName xml:id="recogito-b240b83c-e965-4de7-840f-ad3deb7ef4b5"  >Hebron</placeName> it is five parasangs to <placeName xml:id="recogito-9112f72a-f6f2-41d4-b451-058ef56c44a9"  >Beit Jibrin</placeName>, which is <placeName xml:id="recogito-f146ceb4-e679-4a32-9850-4bd240b6208e"  >Mareshah</placeName>, where there are
-            but three Jews[87]. Three parasangs further one reaches St. Samuel of <placeName xml:id="recogito-cc82314c-3afb-4c66-bbd4-9b27fe333444"  >Shiloh</placeName>. This is
+            build in the neighbourhood.</seg>
+          <seg xml:id="d1e3366">From <placeName xml:id="recogito-b240b83c-e965-4de7-840f-ad3deb7ef4b5"  >Hebron</placeName> it is five parasangs to <placeName xml:id="recogito-9112f72a-f6f2-41d4-b451-058ef56c44a9"  >Beit Jibrin</placeName>, which is <placeName xml:id="recogito-f146ceb4-e679-4a32-9850-4bd240b6208e"  >Mareshah</placeName>, where there are
+            but three Jews[87]. </seg><seg xml:id="d1e3387">Three parasangs further one reaches St. Samuel of <placeName xml:id="recogito-cc82314c-3afb-4c66-bbd4-9b27fe333444"  >Shiloh</placeName>. This is
             the <placeName xml:id="recogito-361a2b13-f3a6-4b0e-9f11-b64ac353eac4"  >Shiloh</placeName> which is two parasangs from <placeName xml:id="recogito-ef88aa92-9c77-4584-832a-b4076863e69d"  >Jerusalem</placeName>. When the Christians captured <placeName xml:id="recogito-ee61aa7e-8ba7-49df-b6f7-b4f088f679d5"  >Ramlah</placeName>,
             the <placeName xml:id="recogito-456c7e76-c609-4ef3-add5-1efe8d97fa33" >Ramah</placeName> of old, from the Mohammedans, they found there the <placeName xml:id="recogito-b4023bcc-8959-4af3-8631-65a00f568ae1"  >grave of Samuel the
             Ramathite</placeName> close to a Jewish synagogue. The Christians took the remains, conveyed them
             unto <placeName xml:id="recogito-1c2561b3-b14a-4894-a52e-d0c9e9d7e116"  >Shiloh</placeName>, and erected over them a large church, and called it <placeName xml:id="recogito-9103c295-76c1-4baf-b02b-8424aa6a7f1a"  >St. Samuel of Shiloh</placeName><note target="recogito-9103c295-76c1-4baf-b02b-8424aa6a7f1a" resp="assafmolbach">Tomb of Samuel, Nabi Samwil</note>
-            unto this day[88].
-          From there it is three parasangs to <placeName xml:id="recogito-2f81b4ea-0fc1-43c1-bff1-2cc4cef0b3d5" >Mahomerie-le-petit</placeName>[89], which is <placeName xml:id="recogito-e2cd7d34-64f3-453b-90f8-edb4dcab66ed"  >Gibeah of Saul</placeName>,
-            where there are no Jews, and this is <placeName xml:id="recogito-9f90bcfb-fab9-4207-bcfa-3fc53b45a272"  >Gibeah of Benjamin</placeName>. Thence three parasangs to <placeName xml:id="recogito-9541ac05-51b0-4ac9-83f2-29de8c27f104" >Beit
-            Nuba</placeName><note target="recogito-9541ac05-51b0-4ac9-83f2-29de8c27f104" resp="sinai">בית נובה (אזור פארק קנדה)</note>[90], which is <placeName xml:id="recogito-cb2cc5ad-45ba-4b35-a06c-d04aa56f05ea"  >Nob</placeName>, the city of priests.
+            unto this day[88].</seg>
+          <seg xml:id="d1e3417">From there it is three parasangs to <placeName xml:id="recogito-2f81b4ea-0fc1-43c1-bff1-2cc4cef0b3d5" >Mahomerie-le-petit</placeName>[89], which is <placeName xml:id="recogito-e2cd7d34-64f3-453b-90f8-edb4dcab66ed"  >Gibeah of Saul</placeName>,
+            where there are no Jews, and this is <placeName xml:id="recogito-9f90bcfb-fab9-4207-bcfa-3fc53b45a272"  >Gibeah of Benjamin</placeName>.</seg> <seg xml:id="d1e3430">Thence three parasangs to <placeName xml:id="recogito-9541ac05-51b0-4ac9-83f2-29de8c27f104" >Beit
+            Nuba</placeName><note target="recogito-9541ac05-51b0-4ac9-83f2-29de8c27f104" resp="sinai">בית נובה (אזור פארק קנדה)</note>[90], which is <placeName xml:id="recogito-cb2cc5ad-45ba-4b35-a06c-d04aa56f05ea"  >Nob</placeName>, the city of priests.</seg>
          
-            <pb n="43"/> In the middle of the way are the <placeName xml:id="recogito-76a66f0a-4dbc-4d6e-9407-aec79c4b9119" >two crags of Jonathan</placeName>, the name of the one
-            being <placeName xml:id="recogito-b9b9ff5d-4339-4e4e-9d1e-e0ffbcbdee27"  >Bozez</placeName><note target="recogito-b9b9ff5d-4339-4e4e-9d1e-e0ffbcbdee27" resp="assafmolbach">בוצץ, הסלע הצפוני</note>, and the name of the other <placeName xml:id="recogito-c8c0ef8c-7e69-4781-b0e7-cdb4661afc16"  >Seneh</placeName><note target="recogito-c8c0ef8c-7e69-4781-b0e7-cdb4661afc16" resp="assafmolbach">סנה הסלע הדרומי</note>[91]. Two Jewish dyers dwell there.
-          Thence it is three parasangs to <placeName xml:id="recogito-378d2c0c-a0cc-4dad-a773-a47159305e1c"  >Rams</placeName>, or <placeName xml:id="recogito-7d8c8dc4-f3b4-4100-971b-8f0cfd630b22"  >Ramleh</placeName>, where there are remains of the walls
+            <pb n="43"/> <seg xml:id="d1e3441">In the middle of the way are the <placeName xml:id="recogito-76a66f0a-4dbc-4d6e-9407-aec79c4b9119" >two crags of Jonathan</placeName>, the name of the one
+            being <placeName xml:id="recogito-b9b9ff5d-4339-4e4e-9d1e-e0ffbcbdee27"  >Bozez</placeName><note target="recogito-b9b9ff5d-4339-4e4e-9d1e-e0ffbcbdee27" resp="assafmolbach">בוצץ, הסלע הצפוני</note>, and the name of the other <placeName xml:id="recogito-c8c0ef8c-7e69-4781-b0e7-cdb4661afc16"  >Seneh</placeName><note target="recogito-c8c0ef8c-7e69-4781-b0e7-cdb4661afc16" resp="assafmolbach">סנה הסלע הדרומי</note>[91]. Two Jewish dyers dwell there.</seg>
+          <seg xml:id="d1e3458">Thence it is three parasangs to <placeName xml:id="recogito-378d2c0c-a0cc-4dad-a773-a47159305e1c"  >Rams</placeName>, or <placeName xml:id="recogito-7d8c8dc4-f3b4-4100-971b-8f0cfd630b22"  >Ramleh</placeName>, where there are remains of the walls
             from the days of our ancestors, for thus it was found written upon the stones. About 300
             Jews dwell there. It was formerly a very great city; at a distance of two miles there is
-            a large Jewish cemetery[92].
-          Thence it is five parasangs to Y[=a]fa or <placeName xml:id="recogito-58783571-9cfc-4df9-b64d-8a07757051c7"  >Jaffa</placeName>, which is on the seaboard, and one
-            Jewish dyer lives here. From here it is five parasangs to <placeName xml:id="recogito-51b9268d-a506-467f-8939-4681c572d3b9"  >Ibelin</placeName> or <placeName xml:id="recogito-0fb43c41-543a-41a1-b288-dc194680a36b"  >Jabneh</placeName>, the seat of
+            a large Jewish cemetery[92].</seg>
+         <seg xml:id="d1e3475"> Thence it is five parasangs to Y[=a]fa or <placeName xml:id="recogito-58783571-9cfc-4df9-b64d-8a07757051c7"  >Jaffa</placeName>, which is on the seaboard, and one
+            Jewish dyer lives here.</seg> <seg xml:id="d1e3490">From here it is five parasangs to <placeName xml:id="recogito-51b9268d-a506-467f-8939-4681c572d3b9"  >Ibelin</placeName> or <placeName xml:id="recogito-0fb43c41-543a-41a1-b288-dc194680a36b"  >Jabneh</placeName>, the seat of
             the Academy, but there are no Jews there at this day. Thus far extends the territory of
-            Ephraim.
-          From there it is five parasangs to <placeName xml:id="recogito-e3e92ce4-55e7-4c06-a75c-3580f06e761f"  >Palmid</placeName>, which is <placeName xml:id="recogito-83cce415-06b7-4791-8add-c636fa535bb5"  >Ashdod</placeName> of the Philistines, now in
-            ruins; no Jews dwell there. Thence it is two parasangs to <placeName xml:id="recogito-e8458b1d-0451-4f60-b609-6620d3d76dd6"  >Ashkelonah</placeName> or <placeName xml:id="recogito-d13480d2-e1f2-487a-967e-ac19b14d4796"  >New Askelon</placeName>,
+            Ephraim.</seg>
+         <seg xml:id="d1e3504"> From there it is five parasangs to <placeName xml:id="recogito-e3e92ce4-55e7-4c06-a75c-3580f06e761f"  >Palmid</placeName>, which is <placeName xml:id="recogito-83cce415-06b7-4791-8add-c636fa535bb5"  >Ashdod</placeName> of the Philistines, now in
+            ruins; no Jews dwell there. </seg><seg xml:id="d1e3516">Thence it is two parasangs to <placeName xml:id="recogito-e8458b1d-0451-4f60-b609-6620d3d76dd6"  >Ashkelonah</placeName> or <placeName xml:id="recogito-d13480d2-e1f2-487a-967e-ac19b14d4796"  >New Askelon</placeName>,
             which Ezra the priest built by the sea.
          
             <pb n="44"/> It was originally called <placeName xml:id="recogito-cfb80b4e-b839-445b-88e8-1bbd8189ff3a" >Bene Berak</placeName>. The place is four parasangs distant
@@ -1308,27 +1308,27 @@
             About 200 Rabbanite Jews dwell here, at their head being <persName xml:id="recogito-67106712-00f1-4640-97c2-f79caec6fa60">R. Zemach</persName>, <persName xml:id="recogito-a61c21dd-60fe-4ffa-a47f-f1ede68c1bd6">R. Aaron</persName>, and <persName xml:id="recogito-897dac13-aa24-4f6e-857b-952fe0106280">R.
             Solomon</persName>; also about forty Karaïtes, and about 300 Cuthim. In the midst of the city there
             is a well, which they call <placeName xml:id="recogito-6574a74f-911e-42d3-b2fd-b0253399a711"  >Bir Abraham</placeName><note target="recogito-6574a74f-911e-42d3-b2fd-b0253399a711" resp="assafmolbach">בנימין מטודלה מיקם את באר אברהם באשקלון, אך האתר מזוהה עם העיר העתיקה בבאר שבע.</note>; this the Patriarch dug in the days of the
-            Philistines[93].
-          From there it is a journey of a day to <placeName xml:id="recogito-752e4330-05ba-411e-86d1-31436c784389"   >St. George</placeName>[94] of <placeName xml:id="recogito-38587c6a-5b22-4ac9-b7b9-ea41e4a14297"  >Ludd</placeName>: thence it is a day and
-            a half to <placeName xml:id="recogito-121dc935-b74b-4bc0-8662-13770a5732cd" >Zerin</placeName> or <placeName xml:id="recogito-d2693e17-be8c-411d-8433-ccb4f1bc8442"  >Jezreel</placeName>, where there is a large spring. One Jewish dyer lives here.
-            Three parasangs further is <placeName xml:id="recogito-123305dc-88d5-477b-bfa5-5d01e2f22d01"  >Saffuriya</placeName> or <placeName xml:id="recogito-06481c31-f2c0-48f8-b808-648d9a800272"  >Sepphoris</placeName>. Here are the graves of <persName xml:id="recogito-751dff35-7e25-4e4f-9ee5-226f029b7583">Rabbenu
+            Philistines[93].</seg><seg xml:id="d1e3570">
+          From there it is a journey of a day to <placeName xml:id="recogito-752e4330-05ba-411e-86d1-31436c784389"   >St. George</placeName>[94] of <placeName xml:id="recogito-38587c6a-5b22-4ac9-b7b9-ea41e4a14297"  >Ludd</placeName>:</seg> <seg xml:id="d1e3578">thence it is a day and
+            a half to <placeName xml:id="recogito-121dc935-b74b-4bc0-8662-13770a5732cd" >Zerin</placeName> or <placeName xml:id="recogito-d2693e17-be8c-411d-8433-ccb4f1bc8442"  >Jezreel</placeName>, where there is a large spring. One Jewish dyer lives here.</seg>
+           <seg xml:id="d1e3592"> Three parasangs further is <placeName xml:id="recogito-123305dc-88d5-477b-bfa5-5d01e2f22d01"  >Saffuriya</placeName> or <placeName xml:id="recogito-06481c31-f2c0-48f8-b808-648d9a800272"  >Sepphoris</placeName>. Here are the graves of <persName xml:id="recogito-751dff35-7e25-4e4f-9ee5-226f029b7583">Rabbenu
             Hakkadosh</persName>, of <persName xml:id="recogito-5aa0d2c7-0601-4ebc-842e-996f6ea3c091">Rabban Gamaliel</persName>, and of <persName xml:id="recogito-60f971c8-8808-4b54-8246-5b38561b2cc0">R. Chiya</persName>, who came up from <placeName xml:id="recogito-44bfdf20-8321-42c1-a38b-60e1aaa0283b"  >Babylon</placeName>, also of <persName xml:id="recogito-4c2f6e9b-5a5f-4e40-b2e0-b96def1db838">Jonah</persName>
             the son of <placeName xml:id="recogito-065f3274-4833-4bff-8c1b-2d341e34acf4" >Amittai</placeName>; they are all buried in the mountain[95]. Many other Jewish graves
-            are here.
+            are here.</seg>
          
-            <pb n="45"/></ab><ab xml:id="GeoNar12"> Thence it is five parasangs to <placeName xml:id="recogito-d4275a8a-a092-4e55-8382-c62e157b2130"  >Tiberias</placeName>, which is situated upon the <placeName xml:id="recogito-ca7b5905-e9bb-4252-9c26-7067dd9c825b"  >Jordan</placeName>,
+            <pb n="45"/> <seg xml:id="d1e3612">Thence it is five parasangs to <placeName xml:id="recogito-d4275a8a-a092-4e55-8382-c62e157b2130"  >Tiberias</placeName>, which is situated upon the <placeName xml:id="recogito-ca7b5905-e9bb-4252-9c26-7067dd9c825b"  >Jordan</placeName>,
             which is here called the <placeName xml:id="recogito-b7c29be9-cef7-428f-a215-8ddff0c98498"  >Sea of Chinnereth</placeName>. The <placeName xml:id="recogito-b418c774-1925-4d33-92b6-37b7c624d7a6"  >Jordan</placeName> at this place flows through a
             valley between two mountains, and fills the lake, which is called the <placeName xml:id="recogito-0e43503b-8832-4b98-a3dc-ff1835f56b8c"  >Lake of
-            Chinnereth</placeName>; this is a large and broad piece of water like the sea. The <placeName xml:id="recogito-49c1664b-9804-40e0-b001-ada98db8dfb1"  >Jordan</placeName> flows
+            Chinnereth</placeName>; this is a large and broad piece of water like the sea.</seg> <seg xml:id="d1e3625">The <placeName xml:id="recogito-49c1664b-9804-40e0-b001-ada98db8dfb1"  >Jordan</placeName> flows
             between two mountains, and over the plain which is the place that is called <placeName xml:id="recogito-cb09ece1-b0ba-4c88-a888-0b3e4dc5eeb0" >Ashdoth
             Hapisgah</placeName><note target="recogito-cb09ece1-b0ba-4c88-a888-0b3e4dc5eeb0" resp="assafmolbach">ממוקם בערבה, מצפון לים המלח</note>, and thence continues its course till it falls into the <placeName xml:id="recogito-0b6c1c00-ee5e-4786-8119-7b7cebdc6fa8"  >Sea of Sodom</placeName>, which is
-            the <placeName xml:id="recogito-b2bdcdc6-2a73-429b-a047-229a119cd8fb"  >Salt Sea</placeName>. In <placeName xml:id="recogito-14a9ce4e-79ae-4b79-a30e-a86c62432f0b"  >Tiberias</placeName> there are about fifty Jews, at their head being <persName xml:id="recogito-f71db074-bf72-4dc6-b2a0-9140b2115ff5">R. Abraham</persName> the
+            the <placeName xml:id="recogito-b2bdcdc6-2a73-429b-a047-229a119cd8fb"  >Salt Sea</placeName>.</seg></ab><ab xml:id="GeoNar12"> <seg xml:id="d1e3643">In <placeName xml:id="recogito-14a9ce4e-79ae-4b79-a30e-a86c62432f0b"  >Tiberias</placeName> there are about fifty Jews, at their head being <persName xml:id="recogito-f71db074-bf72-4dc6-b2a0-9140b2115ff5">R. Abraham</persName> the
             astronomer, <persName xml:id="recogito-b8bf17f1-fdca-401e-8de2-ca8f379dade7">R. Muchtar</persName>, and <persName xml:id="recogito-aead829d-fb27-44c6-a2c3-f43eab185f73">R. Isaac</persName>. There are hot waters here, which bubble up from
             the ground, and are called the Hot Waters of <placeName xml:id="recogito-58305662-de9c-48fa-9917-9e1cb1ec1562"  >Tiberias</placeName>. Near by is the <placeName xml:id="recogito-54152e5f-99f8-41a4-af9c-3bbcfaa8dfda"  >Synagogue of Caleb
             ben Jephunneh</placeName>, and Jewish sepulchres. <persName xml:id="recogito-a1506b53-36fa-4f66-b32b-498d2e81bae4">R. Johanan ben Zakkai</persName> and <persName xml:id="recogito-0f9cf649-6fd3-420c-b04c-e93e2ae8a8f0">R. Jehudah Halevi</persName>[96]
-            are buried here. All these places are situated in <placeName xml:id="recogito-a67c5127-40ff-4399-b9b4-7ae8f08b5832"  >Lower Galilee</placeName>.
-          From here it is two days to <placeName xml:id="recogito-d3c9157b-2000-40a5-95e1-3381fd397d02" >Tymin</placeName><placeName xml:id="recogito-a3a573d1-722d-499a-ad84-3b5d934fc264" /> or <placeName xml:id="recogito-8e80b302-eff3-4a1c-ad29-ebcd939abdc0" >Timnathah</placeName><placeName xml:id="recogito-97c2974d-17bd-45ea-8a43-d3a9c1c9b8fa" />, where <persName xml:id="recogito-937a0ad1-bb7e-4ee9-b030-e241a1a1d174">Simon the Just</persName><note target="recogito-937a0ad1-bb7e-4ee9-b030-e241a1a1d174" resp="assafmolbach">לפי המסורת, קבור ליד ירושלים דאז, בתחומי ירושלים של ימינו</note>[97] and many
-            Israelites are buried, and thence three parasangs to Medon or <placeName xml:id="recogito-1efa252b-1847-436c-9af3-fbe64ff67156"  >Meron</placeName>. In the
+            are buried here. All these places are situated in <placeName xml:id="recogito-a67c5127-40ff-4399-b9b4-7ae8f08b5832"  >Lower Galilee</placeName>.</seg>
+          <seg xml:id="d1e3680">From here it is two days to <placeName xml:id="recogito-d3c9157b-2000-40a5-95e1-3381fd397d02" >Tymin</placeName><placeName xml:id="recogito-a3a573d1-722d-499a-ad84-3b5d934fc264" /> or <placeName xml:id="recogito-8e80b302-eff3-4a1c-ad29-ebcd939abdc0" >Timnathah</placeName><placeName xml:id="recogito-97c2974d-17bd-45ea-8a43-d3a9c1c9b8fa" />, where <persName xml:id="recogito-937a0ad1-bb7e-4ee9-b030-e241a1a1d174">Simon the Just</persName><note target="recogito-937a0ad1-bb7e-4ee9-b030-e241a1a1d174" resp="assafmolbach">לפי המסורת, קבור ליד ירושלים דאז, בתחומי ירושלים של ימינו</note>[97] and many
+            Israelites are buried, </seg>and thence three parasangs to Medon or <placeName xml:id="recogito-1efa252b-1847-436c-9af3-fbe64ff67156"  >Meron</placeName>. In the
             neighbourhood there is a cave in which are the sepulchres of <persName xml:id="recogito-92bf3d0d-4dd1-4036-9878-b92615aa6691">Hillel</persName> and <persName xml:id="recogito-a74ea57b-edfe-4af0-8431-5bacfbf27a6d">Shammai</persName>. Here
             also are twenty sepulchres of disciples, including the sepulchres of <persName xml:id="recogito-fb548bfb-f43a-41bc-b0d2-6ca34d94e14b">R. Benjamin ben
             Japheth</persName>, and of <persName xml:id="recogito-b4203505-a877-49b6-9c4d-b8dae4bb1605">R. Jehudah ben Bethera</persName>. From <placeName xml:id="recogito-2a9f41d6-a69d-4bc7-818a-a68da0585ece"  >Meron</placeName> it is two parasangs to <placeName xml:id="recogito-f830d4c5-e256-49e4-b97a-0fa377c6502d"  >Almah</placeName>, where
