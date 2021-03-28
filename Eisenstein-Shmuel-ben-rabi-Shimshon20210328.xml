@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Eisenstein-Shmuel-ben-rabi-Shimshon</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: sinai.rusinek@mail.huji.ac.il</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	<profileDesc><settingDesc><listPlace>
+          <place xml:id="K939">
+              <placeName>Damascus (Syria)</placeName>
+            </place><place xml:id="K377">
+              <placeName>Tsefat (Israel)</placeName>
+            </place><place xml:id="K12204">
+              <placeName>Lunel (France)</placeName>
+            </place><place xml:id="K21590">
+              <placeName>Kefar Hananya (Israel)</placeName>
+            </place><place xml:id="K966">
+              <placeName>Hebron (West Bank)</placeName>
+            </place><place xml:id="K691">
+              <placeName>Jerusalem (Israel)</placeName>
+            </place><place xml:id="K21908">
+              <placeName>Kefar Hittim (Israel)</placeName>
+            </place><place xml:id="K971">
+              <placeName>Dan (Israel)</placeName>
+            </place><place xml:id="K21050">
+              <placeName>Tower of David (Jerusalem, Israel)</placeName>
+            </place><place xml:id="K21492">
+              <placeName>Baniyas (Syria)</placeName>
+            </place><place xml:id="K698">
+              <placeName>Bet El (West Bank)</placeName>
+            </place><place xml:id="K807">
+              <placeName>Tiberias (Israel)</placeName>
+            </place><place xml:id="K21705">
+              <placeName>Alma (Israel)</placeName>
+            </place><place xml:id="K2996">
+              <placeName>Mount of Olives (Jerusalem, Israel)</placeName>
+            </place>
+        </listPlace></settingDesc></profileDesc></teiHeader>
+	<text>
+		<front><ab xml:id="intro">
+			<pb n="1"/>
+
+				מסע דפליסטינא מר׳ שמואל ב״ר שמשון
+				בשנת ד״א תתק״ע (1210)
+
+				מבוא
+				מסע ,,דפליסטינא״ נודע ג״כ בשם מכתב מר׳ שמואל
+				בר שמשון המעתיק והמסדר הראשון עשה הקדמה
+				קטנה למסע הזה וכותב: „אלו הדברים ראוים להכתב
+				וכו׳ וזה ברור אשר ארשם על פי אדם שהיה בא״י
+				עם הרב ר׳ יהונתן מלוניל וכו׳ ומכאן ואילך אדבר
+				כמו שדבר בכתבו וזה היה בשנת תתק״ע (1210)״
+				והנה ר׳ יהונתן הנזכר היה בן דורו של הרמב״ם ז״ל
+				והוא האיש אשר לבקשתו העתיק ר׳ שמואל אבן תיבון
+				את מורה הנבוכים, ור׳ יהודה אלחריזי העתיק למענו
+				את החלק הראשון מפירוש המשנה בסוף כתב המסע
+				כותב ר׳ שמואל שיש לו חותם מלך ירושלם לעדות על
+				כתביו, והמלך שמלך אז בירושלם ומגרשיה הוא
+				(John de Brienne) שנשלח לירושלם מפיליפ
+				מלך צרפת להיות מלך על אדמת הקדש ונראה שמטרת
+				החתימה הזאת היתה לעורר לבות היהודים ללכת לארץ
+				ישראל וההתעוררות הזאת נשאה פרי והסבה כי כשלש
+				מאות יהודים צרפתים ואנגלים עזבו את ארצם והלכו
+				להתישב בא״י ונתקבלו בסבר פנים יפות ויסדו שם
+				ישיבות לתורה, ככתוב בספר שבט יהודה
+
+				הנוסע היה בא״י ובדמשק ולאחרונה גם בנינוה
+				וקיצר מאד בסיפורו כי לא ירשום קברות ירושלם אף
+				כי עיקר מטרתו היה לתאר הקברים, ואולי לא נעתקו
+				כל דבריו המסע הזה נזכר ברשימת כ״י של די רוסי
+				בשם „מסע דפליסטינא״ והוא כ״י אשר בפרמא 63|18
+				והעתיקו לצרפתית ה׳ כרמולי בספרו (Itineraire)
+				צד 127—136 הכ״י נדפס באוצר טוב שנת תרל״ז—
+				תרל״ח צד 035—038 בשם „מכתב מר׳ שמואל בר
+				שמשון״
+				ההערות למסע הזה נעשו ע״י מר אברהם האלקין
+				שהעתיקם מצרפתית מספרו של כרמולי.</ab></front><body><ab xml:id="preface">
+				<seg xml:id="GN0s1">הקדמה
+				אלו הדברים ראוין להכתב ולהכין לידע מקום
+				קברי אבותינו אשר בזכותם העולם קיים, וזה ברור
+				כאשר ארשום על פי אדם אשר היה שם בארץ
+				ישראל עם הרב ר׳ יונתן כהן מלוניל ושמו ר׳ שמואל
+				בר שמשון שהלך עמו בארץ גושן ועבר עמו במדבר
+				ובא עמו לירושלים (מכאן ואילך אדבר כמו שדיבר
+				בכתבו) וזה היה בשנת תתק״ע (1210).</seg></ab><ab xml:id="GN1">
+				<seg xml:id="GN1S1">א
+				[ירושלם] באנו אל <placeName xml:id="GN1S1TM1" ref="K691" cert="high">ירושלים</placeName> ממערבה של עיר
+				וראינוה וקרענו בגדינו כראוי לנו א), ונתגוללו
+				רחמינו עלינו ובכינו בכיה גדולה אני והכהן הגדול
+				מ<placeName xml:id="GN1S1TM2" ref="K12204" cert="high">לוניל</placeName> ונכנסנו בעיר ב) עד לפני <placeName xml:id="GN1S1TM3" ref="K21050" cert="high">מגדל דוד</placeName> </seg><seg xml:id="GN2S2">ונבוא
+				להשתטח עד לפני העזרה ג),</seg> <seg xml:id="GN2S3">ונפול על פנינו לפני
+				<placeName xml:id="GN2S3TM1" cert="unknown">שער שכם</placeName> מבחוץ לרוח <placeName xml:id="GN2S3TM2" cert="low">עין עיטם</placeName> הוא בית הטבילה
+				לכהנים, ושמה <placeName xml:id="GN2S3TM3" cert="low">שער שכנגדו בכותל מערבי</placeName> ד),</seg><seg xml:id="GN2S4">
+				ומיסוד הכותל כעין אולם אחד אשר ביסוד ההיכל
+				ושם באים הכהנים ב<placeName xml:id="GN2S4TM1" cert="low">מחילה (חפירה חלולה) לעין
+				עיטם</placeName> והמקום ההוא היה בית הטבילה</seg> <seg xml:id="GN2S5">והלכנו משם
+				ל<placeName xml:id="GN2S5TM1" ref="K2996" cert="high">הר הזיתים</placeName> ה) מקום שרפת הפרה ו) ושם התפללנו
+				שתי פעמים כעשרה ועלינו על ההר,</seg> <seg xml:id="GN2S6">ויום שבת
+				התפללנו בשעת המנחה שם במקום שהיו הערלים
+				רגילין שם לבנות ע״ז ולא נשא אותם המקום כי
+				היה נופל כל מה שהיו בונים בכל שעה ז), והוא
+				אחד מעשר מסעות שנסעה שכינה ממקומה,
+				והישמעאלים מכבדין אותו המקום ואין בו רק היסוד
+				בלבד, ומקום אשר היה שם הארון עדיין קים,
+				</seg>				<seg xml:id="GN2S7">והלכנו משם למי השילוח </seg></ab><ab xml:id="GN2"><seg xml:id="GN3S1">ומשם הלכנו ל<placeName xml:id="GN3S1TM1" ref="K966" cert="high">חברון</placeName>
+				וקודם בואנו ל<placeName xml:id="GN3S1TM2" ref="K966" cert="high">חברון</placeName> הגענו ל<placeName xml:id="GN3S1TM3" cert="low">קבר רחל אמנו</placeName>,</seg> <seg xml:id="GN3S2">ומשם
+				הלכנו ומצאנו <placeName xml:id="GN3S2TM1" cert="low">קברו של נתן הנביא</placeName> ח) ושם בית
+				מסגד,</seg> <seg xml:id="GN3S3">ומשם הלכנו ל<placeName xml:id="GN3S3TM1" cert="low">מקום שמל אברהם עצמו</placeName>,
+				והישמעאלים מכבדין אותו המקום מאד, והסלע הוא
+				כמין קבר של שלשה טפחים,</seg> <seg xml:id="GN3S4">ומשם באנו ל<placeName xml:id="GN3S4TM1" cert="low">בנין
+				נאה שבנה המלך אסא</placeName> והוא נאה מאד,</seg> <seg xml:id="GN3S5">ומשם באנו
+				ל<placeName xml:id="GN3S5TM1" cert="low">אלוני ממרא</placeName> וראינו שם <placeName xml:id="GN3S5TM2" cert="low">מעין של אברהם</placeName> ט) אשר
+				היה שם אהלו, והעץ אשר האכיל תחתיו את
+				המלאכים והוא כנגדו,</seg> <seg xml:id="GN3S6">וקרוב משם <placeName xml:id="GN3S6TM1" cert="low">מעין של שרה
+					אמנו</placeName> והוא קרוב ל<placeName xml:id="GN3S6TM2" ref="K966" cert="high">חברון</placeName> </seg><seg xml:id="GN3S7">ומשם הלכנו ל<placeName xml:id="GN3S7TM1" ref="K966" cert="high">חברון</placeName>
+				והביא ראש הגולה חותם בידו מאת המלך י) ומאת
+				מחמט טעותם הוא אל-כליפא ונכנס האיש לבדו
+				ואנחנו לא יכולנו לכנס. ובאנו אל הצבע אני
+				ור׳ סעדיה ור׳ טוביה ואמרנו לו: אנו מארץ מרחקים
+				באנו להתפלל אל המקום הזה ולהשתטח על מקום
+				אשר דרכו בו אבותינו, ויאמר לנו האיש התעכבו
+				עד למחר ואז בעזרת ה׳ תכנסו, ונתעכבנו, והלך
+				הוא וסיעתו ונכנסנו בחצי הלילה כי בא השוער
+				בשבילנו וירדנו כמו כ״ד מעלות במקום צר אשר
+				אין דרך לנטות ימין ושמאל וראינו שם <placeName xml:id="GN3S7TM2" cert="low">מקום בית
+
+				המקדש</placeName> יא) ושם שלשה ציונים, והמקום נעשה היום
+				שש מאות שנה, והוא אצל המערה, ונשתטחנו שם
+				ובקשנו רחמים,</seg> <seg xml:id="GN3S8">וחזרנו לירושלם</seg></ab><ab xml:id="GN3"> <seg xml:id="GN4S1">ואח״כ הלכנו
+				ל<placeName xml:id="GN4S1TM1" cert="unknown">רמתיים</placeName> וראינו <placeName xml:id="GN4S1TM2" cert="low">קברו של שמואל הנביא</placeName></seg> <seg xml:id="GN4S2">ומשם
+				הלכנו ל<placeName xml:id="GN4S2TM1" ref="K20059" cert="low">בארות</placeName> ולנינו שם הלילה והוא מקום חרב
+				מאד,</seg> <seg xml:id="GN4S3">והשכמנו בבקר והלכנו ל<placeName xml:id="GN4S3TM1" ref="K698" cert="low">בית אל</placeName> ובין <placeName xml:id="GN4S3TM2" ref="K698" cert="high">בית
+				אל</placeName> ו<placeName xml:id="GN4S3TM3" ref="K8953" cert="low">העי</placeName> ראינו מקום המזבח אשר עשה אברהם
+</seg>				<seg xml:id="GN4S4">משם הלכנו ל<placeName xml:id="GN4S4TM1" ref="K24503" cert="low">שילה</placeName> וראינו שם את המקום אשר
+				היה שם המשכן, וראינו <placeName xml:id="GN4S4TM2" cert="low">קברו של יוסף הצדיק</placeName> יב),
+				ולנינו שם ועשינו שם שבת בשמחה</seg> <seg xml:id="GN4S5">משם הלכנו
+				ל<placeName xml:id="GN4S5TM1" ref="K21553" cert="low">בית שאן</placeName></seg> </ab><ab xml:id="GN4"><seg xml:id="GN5S1">ומשם הלכנו ל<placeName xml:id="GN5S1TM1" ref="K807" cert="high">טבריא</placeName>,</seg> <seg xml:id="GN5S2">ולפני בואנו
+				להעיר ראינו <placeName xml:id="GN5S2TM1" cert="low">קברו של ר׳ מאיר</placeName> יג), ולפני העיר
+				<placeName xml:id="GN5S2TM2" cert="low">קבר ר׳ יוחנן בן נורי</placeName> יד) ויש עליו בית ותחת הבית
+				היא המערה, והוא צוה לבנות הבית במעותיו ולפני
+				המערה <placeName xml:id="GN5S2TM3" cert="low">קברו של ר׳ אלעזר ב״ר שמעון</placeName> טו) ו<placeName xml:id="GN5S2TM4" cert="low">קברו
+				של ר׳ כהנא</placeName> טז)</seg></ab><ab xml:id="GN5"> <seg xml:id="GN6S1">משם הלכנו ל<placeName xml:id="GN6S1TM1" ref="K21590" cert="low">כפר חנניה</placeName> ומצאנו
+				שם קבר,</seg> <seg xml:id="GN6S2">ובדרך רחוקה כמו שתי פרסאות [חרס]
+				קברים של שבטים וקבר דינה אחותם ביניהם יז),
+				ועליו אילן של הדס ואין אדם רשאי ליקח ממנו
+				אפילו עלה אחת, ואומרים כי קרוב לשם <placeName xml:id="GN6S2TM1" cert="low">הציון של
+				שת</placeName> יח) וראינוהו</seg> <seg xml:id="GN6S3">משם באנו ל<placeName xml:id="GN6S3TM1" ref="K22312" cert="low">ארבל</placeName> וראינו <placeName xml:id="GN6S3TM2" cert="low">קברו
+				של נתאי הארבלי</placeName> ועליו ציון נאה מאד, ושם <placeName xml:id="GN6S3TM3" cert="low">ביהכ״נ
+				גדול שעשה נתאי</placeName> אבל עתה נהרס בעונינו, והוא
+				בתוך העיר. וחוץ לעיר מצאנו <placeName xml:id="GN6S3TM4" cert="low">קברו של ר׳ זירא</placeName>
+				ואין עליו ציון כי נפל</seg> <seg xml:id="GN6S4">משם הלכתי ל<placeName xml:id="GN6S4TM1" ref="K21908" cert="high">כפר חיטין</placeName>
+				וראיתי בצד ההר שני קברים, יש אומרים שהוא
+				<placeName xml:id="GN6S4TM2" cert="low">קבר הושע</placeName> (ויש אומרים שהוא <placeName xml:id="GN6S4TM3" cert="low">קבר יתרו</placeName>) ו<placeName xml:id="GN6S4TM4" cert="low">קבר
+				צפניה הנביא</placeName> יט),</seg> <seg xml:id="GN6S5">וחזרנו ל<placeName xml:id="GN6S5TM1" ref="K807" cert="high">טבריא</placeName> וכל זה הלכנו
+				ביום אחד,</seg> </ab><ab xml:id="GN6"><seg xml:id="GN7S1">ומשם חזרנו והלכנו ל<placeName xml:id="GN7S1TM1" cert="low">כפר חנן</placeName> וטרם
+				בואנו להעיר מצאנו <placeName xml:id="GN7S1TM2" cert="low">קבר חבקוק</placeName> ב<placeName xml:id="GN7S1TM3" cert="low">כפר חקוק</placeName></seg> <seg xml:id="GN7S2">ומשם
+				באנו ל<placeName xml:id="GN7S2TM1" cert="low">כפר לוד</placeName> ומצאנו שם <placeName xml:id="GN7S2TM2" cert="low">קבר ר׳ אליעזר בן יעקב</placeName>
+				וטרם בואנו לעיר מצאנו בשדה <placeName xml:id="GN7S2TM3" cert="low">קבר ר׳ חלפתא
+				ובנו ובן בנו</placeName>, ולנינו שם</seg> <seg xml:id="GN7S3">ומשם הלכנו ל<placeName xml:id="GN7S3TM1" ref="K377" cert="high">צפת</placeName>,
+				ומצאנו שם <placeName xml:id="GN7S3TM2" cert="low">מערת ר׳ חנינא בן הרכינס</placeName> ובה שש
+				עשרה כוכין, וכבדנוה ובנינו עליה כותל שלא יפול
+				בה העפר, ומצאנו שם שני ישמעאלים המכבדים
+				אותה ומביאין שמן להדליק בה נר לכבוד הצדיק,</seg><seg xml:id="GN7S4">
+				והלכתי אני לבדי וראש הגולה ל<placeName xml:id="GN7S4TM1" cert="low">כפר פרעם</placeName> וקרוב
+				לעיר מצאנו <placeName xml:id="GN7S4TM2" cert="low">קבר חוני המעגל</placeName> ושל אשתו ובניו
+				קבורים בציונים, ובאנו לעיר ומצאנו שם <placeName xml:id="GN7S4TM3" cert="low">בית
+				הכנסת אחד</placeName> מלבד בתי כנסיות שעשה ר׳ שמעון
+				בן יוחי, והוא נאה ונחמד, והשאר (במקומות שונים)
+				יש מהם נהרסות ויש מהם קיימות כא)</seg> <seg xml:id="GN7S5">משם באנו
+				ל<placeName xml:id="GN7S5TM1" cert="low">כפר עמוקה</placeName> ומצאנו שם <placeName xml:id="GN7S5TM2" cert="low">קבר יונתן בן עוזיאל</placeName>
+				ועליו אילן גדול והישמעאלים מביאין עליו שמן
+				ומדליקין נר לכבודו, גם נודרים נדבות לכבודו</seg>
+				<seg xml:id="GN7S6">משם באנו ל<placeName xml:id="GN7S6TM1" cert="low">כפר נברתא (צ״ל עכברא)</placeName> ומצאנו
+
+			
+
+				שם <placeName xml:id="GN7S6TM2" cert="low">קבר ר׳ מאיר</placeName> כב).</seg> <seg xml:id="GN7S7">וחזרנו ל<placeName xml:id="GN7S7TM1" ref="K377" cert="high">צפת</placeName> ועשינו שם
+				שבת, ובכל אלו המקומות יש קהלות יותר מחמשה
+				מנינים.</seg></ab><ab xml:id="GN7"> <seg xml:id="GN8S1">משם הלכנו ל<placeName xml:id="GN8S1TM1" ref="K4638" cert="low">גוש חלב</placeName> ומצאנו בדרך עיר
+				ששמה <placeName xml:id="GN8S1TM2" cert="low">קיסמא</placeName> ומצאנו שם <placeName xml:id="GN8S1TM3" cert="low">קברו של ר׳ יוסי בן
+				פדת</placeName>, ועל שם העיר נקרא בן קיסמא.</seg></ab><ab xml:id="GN8">				<seg xml:id="GN9S1">ב
+				משם עלינו ל<placeName xml:id="GN9S1TM1" cert="low">כפר מירון</placeName> ומצאנו <placeName xml:id="GN9S1TM2" cert="low">קברו של ר׳ אלעזר
+				בן חסמא</placeName> ושם <placeName xml:id="GN9S1TM3" cert="low">בית מדרשו של רשב״י</placeName> והוא מרובע
+				ונקבר בתוכו ור׳ אלעזר בנו עמו כג). ועליו שני
+				אילנות והוא מקום יפה מאד, ולמטה מן ההר מצאנו
+				<placeName xml:id="GN9S1TM4" cert="low">קברי הלל ושמאי</placeName> ושם ל״ו קברים ועליהם כיפה של
+				שיש כמין כיסוי ובבית כעין אילנות (צ״ל חלונות)
+				ויש בו ששה בארות, והתפללנו שם, ומצאנו כי
+				הבאר הראשון אשר על יד הימין מלא מים והשני
+				יבש ואין בו מים. ובצד שמאל יש באר שלישי
+				חציו מלא מים. והרביעי כלו מלא מים ועל האולם
+				בתווך יש ארבעה קברים ומצד אחד שלשה קברים
+				ומצד אחר שלשה, ובאולם בכל חדר יש שלשה
+				קברים, ולמעלה אצל אחד הארונות הקרובים לבארות
+				האחד מלא מים והאחד חסר מים וצוה ראש הגולה
+				והדליקו נר של שעוה לחפש ולראות מהיכן מוצא
+				המים לבוא אל הבארות ולא מצאנו, ושפכנו מן
+				המים הרבה ארצה ולא חסרו ולא נגרעו כלל, ואותם
+				המים מתוקים מדבש ודבר מופלא הוא מאד, ובחוץ
+				אצל פתח המערה אולם גדול ובו שלשה ארונות
+				זה בצד זה והאחד מלמעלה גדולה מכולם. ומצאנו
+				בעיר <placeName xml:id="GN9S1TM5" cert="low">קבר מוכתר למעלה</placeName> ו<placeName xml:id="GN9S1TM6" cert="low">בית הכנסת יפה מאד</placeName>
+				וכתוב באסקופה „זה עשה שלום בן לוי״.</seg> <seg xml:id="GN9S2">בצאתנו
+				מן העיר מצאנו <placeName xml:id="GN9S2TM1" cert="low">קבר ר׳ שמעון בן חולדא</placeName> ולפנים
+				מעט <placeName xml:id="GN9S2TM2" cert="low">קבר עובדיה הנביא</placeName> ואבן שיש עליו ובה חקוק
+				זה קבר עובדיה הנביא כד) הירא את השם מנעוריו
+				שנפטר בשנת תק״ע ליציאת מצרים.</seg></ab><ab xml:id="GN10"> <seg xml:id="GN10S1">משם הלכנו
+				ל<placeName xml:id="GN10S1TM1" ref="K4638" cert="low">גוש חלב</placeName> ועל פני העיר מצאנו <placeName xml:id="GN10S1TM2" cert="low">קבר שמעיה
+				ואבטליון</placeName> ובצדם קבורים <placeName xml:id="GN10S1TM3" cert="low">אדרמלך ושראצר בני
+				סנחריב</placeName> שהתגיירו ובאו לא״י, ועמדנו שם ועשינו
+				פורים ושם יש אנשים טובים בעלי חסדים ובכל
+				מקום בואנו יוצאים עמנו יותר משני מנינים לכבוד
+				ראש הגולה,</seg> <seg xml:id="GN10S2">ומשם הלכנו ל<placeName xml:id="GN10S2TM1" ref="K21705" cert="low">עלמה</placeName>, וטרם בואנו
+				מצאנו <placeName xml:id="GN10S2TM2" cert="low">קברו של ר׳ אליעזר (בן הורקנוס)</placeName> ועליו שני
+				אילנות ואין שום אדם רשאי ליטול מהם אפילו
+				עלה, והוא קבור במערה בתוך הקרקע ועליו בנוי
+				כמו אולם ונפל ממנו אבן אחת ועלה (אבן אחרת)
+				משורש המקום ומלא את המקום, ויצא ממקום אחר
+
+				ענף אחד וסיבב כל הקבר שלא תוכל ליפול עוד
+				ממנו שום אבן בעולם. ומביאים הישמעאלים שם
+				שמן להדליק, ודבר גדול ומופלא הוא ולפנים מעט
+				<placeName xml:id="GN10S2TM3" cert="low">קברו של ר׳ אלעזר בן ערך</placeName>, ולפנים למול האילן <placeName xml:id="GN10S2TM4" cert="low">קבר
+				של ר׳ אליעזר בן עזריה</placeName> ועליו עומד אילן וסובבו
+				כמין רחים.</seg> <seg xml:id="GN10S3">משם עלינו ל<placeName xml:id="GN10S3TM1" cert="low">סילתא</placeName> ומצאנו <placeName xml:id="GN10S3TM2" cert="low">קבר
+				ר׳ יהודה בן תימא</placeName>,</seg> <seg xml:id="GN10S4">ומשם עלינו ומצאנו <placeName xml:id="GN10S4TM1" cert="low">קבר של
+				ר׳ יוסי הגלילי</placeName></seg> <seg xml:id="GN10S5">ומשם הלכנו ל<placeName xml:id="GN10S5TM1" cert="low">כפר ברעם</placeName> ומצאנו
+				בכניסת העיר <placeName xml:id="GN10S5TM2" cert="low">קבר ר׳ פנחס בן יאיר</placeName> ובנוי עליו
+				ציון גדול כמו רחים, ומלמעלה עומד בית הכנסת
+				יפה מאד וכותליו קיימים, ושם מצאנו אסקופה
+				שעליה היא בית המדרש,</seg> </ab><ab xml:id="GN11"><seg xml:id="GN11S1">ולמטה מן <placeName xml:id="GN11S1TM1" cert="low">קבר עובדיה
+				הנביא</placeName> הנזכר למעלה (מירון) מצאתי <placeName xml:id="GN11S1TM2" cert="low">קבר של ברק
+				בן אבינועם</placeName>.</seg> </ab><ab xml:id="GN12"><seg xml:id="GN12S1">משם הלכנו ל<placeName xml:id="GN12S1TM1" ref="K971" cert="low">דן</placeName> וראיתי <placeName xml:id="GN12S1TM2" ref="K21492" cert="high">מערת פמייס</placeName>
+				שיוצא מעבר הירדן, ומחוץ לעיר <placeName xml:id="GN12S1TM3" cert="low">קבר עידו הנביא</placeName>
+</seg>				<seg xml:id="GN12S2">משם הלכנו ל<placeName xml:id="GN12S2TM1" ref="K939" cert="high">דמשק</placeName> ומחוץ לעיר בית הכנסת שעשה
+				אליהו והוא מקום נאה מאד והתפללנו שם</seg> <seg xml:id="GN12S3">ומשם
+				הלכנו ל<placeName xml:id="GN12S3TM1">ננוה (מוסול)</placeName> ושם קבורת שם בן נח כה)
+				והוא בנה אותה. ושם בית הכנסת יפה מאד ובה
+				אבן שיש שכתוב עליה שעשאוה ר׳ יודן ור׳ לוי
+				בר אשר.</seg><seg xml:id="GN12S4">
+				שמואל בר שמשון הבא מירושלם ומן הגליל
+				בשנת תתק״ע, ויש לי חותם מלך ירושלם בידי
+				לעדות מכתב זה.</seg></ab></body><back><note>				הערות:
+				א) הרואה ירושלם בחורבנה וכו׳ וקורע, מ״ק כו,
+				רמב״ם תענית פ״ה ל״ז, ש״ע או״ח תקס״א. ב) שם
+				השער חסר בכ״י אבל כנראה הוא השער במערבה של
+				העיר שקורא לו אידריסי בשם איל מערב ור׳ בנימין
+				בשם שער דוד. ג) זה מקום העזרה בהר המוריה.
+				ד) הוא שער הרחמים. ה) הר הזיתים הוא הר המשתה.
+				ו) שם היו שורפין פרה האדומה, מסכת פרה פ״ג, א.
+				ז) שם הקימו הנוצרים בית תפלה מקושט בפסילים,
+				ולפי דברי יוסיביוס נבנה בימי קונסטנטין אבל בימי
+				ר׳ שמואל היה חרב ח) קבר זה אינו נזכר לא ע״י
+				ר בנימין ולא ע״י ר׳ פתחיה. ט) ר׳ בנימין מזכיר
+				מעין שנובע לפני בית אברהם וכן ר׳ פתחיה אומר
+				שנמצא מעין אברהם בסביבה זו. י) זהו נסר-לדין-אלה
+				ליאבס אחמד הל״ז שמלך בבגדאד בשנת 1180 אחרי מות
+				אבין מוסטדי והוא משל ארבעים ושבע שנים.
+				יא) ר׳ בנימין מספר על הבית הקדוש בחברון שהיה
+				לפנים בית הכנסת ובימין היה בית תפלה לנוצרים
+				בשם שנט אברהם. ר׳ פתחיה מזכיר בנין הבנוי על
+				קברי האבות שנקרא המקדש הגדול, ולפי דבריו בנה
+				אותו אברהם אבינו. יב) קבר יוסף הצדיק לא נמצא
+				בשילה, ואולי כוונתו לשנט שמואל משילה, מצבה
+
+			<pb n="4"/>
+
+				שהקימו הנוצרים לשמואל הנביא. יג) ר׳ מאיר זה
+				בלתי ידוע לנו, ואין זה רבי מאיר התנא המפורסם,
+				שהרי הוא מת בבבל ונקבר בחלא. יד) במקום בן נורי
+				נמצא בן זכאי במסעות ר׳ בנימין. טו) אין לבלבל
+				ראב״ש זה שהוא אמורא עם ר׳ אליעזר בן שמעון בן
+				ר׳ יוחאי שהוא תנא. זה האחרון נקבר במירון אצל
+				אביו רשב״י. טז) יש שלשה אמוראים בשם ר׳ כהנא,
+				ואחד תלמידו של רב, ואחד תלמידו של רב יוסף
+				ואחד מורו של ר׳ אשי. יז) לפי דברי חז״ל העלו
+				בני ישראל את עצמות השבטים ממצרים, ובספר הישר
+				יש רשימה של קבריהם. ואדות דינה אמרו בבראשית
+				רבה וישלח פ״פ, ורבנן אמרין נטלה שמעון וקברה
+				בארץ כנען יח) כרמולי קורא כאן „שלשה״ ומרגיש
+				שיש פה השמטה בכ״י. וט) לפי דברי ר׳ בנימין נקבר
+				צפניה בסורא בארץ בבל ב) ר׳ בנימין כותב כי חוני
+				קבור בקדש. כא) ר׳ בנימין ור׳ פתחיה אינם מזכירים
+				בתי כנסיות אלה, אך כל הנוסעים אחריהם נוגעים
+				בהם כב) ר׳ מאיר זה אינו ידוע לנו ממקום אחר
+				כג) לדעת כרמולי מרון זה אינו מירון הקרוב לצפת,
+				כי מרון רחוק מצפת וקרוב לדלתא [אבל מתוך רשימת
+				הקברים נראה כי כוונת הנוסע לכפר מירון, ובאמת
+				הקברים מפוזרים ומהם רחוקים מעט מהכפר וקרובים
+				דלתא] כד) טעות היא כי קבר עובדיה נמצא בכפר
+				ברעם כמו שהוא עצמו מספר להלן. כה) גם ר׳ פתחיה
+				מספר על קברו של שם
+				</note>
+	</back>
+	</text>
+</TEI>

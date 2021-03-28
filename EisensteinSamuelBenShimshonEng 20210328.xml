@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+        <teiHeader>
+          <fileDesc>
+            <titleStmt>
+              <title> SAMUEL BEN SAMSON.txt</title>
+              <author>sinai</author>
+            </titleStmt>
+            <publicationStmt>
+              <p><date>2019-11-05</date></p>             
+            </publicationStmt>
+            <sourceDesc>
+              <bibl source="https://recogito.pelagios.org/document/oysxxdoeoxhoyx">
+              
+                  
+      Eistenstein's            SAMUEL BEN SAMSON.txt
+       </bibl>             
+            </sourceDesc>
+          </fileDesc>
+          
+          <encodingDesc>
+            <projectDesc><p>Downloaded from https://recogito.pelagios.org/</p></projectDesc>
+            <classDecl>
+                <taxonomy>
+          <category xml:id="introduction">
+              <catDesc>introduction</catDesc>
+            </category><category xml:id="title">
+              <catDesc>title</catDesc>
+            </category>
+        </taxonomy>
+              </classDecl>
+          </encodingDesc>
+        </teiHeader>
+        <text>
+          <front><ab xml:id="intro">ITINERARY OF RABBI SAMUEL BEN SAMSON IN 1210
+R. Samuel ben Samson made a pilgrimage to Palestine in 1210 in company of the distinguished R. Jonathan ha Cohen for whom Samuel ibn Tibbon translated (from the Arabic into Hebrew) Maimonides’ Guide of the Perplexed and Judah al Harizi translated Maimonides’ Commentary on the Mishna. He is described in the traveller’s account of the pilgrimage as “ Resh Gola ”, the head of the captivity. The text is that of the Parma MS. translated by Carmoly in his Itineraires, pages 127 to 136.
+The Traveller at the end of his narrative says that he carried a letter from the King of Jerusalem, i.e. John de Brienne and it is suggested that this letter recommended the emigration of Jews to Palestine and resulted in the famous pilgrimage of three hundred French and English Rabbis in the following year.
+The Itinerary begins as follows :—</ab></front><body><ab xml:id="preface"><seg xml:id="GN0S1">
+These words deserve to be written in order that we might know the places of the graves of our fore-fathers by whose merit the world exists. This appears from what I shall relate from the mouth of a man, who was in the Holy Land with Rabbi R. Jonathan ha Cohen, of Lunel. His name is R. Samuel ha Samson, who travelled with him in the land of Goshen, and crossed the desert with him and with him entered Jerusalem. This was in the year 4970 ( = 1210).</seg></ab>
+<ab xml:id="GN1">I
+<seg xml:id="GN1S1">We arrived at Jerusalem by the western end of the city, rending our garments on beholding it, as it has been ordained we should do. It was a moment of tendered emotion, and we wept bitterly, [Rabbi Jonathan] the great prieft of Lunel and I.
+We entered by the [western] gate ... as far as
+103
+ the Tower of David,</seg><seg xml:id="GN2S2"> whence it is customary to proceed for prostration before the approach to the Temple.</seg> <seg xml:id="GN2S3">We fell on our faces before the Shechem Gate, beyond which is the road which leads to the fount of Etham, the bathing place of the priests.
+The gate opposite is in the western wall.</seg> <seg xml:id="GN2S4">At the base of this wall there is to be observed a kind of arch placed at the base of the Temple. It is by a subterranean passage that the priesls reach the fount of Etam, the spot where the baths were.</seg>
+<seg xml:id="GN2S5">From there we went to Mount Olivet, where in olden times the red heifer was burnt. We said our prayers there twice with a “ minyan ” (i.e. ten persons) and climbed the mountain.</seg> <seg xml:id="GN2S6">On the Sabbath day we recited the Afternoon Prayer on the spot where the uncircumcised had time and again set up a sanctuary with idols, whose presence the place would not endure, causing them to fall down again as fast as they were set up. It was one of the ten stations visited by the divine Majesty when He came [to earth] from His dwelling-place. The Ishmaelites venerate this spot. Only the foundations remain now in existence, but the place where the Ark stood is ftill to be seen.</seg>
+<seg xml:id="GN2S7">We went on from there to the waters of Siloam ;</seg></ab> <ab xml:id="GN2"><seg xml:id="GN3S1">and then next to Hebron. On our way to Hebron we came to the sepulchre of our mother Rachel.</seg>
+<seg xml:id="GN3S2">Journeying on from that tomb we found the sepulchre of Nathan the prophet, where there is a Mosque.</seg>
+<seg xml:id="GN3S3">From there we reached the spot where Abraham was circumcised. The Ishmaelites hold it in the highest honour. It is a rock in the form of a tomb of three hands-breadths.</seg>
+<seg xml:id="GN3S4">After this we arrived at a fine edifice which king Asa caused to be built. It is magnificent.</seg> <seg xml:id="GN3S5">Thence we travelled on to the Oaks of Mamre, and saw there
+ the well of Abraham, where his tent Stood, and the tree under which he gave food to the three angels stands opposite.</seg> <seg xml:id="GN3S6">Not far away is the well of our mother Sarah. It all lies near to Hebron.</seg><seg xml:id="GN3S7">
+From here we came on to Hebron. The head of the Captivity had in his hand the sealed permit of the King, who by the mistaken law of Muhammad is the Caliph. He entered alone, and we ourselves did not dare to follow him. We betook ourselves to the dyer—Rabbi Saadiah, Rabbi Tobiah, and myself— and we said to him :
+We are travellers from a far country, come hither to pray in this place, and to prostrate ourselves where our fathers once trod.
+The man answered as :
+Stay here until to-morrow, then, with God’s help, you shall enter in.
+We stayed. And he went his way with his companions. In the middle of the night the gate-keeper came for us and we entered. We climbed down twenty-four Steps, a narrow stairway where there could be no turning either to right or to left. We saw there the site of the sacred place (an ancient Synagogue), and remarked three monuments. The building was erected six hundred years ago. It is close to the cave. We prostrated ourselves and prayed for mercy ;</seg> <seg xml:id="GN3S8">then we returned to Jerusalem.</seg></ab><ab xml:id="GN3">
+<seg xml:id="GN4S1">After that we went on to Ramathaim (Rama) and saw the sepulchre of the prophet Samuel there.</seg>
+<seg xml:id="GN4S2">From there we proceeded to Beeroth ; we slept the night there. It is all in ruins.</seg><seg xml:id="GN4S3">
+On the morning of the next day we took our way at an early hour to Bethel and between Bethel and Ai we saw the spot where Abraham erected his altar.</seg>
+<seg xml:id="GN4S4">From Bethel we went on to Shiloh. We saw there the sepulchre of Joseph the Just. We slept there and kept a joyous Sabbath.</seg>
+<seg xml:id="GN4S5">From there we went to Bethsean,</seg></ab> <ab xml:id="GN4"><seg xml:id="GN5S1">and from Bethsean on to Tiberias.</seg> <seg xml:id="GN5S2">On the way we saw the tomb of Rabbi Meir, and just before reaching the city itself, the sepulchre of Rabbi Jochanan ben Nuri. Here a house is built. Under this house is a cave, and it was the rabbi himself who ordered the building of this house there, with his own money.
+In front of the cave is the tomb of Rabbi Eleazar bar Simeon, and the sepulchre of Rabbi Cahana.</seg></ab> <ab xml:id="GN5"><seg xml:id="GN6S1">Thence we journeyed to Kefar Hananiah, where we found a tomb.</seg> <seg xml:id="GN6S2">Nearly two parasangs further on along the road are the sepulchres of the Tribes [i.e. sons of Jacob], and in the midft of them the tomb of Dinah, their sister. On her tomb a myrtle grows. No one dare take anything from this tree, not even a single leaf. Nearby is said to be the monument of Seth. This we saw.</seg><seg xml:id="GN6S3"> From this place we came to Arbela, where we remarked the sepulchre of Nittai, the Arbelite, with a very beautiful monument upon it. We climbed up to Arbela, where flood the great synagogue which Nittai caused to be built there ; it is now, on account of our sins, in ruins. It lies in the centre of the town ; outside the town we discovered the tomb of Rabbi Zera. This sepulchre is devoid of monument, that which once flood there having fallen into ruins.</seg><seg xml:id="GN6S4">
+From here I went to the village of Hittin and there saw on the mountain side two sepulchres ; some say the tomb of Hosea [but some say, of Jethro], and the sepulchre of Zephaniah, the Prophet.</seg> <seg xml:id="GN6S5">We returned to Tiberias. All this ground we covered in a single day.</seg></ab><ab xml:id="GN6"><seg xml:id="GN7S1">
+On our way back from Tiberias we went on to Kefar Hanan. In journeying there we came across the tomb of Habakkuk in Kefar Hakuk,</seg> <seg xml:id="GN7S2">from which place we came to the village of Lud, where we found the tomb of Rabbi Eliezer bar Jacob.
+106
+Before reaching Kefar Hananiah itself we lighted in the fields upon the tombs of Rabbi Halafta and his son and grandson. Here we slept. </seg><seg xml:id="GN7S3">From these monuments we took our way to Safed, where we discovered the cave of Rabbi Haninah ben Hyrcanus, in which there are sixteen recesses. We encircled them, weeping. There is a wall there for preventing the earth from falling in. Two Ishmaelites remain there continually to attend to the light and supply oil in honour of the righteous man.</seg>
+<seg xml:id="GN7S4">I	went alone with the head of the Captivity to Kefar Bar'am. Near the city we found the tombs of Honi ha-Me’agel [Onias the Circle Maker], and of his wife and children. These tombs have monuments. On our arrival in the city we found a synagogue, one of those which Rabbi Simeon, son of Jochai, had built, and which are as many as twenty-four in number. It is both beautiful and pleasant. Of the other synagogues of Rabbi Simeon, son of Jochai, some are destroyed, others exift still.</seg>
+<seg xml:id="GN7S5">From there we came to Kefar Amuka, and we found there the sepulchre of Jonathan, son of Uzziel, on which there is a great tree. The Ishmaelites bring oil to it and have a light burning there in his honour. They make their vows there, too, to his glory.</seg>
+<seg xml:id="GN7S6">On leaving Kefar Amuka we came to Kefar Nebarta [Akbara], where we found the tomb of Rabbi Meir. </seg><seg xml:id="GN7S7">We returned from here to Safed, where we spent the Sabbath. In these places there are Jewish communities numbering in each case more than five times the “ minyan ” of ten.</seg></ab><ab xml:id="GN7">
+<seg xml:id="GN8S1">From Safed we went to Gush Halab. On our way thither we came upon a city called Kisma. In Kisma we found the sepulchre of Rabbi Jose, son of Pedat, called from the name of the city, the man of Kisma.</seg></ab>
+<ab xml:id="GN8"><seg xml:id="GN9S1">II
+From there we mounted to the village of Meron, and we found there the sepulchre of Rabbi Eleazar, son of Hisma. At Meron we found also the school of Rabbi Simeon ben Jochai ; it is four square, and in it he lies buried, and with him Rabbi Eleazar, his son. Two trees rise above his tomb ; it is a very beautiful spot. At the foot of the moun-tain we found the sepulchres of Hillel and of Shamma'1, and thirty-six other tombs as well. Over these tombs is a cupola of a sort of white marble, the interior of which is adorned with reliefs representing branches of trees. Six wells are there. Here we prayed. We found that the first well on the right hand side was full of water, the second empty. On the left-hand side was a third well half-filled with water and the fourth completely full. In the hall in the centre of the hall on one side are three tombs, and on the other side three, and in each chamber of the hall there are three tombs, and above one a slab near these wells, of which one is full and the other empty. The head of the Captivity ordered a wax light to be lit and search made whence the water came into the basins, but we never found that out. We then threw out on to the ground a great quantity of their water, but there was no alteration in its amount. This water is as sweet as honey. It is a very marvellous thing.
+Beyond the door of the cave is a great hall, where there are three coffins, one alongside the other, and the third above bigger than the other two.
+In the city we found a tomb with a crown upon it as well as a very fine synagogue, the latter bears an inscription stating “ This was built by Shalom ben Levi ”.</seg> <seg xml:id="GN9S2">Coming away from the city we discovered the sepulchre of Rabbi Simeon ben Hulda, and a little further on the tomb of the Prophet Obadiah.
+This latter is covered with a stoneof white marble on which is engraved : “ This is the tomb of Obadiah, the prophet, who feared God from his childhood up, and who died in the year 570 after the Exodus from Egypt.”</seg></ab> <ab xml:id="GN10"><seg xml:id="GN10S1">From there we came on to Gush Halab. Facing this city we found the sepulchres of Shemaiah and Abtalion. Alongside them are the tombs of Adrammelech and of Sharezer, the sons of Sennacherib, who became Jews and went to the Holy Land. We stopped at Gush Halab and celebrated the feaft of Purim there. Its inhabitants are kind and benevolent. Wherever we came they assembled to meet us, as many as more than twice a “ minyan ” of ten, in honour of the chief of the Captivity.</seg>
+<seg xml:id="GN10S2">From Gush Halab we journeyed to Alma. Before reaching that place we found the sepulchre of Rabbi Eliezer [ben HyrcanusJ. Two trees adorn his tomb; not a leaf of them may be removed from them by anyone. He is buried in a cave in the middle of the ground. A sort of hall is set up over his tomb. A stone having fallen from this monument, a root at once thrust out of the gap thus left and filled its place ; and a branch pushing through another place encircled the sepulchre in such a fashion that it was no longer possible for a stoneof it to fall down. The Ishmaelites bring oil to burn there. It is a great and marvellous wonder.
+A short diftance within is the tomb of Rabbi Eleazar, son of Arach ; and further away, opposite the trees, the sepulchre of Rabbi Eliezer, son of Azariah. Upon this tomb ftands a tree which surrounds it like a gridiron.</seg>
+<seg xml:id="GN10S3">From there we climbed up to Silta, and there we found the sepulchre of Rabbi Judah ben Tema.</seg> <seg xml:id="GN10S4">Mounting higher still, we came upon the tomb of Rabbi Jose, the Galilean.</seg> <seg xml:id="GN10S5">From this place we went to Kefar Bar'am and found there at the entrance of the city the tomb of Phineas ben Jair. It is adorned with a great monument in the form of a gridiron. Above this monument is built a very fine synagogue, the walls of which are still standing. We found here a place where there is a school.</seg></ab> <ab xml:id="GN11"><seg xml:id="GN11S1">Beneath the tomb of Obadiah the Prophet, mentioned above, I found the tomb of Barak, the son of Abinoam.</seg></ab>
+<ab xml:id="GN12"><seg xml:id="GN12S1">From there we journeyed to Dan, where we saw the cave called Pameas [Banias], from which the Jordan issues. Beyond this city is the sepulchre of Iddo the Prophet.</seg> <seg xml:id="GN12S2">From Dan we travelled on to Damascus, and outside the city is a synagogue which Elijah had built. It is a very fine building, and we prayed there.</seg> <seg xml:id="GN12S3">From Damascus we went on to Nineveh (Mosul). Here is to be seen the tomb of Shem, son of Noah. It was built by himself. There is a very fine synagogue in this city. According to an inscription engraved on a marble slab therein it was built by the Rabbi Judan and by Rabbi Levi, son of Rabbi Asher.</seg>
+(Signed)—<seg xml:id="GN12S4">Samuel Bar Samson.
+Journeying from Jerusalem and from Galilee in the year 970 (= 1210). I have a firman with the seal of the King of Jerusalem attesting the truth of the present writing.</seg></ab></body>
+      </text>
+      </TEI>
