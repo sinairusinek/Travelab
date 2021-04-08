@@ -1,0 +1,2156 @@
+<TEI xmlns="www.tei-c.org/ns/1.0">
+
+        <teiHeader>
+
+          <fileDesc>
+
+            <titleStmt>
+
+              <title>
+ Travels_of_Rabbi_Petachia_of_Ratisbon.txt</title>
+
+              <author>
+sinai</author>
+
+            </titleStmt>
+
+            <publicationStmt>
+
+              
+<date>
+2020-03-21</date>
+
+
+             
+            </publicationStmt>
+
+            <sourceDesc>
+
+              <bibl source="https://recogito.pelagios.org/document/iiybakjbzasto2"/>
+
+              
+               
+                  
+                  <title>
+Travels_of_Rabbi_Petachia_of_Ratisbon.txt</title>
+
+                    
+                
+              
+            </sourceDesc>
+
+          </fileDesc>
+
+          <profileDesc>
+
+              
+              <particDesc>
+
+                  
+                </particDesc>
+
+              <settingDesc>
+
+                  <listPlace>
+
+          <place xml:id="pleiades.stoa.org/places/687915">
+
+              <placeName>
+Hebron</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/21355">
+
+              <placeName>
+Mount Lebanon (Lebanon : Province)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/5198">
+
+              <placeName>
+Gomorrah (Extinct city)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/261">
+
+              <placeName>
+Shefar'am (Israel)</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/678324">
+
+              <placeName>
+Paneas/Caesarea Philippi</placeName>
+
+            </place>
+<place xml:id="dare.ht.lu.se/places/33884">
+
+              <placeName>
+Bagdata, Baghdad</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/226778">
+
+              <placeName>
+Taurike Chersonesos</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/638">
+
+              <placeName>
+Prague (Czech Republic)</placeName>
+
+            </place>
+<place xml:id="sws.geonames.org/409313">
+
+              <placeName>
+Ararat</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/794">
+
+              <placeName>
+Aleppo (Syria)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/14078">
+
+              <placeName>
+Nīnawá (Iraq)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/966">
+
+              <placeName>
+Hebron (West Bank)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/939">
+
+              <placeName>
+Damascus (Syria)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/11713">
+
+              <placeName>
+Yonne (France)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/2448">
+
+              <placeName>
+Susa (Extinct city)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/8822">
+
+              <placeName>
+Greece</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/1869">
+
+              <placeName>
+Bohemia (Czech Republic)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/21050">
+
+              <placeName>
+Tower of David (Jerusalem, Israel)</placeName>
+
+            </place>
+<place xml:id="dare.ht.lu.se/places/27975">
+
+              <placeName>
+Taphros, Perekop</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/1412">
+
+              <placeName>
+Euphrates River</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/678445">
+
+              <placeName>
+Usha</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/903080">
+
+              <placeName>
+Media/Mad(aya)</placeName>
+
+            </place>
+<place xml:id="dare.ht.lu.se/places/27108">
+
+              <placeName>
+Macoraba, Mecca</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/662">
+
+              <placeName>
+Baghdad (Iraq)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/21590">
+
+              <placeName>
+Kefar Hananya (Israel)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/8046">
+
+              <placeName>
+Egypt</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/9541">
+
+              <placeName>
+Basrah (Iraq)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/21521">
+
+              <placeName>
+Galilee, Upper (Israel)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/2501">
+
+              <placeName>
+Eretz Israel</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/7275">
+
+              <placeName>
+Regensburg (Germany)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/6913">
+
+              <placeName>
+Galilee, Lower (Israel)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/691">
+
+              <placeName>
+Jerusalem (Israel)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/2680">
+
+              <placeName>
+Jordan River</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/3526">
+
+              <placeName>
+Babylon (Extinct city)</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/893951">
+
+              <placeName>
+Babylon</placeName>
+
+            </place>
+<place xml:id="dare.ht.lu.se/places/22328">
+
+              <placeName>
+Babylon, Babylon</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/226544">
+
+              <placeName>
+Borysthenes (river)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/4703">
+
+              <placeName>
+Mount Hermon (Lebanon and Syria)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/18678">
+
+              <placeName>
+Hasankeyf (Turkey)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/2804">
+
+              <placeName>
+Nineveh (Extinct city)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/71">
+
+              <placeName>
+Acre (Israel)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/807">
+
+              <placeName>
+Tiberias (Israel)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/1257">
+
+              <placeName>
+Hamat (Extinct city) (Israel)</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/697709">
+
+              <placeName>
+Mortuum Mare/Asphaltitis L.</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/22081">
+
+              <placeName>
+Valley of Hinnom (Jerusalem, Israel)</placeName>
+
+            </place>
+<place xml:id="dare.ht.lu.se/places/27144">
+
+              <placeName>
+[Basra], Old Basra IRQ</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/678431">
+
+              <placeName>
+Tiberias</placeName>
+
+            </place>
+<place xml:id="dare.ht.lu.se/places/21087">
+
+              <placeName>
+Damascus, Damascus</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/1017">
+
+              <placeName>
+Dead Sea (Israel and Jordan)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/21812">
+
+              <placeName>
+Tsippori (Israel)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/2273">
+
+              <placeName>
+Tigris River</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/9637">
+
+              <placeName>
+Yavne (Israel)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/12986">
+
+              <placeName>
+Assyria</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/5979">
+
+              <placeName>
+Poros Island (Greece)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/17099">
+
+              <placeName>
+Crimea (Ukraine)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/17893">
+
+              <placeName>
+Harran (Turkey)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/2996">
+
+              <placeName>
+Mount of Olives (Jerusalem, Israel)</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/678387">
+
+              <placeName>
+Sepphoris/Diocaesarea</placeName>
+
+            </place>
+<place xml:id="dare.ht.lu.se/places/22221">
+
+              <placeName>
+Shushan/Shusha/Susa/Seleucia ad Eulaeum/Shush-i er-Kar, Shush</placeName>
+
+            </place>
+<place xml:id="sws.geonames.org/281184">
+
+              <placeName>
+Jerusalem</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/958">
+
+              <placeName>
+Kiev (Ukraine)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/22186">
+
+              <placeName>
+Nusaybin (Turkey)</placeName>
+
+            </place>
+<place xml:id="sws.geonames.org/3067696">
+
+              <placeName>
+Prague</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/8048">
+
+              <placeName>
+Syria</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/912964">
+
+              <placeName>
+Tigris/Diglitus (river)</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/1109">
+
+              <placeName>
+Dnieper River</placeName>
+
+            </place>
+<place xml:id="dare.ht.lu.se/places/32797">
+
+              <placeName>
+‘Mespila’?, Mosul</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/4027">
+
+              <placeName>
+Sodom (Extinct city)</placeName>
+
+            </place>
+<place xml:id="sws.geonames.org/303750">
+
+              <placeName>
+Nusaybin</placeName>
+
+            </place>
+<place xml:id="geo-kima.org/place/3373">
+
+              <placeName>
+Nehardea (Extinct city)</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/912849">
+
+              <placeName>
+Euphrates (river)</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/894084">
+
+              <placeName>
+Seleucia/Sliq Kharawta</placeName>
+
+            </place>
+<place xml:id="pleiades.stoa.org/places/118929">
+
+              <placeName>
+Reginum/Castra Regina</placeName>
+
+            </place>
+
+        </listPlace>
+
+                </settingDesc>
+
+            </profileDesc>
+
+          <encodingDesc>
+
+            <projectDesc>
+
+Downloaded from https://recogito.pelagios.org/
+
+</projectDesc>
+
+            <classDecl>
+
+                <taxonomy>
+
+          <category xml:id="typo">
+
+              <catDesc>
+typo</catDesc>
+
+            </category>
+<category xml:id="reference">
+
+              <catDesc>
+reference</catDesc>
+
+            </category>
+<category xml:id="Asher">
+
+              <catDesc>
+Asher</catDesc>
+
+            </category>
+
+        </taxonomy>
+
+              </classDecl>
+
+          </encodingDesc>
+
+        </teiHeader>
+
+        <text>
+
+          <ab>
+<header>
+סבוב הרב <persName xml:id="recogito-54dcb8b9-88e8-4576-b8e9-dca86c377d4f">
+רבי פתחיה</persName>
+
+            מ<placeName ref="geo-kima.org/place/7275" xml:id="recogito-665089de-b6b5-44c1-9f5b-92dc15225e42" cert="high">
+רעגנשפורג</placeName>
+.</header>
+
+            <seg xml:id="intro">
+
+אלה הסבובים אשר סבב <persName xml:id="recogito-dff8b15b-7dea-4c18-9d35-71391ce27e82">
+רבי פתחיה</persName>
+ שסבב את
+כל הארצות: </seg>
+</ab>
+
+            <ab>
+<seg>
+ובתחלה הלך מ<placeName ref="geo-kima.org/place/638" xml:id="recogito-f40c4964-abbe-4f5d-beec-7555bcb6b601" cert="high">
+פראג</placeName>
+ שב<placeName ref="geo-kima.org/place/1869" xml:id="recogito-ae91d35e-c77e-41a8-87c9-ceff944482ce" cert="high">
+ביהם</placeName>
+
+ל<placeName xml:id="recogito-830c4046-dd92-4220-b2e4-6f30a63a2535" cert="unknown">
+פולין</placeName>
+. ומ<placeName xml:id="recogito-00daf244-78d5-457d-98fd-c79c268ae619" cert="unknown">
+פולין</placeName>
+ ל<placeName ref="geo-kima.org/place/958" xml:id="recogito-15dcc513-fd00-40d1-8e6b-aeb2f3911237" cert="high">
+קיוב</placeName>
+ שב<placeName xml:id="recogito-6096127a-04f7-4262-88ea-3f5a2fde9c7b" cert="unknown">
+רוסייא</placeName>
+. ומ<placeName xml:id="recogito-ebed6836-c382-4c2d-83e9-fb2187d554b4" cert="unknown">
+רוסייא</placeName>
+ הלך
+<span xml:id="recogito-9c4c6890-6982-435c-9327-6efc64140ef9" ana="#typo">
+בששה</span>
+ ימים עד על נהר <placeName ref="geo-kima.org/place/1109" xml:id="recogito-7de206af-db27-48ee-abe0-ead665e45023" cert="high">
+דנפרא</placeName>
+.</seg>
+ <seg>
+ומעבר הנהר
+התחיל לילך ב<placeName xml:id="recogito-1bb99e3f-a545-4850-bd5d-c1ec2eff2573" cert="unknown">
+ארץ קדר</placeName>
+: ואין להם ספינות. אלא
+תופרין עשר עורות סוסים שטוחין. ורצועה אחת
+בשפה סביב. ויושבין והעגלות וכל המשא בתוך
+העורות וקושרין רצועה שבשפת העורות בזנבות
+הסוסים, והסוסים שטין. וכן עוברין את המים:
+וב<placeName xml:id="recogito-b06942ef-f551-45e8-8152-9b17f5fa27a3" cert="unknown">
+ארץ קדר</placeName>
+ אין אוכלין את הלחם. אלא אורז
+ודוחן מבושל בחלב וחלב וגבינה: וחתיכות בשר</seg>
+
+
+            
+            <pb n="4"/>
+
+
+<seg>
+
+משימין תחתיהן על הסוס תחת האוכף. ומייגעין
+את הסוס ומזיע. והבשר חם ואוכלין את הבשר:
+ואין הולכין ב<placeName xml:id="recogito-7471249d-df97-407b-8c75-d7fc1a71bfa9" cert="unknown">
+ארץ קדר</placeName>
+ כי אם על ידי תיור: וכך
+נשבעין אחד מבני <placeName xml:id="recogito-45cfc9e0-f419-4edb-bafe-1ebe192a7edd" cert="low">
+קדר</placeName>
+ לחבירו: נועץ מחט
+באצבעו. ונותן לאותו שיש ללכת עמו בדרך
+לבלוע הדם. והוא לו כדמו ובשרו: ועוד שבועה
+אחרת. הם ממלאין כלי נחושת של מתכות כמו
+פרצוף. ושותין שניהם המתייר וההולך עמו. ולא
+ישקר לו לעולם: ואין להם מלך. אלא נשיאים
+ומשפחות:
+ועבר <persName xml:id="recogito-554b2536-d926-46fa-a903-73b42de39d07">
+רבי פתחיה</persName>
+ את <placeName xml:id="recogito-9e8d416f-8236-4e1d-bca2-60f6b3d27abb" cert="unknown">
+ארץ קדר</placeName>
+ לרחבה <span xml:id="recogito-03671026-f850-41a4-b3b9-3379aa7ea531" ana="#typo">
+בששה</span>
+.
+עשר ימים: ויושבי אוהלין הם. והם רואים למרחוק.
+ועיניהם יפים. מפני שאינם אוכלים מלח והונים
+בעשבים שנותנים ריח טוב. ובעלי חצים הם.
+ומורים את העוף בהדי דקא פרח. ורואין יותר
+ממהלך יום ומכירין ואין להם הרים אלא הכל
+גיא: </seg>
+<seg>
+ומהלך יום <placeName xml:id="recogito-e8e0874f-f8cd-4996-9641-a926645551c5" cert="low">
+אחר</placeName>
+ <placeName xml:id="recogito-1ccd5cab-046c-4f4b-8841-62c833a2b2f0" cert="unknown">
+ארץ קדר</placeName>
+ הולך לשון ים.
+ומפסיק בין <placeName xml:id="recogito-8a538740-eb5c-4722-8359-60770d29fbb6" cert="unknown">
+ארץ קדר</placeName>
+ ובין ארץ <placeName ref="geo-kima.org/place/17099" xml:id="recogito-ff98d883-85ee-4979-a83b-26bb722969e5" cert="high">
+כזריא</placeName>
+: ושם מנהג
+שהנשים מספידות ומיללות כל היום וכל הלילה
+את אבותיהן שמתו ואת אמותיהן. וכן עושין עד
+שימותו מבניהם או מבנותיהם או מן המשפחה.
+והאחרונים מספידים את הראשונים שמתו. ומלמדין</seg>
+<seg>
+
+            
+            <pb n="6"/>
+
+</seg>
+<seg>
+
+את בנותיהן קינה. ובלילה מתאנחות ומיללות.
+והכלבים בוכין וצועקין לקולן:</seg>
+<seg>
+
+  והלך כשמונה ימים: ובסוף ארץ <placeName ref="geo-kima.org/place/17099" xml:id="recogito-bf5b143c-52c3-48af-92c7-585878bf20bf" cert="high">
+כזריא</placeName>
+ שבעה
+עשר נהרות יסובבונהו ושם מתקבצים. וכל הרוצה
+לילך בספינה למרחוק יבא שמה: ויש שם <placeName xml:id="recogito-25965737-81ca-4ae0-8d7a-81b37846e7ae" cert="low">
+ים
+שמעלה סרחון גדול</placeName>
+ משם לצד אחד, ולצד אחר
+יש שאינו מסריח. והוא כמהלך יום בין שני ימים:
+ואם עבר אדם ים של סרחון מיד מת. וכשהרוח
+בא מים שמסריח לים שאינו מסריח רבים ימותו.
+ואין הולכין אלא כשהרוח נוטה לצד אחר:</seg>
+<seg>
+
+ועבר <persName xml:id="recogito-562b3f8c-83b2-4ae4-b7e8-c6731b7db3f3">
+רבי פתחיה</persName>
+ בארץ תורגמה. ומשם והלאה
+מאמינים כחוקת <persName xml:id="recogito-85f0e50b-84c1-4a8d-bfbc-c27c98244ff6">
+מחמט</persName>
+. ומ<placeName xml:id="recogito-69a67afa-9f7c-436f-8577-ce1fdeb5da23" cert="low">
+תוגרמה</placeName>
+ נכנס בארץ
+אררט: ובשמונה ימים הלך עד <placeName ref="geo-kima.org/place/22186" xml:id="recogito-deb61056-b510-48c8-966e-71edb99ef452" cert="high">
+נציבין</placeName>
+. ועזב הרים
+גבוהים <placeName xml:id="recogito-f1b87996-97d6-43f8-85aa-24b0d28bad15" cert="low">
+הרי אררט</placeName>
+ לימין:
+וב<placeName xml:id="recogito-8b1e8c8e-55a0-4a67-bf98-c60a9535a3ff" cert="unknown">
+ארץ קדר</placeName>
+ אין יהודים. ויש שם מינים: ואמר
+להם הרב <persName xml:id="recogito-46ccf4a0-43f4-4b03-94d9-6608e9399407">
+רבי פתחיה</persName>
+ למה אינכם מאמינים בדברי
+חכמים. ואמרו בשביל שלא למדום אבותינו:
+ובערב שבת חותכין כל הלחם שאוכלין בשבת.
+ואוכלין בחושך. ויושבין במקום אחד כל היום.
+ואינם מתפללים אלא מזמורים: וכשסיפר להם הרב
+<persName xml:id="recogito-6a63c857-7a2f-4c57-83e5-53b9aabf2994">
+רבי פתחיה</persName>
+ התפלה שלנו וברכת המזון. היה טוב
+בעיניהם: ואמרו לא שמענו מעולם מה הוא
+תלמוד:
+</seg>
+<seg>
+     
+            <pb n="8"/>
+
+
+וב<placeName xml:id="recogito-b52f38b8-d504-40f5-a44a-02a478a07c02" cert="low">
+ארץ אררט</placeName>
+ הלך ב<placeName xml:id="recogito-663b157e-5f0d-4e3b-83a7-12907ada0e57" cert="low">
+הרי אררט</placeName>
+ עד <placeName ref="geo-kima.org/place/22186" xml:id="recogito-ab6f6549-4642-4dfc-83b3-bcb757f5e74e" cert="high">
+נציבין</placeName>
+ ועד
+עיר <placeName ref="geo-kima.org/place/18678" xml:id="recogito-33762d8f-5b40-447e-8f24-90cfee85af5f" cert="high">
+חוסן כיפא</placeName>
+ (פירוש: חוסן סלע גדול): ובסוף
+של <placeName xml:id="recogito-f6bc7890-3928-48cc-a8fa-3dcb855cd1c8" cert="low">
+הרי אררט</placeName>
+ הלך יומים לצד שכנגדו: וב<placeName ref="geo-kima.org/place/22186" xml:id="recogito-791ccd19-3b9f-407d-b96d-0bedb686de82" cert="high">
+נציבין</placeName>
+
+יש קהילה גדולה. ובית הכנסת של רבי <persName xml:id="recogito-c6783126-6d09-458f-b9cf-33137aaae56b">
+יהודה בן
+בתירה</persName>
+ ושתי בתי כנסיות שבנה <persName xml:id="recogito-d3761f96-8f05-4bfb-bcbe-daff01cd32f3">
+עזרא הסופר</persName>
+. ויש
+באחת אבן אדומה קבועה בכותל. שהביא עמו
+שלקח מאבני בית המקדש.</seg>
+
+              <seg>
+ ומ<placeName ref="geo-kima.org/place/22186" xml:id="recogito-0b036274-6831-4bc6-840f-cde52aa0f338" cert="high">
+נציבין</placeName>
+ ואילך <placeName xml:id="recogito-fe012a65-ce88-4dd6-80a9-eade4d71a22b" cert="low">
+ארץ
+אשור</placeName>
+: ו<placeName ref="geo-kima.org/place/17099" xml:id="recogito-03ffed24-a3fb-4c7d-9738-cab56f184137" cert="high">
+כזריא</placeName>
+ לשון אחד. ו<placeName xml:id="recogito-e8bb1559-60eb-4827-9833-894d2db8104f" cert="low">
+תוגרמה</placeName>
+ לשון אחד.
+ונותנין מס למלך <placeName ref="geo-kima.org/place/11713" xml:id="recogito-e2863d17-53f5-4637-ad5c-0b995a07ea5f" cert="low">
+יון</placeName>
+. ו<placeName xml:id="recogito-8e59d0ba-69d4-47b4-ae47-6ef54e9d8636" cert="low">
+קדר</placeName>
+ לשון אחר:
+              </seg></ab><ab><seg>
+ומ<placeName ref="geo-kima.org/place/22186" xml:id="recogito-dad39e25-f833-4e75-9d4b-4b52f739a01a" cert="high">
+נציבין</placeName>
+ הלך בשמונה ימים ל<placeName ref="dare.ht.lu.se/places/32797" xml:id="recogito-fd17b534-ba5a-4767-9dc5-4313c509b830" cert="high">
+נינוה החדשה</placeName>.
+ונהר <placeName ref="geo-kima.org/place/2273" xml:id="recogito-13d489ac-e93f-4e6d-83cf-c00653b16f32" cert="high">
+חדקל</placeName>
+ הולך לפני <placeName ref="geo-kima.org/place/2804" xml:id="recogito-d21b4c07-30c0-4a6c-b3bc-5e10e72ecb7b" cert="high">
+נינוה</placeName>
+: ומעבר הנהר הלך
+לצד אחר מהלך שלשה ימים. היא <placeName ref="geo-kima.org/place/2804" xml:id="recogito-2c781da4-37eb-4c52-89bc-b8d7634ffb10" cert="high">
+נינוה</placeName>
+ הישנה.
+והיא שממה: וכל ארץ <placeName ref="geo-kima.org/place/2804" xml:id="recogito-22068369-1ea1-481b-88ce-8bc7bbcb68b1" cert="high">
+נינוה</placeName>
+ שחורה כזפת.
+ובמקום העיקר של <placeName ref="geo-kima.org/place/2804" xml:id="recogito-2169fa9e-abaa-49ea-914d-a9f869695102" cert="high">
+נינוה</placeName>
+ שהיה היער נהפך כ<placeName ref="geo-kima.org/place/4027" xml:id="recogito-e2fe9e1c-8dbd-433a-a9cf-d1fa0c0feccf" cert="low">
+סדום</placeName>.
+ואין בו עשב וצמח. ו<placeName ref="dare.ht.lu.se/places/32797" xml:id="recogito-ab6b0c9c-492f-4983-98e6-c8ecdb33ec5f" cert="high">
+נינוה החדשה</placeName>
+ כנגדה מעבר
+השני: וב<placeName ref="dare.ht.lu.se/places/32797" xml:id="recogito-a203aeba-c142-4bbe-92f3-ab007bd400bb" cert="high">
+נינוה החדשה</placeName>
+ יש קהל גדול כששת
+אלפים ויותר, ושני נשיאים בה. אחד שמו <persName xml:id="recogito-9e4c7743-30c1-416f-a0ab-ac5954b7c09b">
+רבי
+דוד</persName>
+ ואחד שמו <persName xml:id="recogito-9c929374-a27f-49d3-90a9-21d2901429eb">
+רבי שמואל</persName>
+. והם שני בני אחים
+והם מזרע <persName xml:id="recogito-faa9364e-fee2-4dc1-8349-6c6182c237dd">
+דוד המלך</persName>
+: וכל אדם נותן זהוב לשנה
+מגלגולת. ומה שבא מהיהודים חציו לשלטון
+המלך. אלא שאין קורין אותו מלך כי אם שלטון.
+
+
+<pb n="10"/>
+
+והוא תחת מלך <placeName ref="geo-kima.org/place/3526" xml:id="recogito-0a62090c-c091-4e53-952e-cea9f5cf242e" cert="low">
+בבל</placeName>
+. וחצי המס לנשיאין: ויש
+להם שדות וכרמים:
+ואין באותן הארצות חזנים. וגם בארץ <placeName ref="geo-kima.org/place/5979" xml:id="recogito-91ed6e2f-752f-44d3-8821-92a1476ec64d" cert="low">
+פרס</placeName>
+
+ומדי וב<placeName xml:id="recogito-7ed89cd6-2ce0-48c3-a16b-af15fefcb5db" cert="unknown">
+דמשק</placeName>
+ ובכל אותן הארצות אין להם חזנים.
+אלא יש לנשיאים אוכלי שולחנם ת&quot;ח רבים.
+פעמים אומר לזה להתפלל ופעמים אומר לזה
+להתפלל: ויש להנשיא בית הסוהר, וחובש בו
+את הרשעים: אם גוי ויהודי מתקוטטים יחד.
+אם היהודי חייב חובשו. ואם הישמעאלי חייב
+חובשו:
+ו<persName xml:id="recogito-3e10f153-78e8-4c26-8b67-669db178fa95">
+רבי פתחיה</persName>
+ היה חולה ב<placeName ref="geo-kima.org/place/2804" xml:id="recogito-77fdff03-2eed-45cc-bfcc-abafb5e307d9" cert="high">
+נינוה</placeName>
+. ואמרו הרופאים
+של המלך שלא יחיה. ומנהג שם כל יהודי
+אורח שימות. חצי הממון לוקח השלטון: ומפני
+ש<persName xml:id="recogito-29ee7477-de1f-4a9a-b1df-6d2ee9226fea">
+רבי פתחיה</persName>
+ היה לבוש בגדים נאים אמרו עשיר
+הוא. וסופרי השלטון היו שם לקחת הממון
+כשימות: ואמר הרב <persName xml:id="recogito-68d403cf-4eee-462c-a108-18fe25a0b207">
+רבי פתחיה</persName>
+ להעבירו כל כך
+חולה את הנהר <placeName ref="geo-kima.org/place/2273" xml:id="recogito-e294b383-baf5-495d-822d-68e591a9d692" cert="high">
+חדקל</placeName>
+: והנהר רחב. <span xml:id="recogito-08f2a74c-2975-4b54-8663-7f418e3f994e" ana="#typo">
+ואיי</span>
+ עוברין
+אותו בספינה. כי הנהר <placeName ref="geo-kima.org/place/2273" xml:id="recogito-b11331d8-0dcd-4cde-8ad8-449b46458b36" cert="high">
+חדקל</placeName>
+ חד וקל ומהפך
+הספינה. אלא עושים קנים רפסודות שקורין
+ולו״ס. ועליהם המשא והאדם: והמים בריאים.
+ומיד נתרפא:
+וב<placeName ref="geo-kima.org/place/2804" xml:id="recogito-9bebb2d6-c638-41c5-9fc8-5ae19fad3307" cert="high">
+נינוה</placeName>
+ היה פיל: ואין ראשו בולט חוץ. והוא
+
+
+
+<pb n="12"/>
+
+גדול ואוכל כשתי עגלות תבן בפעם אחת: ופיו
+בחזה. וכשחפץ לאכול מוציא שפתו כאמתיים.
+ובה מקבץ התבן ומכניס בפיו: וכשנתחייב אדם
+לשלטון הריגה. אומרים לפיל, זה נתחייב. והוא
+יקחהו בשפתו ומשליכו למעלה וממיתו: וכמו
+שאדם עושה ביד כך הוא עושה בשפתו. ומשונה
+ומפואר הוא: ועל הפיל בניין עיר. ושנים עשר
+פרשים עליו עם שריונים. ומוציא שפתו ועולין בו
+כגשר:
+וב<placeName ref="geo-kima.org/place/2804" xml:id="recogito-3023484b-3ea9-4845-9267-d4d66d99b35e" cert="high">
+נינוה</placeName>
+ היה איש חוזה בכוכבים ושמו <persName xml:id="recogito-3d7aa2f3-f5d6-4822-9d4c-c830d82fce59">
+רבי
+שלמה</persName>
+. וב<placeName ref="geo-kima.org/place/2804" xml:id="recogito-37c9e236-145c-49df-bcef-391c8bc35e63" cert="high">
+נינוה</placeName>
+ ובכל ארץ <placeName xml:id="recogito-0110dd70-7352-4a90-9f6b-66980973636a" cert="unknown">
+אשור</placeName>
+ ובכל החכמים
+אין כמוהו בקי במזלות: ושאל לו <persName xml:id="recogito-4ccc704f-5f3d-49ca-846b-1299df1329d9">
+רבי פתחיה</persName>
+
+מתי יבא משיח. ואמר לו כבר ראיתי במזלות
+כמה פעמים בבירור: אבל <persName xml:id="recogito-1da3698b-1d73-448e-adca-e95375937dbf">
+רבי יהודה החסיד</persName>
+ לא
+רצה לכתבו. פן יחשדוהו שהוא מאמין בדברי <persName xml:id="recogito-e00376f1-16a5-43a6-bd8a-6d12a719e0bc">
+רבי
+שלמה</persName>
+  :</seg><seg>
+ועבר את <placeName ref="geo-kima.org/place/2273" xml:id="recogito-6b1ca967-dcdd-40fe-a41f-9f718e604565" cert="high">
+חדקל</placeName>
+. וירד במורד המים בחמשה
+עשר יום עד גן של ראש הישיבה שב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-155b5afd-bc81-4666-86c1-5f10c2fe0099" cert="low">
+בבל</placeName>
+:
+והולכין בחדש אחד: ומ<placeName ref="geo-kima.org/place/2804" xml:id="recogito-0de382de-f8a1-467d-8f71-132e21d502a7" cert="high">
+נינוה</placeName>
+ ואילך קהילות בכל
+ עיר ועיר ובכפר:</seg><seg></seg><seg> ובא ל<placeName xml:id="recogito-a904a853-a6ca-496f-80f8-d9f235100f03" cert="low">
+גן אחד של ראש הישיבה</placeName>.
+ובגן כל מיני פירות: והגן גדול מאוד ובו
+דודאים. ופרצוף אדם להם ועשבים שלהם רחבים:</seg><seg><pb n="14"/>
+
+ומשם ואילך הלך ביום אחד עד <placeName ref="geo-kima.org/place/662" xml:id="recogito-d9ebe5a4-cda1-4121-a143-8c77a1293bc7" cert="high">
+בגדת</placeName>
+ ב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-5f039f8d-0c12-44b3-b789-f76cdeae184a" cert="low">
+בבל</placeName>
+:
+ואין אדם עולה בנהר <placeName ref="geo-kima.org/place/2273" xml:id="recogito-a43eaa9d-0ed9-4bf0-8ea0-cc2d9dbfcd2a" cert="high">
+חדקל</placeName>
+ מפני שחדים ועזים.
+אלא בגמלין ובפרדות ביבשה. וקושרין הנודות
+אחורי הגמל:
+ו<placeName ref="geo-kima.org/place/662" xml:id="recogito-a80ac597-40ea-4d09-a899-e4bfc4fa234c" cert="high">
+בגדת</placeName>
+ היא עיר מלוכה. ובה חליפי השלטון.
+הוא המלך הגדול המושל ושולט על כל העמים:
+ו<placeName ref="geo-kima.org/place/662" xml:id="recogito-b824eeb4-8ba8-493f-9ed5-55c569940f35" cert="high">
+בגדת</placeName>
+ גדולה מאוד יותר ממהלך יום מראש עד
+סוף. ובהיקף יותר משלשה ימים: ובעיר <placeName ref="geo-kima.org/place/662" xml:id="recogito-dc3d5d61-849f-4ee1-b65d-dae5fa378247" cert="high">
+בגדת</placeName>
+
+אלף יהודים. והולכים בסודרים: ואין אדם רואה
+שום אשה שם: ואין שום אחד מהם הולך לבית
+חבירו. שמא יראה אשת חבירו. ומיד היה אומר
+לו פריץ למה באת. אלא מכה בבדיל. והוא יוצא
+ומדבר עמו: והם מעוטפים בטליתות של צמר
+וציצית. והולכים בהם: וראש ישיבה ב<placeName ref="geo-kima.org/place/662" xml:id="recogito-0ccc9945-7039-43ff-9b9a-fdcc81541fa4" cert="high">
+בגדת</placeName>
+ <persName xml:id="recogito-e035d111-58a1-46d3-b7ce-3e6c96692142">
+רבי
+שמואל הלוי</persName>
+ <span xml:id="recogito-5fd39f2c-fee1-46e6-9696-b0d2a1ffb168" ana="#typo">
+כן</span>
+<note target="recogito-5fd39f2c-fee1-46e6-9696-b0d2a1ffb168" resp="sinai">
+כן-בן</note>
+ עלי ראש ישיבה. והוא שר ומלא
+חכמה בתורה שבכתב ותורה שבעל פה וכל
+חכמת מצרים. ואין דבר נעלם ממנו. ויודע שמות.
+וכל התלמוד יודע בגירסא:
+ואין עם הארץ בכל ארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-c1314862-2028-4069-bf9e-39f31b3ab79b" cert="low">
+בבל</placeName>
+ ובארץ <placeName xml:id="recogito-d237326f-03ad-4048-aec0-dfdcafce9476" cert="unknown">
+אשור</placeName>
+
+ובארץ מדי ו<placeName ref="geo-kima.org/place/5979" xml:id="recogito-f80de423-2f54-4abf-970f-f9975a201df3" cert="low">
+פרס</placeName>
+. שלא יודע כל עשרים וארבעה
+ספרים וניקוד ודיוק וחסירות ויתירות. כי החזן
+אינו קורא בתורה אלא מי שיעמוד לספר תורה
+הוא קורא:
+
+<pb n="16"/>
+
+ויש לראש ישיבה כאלפים תלמידים בפעם אחת.
+וסביביו כחמש מאות ויותר וכולם מבינים בטוב:
+וקודם שידעו לומדין בעיר לפני לומדים אחרים.
+וכשיודעים אז יבואו לפני ראש הישיבה: ורבי
+אליעזר הוא ראש הגולה. ותחתיו ראש הישיבה:
+ובית גדול יש לראש הישיבה. ומחופה במעילים.
+והוא מלובש בגדי זהב. והואא יושב למעלה.
+והתלמידים יושבים על הקרקע: והוא אומר
+למתורגמן. והמתורגמן אומר לתלמידים:
+והתלמידים שואלין מן המתורגמן. ואם אינו יודע
+ישאל המתורגמן לראש הישיבה: ומתורגמן אחד
+אומר לצד אחד מסכתא אחת. ומתורגמן אחר
+אומר מסכתא אחרת לצד אחר: וכל התלמוד
+בניגון. ואחר שגורסין מפרש להם:
+ושנה אחת קודם שבא הרב <persName xml:id="recogito-a5385639-465b-489a-b013-10e00aab2df6">
+רבי פתחיה</persName>
+ מת
+<persName xml:id="recogito-bb1e712e-7667-489d-b8df-9eae1a9dca94">
+רבי דניאל ראש הגולה</persName>
+: והוא יותר שר מראש
+הישיבה: ולכלם יש ספר היחס עד השבטים.
+ו<persName xml:id="recogito-6f35023c-e1cd-4686-85e0-4808cc5ef702">
+רבי דניאל</persName>
+ היה מבית דוד: ואין המלך נותן להם
+ראש הגולה אלא על פי שרי היהודים: ואין שם
+הראוי להיות ראש גולה אלא אותן שני נשיאים
+מבית דוד, ומקצת השרים בוחרים ב<persName xml:id="recogito-f35c565b-009c-4307-a25a-7b9bd665abd2">
+רבי דוד</persName>.
+ומקצת ב<persName xml:id="recogito-85c99a32-4c39-492f-9dc0-0f84691edbc6">
+רבי שמואל</persName>
+: ועדיין לא הושוו, והם
+<pb n="18"/>
+תלמידי חכמים: ול<persName xml:id="recogito-a8fb073c-8941-4bc9-8cbd-3b86663431bb">
+רבי דניאל</persName>
+ לא היו בנים כי
+אם בנות: ו<persName xml:id="recogito-3815d4a9-78be-43f5-933c-1ad3a84e1116">
+רבי שמואל</persName>
+ יש לו ספר היחס שלו עד
+<persName xml:id="recogito-6a15ca14-2707-469d-8819-593ad6c432f7">
+שמואל הרמתי בן אלקנה</persName>
+: ואין לו בנים אלא בת
+אחת: והיא בקיאה בקרייה ובתלמוד והיא
+מלמדת הקרייה לבחורים דרך חלון אחד. והיא
+סגורה בבנין. והתלמידים בחוץ למטה ואינם
+רואים אותה: ובכל ארץ <placeName xml:id="recogito-2fc6e779-54e8-46e0-9374-b85ebcda4533" cert="unknown">
+אשור</placeName>
+ וב<placeName xml:id="recogito-95a82409-f3bc-4130-8d7d-f2da1ad5679d" cert="unknown">
+דמשק</placeName>
+ בערי
+<placeName ref="geo-kima.org/place/5979" xml:id="recogito-4d5f6bb8-8fb3-4da3-85ea-490f3ddbe73e" cert="low">
+פרס</placeName>
+ ומדי ובארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-e6f9d86a-71da-42d5-8433-ce98953032eb" cert="low">
+בבל</placeName>
+ אין להם דיין אלא מי
+שמוסר <persName xml:id="recogito-0ef675a1-de00-49b9-8955-3091a0c4ab6b">
+רבי שמואל</persName>
+ ראש ישיבה: ונותן רשות
+בכל עיר לדון ולהורות. וחותמו הולך בכל
+הארצות וב<placeName ref="geo-kima.org/place/2501" xml:id="recogito-87ed69d7-4470-4e80-9012-84c317591ff3" cert="high">
+ארץ ישראל</placeName>
+. והכל יראים ממנו:
+ויש לו כששים עבדים משרתים: שרודים את העם
+במקלות: והזקנים לאחר עמידת התלמידים
+שואלים ממנו חכמת המזלות ושאר כל מיני
+חכמה:</seg><seg>
+וערים גדולים הם ב<placeName xml:id="recogito-ff3668bf-8ba7-4e19-9c68-998a80957eb7" cert="low">
+ארץ אררט</placeName>
+. ומעט יהודים
+שם. כי מתחלה היו שם יהודים הרבה בימי
+קדם. והרגו זה את זה. ונפרדו והלכו לערי <placeName ref="geo-kima.org/place/3526" xml:id="recogito-837afa72-dcea-49ad-8fbd-03ed02a86e98" cert="low">
+בבל</placeName>
+<placeName xml:id="recogito-05737121-d5aa-41fe-8ce8-0d9c540db600" cert="low">
+מדי</placeName>
+ ו<placeName ref="geo-kima.org/place/5979" xml:id="recogito-69f5ad01-9c7a-4628-80b4-254d2e979df4" cert="low">
+פרס</placeName>
+: וב<placeName xml:id="recogito-7326bb13-ae33-44f8-8b87-30d7dedaa66b" cert="unknown">
+ארץ כוש</placeName>
+ ובארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-24f411bf-5a2a-4d9e-9f0e-6c225c293016" cert="low">
+בבל</placeName>
+ יותר מששים
+רבוא יהודים, וכן בארץ <placeName ref="geo-kima.org/place/5979" xml:id="recogito-226726e2-1e18-48ff-9f3f-86b36de0096e" cert="low">
+פרס</placeName>
+: וב<placeName ref="geo-kima.org/place/5979" xml:id="recogito-87f910d6-5a87-47ce-9bff-5a8e97c32685" cert="low">
+פרס</placeName>
+ שעבוד
+וצעד גדול ליהודים. ולכן לא בא <persName xml:id="recogito-969f87bb-b19b-401c-8095-bed3d87001ac">
+רבי פתחיה</persName>
+
+אלא בעיר אחת של <placeName ref="geo-kima.org/place/5979" xml:id="recogito-dbeedb64-c6b3-41ef-bc08-13e67cb6dc8c" cert="low">
+פרס</placeName>
+: וכל יהודי שב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-03946401-2787-487a-8600-0c6ff79ea0bf" cert="low">
+בבל</placeName>
+
+
+            
+            <pb n="20"/>
+
+
+
+נותן זהוב לשנה לגולגלתו לראש הישיבה. כי אין
+המלך מבקש מהם מס אלא ראש הישיבה. ושלום
+ליהודים שבארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-c5ea0ca2-9900-4cdc-b879-da396b95a464" cert="low">
+בבל</placeName>
+  :</seg><seg>
+והמלך שהיה קודם בימי <persName xml:id="recogito-a18c50e7-3435-4e5c-b416-d0d236c8e8f4">
+רבי שלמה</persName>
+ אביו של
+<persName xml:id="recogito-34c61d78-c732-49a5-a13b-5df1f4d5e33d">
+רבי דניאל</persName>
+ היה אוהב את <persName xml:id="recogito-a8e4bfe2-7d0c-4d0a-8b06-8f3c61070c1a">
+רבי שלמה</persName>
+. מפני
+שהמלך היה מזרע <persName xml:id="recogito-c2810c2e-7941-4b4b-9b7f-553eccfde21a">
+מחמט</persName>
+ וראש גולה מדוד
+המלך: ואמר ל<persName xml:id="recogito-d6c563c4-f0f9-42b8-a1ec-8bb2f3112723">
+רבי שלמה</persName>
+. שהוא רוצה לראות
+את <persName xml:id="recogito-16750ff6-297c-4afb-a515-4a1a7957facb">
+יחזקאל הנביא</persName>
+ שעשה נסים: ואמר לו <persName xml:id="recogito-1ade0793-26f4-44f3-9b11-4afe6036fe75">
+רבי
+שלמה</persName>
+. לא תוכל לראותו כי קדוש הוא. ולא
+תוכל לגלות את קברו: אמר לו המלך. שהוא
+רוצה לדעת: אמר לו <persName xml:id="recogito-8aa4f5b2-6a57-48cb-b746-8d52f3867d69">
+רבי שלמה</persName>
+ והזקנים. אדוני
+המלך. הנה <persName xml:id="recogito-0a0a83f9-5e4b-4cf8-afcf-da388dcee615">
+ברוך בן נריה</persName>
+ תלמידו קבור סמוך
+לחצרו אם תחפוץ תגלה קברו. אם תוכל לראות
+תלמידו אחר כך תראה את רבו: הלך וקבץ כל
+השרים וצוה לחפור, וכל מי שחפר בקברו של
+<persName xml:id="recogito-52279833-f4f2-40c3-a57a-f61258855b2b">
+ברוך בן נריה</persName>
+ מיד נפל מת: היה שם זקן אחד
+ישמעאלי ואמר למלך. אמור ליהודים שיחפרו
+אחריו: ואמרו היהודים. אנו יראים: אמר המלך.
+אם אתם תופסים תורתו של <persName xml:id="recogito-18fdf86f-df90-422c-84fa-2fa08eaedc94">
+ברוך בן נריה</persName>
+ לא
+יזיק לכם. כי כל ישמעאלי שחפר נפל מת: אמר
+<persName xml:id="recogito-6fb78d55-d280-4cab-9437-fe1440d59d1e">
+רבי שלמה</persName>
+. תן לנו זמן שלשה ימים. שנתענה
+כדי שימחול לנו. ואחר שלשה ימים חפרו
+היהודים. ולא הוזקו: וארון של ברוך בן נריה
+
+
+<pb n="22"/>
+
+בתוך שני אבני שיש. והוא בתוך שניהם. ומקצת
+הטלית יצא מבין האבנים: אמר המלך. אין שני
+מלכים משתמשים בכתר אחד. ואין נאה לצדיק
+זה להיות אצל יחזקאל, אני רוצה להביאו למקום
+אחר: ונשאו אבני השיש עם הארון: וכשבאו
+ברחוק מ<placeName xml:id="recogito-17d8a233-5614-4675-8188-e99c4f7ec777" cert="unknown">
+קבר יחזקאל</placeName>
+ מיל לא יוכלו לזוז ממקומם.
+וכל הסוסים וכל הפרדות לא יכלו להזיז הארון
+ממקומו: ואמר <persName xml:id="recogito-89040e04-a580-4c52-8796-2f908be09dfd">
+רבי שלמה</persName>
+. כאן בחר הצדיק
+ליקבר: וקברו שם את הארון. ובנו פלטין יפה
+על קברו:
+ונתן <persName xml:id="recogito-23a50711-9e0a-4e43-b979-89f2e4fe2633">
+רבי שמואל</persName>
+ ראש ישיבה כתב וחותמו לרבי
+פתחיה. שיתיירו אותו בכל מקום שיבוא שם;
+ויראו לו קבורת תלמידי חכמים והצדיקים: ובארץ
+<placeName ref="geo-kima.org/place/3526" xml:id="recogito-1acc1116-08b7-4ce9-b0b1-2e7f9c708f28" cert="low">
+בבל</placeName>
+ לומדים פירוש <persName xml:id="recogito-064382bf-a82b-4f66-b02f-efaf905bba18">
+רבינו סעדיה</persName>
+ שעשה מכל
+הקרייה ומששה סדרים. ופירוש <persName xml:id="recogito-8bfa97d9-2eb0-4319-b0d3-dce367d6bbb1">
+רב האי גאון</persName>
+:
+והם קבורים תחת <placeName xml:id="recogito-a7808327-b192-4402-846c-918b3ad9cfc3" cert="unknown">
+הר</placeName>
+ <persName xml:id="recogito-2f9e612e-7ac5-4e29-9dd3-83709da2ce03">
+רבינו סעדיה</persName>
+ ורב האי. ואמרו
+שכלם הר אחד משם עד <placeName xml:id="recogito-f7ed892e-2a04-499a-98cb-2017dbe10529" cert="unknown">
+הר סיני</placeName>
+. והוא קרוב
+ל<placeName ref="geo-kima.org/place/662" xml:id="recogito-a89fd91d-afb4-4eae-9e08-b55b7b117084" cert="high">
+בגדת</placeName>
+: והוליך <persName xml:id="recogito-27901c02-776d-4767-9506-2772739e1f8b">
+רבי פתחיה</persName>
+ חותם של <persName xml:id="recogito-bcb1de2d-de10-4c3e-9245-d507a6d70ed7">
+רבי שמואל</persName>
+
+עמו. וכל שהיה מבקש היו עושין. ויראים ממנו:</seg><seg>
+והלך <persName xml:id="recogito-f7f001c7-90dd-4eea-aa45-40af7ed0acc8">
+רבי פתחיה</persName>
+ עד עיר אחת ששמה <placeName xml:id="recogito-b69aac12-ac4a-42b0-99b6-b9db68487ba1" cert="unknown">
+פולוש</placeName>
+.
+מהלך יום אחד מ<placeName ref="geo-kima.org/place/662" xml:id="recogito-17e0f50c-3abd-48db-b677-f45e0951c6cc" cert="high">
+בגדת</placeName>
+: ושם כהן חשוב. והכל
+מעידין עליו שהוא מזרע אהרן הכהן מאב ואם
+
+
+
+<pb n="24"/>
+
+בלי דופי, ויש לו ספר יחס: ולפני אותה עיר
+<placeName xml:id="recogito-f4e1401e-adea-4d50-a0ed-16a6acfc7865" ana="#reference" cert="unknown">
+קבר</placeName>
+<note target="recogito-f4e1401e-adea-4d50-a0ed-16a6acfc7865" resp="sinai">
+קבר ברוזאק</note>
+, ובית יפה בנוי עליו: ואמרו לו. כי בא
+בחלום לאיש עשי. יהודי אני ששמו ברוזק משרי
+יכניה שהלכו בגולה. ואני צדיק. ואין לך בנים.
+ואם תבנה על קברי בית יפה יהיו לו בנים: ובנה
+עליו בית. והיו לו בנים: ועשו שאלת חלום. מי
+הוא הנקבר שם. ואמר אני ברוזק. ואין לי שם
+אחר:
+ונתן לו הכהן כחמשים בחורים ברמחים ובכלי
+זיין. ותיירו אותו: כי אומה אחת אצל <placeName ref="geo-kima.org/place/3526" xml:id="recogito-17ab15a0-b26c-4d09-bec3-29857ffc1803" cert="low">
+בבל</placeName>
+. ואין
+חוששין על המלך: והם במדבר. ונקראים חרמים
+על שם שגוזלים וחומסים מכל אומה: ופניהם
+כעשב גרונא. <span xml:id="recogito-9b2d816d-9b26-40ef-9ffa-dff2ed471d11" ana="#typo">
+ואיי</span>
+ מאמינים אלא באלוה יחזקאל.
+ וכן קוראים לו כל הישמעאלים:</seg><seg> וכמהלך יום או
+חצי יום מ<placeName ref="geo-kima.org/place/662" xml:id="recogito-b5d3101e-7d16-4a43-8f75-142b0c7dc3e3" cert="high">
+בגדת</placeName>
+ קברו של יחזקאל במדבר. וישנו
+ביד החרמים: והעיר קרובה כמיל לקבר. וביד
+היהודים המפתחות: וסביב ל<placeName xml:id="recogito-33cfcfa2-2029-4cc5-8b91-7a522362e935" cert="unknown">
+קבר יחזקאל</placeName>
+ מוקף
+חומה ועיר גדולה. וחצר גדול: ולחומה אין שער
+כי אם שער קטן וקצר. והיהודים פותחין השער
+ונכנסין בו על ידיהם ועל רגליהם כי נמוך הוא:
+ובחג הסוכות באין מכל הארצות שמה: והפתח
+מרחיב ומגביה מאליו את עצמו. עד שנכנסין בו
+עם הגמלים: ובאין שם כששים או כשמונים אלף
+
+<pb n="26"/>
+
+יהודים לבד מישמעאלים. ועושין סוכות בחצרו
+של יחזקאל: ואחר כך מקטין הפתח כבתחילה:
+וכלם רואים. ונותנין נדרים ונדבות על קברו: וכל
+מי שהוא עקר או עקרה או בהמתו עקרה. נודר
+ומתפלל על קברו: ואמרו ל<persName xml:id="recogito-4ce89997-fca9-49e8-a87b-733872507507">
+רבי פתחיה</persName>
+. שהיה
+לשר אחד סוסיא ונתעקרה. והיה כמהלך ארבעה
+ימים מ<placeName xml:id="recogito-c197de99-5c6e-463f-8cc3-be077c02b2e9" cert="unknown">
+קבר יחזקאל</placeName>
+: ונדר, אם תלד הסוסיא יתן
+הולד ליחזקאל: ואחר ימים ילדה. וראה כי הוא
+טוב וחמל עליו ולא נתנו ליחזקאל: וברח לו הולד
+של הסוסיא מעצמו. ונכנס לתוך חצרו של יחזקאל.
+ונתרחב השער עד שנכנס. והיה השר מחפש בכל
+מקום הסוס ולא מצא. עד ששם אל לבו ואמר
+בשביל שנדרתיהו לתת ליחזקאל הצדיק ברח
+לקברו: הלך שם ומצאו שם. ורצה להוציאו. ולא
+יכול כי הפתח נמוך: אמר יהודי אחד. אינו אלא
+על הנס שנכנס הנה. שמא נדרת אותו לצדיק:
+והודה לו ואמר נדרתי לו. ומה אעשה שאוציאנו:
+אמר היהודי קח כסף ושים על קברו. אם תשים
+שויו ויצא הסוס: ונתן הכסף מעט מעט. עד שנתן
+שויו ונתרחב הפתח ויצא:
+ו<persName xml:id="recogito-07a3b072-9263-48db-b0af-e51c1ce73c07">
+רבי פתחיה</persName>
+ הלך על <placeName xml:id="recogito-22dc3b00-ef00-4913-aa53-57a320a12347" cert="unknown">
+קבר יחזקאל</placeName>
+. והביא בידו
+זהב וגרעינין של זהב: ונפלו מידו הגרעינין. ואמר.
+
+            
+
+<pb n="28"/>
+
+אדוני יחזקאל לכבודך באתי. ויפלו ממני הגרעינין
+ונאבדו. בכל מקום שהן יהיו שלך. והיה נראה
+בעיניו רחוק ממנו כמין כוכב. והיה סבור שמא
+אבן טובה. והלך וראה ומצא הגרעינין. ונתנם על
+<placeName xml:id="recogito-43c18a2b-7988-4e48-a7aa-9e0afb71f028" cert="unknown">
+קבר יחזקאל</placeName>
+: וכל ישמעאלי שהיה הולך על <placeName ref="dare.ht.lu.se/places/27108" xml:id="recogito-1c5d9f3d-4edd-442c-b1d7-ba06b03026a7" ana="#reference" cert="high">
+קבר
+מחמט</placeName>
+ הלך דרך <placeName xml:id="recogito-ba4e84be-3fb7-45bc-8308-c9713fb81ec1" cert="unknown">
+קבר יחזקאל</placeName>
+. ונתן מתנה ונדבה
+ליחזקאל: ונודר ומתפלל ואומר. אדונינו יחזקאל.
+אם אשוב אתן לך כך וכך: ודרך מדבר הולכים
+שם בארבעים יום. ומי שיודע בדרך הולך בעשרה
+ימים מקבר יחזקאל עד נהר סמבטיון: וכל מי 
+שרוצה לילך בארץ מרחקים מפקיד כיסו או שום
+חפץ ליחזקאל. ואומר אדונינו יחזקאל שמור לי
+חפץ זה עד שאשוב. ואל תניח שום אדם לקחתו
+אלא יורשיו: וכמה כיסים של ממון מונחים שם
+שנרקבו. לפי שכמה שנים מונחים שם: והיו שם
+ספרים. ורצה אחד מן הריקים להוציא אחד מן
+הספרים. ולא היה יכול כי אחזוהו יסורים ועורון.
+ולכן מתיראים כל העולם מיחזקאל: וכל מי שלא
+ראה בנין פלטין שלו הגדול על קברו. לא ראה
+בנין יפה מעולם: ובפנים מחופה זהב: ועל הקבר
+סיד גבוה כאדם. ועל הסיד סביב ועל גביו בנין
+של ארז מוזהב. ועין לא ראתה דוגמתו: ויש לו
+חלונות. שאדם מכניס ראשו ומתפלל: ולמעלה
+עשויה כיפה גדולה של זהב ומעילים יפים
+
+            
+
+
+<pb n="30"/>
+
+מקיפים מבפנים. וכלי זכוכית בתוכו יפים מאוד:
+ושלשים נרות של שמן זית דולקים שם יומם ולילה.
+וקונים מן המתנות שנותנים שם שמן הזית.
+ומדליקין עליו שלשים הנרות: ויש ממונים על
+המתנות שנותנים על קברו כמאתים פרנסין, זה
+ממונה אחר זה: ומאותו ממון שנותנים על קברו
+מתקנים בית הכנסת שצריך תיקון. ומשיאין בו
+יתומים ויתומות. ופרנסין התלמידים שאין להם
+במה להתפרנס:</seg>
+              <seg>
+וב<placeName ref="geo-kima.org/place/662" xml:id="recogito-99e0a479-1759-49d3-8199-a72e6ae0a233" cert="high">
+בגדת</placeName>
+ יש שלשה בתי כנסיות לבד מבית  הכנסת
+שבנה דניאל במקום שעמד המלאך על שפת היאור
+מזה אחד ומזה אחד. כמו שכתוב בספר דניאל:</seg>
+              <seg>
+ובהיות <persName xml:id="recogito-d261678d-ffc7-4441-bc66-4315ac621911">
+רבי פתחיה</persName>
+ על <placeName xml:id="recogito-afb295a8-1aad-4806-9304-40e8c4f8293f" cert="unknown">
+קבר יחזקאל</placeName>
+. ראה בביתו
+עוף שפניו כפני אדם: והיה הפרנס השוער מצטער.
+ואמר מסורת בידינו מאבותינו. כל בית שזה העוף
+נמצא בו יהיה חרב: וראה שכשרצה העוף לצאת
+מהחלון נהפך העוף ומת. ושמח הפרנס השוער
+מאוד. ואמר מאחר שמת העוף נהפכה הגזירה:
+ואמר ראש הישיבה ל<persName xml:id="recogito-372fd6ac-83fb-4d1f-82ba-8970d1d0adb6">
+רבי פתחיה</persName>
+. שבימי קדם היה
+עמוד אש על <placeName xml:id="recogito-d3793db2-ccb9-4c2e-b7f4-720ef22b5069" cert="unknown">
+קבר יחזקאל</placeName>
+. אלא שבאו בו פריצים
+וחיללוהו. שהיו באים בחג הסוכות לרגל בשמונים
+אלף. והיו ביניהם אנשים שאינם הגונים. ונסתלק
+עמוד האש: ובאותו חצר עושין סוכות ואצל בית
+הקברות:
+
+              </seg><seg>
+<pb n="32"/>
+
+ו<placeName ref="geo-kima.org/place/1412" xml:id="recogito-a8b6a5e8-58b9-41f5-9465-30895003cea3" cert="high">
+נהר פרת</placeName>
+ ו<placeName xml:id="recogito-64a48aa7-550e-4bef-bb0a-242b4f97897c" cert="unknown">
+נהר כבר</placeName>
+ נופלין זה בזה וניכרים:
+ומעבר ל<placeName ref="geo-kima.org/place/1412" xml:id="recogito-02ad3fd5-74aa-4222-a223-20521379e2b8" cert="high">
+נהר פרת</placeName>
+ כמיל נגד <placeName xml:id="recogito-1e258cd5-3ed1-45ad-83a3-71f1bed8adf0" cert="unknown">
+קבר יחזקאל</placeName>
+ <placeName xml:id="recogito-ff27f1be-1f85-46f7-aace-81ba9c6de506" cert="unknown">
+קברי
+חנניה מישאל ועזריה. וכל אחד לבד, ועזרא
+הסופר</placeName>
+                (גם הוא קבור שם:</seg><seg>) וחזר ובא בשני ימים
+עד <placeName ref="geo-kima.org/place/3373" xml:id="recogito-120edc08-ba47-4dd0-8416-4ef0ae8b04d8" cert="high">
+נהרדעא</placeName>
+: והעיר כמהלך שלשה ימים. והכל
+חרב. ובקצה העיר יש קהילה: והראה חותם של
+ראש הישיבה. והראו לו כנישתא דשף ויתיב:
+ושלש חומותיה מאבנים. וחומה מערבית על נהר
+פרת כל החומה אין לה לא אבן ולא לבינה. אלא
+הכל מעפר שהביא עמו יכניה: ואין גג לאותו בית
+הכנסת. כי הכל חרב: ואמרו לו היהודים.
+שבלילה רואים עמוד אש יוצא משם והולך עד
+קבר ברוזק שכתבנו לעיל:</seg><seg> וחזר שמה ובא לעיר
+ששמה <placeName xml:id="recogito-13b763e9-317c-4449-9e6f-448df7ff240d" cert="unknown">
+מילה</placeName>
+. ושם <placeName xml:id="recogito-cacbbce6-5d8b-44f2-9262-c5088addc9c0" cert="unknown">
+קברו של רבי מאיר</placeName>
+. הוא
+רבי מאיר דמתניתין: ויש לפני העיר אצל המים
+שדה. ובאותו השדה יש הקבר: והנה הפרת
+רבה לעלות על קברו, ולקחו מן הממון שנודרין
+היהודים והישמעאלים. ובנו עליו עיר סביב
+לקברו ומגדלים בתוך המים. ובית יפה על קברו:
+והישמעאלים קורין אותו <placeName xml:id="recogito-ca97e27f-a475-4d61-bd98-32deb1d22b0a" cert="unknown">
+חנוק</placeName>
+. מפני שפעם אחת
+בא השלטון וחמס אבן אחת ממעלות שעולין בהן
+לקברו: ובלילה בא אליו רבי מאיר בחלום. ותפס
+
+<pb n="34"/>
+
+אותו בגרונו ורצה לחנקו. ואמר לו למה גזלת
+אבן שלי. וכי אינך יודע שאני צדיק ואהוב
+למקום: אז בקש ממנו מחילה: ואמר לא אעשה
+עד שתשאנה אתה בעצמך על כתיפך לעין כל.
+ותאמר רשעתי שגזלתי אדוני הצדיק: למחר נשא
+האבן על כתיפו לעין כל והחזירה למקומה. ואמר
+רשעתי שגזלתי אדוני הצדיק: ויראים ממנו
+הישמעאלים ומשתחוים שם על קברו. ונותנין לו
+מתנות ונודרים שאם יחזרו בשלום נותנין לו
+כך וכך:
+ובכל מקום שהראה <persName xml:id="recogito-0243086f-771f-4d1b-9a88-83340cfaea02">
+רבי פתחיה</persName>
+ חותם של ראש
+ הישיבה. מיד יוצאים ברמחים ומתיירין אותו:</seg><seg>
+ומ<placeName xml:id="recogito-7e4aa098-5495-4fdd-bfe5-0a9cfc06708a" cert="unknown">
+קבר יחזקאל</placeName>
+ עד <placeName xml:id="recogito-df213ebd-a674-490d-be64-e97fdb7de3ad" cert="unknown">
+קבר ברוך בן נריה</placeName>
+ רחוק
+מיל. ומקבר ברוך עד <placeName xml:id="recogito-9ce06058-5740-4a98-8445-e062c76c6cb6" cert="unknown">
+קבר נחום האלקושי</placeName>
+ כארבע
+פרסאות: ובינתיים באמצע <placeName xml:id="recogito-58d74266-3999-400e-9892-d0d4c39c8773" cert="low">
+קבר של אבא אריכא</placeName>
+.
+וקברו ארוך שמנה עשרה אמה: וחמשה מן
+האמוראים קבורים שם: ורחיים שעשה <persName xml:id="recogito-7126d837-b3cf-4651-b921-d83e0b148088">
+רבא</persName>
+
+לתלמידים היא שם בלי מים. והיו טוחנין בה
+בימיו. ובית יפה עליה: ויש להם מסורת. שיודעים
+קברי הנביאים ואמוראים חמש מאות וחמשים.
+כמנין שרי״ם: וכשיש קהילה סמוך לקבר של
+
+<pb n="36"/>
+
+צדיק אחד פורשים כלי מילת על הקבר:
+וכשרחוקים משם פורשים מחצלת על הקבר שאין
+בית עליו: ועל רוב הקברים שעליהם בגד או
+מחצלת נחש כרוך תחת המחצלת. ששומר
+הקבר: ואומרים לו. כשתגביה המחצלת שמור
+מן הנחש: וראש הישיבה כתב לו מי הם אותן
+האמוראים שקבורים שם: ושכח הכתב ב<placeName ref="geo-kima.org/place/1869" xml:id="recogito-29878138-6e9d-4b30-9691-d6840edfe32f" cert="high">
+ביהם</placeName>
+   :</seg><seg>
+והוא בא מ<placeName ref="geo-kima.org/place/1869" xml:id="recogito-25cf6992-88ff-4659-ae6f-6bbe0782264c" cert="high">
+ביהם</placeName>
+ הנה. וסיפר שכל מה שהלך
+מ<placeName ref="geo-kima.org/place/1869" xml:id="recogito-03e4bd05-947f-4013-8931-1e14a24b6378" cert="high">
+ביהם</placeName>
+ הכל למזרחו של עולם. <placeName ref="geo-kima.org/place/1869" xml:id="recogito-2ba99fae-ac22-4e2d-bd8d-2fe74c3f9752" cert="high">
+ביהם</placeName>
+ מזרח
+ל<placeName ref="geo-kima.org/place/7275" xml:id="recogito-99400e88-5868-4359-87d3-2cdee4b2247e" cert="high">
+רעגנשפורג</placeName>
+. <placeName xml:id="recogito-ae98dc24-7258-4deb-a665-5c7edf801e3c" cert="unknown">
+רוסייא</placeName>
+ מזרח ל<placeName xml:id="recogito-0d3c8c5e-afaa-4ca3-83cf-597a72992af7" cert="unknown">
+פולין</placeName>
+: ומשם פנה
+למזרח.</seg><seg> והלך בששה ימים עד <placeName xml:id="recogito-756ebe44-008f-4995-88a4-41e9c4b08149" cert="unknown">
+קברו של אדונינו
+עזרא הסופר</placeName>
+: ואמרו. כי בימי קדם היה קברו של
+<persName xml:id="recogito-fe7b9e61-73ec-4a38-9337-a6d70c24778b">
+עזרא הסופר</persName>
+ נשבר: ובא רועה אחד, וראה תל
+וישן עליו: ובא לו בחלום. אמור לשלטון אני
+<persName xml:id="recogito-7e3f21b3-d107-4227-acd7-ae9e1b5ff69f">
+עזרא הסופר</persName>
+, שיקחני על ידי היהודים וישימני
+במקום פלוני. ואם לאו כל בני עמו ימותו: ולא
+חש לאותו דבר. ומתו הרבה: והביאו יהודים.
+וחפרו בכבוד: והיה באבני שיש. ועל השיש
+לוח חקוק עליו אני <placeName xml:id="recogito-2443c2de-0de6-453a-ae39-2de4c6789f2c" cert="low">
+עזרא הסופר</placeName>
+, וקברוהו
+במקום שאמר לרועה: ועשו פלטין על קברו:
+ובשעה אחת עשרה עמוד אש יוצא מקברו עד
+לרקיע. שעה אחת עשרה ביום ושעה שתים
+
+<pb n="38"/>
+
+עשרה: וגם נראה בשעה ראשונה של לילה.
+והולכין שלש או ארבע פרסאות באור של העמוד:
+וכל הישמעאלים משתחוים שמה: והמפתחות מן
+הבתים שעל הקברים המה בידי היהודים.
+והיהודים לוקחים הנדרים ומשיאין בהם יתומים
+ויתומות. ומפרנסין התלמידים ומתקנין בתי כנסיות
+של עניים:</seg><seg>
+וקודם שהלך לקברו של עזרא הלך בשמונה
+ימים ל<placeName ref="geo-kima.org/place/2448" xml:id="recogito-3b6891e5-dc30-426a-b885-01ed44d2141b" cert="high">
+שושן הבירה</placeName>
+. ואין בה אלא שני יהודים
+(צבעים): והראה חותם של ראש הישיבה. והראו
+לו את <placeName xml:id="recogito-f223b1c0-1bb3-493f-a6da-d3ad24b8b445" cert="low">
+ארונו של דניאל</placeName>
+: ומתחילה היה קבור
+בצד אחד על הנהר, והיה שם שובע גדול
+והצלחה וברכה: והיו בעבר הנהר בצד האחר
+אומרים. בשביל שאין הצדיק קבור בחלקנו
+לפיכך אין ארצנו מבורכת: והיו מלחמות גדולות
+תדיר ביניהם. וגזלו אלו את הארון גם חזרו אלו
+וגזלוהו, עד שבאו זקנים ועשו פשרה ביניהם:
+ולקחו הארון. ועשו עמודי ברזל גבוהים בתוך
+הנהר. ותלוהו עליהם בשלשלאות של ברזל:
+והארון הוא נחושת קלל. והוא באמצע הנהר
+עשר אמות גבוה מן המים. ורואין אותו למרחוק
+בזכוכית יפה: ואמרו היהודים. כל ספינה
+ההולכת תחת הארון אם הן זכאין ילכו לשלום.
+ואם לאו תטבע במים: ויראים לעבור שם: ואמרו
+
+            
+
+
+<pb n="40"/>
+
+לו שתחת <placeName xml:id="recogito-a7e1e0a9-57bb-4e6d-8c50-a91c1be18383" cert="low">
+ארונו של דניאל</placeName>
+ יש דגים נזמים של
+זהב באזניהם: והוא לא עבר תחת ארונו. אלא
+עמד על שפת הנהר וראה הארון:</seg><seg>
+וחזר ל<placeName ref="geo-kima.org/place/662" xml:id="recogito-191f13aa-f916-450d-afc6-905e14ea6c86" cert="high">
+בגדת</placeName>
+. והראו לו גמלא פרחא. דנמיך
+הוא ורגליו דקין. וכשחפץ האדם לרכוב עליו
+קושרו עליו שלא יפול: ו<span xml:id="recogito-8fcc476a-0514-44ae-9fec-e3f3ce81e7ba" ana="#typo">
+הרוכב מהלך ה</span>
+
+שאדם הולך בחמשה עשר ימים. הולך על גמלא
+פרחא ביום אחד: ויותר היה יכול לרכוב. אלא
+שאין האדם יכול לסבול. וברגע אחר מדלג מיל:
+והראו לו <placeName xml:id="recogito-79c391e8-1a3a-49d4-afc2-e1432ea1ec61" cert="unknown">
+שערי בגדת</placeName>
+. והשערים גבוהים מאה
+אמות ורחבם עשר אמות: והם של נחושת קלל
+ומצוייר, שאין אדם יכול לעשות דוגמתו: ומסמר
+אחד נפל ממנו. ואין אומן יודע לתקוע בו אותו
+מסמר: ומתחלה היו הסוסים נרתעים לאחוריהם
+כשרואין (השערים.) מפני שרואין זוהר הנחושת
+והסוסים נראים להסוסים כרצים לקראתם וברחו:
+ולקחו חומץ והרתיחו ושפכו על השערים.
+להעביר זוהר הזהב של נחושת הקלל. בשביל
+הסוסים שיכנסו: ונראה (זוהר הנחושת) למעלה
+מעט. שלא נשפך החומץ עליו: והשערים האלו
+הם משערי <placeName ref="geo-kima.org/place/691" xml:id="recogito-9ba8672c-5380-434b-b7dd-90eade7bed03" cert="high">
+ירושלים</placeName>
+: וראש הישיבה יש לו כמה
+עבדים. ומי שלא יעשה במהרה הציווי יכוהו.
+ויראים ממנו: והוא צדיק ועניו ומלא תורה:
+
+            
+
+
+<pb n="42"/>
+
+ולובש בגדי זהב וצבעונין כמלך: ופלטין שלו
+ביריעות של מילת כמלך:</seg><seg>
+והלך בשני ימים מ<placeName ref="geo-kima.org/place/662" xml:id="recogito-07c2e1f0-5867-4187-b816-dd062aa44bc3" cert="high">
+בגדת</placeName>
+ עד קצה <placeName ref="geo-kima.org/place/3526" xml:id="recogito-a7e4ef62-5527-4741-a67a-e66ce38e6eea" cert="low">
+בבל</placeName>
+ הישנה.
+והנה <placeName xml:id="recogito-a3bef0f3-3461-4675-8034-f89c546afb43" cert="unknown">
+ביתו של נבוכדנצר</placeName>
+ חרב כלו. ואצל ביתו
+עמוד ו<placeName xml:id="recogito-b7cc4e3e-d3cc-42c9-b38d-63b3f52120b0" cert="low">
+ביתו של דניאל</placeName>
+ כאילו הוא חדש: ובמקום
+מושבו של דניאל יש אבן. ובמקום רגליו שיש.
+ואבן אחד למעלה. שהספר מונח עליו שכתב
+משם: ובכותל שבין (בית) דניאל לבית נבוכדנצר
+חלון קטן שהיה משליך בו כתבים. ומעלות למטה.
+שהיו יושבים לפניו שלשים חכמים כשרים: ואצל
+מקום מושבו לימינו תקועה אבן. ואמרו מסורת
+בידינו ששם כלי בית המקדש טמונים: ופעם אחת
+באו שלטונים לחפור מפני שהוגד להם. וכשלקחו
+האבן נפלו מתים. לפיכך לא לקחו כלום משם:
+ויצאו מאותו חדר. והעלוהו בעובי החומה
+במדריגות לעיליתיה שהיה מתפלל בה דניאל.
+והפתח מוטה שמכוון נגד <placeName ref="geo-kima.org/place/691" xml:id="recogito-4a88b4c2-6bf7-4f27-908c-6f6cd63a7368" cert="high">
+ירושלים</placeName>
+. וכך נעשה
+באומנות שלא היה אדם יכול להגיד:
+וחזר ואמר שלא ראה אשה כל זמן שהיה
+ב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-e54d063c-6406-4a73-b240-5195d4211739" cert="low">
+בבל</placeName>
+. מפני שמכוסות וצנועות הן: וכל אחד
+ואחד יש לו מקוה בחצרו, ואינו מתפלל עד
+
+            
+
+
+<pb n="44"/>
+
+שיטבול: והולכי דרכים שם הולכים בלילה מפני
+החמימות: ובימות החורף גדל הכל שם כבימות
+הקיץ בכאן: ומלאכתם רובה בלילה: ובכל ממש
+עולם אחר. ועסקיהם בתורה וביראת שמים: ואף
+הישמעאלים נאמנים: וכשהסוחר הולך שמה נותן
+הסחורה בבית אחד. והולך לו: ומביאין אותה
+הסחורה בכל מקום על השוקים. אם רוצים לתת
+כמו שדבר הסוחר הרי טוב. ואם לאו יראו
+הסחורה לכל התגרים: ואם רואה שיתקלקל.
+ימכור אותה: והכל בנאמנות:
+וב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-e19f34f4-fe4b-425a-ad96-dcf14587cacc" cert="low">
+בבל</placeName>
+ יש שלשים בתי כנסיות. לבד משל
+דניאל: ואין חזן שם. ולמי שיצוה ראש הישיבה
+להתפלל מתפלל: אחד אומר ביחיד מאה ברכות.
+ועונין אחריו אמן: ואחר כך יעמוד אחד ויאמר
+ברוך שאמר בקול רם. ויעמוד אחר ויאמר כל
+השבחות: ומסייעין אותו הקהל: וקולו נשמע
+למעלה מכולם כדי שלא ימהרו. והכל אחריו:
+ואומר ישתבח קודם ויושע. ואחר כך מתפלל
+וחולקים התפלה לכמה חזנים: ולא ידבר אחד עם
+חבירו בבית הכנסת ועומדים בתרבות: והכל בלא
+מנעלים בבית הכנסת יחפים: וכשלומדים וטועים
+עצמם בניגון מראה להם ראש הישיבה באצבע.
+
+            
+
+
+<pb n="46"/>
+
+ומבינים היאך הוא הניגון: ויש בחור שיש לו קול
+נעים. ואומר מזמור בקול נעים: בחולו של מועד
+אומרים המזמורים בכלי שיר. ויש מסורות באיזה
+ניגונים. (ואל עשור) יש להם עשר ניגונים. ואל
+השמינית שמונה ניגונים. ועל כל מזמור יש כמה
+ניגונים:
+וכשהיה <persName xml:id="recogito-3f36a9e8-070d-4b8d-a615-6077e6b8dd32">
+רבי פתחיה</persName>
+ ב<placeName xml:id="recogito-f2cdcbce-ee48-4356-bb6f-3bc2c7229552" cert="unknown">
+עיליתיה דדניאל</placeName>
+ הראו לו
+גוב אריות עמוק מאוד. וכבשן האש חציו מלא
+מים: ומי שיש לו חולי קדחת רוחץ וטובל בו.
+והוא מתרפא:</seg><seg>
+ועוד כשהיה ב<placeName ref="geo-kima.org/place/662" xml:id="recogito-d3600c95-e760-441d-9357-926fe9f2a3a1" cert="high">
+בגדת</placeName>
+ ראה שלוחים של מלכי
+<placeName xml:id="recogito-adc4d180-3467-471c-bff5-5c671fffeb16" cert="unknown">
+משך</placeName>
+. כי <placeName xml:id="recogito-d67956e5-08ac-487c-8acc-26274a45827b" cert="unknown">
+מגוג</placeName>
+ רחוק משם כמהלך עשרה ימים.
+והארץ מושך עד הרי חושך. ומעבר להרי חושך
+בני <persName xml:id="recogito-d9409713-3e63-495e-8891-8c1e18af1d42">
+יונדב בן רכב</persName>
+: ולשבעה מלכי <placeName xml:id="recogito-ad7b3189-4768-4251-b227-41e2c1a51c89" cert="unknown">
+משך</placeName>
+ בא מלאך
+בחלום. שיניחו דתיהם וחוקותיהם ויתפשו בתורת
+<persName xml:id="recogito-2699a939-a3ed-4f57-8992-8b682dd1d39c">
+משה בן עמרם</persName>
+. ואם לא יחריבו את ארצם:
+ונשתהו עד שהתחיל המלאך לשחת את ארצם:
+ונתגיירו מלכי <placeName xml:id="recogito-ed368c39-144d-4f74-939c-af4c461cd88a" cert="unknown">
+משך</placeName>
+ וכל ארצם. ושלחו לראש
+הישיבה שישלח להם תלמידי חכמים: וכל מי
+שהוא עני ותלמיד חכם הולך שמה: ללמדם ואת
+בניהם התורה ותלמוד הבבלי: ומ<placeName xml:id="recogito-63f8ecbb-8918-44e0-ac82-6f18d2899c03" cert="unknown">
+ארץ מצרים</placeName>
+
+הולכים התלמידים שמה ללמוד: והוא ראה גם
+
+            
+
+
+<pb n="48"/>
+
+השלוחים הולכים ל<placeName xml:id="recogito-886a873e-4a19-49d8-b9bc-536c61918989" cert="unknown">
+קבר יחזקאל</placeName>
+. כששמעו הנסים
+<span xml:id="recogito-2109dd02-fb1a-4505-8fef-684209a898ef" ana="#typo">
+  </span>והמתפללים שם נענים:</seg><seg>
+ואמר הרב רבי פתחיה. שהרי אררט רחוקים
+
+מ<placeName ref="geo-kima.org/place/3526" xml:id="recogito-e93bbaa0-19d5-4cc4-a8b7-6ebf77cfe8ae" cert="low">
+בבל</placeName>
+ מהלך חמשה ימים: ו<placeName xml:id="recogito-84519531-ba7e-4bc0-b0da-b31bf2bcee68" cert="low">
+הרי אררט</placeName>
+ גבוהים.
+והר אחד גבוה ולמעלה ממנו ארבעה הרים. שנים
+כנגד שנים: ונכנסה תיבת נח בין אותן ההרים.
+ולא יכלה לצאת משם: ואין התיבה שם. אלא
+נרקבה: וההרים מלאים קמשונים ועשבים.
+וכשירד הטל עליהם ירד מן עליהם. וחם השמש
+ונמס: ומה שמלקטין בלילה. אם הוא ממתין
+הוא נימוס: אלא לוקחין המן עם הקמשונים ועם
+העשבים. וחותכין אותם. כי קשים הם מאוד:
+והוא לבן כשלג: והעשבים והקמשונים מאוד
+מרים: וכשמבשלין אותם עם המן יהיו מתוקין
+מדבש ומכל מיני מתיקה. ואם היו מבשלין אותו
+בלא קמשונים. איבריו היו מתפרדות מרוב
+המתיקה. והם כגרעינים קטנים. ונתנו לו לאכול
+מעט. ונמס בפיו: והיה מתוק. ונכנס בכל איבריו.
+ולא היה יכול לסבול המתיקה:</seg><seg>
+וכשהלך <persName xml:id="recogito-1a4cd26d-adb8-447d-941b-9907013f5e4a">
+רבי פתחיה</persName>
+ על <placeName xml:id="recogito-53ca7d80-642b-45da-acfc-b90095f6ae9d" cert="unknown">
+קבר יחזקאל</placeName>
+. ראה
+<placeName xml:id="recogito-bb8bfc4e-1dbc-4b86-b8dc-355a81e40675" cert="unknown">
+מגדל של דור הפלגה</placeName>
+. וכלו נפל. והוא הר גבוה
+(מאוד) תל עולם. והעיר לפניו חרבה:
+
+</seg><seg>
+
+<pb n="50"/>
+
+והמלך שהיה בימי <persName xml:id="recogito-35901e83-1fac-4ab8-8051-c2fb28d54820">
+רבי שלמה</persName>
+ אביו של רבי
+דניאל ראש גולה. כשראה הנוגה שיצא מקבר
+<persName xml:id="recogito-83e179b0-1686-475d-96a0-157a2b61a9f6">
+ברוך בן נריה</persName>
+. וטליתן נראה מעט בין שני אבני
+שיש יפה וזוהר גדול. הלך לעיר <placeName ref="dare.ht.lu.se/places/27108" xml:id="recogito-376de8ab-3ab0-4b84-872b-594ff2249961" cert="high">
+מק</placeName>
+ ששם קבר
+<persName xml:id="recogito-d0a7c2f3-3f58-4548-8386-294027ad18fa">
+מחמט</persName>
+ לראותו בקברו, והנה הא פגר מובס
+ונרקב. וריח רע עולה מקברו שלא היה אדם
+יכול לסבול: ואמר לכל עמו. שאין ממשות לא
+ב<persName xml:id="recogito-0afb103b-0703-46f7-81dc-c91fc92ed424">
+מחמט</persName>
+ ולא בדתו. והם רואים ש<persName xml:id="recogito-17d23328-3c99-4db8-bbd9-93fb1a5dbb95">
+ברוך בן נריה</persName>
+
+שלם וטליתו יוצא מקברו. והוא תלמיד לנביא.
+והישמעאלים שהיו חופרים היו מתים. והיהודים
+לא הוזקו. לכך ידענו שהיהודים תופסים תורה
+של <persName xml:id="recogito-6aa69dc8-4e9f-4e11-a4e9-e5fa0c8be4dc">
+ברוך בן נריה</persName>
+: ולא הספיק לגייר הוא וכל
+עמו עד שמת. ונתבטלה הגזירה שרצה לגייר
+כל עמו:</seg><seg>
+ו<placeName xml:id="recogito-55e036a9-8d04-42f6-af16-34b2f3f5b2e2" cert="low">
+עזרא הסופר</placeName>
+ (קבור) בסוף ארץ <placeName ref="geo-kima.org/place/3526" xml:id="recogito-6f90dcd4-97f5-4c3d-810a-a5f1e138c994" cert="low">
+בבל</placeName>
+: וכשעמוד
+האש על קברו אין רואין הבית אשר בנוי עליו.
+מפני הזוהר שעל קברו:</seg><seg> ואחורי <placeName xml:id="recogito-ecf8d551-9f5e-4e9d-819f-f05ee8ae6b20" cert="unknown">
+עיליתיה דדניאל</placeName>
+
+פרדס נאה. והתמרים עדיין עומדים גם הבאר
+שלו: ומי (ממנו) שהיה שם מעט היה מבין לשונם.
+כי קרוב הוא ללשוננו או לתרגום. כגון דרוך
+דֶרֶך, לחום לֶחֶם: ובארץ ישמעאל גדל הזהב
+כעשבים: ובלילה רואין זוהרו. ועושין סימן בעפר
+
+
+
+<pb n="52"/>
+
+או בסיד. ולמחר באין ולוקטין העשבין שהזהב
+עליהם: והזהובים מצויים שם. ויש להם זהב
+הרבה:</seg><seg>
+והחזיר פניו למערב. וחזר ל<placeName ref="geo-kima.org/place/2804" xml:id="recogito-87f48c27-9cfa-4d04-b4e4-bf3be610e5bf" cert="high">
+  נינוה</placeName></seg><seg>
+: ומ<placeName ref="geo-kima.org/place/2804" xml:id="recogito-5a99580d-2d9a-4a18-9e2d-0cb56e14940e" cert="high">
+נינוה</placeName>
+
+ל<placeName ref="geo-kima.org/place/22186" xml:id="recogito-a9cc0fc9-c826-42f8-bb35-dd781d7f88e8" cert="high">
+נציבין</placeName>
+. ושם <placeName xml:id="recogito-762efc6d-5b98-4799-b9d8-db2919e32f9a" cert="unknown">
+בית הכנסת שבנה עזרא</placeName>
+. ועל האבן
+חקוק <persName xml:id="recogito-57116c17-5f45-43e4-b3b5-3cb660667fde">
+  עזרא הסופר</persName></seg><seg>
+: והלך ל<placeName ref="geo-kima.org/place/17893" xml:id="recogito-766faaa6-37e6-4c7e-ba4f-c38912bdf707" cert="low">
+חרן</placeName>
+ ול<placeName xml:id="recogito-d16f775a-8873-4121-bf53-9f6cb5010164" ana="#typo" cert="unknown">
+ארם
+נהרים</placeName></seg><seg>
+: ויש ב<placeName ref="geo-kima.org/place/22186" xml:id="recogito-eb2ff579-427c-459f-8625-22e6891c3d9c" cert="high">
+נציבין</placeName>
+  כשמונה מאות יהודים:</seg><seg>
+ומשם ל<placeName ref="geo-kima.org/place/1257" xml:id="recogito-c99ca7f7-c98d-4c29-96b8-eb5cd6e8dae9" cert="high">
+חמת</placeName>
+: וכל הערים הגיד שמם. וכמה ימים
+הלך מזו לזו, ואין צורך לכתוב:</seg></ab><ab><seg> ומשם ל<placeName ref="geo-kima.org/place/794" xml:id="recogito-61bd4a55-a369-472b-b54c-473d2f9830c0" cert="high">
+חלב</placeName>
+.
+היא <placeName ref="geo-kima.org/place/794" xml:id="recogito-5ada5237-8935-471f-bad9-6a5887c1e59f" cert="high">
+ארם צובה</placeName>
+: ולמה קורין אותה חלב. כי בהר
+היה צאנו של אברהם אבינו. ומעלות יורדות מן
+ההר: שמשם היה מושיט לעניים חלב: </seg><seg>והלך
+ל<placeName ref="geo-kima.org/place/939" xml:id="recogito-2d968b3c-f51a-4c60-a7ee-38a293a573d2" cert="high">
+דמשק</placeName>
+. והיא עיר גדולה. ומלך של מצרים
+מושל עליה: ושם <span xml:id="recogito-f8c182f1-3903-45a7-b15e-4b6f47e8cfca" ana="#typo">
+בעשרת</span>
+ אלפים יהודים. ונשיא
+להם: וראש ישיבה שלהם רבי עזרא מלא תורה.
+כי סמכו <persName xml:id="recogito-64e135ec-4707-4ea6-8bd8-e9f87681a385">
+רבי שמואל</persName>
+ ראש הישיבה מ<placeName ref="geo-kima.org/place/3526" xml:id="recogito-6fa35578-d354-47b2-b8e9-edc31742a78e" cert="low">
+בבל</placeName>
+: ו<placeName ref="geo-kima.org/place/939" xml:id="recogito-14c31638-6726-4d4c-b615-a8a44ebc6735" cert="high">
+דמשק</placeName>
+
+ארץ טובה בתוך גנות ופרדסים. וסילונות גבוהות
+שמהן מקלחים מים ובריכות גדולות מאוד.
+והמים טובים מאוד וכל מיני פירות ומגדים שם:
+ואומרים הישמעאלים. אם גן עדן בארץ אז <placeName ref="geo-kima.org/place/939" xml:id="recogito-d712121a-9afb-4f77-a67a-b613eaf5d188" cert="high">
+דמשק</placeName>
+
+הוא גן עדן. ואם בשמים הוא אז <placeName ref="geo-kima.org/place/939" xml:id="recogito-b61fd100-c80c-40bc-a435-17e880eebeef" cert="high">
+דמשק</placeName>
+ עומד
+ כנגדו בארץ מלמטה:</seg><seg> ומי שהולך ל<placeName ref="geo-kima.org/place/939" xml:id="recogito-d1788a93-10d9-4be6-9534-ce070de96b15" cert="high">
+דמשק</placeName>
+ רואה
+
+            
+
+
+<pb n="54"/>
+
+<placeName xml:id="recogito-a51eaf42-a3d1-43c5-8ef3-5bfc0d900424" cert="unknown">
+הר שעיר</placeName>
+ לצדדין. ו<placeName ref="geo-kima.org/place/4703" xml:id="recogito-3d1b3f3c-799c-4ff8-951a-bd2a7f65cb6b" cert="high">
+הר חרמון</placeName>
+ ו<placeName ref="geo-kima.org/place/21355" xml:id="recogito-b22f8946-fe50-4edc-896d-5762d2a8bb75" cert="high">
+הר הלבנון</placeName>
+. ובארץ
+<placeName xml:id="recogito-e1190bc6-9389-4746-a29f-081844c040f8" cert="unknown">
+סיחון</placeName>
+ ו<placeName xml:id="recogito-51be365c-d8bb-4074-90ff-9f219c6fd927" cert="unknown">
+עוג</placeName>
+ אין עשב וצמח. כמהפכת <placeName ref="geo-kima.org/place/4027" xml:id="recogito-9918a7d9-e0c6-49bf-a098-d7e22e8dd3d3" cert="low">
+סדום</placeName>
+ ו<placeName ref="geo-kima.org/place/5198" xml:id="recogito-324d2307-d7e7-47ce-8f7e-7024bc5d55b4" cert="high">
+עמורה</placeName>
+   :</seg><seg>
+וראה קבר ארוך שמונים אמה. ואמרו שהוא <placeName xml:id="recogito-a6ab8a90-b2ad-4458-8055-fccbe706bacc" cert="unknown">
+קבר
+של שם בן נח</placeName>
+     . אבל היהודים לא אמרו זה:</seg><seg>
+ול<placeName xml:id="recogito-e792fb86-c1fc-4f80-a121-563f748cb304" cert="unknown">
+סוריא</placeName>
+       כמהלך שני ימים.</seg><seg> ועובר הירדן במערה
+כמו שאמרו מ<placeName xml:id="recogito-802c241e-72f3-4b81-beb8-b59d1e60a9c8" cert="unknown">
+  מערת פמייס</placeName></seg><seg>
+: ובא ל<placeName ref="geo-kima.org/place/807" xml:id="recogito-d06df4af-e152-482d-8788-fac341acdf12" cert="high">
+טבריה</placeName>
+ ושם
+קהילה. כי גם ב<placeName ref="geo-kima.org/place/2501" xml:id="recogito-821f48fe-3a99-4e72-b17f-f58acd7fcf33" cert="high">
+ארץ ישראל</placeName>
+ יש קהילות. אלא
+שאין בהן אלא כמאה או כמאתים או כשלש
+מאות בעלי בתים: וב<placeName ref="geo-kima.org/place/807" xml:id="recogito-7bad3223-51dc-4230-bfd3-fd50b2ec12f0" cert="high">
+טבריה</placeName>
+ יש <placeName xml:id="recogito-da5c08a3-ccbc-4643-bf95-3a5496e9b4fb" cert="unknown">
+בית הכנסת
+שבנה יהושע בן נון</placeName></seg><seg>
+: וב<placeName ref="geo-kima.org/place/21812" xml:id="recogito-e3622a2e-e93c-44fa-958c-4ac5f9dd63fa" cert="high">
+צפורי</placeName>
+ קבור רבינו הקדוש.
+וריח טוב יוצא מקברו. וכשרחוקים מיל משם
+מריחין הריח הטוב היוצא מקברו: וקברים של
+<placeName ref="geo-kima.org/place/2501" xml:id="recogito-dfd24d3f-6c0c-4aff-a6b8-3f5509d4a032" cert="high">
+ארץ ישראל</placeName>
+ בכוכין. ולא של <placeName ref="geo-kima.org/place/3526" xml:id="recogito-602990d7-5e0d-4321-9f5c-14e3e526acf0" cert="low">
+בבל</placeName>
+. לפי שב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-ae7ff51b-b8dc-4d2f-98e4-650e402a4071" cert="low">
+בבל</placeName>
+
+מים מצויים. ואינם יכולים לחפור מערות עמוקות:
+ומזרע <persName xml:id="recogito-b420fa5c-255b-443d-81a3-1e922c3ea384">
+רבי</persName>
+ יש בחור ושמו <persName xml:id="recogito-9a7e642e-adeb-4a1c-a6d1-c04dbfdcf6c6">
+רבי נהוראי</persName>
+. ויש לו בן
+ושמו <persName xml:id="recogito-121d0ae2-f09b-4d93-bd88-72c23c73cfc1">
+רבי יהודה</persName>
+ על שם <persName xml:id="recogito-b9216334-d949-4951-877d-5988ee054464">
+רבי יהודה הנשיא</persName>
+. ויש
+לו ספר היחס עד רבי: ורבי נהוראי רופא ומוכר
+בשמים בשוק. ובניו לפניו בחנותו. ומכוסין שלא
+יראו לכאן ולכאן. והוא תלמיד חכם וצדיק:</seg><seg>
+ו<placeName ref="geo-kima.org/place/807" xml:id="recogito-67a82d13-5062-4e13-aa2d-2d463bf0fd9b" cert="high">
+טבריה</placeName>
+ ו<placeName ref="geo-kima.org/place/21812" xml:id="recogito-818b0c54-f7aa-4b1d-9b75-40e7bd5ff230" cert="high">
+ציפורי</placeName>
+ וכל הערים <span xml:id="recogito-71b714bf-1043-4f9f-8509-3c4e310b9380" ana="#typo">
+שבמישור. גליל</span>
+
+התחתון: </seg><seg>וראה <placeName xml:id="recogito-2b7798e6-1912-4ca0-b302-f20091e19445" cert="unknown">
+אושא</placeName>
+ ו<placeName ref="geo-kima.org/place/261" xml:id="recogito-ae6a0a2d-8848-49c1-b141-a3e63a63f436" cert="high">
+שפרעם</placeName>
+. שהיה <persName xml:id="recogito-5c2962e1-abee-49f7-b05f-180447aedf69">
+רבן
+גמליאל</persName>
+  במקום סנהדרין:</seg><seg> וב<placeName ref="geo-kima.org/place/71" xml:id="recogito-c0342b4e-e9a1-422f-bb98-5e26bdc9a414" cert="high">
+עכו</placeName>
+ יש יהודים
+
+            
+
+
+<pb n="56"/>
+  </seg><seg>
+וב<placeName ref="geo-kima.org/place/9637" xml:id="recogito-f43a35c1-6623-4e16-b32e-d68b72885d75" cert="low">
+יבנה</placeName>
+ יש <placeName xml:id="recogito-5c23f109-7cc8-4e3d-8ec2-d34e9155c951" cert="unknown">
+מעיין שנובע כל ששת הימים</placeName>
+. ובשבת
+אפילו טיפה אחת לא נמצאת בו:</seg><seg> ובגליל התחתון
+יש <placeName xml:id="recogito-303ccd2e-83c1-4a5d-ba42-3362b64b2935" ana="#reference" cert="low">
+מערה</placeName>
+<note target="recogito-303ccd2e-83c1-4a5d-ba42-3362b64b2935" resp="sinai">
+מערת הלל ושמאי</note>
+. ובפנים היא רחבה וגבוהה. מצד אחד
+של המערה קבורים <persName xml:id="recogito-ae73c0ce-3e4f-4b75-b964-6f334417da4f">
+שמאי</persName>
+ ותלמידיו. ומצד אחר
+<persName xml:id="recogito-e4278667-7879-4cf6-89e1-938b8e9fb863">
+הילל</persName>
+ ותלמידיו: ובאמצע המערה אבן גדולה
+חלולה כמו כוס. ונכנס בבית קיבולה כארבעים
+סאה ויותר: וכשבאין שמה אנשים הגונים יראה
+האבן מלא מים יפים. וירחץ ידיו ומתפלל. ויבקש
+מה שירצה: ואין האבן חלולה מתחת. כי המים
+אינם באים מן הקרקע. אלא נעשה לכבוד אדם
+הגון. ולאדם שאינו הגון לא יראו המים: ואם
+ישאבון מן האבן אלף כדים מים. לא יהיה חסר
+אלא מלא כהוויתו:</seg><seg>
+והלך ל<placeName ref="geo-kima.org/place/21521" xml:id="recogito-2883bd9e-77a4-44f5-b10a-6f3abcfa42a1" cert="high">
+גליל העליון</placeName>
+. ועמד בהרים: ושם <placeName xml:id="recogito-0ac85e51-d800-4dfd-8eea-2c86c1753e55" cert="low">
+ניתאי
+הארבלי</placeName>
+ ב<placeName xml:id="recogito-4cdace0a-ee2b-4e3d-bbb7-ae162dea1e8f" cert="unknown">
+ארבל</placeName>
+  :</seg><seg> ו<placeName xml:id="recogito-e294e811-8251-4cf1-9722-a14ad6e3b14d" cert="unknown">
+הר געש</placeName>
+ גבוה מאוד. ובו קבור
+<persName xml:id="recogito-cbdc54e7-8103-4593-ad95-aa6b903da839">
+עובדיה הנביא</persName>
+. ועולין בו במעלות שעשויין בהר:
+<placeName xml:id="recogito-53ed7fe0-14be-4beb-ac95-2d2f8027cc64" cert="unknown">
+ובאמצע ההר קבור יהושע בן נון. ואצלו כלב בן
+יפונה</placeName>
+: ואצלם נובע מעיין מים טובים מן ההר.
+ובנויים היכלות נאים אצל הקברים: וכל בנין
+<placeName ref="geo-kima.org/place/2501" xml:id="recogito-961700f7-9d53-4bbb-ab24-af3e1b9cce6a" cert="high">
+ארץ ישראל</placeName>
+    של אבנים:</seg><seg> ואצל היכל אחד ניכרת
+פסיעה אחת כאדם הפוסע בשלג. וזו היא שדרך
+
+            
+
+
+<pb n="58"/>
+
+בה המלאך. ונתגעשה <placeName ref="geo-kima.org/place/2501" xml:id="recogito-ff27e3c2-9efa-4081-98ed-18d7b5762c1d" cert="high">
+ארץ ישראל</placeName>
+ לאחר מות
+ יהושע:</seg><seg> ואמר <persName xml:id="recogito-ed02b088-1669-4ea5-8f8e-9967bf526d6d">
+רבי פתחיה</persName>
+. שכל <placeName ref="geo-kima.org/place/2501" xml:id="recogito-7254c15e-7db3-43c0-ae9e-a5d27f6df999" cert="high">
+ארץ ישראל</placeName>
+ היא
+ כמהלך שלשה ימים:</seg><seg> והלך משם ל<placeName xml:id="recogito-766e6825-45bf-4b62-a4e7-26158a28dd2b" cert="unknown">
+קבר יונה בן
+אמיתי</placeName>
+. והיכל יפה בנוי עליו: ויש אצלו פרדס:
+וכל מיני פירות שם: ושומר הפרדס הוא גוי:
+וכשבאים גוים שמה אינו נותן להם מאומה מן
+הפירות. וכשהיהודים באים שמה מקבל אותם
+בסבר פנים יפות. ואומר להם <persName xml:id="recogito-85ce7e8d-264b-4e43-a4d8-fc34b6f9be64">
+יונה בן אמיתי</persName>
+
+יהודי היה. לכך ראוי לכם משלו. ומאכיל את
+היהודים:</seg><seg> ובא ל<placeName xml:id="recogito-27b6fc73-3863-4052-9f81-ab0ea5f3deea" cert="unknown">
+קבר רחל</placeName>
+ ל<placeName xml:id="recogito-a77f83a2-eab9-40fa-b880-b4efe7973e29" cert="unknown">
+אפרת</placeName>
+. מהלך חצי
+יום מ<placeName ref="geo-kima.org/place/691" xml:id="recogito-e6994e08-2da7-4821-a3ae-993a2cfe9ed4" cert="high">
+ירושלים</placeName>
+: ועל קברה אחת עשרה אבנים
+כמניין אחד עשר שבטים. ולפי שעדיין לא נולד
+בנימין אלא בצאת נפשה. (אין שם אבן כנגדו:)
+והם שיש. ואבן של יעקב שיש אחד והיא על
+כלם. וגדולה היא מאוד משא הרבה בני אדם.
+ומשם מיל אחד יש <placeName xml:id="recogito-766c3a0b-c5d6-4998-aa78-9a6493883e88" ana="#reference" cert="low">
+כומרים</placeName>
+. ולקחו את האבן
+הגדולה מעל הקבר וקבעו אותה בבנין עבודה
+זרה: ולמחר ראו אותה על הקבר כאשר בתחלה.
+כן עשו כמה פעמים. ונמנעו מלקחתה עוד:
+וחקוק על האבן שם יעקב: וראה האבן שעל
+הבאר אצל <placeName ref="geo-kima.org/place/17893" xml:id="recogito-286686c6-f439-48dd-9ca9-478ea5256497" cert="low">
+חרן</placeName>
+. וארבעים בני אדם אין מזיזין
+אותה ממקומו: והבאר עמוק כשלש מאות אמות.
+ואין מים מצויים שם:
+
+            
+
+</seg><seg>
+<pb n="60"/>
+
+והלך ל<placeName ref="geo-kima.org/place/691" xml:id="recogito-b5d4850a-7676-458c-92dc-6e42026e9326" cert="high">
+ירושלים</placeName>
+. ואין שם אלא <persName xml:id="recogito-38ee1688-b727-400a-aa73-6a3f7b148a00">
+רבי אברהם
+הצבע</persName>
+  . והוא נותן מס הרבה למלך שמניחו שם:</seg><seg>
+והראו לו <placeName ref="geo-kima.org/place/2996" xml:id="recogito-f1f6dad6-7fc1-4b73-bd5b-bedeecf354aa" cert="high">
+הר הזיתים</placeName>
+. וראה ש<placeName xml:id="recogito-384cbcb8-effc-4b1c-b322-ea47e11c27cb" cert="unknown">
+המעזיבה</placeName>
+ ריצפה
+גבוהה שלש אמות. והיא רחבה: והיכל נאה שם
+שבנו הישמעאלים בימי קדם. כשהיתה <placeName ref="geo-kima.org/place/691" xml:id="recogito-50c5cc77-af22-4847-94f3-c60d05fb94ef" cert="high">
+ירושלים</placeName>
+
+בידי הישמעאלים: ובאו פריצים והלשינו למלך
+הישמעאלים. ואמרו זקן אחד יש בינינו שיודע
+מקום היכל ועזרה: ודחק אותו המלך. עד שהראה
+לו: והמלך היה אוהב יהודים. ואמר אני רוצה
+לבנות היכל שם. ולא יתפללו שם אלא יהודים:
+ובנה ההיכל מאבני שיש. בנין נאה מן אבני
+שיש אדומים וירוקים וכל מיני מראה: ובאו גוים
+ושמו בו צלמים. והיו נופלים. וקבעו הצלם בעובי
+הכותל. אבל בבית קדשי הקדשים לא היה יכול
+לעמוד: וה<placeName xml:id="recogito-729353c9-8b18-45ec-bf98-7db8dece3044" cert="unknown">
+שפיטל</placeName>
+ שהעניים שם מצד אחד.
+והארץ מבוקעת. ונקרא <placeName ref="geo-kima.org/place/22081" xml:id="recogito-0ea1b39f-42aa-43f2-bcb8-3be09e8cd32c" cert="high">
+גיא בן הינום</placeName>
+. ושם בית
+קבורה שלהם:</seg><seg>
+וכל <placeName ref="geo-kima.org/place/2501" xml:id="recogito-5f24eef4-73f2-42bd-9317-8a0c9465ac77" cert="high">
+ארץ ישראל</placeName>
+  כמהלך שלשה ימים:</seg><seg> וראה <placeName ref="geo-kima.org/place/1017" xml:id="recogito-20ec3c72-a2bc-4cfd-86d8-aab1906ab2fe" cert="high">
+ים
+המלח</placeName>
+ <placeName ref="geo-kima.org/place/4027" xml:id="recogito-95b49318-46ed-4747-967c-97da29184ad0" cert="low">
+סדום</placeName>
+ ו<placeName ref="geo-kima.org/place/5198" xml:id="recogito-fe005643-1fa5-421a-bd6e-efbad406afdd" cert="high">
+עמורה</placeName>
+. ואין בו עשב: ו<placeName xml:id="recogito-04c3cf8e-4e23-4d2c-9ca5-d73b6d852829" cert="unknown">
+נציב מלח</placeName>
+
+אמר שלא ראה ואינו בעולם. וגם <placeName xml:id="recogito-263fc664-eeeb-4845-8756-9b617267f909" cert="unknown">
+האבנים שהעמיד
+יהושע</placeName>
+    לא ראה: </seg><seg>והלך ל<placeName ref="geo-kima.org/place/966" xml:id="recogito-8e2691e2-2fd4-4fb8-bc3d-0467fd341d49" cert="high">
+חברון</placeName>
+. וראה על ה<placeName xml:id="recogito-308f06cc-e62e-453c-8a44-b8f68762a337" ana="#reference" cert="unknown">
+מערה</placeName>
+
+היכל גדול שבנה אברהם אבינו: ויש בו אבנים
+
+            
+
+
+<pb n="62"/>
+
+גדולות שבע ועשרים או שמונה ועשרים אמות.
+וכל ראש פינה כמו שבעים אמות: ונתן למי
+שהמפתח של המערה בידו זהוב. להביא אותו
+לקברי האבות: ופתח לו. והנה על הפתח צלם
+ושלשה כוכין בפנים: ואמרו היהודים שב<placeName ref="geo-kima.org/place/71" xml:id="recogito-6f88b95b-ef63-42b1-b658-ba089326ae03" cert="high">
+עכו</placeName>
+
+הזהר כי שמו שלשה פגרים בתחלת המערה ואמרו
+שהם האבות. ואינם: ושומר המערה אמר לו
+שהם: והוסיף לו עוד זהוב. להכניסו למערה:
+להכנס בזה השער: והביא נרות. והכניסו לפנים:
+וירדו במעלות. ולקודם זאת המערה מבחוץ ירדו
+בחמש עשרה מעלות: ובאו לתוך מערה רחבה
+מאוד. ובאמצע המערה פתח בקרקע: והקרקע
+כלה סלע. וכל הקברות הם בחלל הסלע: ועל
+אותו פתח שבאמצע מונחים חתיכות ברזל עבין
+ביותר, ואין אדם יכול לעשות כזה אם לא בידי
+שמים: ורוח סערה יוצא מן הנקבים שבין ברזל
+לברזל, ולא היה יכול לבוא בנרות שמה: והבין
+ששם האבות. והתפלל שם: וכשהיה <span xml:id="recogito-5d38f8ae-9b89-4626-8d56-58f194beb618" ana="#typo">
+שוחה</span>
+ על
+פי המערה. היה רוח סערה יוצוא ומשליכו
+לאחוריו:
+
+            
+
+    </seg><seg>
+<pb n="64"/>
+
+וב<placeName ref="geo-kima.org/place/691" xml:id="recogito-bfe6bd13-4559-48c5-a405-e3c02fa83a10" cert="high">
+ירושלים</placeName>
+ יש שער. ושמו <placeName xml:id="recogito-c9a99471-a58c-488c-b793-dbaa7623e23b" cert="unknown">
+שער הרחמים</placeName>
+: ואותו
+שער ממולא אבנים וסיד. ואין שום יהודי וכל שכן
+שאין גוי רשאי לבוא שמה: ופעם אחת רצו הגוים
+להסיר ולפתוח השער. ונתרעשה <placeName ref="geo-kima.org/place/2501" xml:id="recogito-3598ba12-90c6-4dcc-857e-4cd7e7b89b3e" cert="high">
+ארץ ישראל</placeName>
+.
+והיתה מהומה בעיר עד שחדלו. ויש מסורת בידי
+היהודים. שדרך אותו השער גלתה השכינה. ובו
+עתידה לשוב. והוא מכוון נגד <placeName ref="geo-kima.org/place/2996" xml:id="recogito-9779fc4e-2870-4334-846b-f5fee8ce9622" cert="high">
+הר הזיתים</placeName>
+. והר
+הזיתים נמוך ממנו, והעומד בהר הזה רואהו:
+ועמדו רגליו ביום ההוא על <placeName ref="geo-kima.org/place/2996" xml:id="recogito-c179a1ce-14b7-4e92-b7da-f100b081419f" cert="high">
+הר הזיתים</placeName>
+. עין בעין
+יראו בשוב ה׳ <placeName xml:id="recogito-8515b5d0-e727-41b9-9b10-2f0a53dd9a89" cert="unknown">
+ציון</placeName>
+: דרך אותו שער ומתפללין
+שם.</seg><seg> ו<placeName ref="geo-kima.org/place/21050" xml:id="recogito-b887c3a1-bd11-4861-bf1d-8062af9f1955" cert="high">
+מגדל דוד</placeName>
+  קיים:</seg><seg>
+וב<placeName xml:id="recogito-9997f44c-09bb-4f4f-80de-d2eac706b884" cert="unknown">
+דמשק</placeName>
+ יש <placeName xml:id="recogito-0bc7ebbd-3802-43cf-a386-eef2f3d3d59b" cert="unknown">
+בית הכנסת אחת שבנה אלישע</placeName>
+:
+ו<placeName xml:id="recogito-4740d10b-690a-435f-8fd3-527b35108ade" ana="#reference" cert="unknown">
+אחת שבנה רבי אליעזר בן עזריה</placeName>
+. והיא גדולה
+ובה מתפללין:</seg><seg>
+.ב<placeName xml:id="recogito-8c52b0cf-d8c0-4c03-a951-3b6b5464debe" cert="unknown">
+אילוני ממרא</placeName>
+ רחוק משם היה יושב זקן אחד
+וכשבא <persName xml:id="recogito-7d0a1531-3735-49de-965d-9386879cf0e9">
+רבי פתחיה</persName>
+ שמה נטה הזקן למות: וצוה
+לבנו להראות ל<persName xml:id="recogito-01bc53e8-682b-403d-827d-c5427a36ae4e">
+רבי פתחיה</persName>
+ ה<placeName xml:id="recogito-221e45ce-5729-4d59-a683-82f10e734722" cert="unknown">
+עץ שנשענו בו
+המלאכים</placeName>
+. והראה לו זית אחד יפה. ונחלק
+לשלשה חלקים. ואבן שיש באמצע. וקבלה בידם.
+שכשישבו המלאכים נחלק העץ לשלשה חלקים.
+שכל אחד נשען על עץ אחד. וישבו על האבן.
+ופירות העץ מתוקים מאוד, ואצל העץ <placeName xml:id="recogito-7e7f7dc1-3b62-4b97-9a0e-874ea6fd3079" cert="unknown">
+בארה</placeName>
+ של
+
+
+
+<pb n="66"/>
+
+שרה. ומימיה מתוקין וצלולין. ואצל הבאר <placeName xml:id="recogito-58d3b4fa-6636-4aff-9593-17a173b2d308" cert="unknown">
+אוהל
+שרה</placeName>
+. ואצל <placeName xml:id="recogito-b6fec31e-d232-4e51-a812-a444dbc37481" cert="unknown">
+ממרא</placeName>
+ מישור: ומצדו האחר כמאה
+אמות מ<placeName xml:id="recogito-754a38cd-9abb-418d-b8c6-32fbf1808699" cert="unknown">
+בארה של שרה</placeName>
+ עד <placeName xml:id="recogito-4b73e07c-16a7-4f16-80d6-9932600c8462" cert="unknown">
+בארו של אברהם</placeName>
+
+אבינו. ומימיו יפים מאוד: והראו לו <placeName xml:id="recogito-2b758e84-5694-4a15-9976-c43c61418142" cert="unknown">
+אבן (גדולה)
+שמונה ועשרים אמות. שנימול עליו אברהם אבינו</placeName>
+:
+ואמר הזקן. הנה הוא הולך לעולמו ואינו משקר.
+והגיד בשבועה. שפעם אחת בצום כפור ראה
+מלאך של אש וסוסו אש אצל <placeName xml:id="recogito-6acf3b26-09ed-4037-afe7-de80aac123b2" cert="unknown">
+בארה של שרה</placeName>
+:
+שהיה מתפלל שם:</seg></ab><ab><seg>
+וב<placeName xml:id="recogito-3730544c-cfbe-4ba2-af06-3c2f0bc5a0dc" cert="unknown">
+ארץ יון</placeName>
+ יש להם גלות גדול. ומשועבדים
+בגופם. ויש (בהם) בחורים בקיאים בשמות.
+ומשביעים השדים שמשרתים להם כעבדים: ויש
+מהם קהילות רבות. ש<placeName ref="geo-kima.org/place/2501" xml:id="recogito-a88968c8-aeef-4cfd-810e-e523b16f1701" cert="high">
+ארץ ישראל</placeName>
+ אינה יכולה
+ לשאת אותן אם היו עליה:</seg><seg>
+וב<placeName xml:id="recogito-884f2a1e-0418-4d55-8f71-7953c12b62e0" cert="unknown">
+כפר עוזא</placeName>
+ קבור <persName xml:id="recogito-5f84192a-b763-4437-bc05-a10d2a9cb914">
+   יונה בן אמיתי</persName></seg><seg>
+. וב<placeName ref="geo-kima.org/place/9541" xml:id="recogito-478c217e-77db-4942-b0f0-f18657649f4c" cert="high">
+בצרה</placeName>
+ של
+<placeName ref="geo-kima.org/place/3526" xml:id="recogito-9342d553-f1fc-41ed-bc1d-c55ca40c5acf" cert="low">
+בבל</placeName>
+ <persName xml:id="recogito-5ee300ce-f016-41d9-b4da-110d3a3ed532">
+   עזרא הסופר</persName></seg><seg>
+: ורב חנא בגדתאה שכתוב
+בתלמוד הוא מ<placeName ref="geo-kima.org/place/662" xml:id="recogito-f1c753bc-ebe4-4001-ae25-2f46662dd489" cert="high">
+בגדת</placeName>
+ העיר הגדולה כמו שכתוב
+ לעיל:</seg><seg> וב<placeName ref="geo-kima.org/place/3526" xml:id="recogito-82ad50d6-54ed-4ff4-96e4-c6cc0cafe714" cert="low">
+בבל</placeName>
+   אין אבן אלא הכל של לבנים:</seg></ab><ab xml:id="closer"><seg>
+תמו דברי <persName xml:id="recogito-6746daa0-c8d1-4d3a-a149-6ba83d135b93">
+רבי פתחיה</persName>
+ אחיו של
+הרב רבי יצדק הלבן בעל
+התוספות ושל הרב רבי
+נחמן מ<placeName ref="geo-kima.org/place/7275" xml:id="recogito-23732875-96c9-4894-8744-8c32bcbb21b8" cert="high">
+רעגנשפורג</placeName>
+:
+
+</seg>
+</ab>
+           
+
+        </text>
+
+      </TEI>

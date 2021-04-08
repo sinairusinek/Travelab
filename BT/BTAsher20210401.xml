@@ -749,8 +749,8 @@
 			<head>הקדמה</head>
 			<ab>
 				<lb/>זה הספר מחובר מדברים שספר <lb/>איש אחד מארץ <name>נבארה</name> ששמו
-				רבי <lb/>בנימין בר יונה מ<name>טודילה</name>. וילך הלוך <lb/>ויבא בארצות
-				רבות ורחוקות כאשר <lb/>יתפרש בדבריו אלו ובכל מקום <name>שבא</name>
+				רבי <lb/>בנימין בר יונה מ<name ref="6264" type="place">טודילה</name>. וילך הלוך <lb/>ויבא בארצות
+				רבות ורחוקות כאשר <lb/>יתפרש בדבריו אלו ובכל מקום שבא
 				<lb/>בו כתב כל הדברים שראה או ששמע <lb/>מפי אנשי אמת אשר נשמעו בארץ <name
 					ref="K6471">ספרד</name>: וכך הוא זוכר מקצת הגדולים <lb/>והנשיאים שבמקצת
 				מקומות וכשבא <lb/>הביא דבריו אלה עמו לארץ <name>קשטיליא</name>
@@ -805,7 +805,7 @@
 						ו<persName>רבי יוסף בר רבי נתנאל ז״ל</persName>
 				</seg>
 				<seg xml:id="GN1S7">
-					<lb/>ומשם שני ימים ל<name>הר געש</name> הנקרא <name ref="K7467" type="place"
+					<lb/>ומשם שני ימים ל<name ref="K7467" type="place">הר געש</name> הנקרא <name ref="K7467" type="place"
 						>מונפישלייר</name> והוא מקום יפה לסחורה. <pb n="8"/>
 					<lb/>קרוב מן הים שתי פרסאות ובאים אליו <lb/>מכל-מקום לסחורה אדום וישמעאל
 					<lb/>מארץ <name ref="K7951">אל-ערוה</name> ו<name ref="K10968" type="place"
@@ -846,7 +846,7 @@
 						<persName>רבי יוסף <lb/>בר רבי מנחם</persName> ו<persName>רבי
 						בנבנשת</persName> ו<persName>רבי בנימן</persName>
 					<lb/>ורבי אברהם ו<persName>רבי יצחק בר רבי משה <lb/>ז״ל</persName>.</seg>
-				<seg xml:id="GN1S10"> ומשם שלש פרסאות ל<name>נוגריש</name>
+				<seg xml:id="GN1S10"> ומשם שלש פרסאות ל<name ref="K10262" type="place">נוגריש</name>
 					<lb/>הנקרא <name ref="K10262" type="place">בורק דשל גיל</name> ושם קהל מיהודים
 					<lb/>כמו מאה חכמים ובראש <persName>רבי יצחק בר <lb/>רבי יעקב</persName>
 						ו<persName>רבי אברהם בר רבי יהודה</persName>
@@ -2618,7 +2618,7 @@
 					<lb/>ו<name>ברגונייה</name> ו<name>מדיאנה</name>
 						ו<name>פרובינצא</name> ו<name ref="K877" type="place">גינואה</name>
 					<lb/>ו<name>פישא</name> ו<name>גשקוניא</name>00)
-						ו<name>ארגון</name> ונ<name>בארה</name> | ומצד
+						ו<name>ארגון</name> ו<name>נבארה</name> | ומצד
 					<lb/>המערב לישמעאלים <name>אל אנדלוס</name> ו<name>אל
 						ערוה</name> ו<name>אפריקיה</name> ו<name>ארץ
 						אלערב</name>| ומצד <name>הודו</name>
