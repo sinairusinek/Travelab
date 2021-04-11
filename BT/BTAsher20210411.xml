@@ -1522,11 +1522,9 @@
 						<persName>אברהם אבינו עליו השלום</persName></name> ומעין לפני <lb/>הבית ואין מניחין
 					שם לעשות בית מפני <lb/>כבוד אברהם. </seg>
 				<seg xml:id="GN11S7"> ומשם חמשה פרסאות <lb/>ל<name ref="#K21427">בית גברין</name> והיא
-					<name ref="#K4206" type="idf">מרשה</name> ואין שם אלא <lb/>שלשה יהודים. </seg>
 				<seg xml:id="GN11S8"> ומשם חמשה פרסאות <lb/>ל<name ref="#K13834">טורון דו לוש
 					גבללריש*)</name> היא <name ref="#Q2916070" type="idf"> שונם</name> ויש <lb/>בה שלש מאות
 					יהודים. </seg>
-				<seg xml:id="GN11S9">ומשם שלשה <lb/>פרסאות ל<name ref="#Q2907254">שנט שמואל דשילה</name>
 					היא <name>שילה</name> הקרובה ל<name ref="#K691" type="place">ירושלם</name> שני פרסאות <lb/>וכשלקחו בני אדום
 					את <name>רמלה </name>היא <name>רמה</name>
 					<lb/>מיד בני ישמעאל מצאו קברו של <persName>שמואל הרמתי</persName> אצל כנסת
@@ -1565,13 +1563,10 @@
 					בתוך העיר בור שקוראין לו <name>ביר <persName>אברהים אל כליל</persName>
 					</name> אשר חפר בימי <lb/>פלשתים.</seg>
 				<seg xml:id="GN11S18"> ומשם ל<name>סגורש*)</name> היא
-					<name ref="#K178">לוד</name>. </seg>
 				<seg xml:id="GN11S19">
-					<lb/>ומשם יום וחצי ל<name ref="#K21480">זריין**)</name> היא
 					<name ref="#K21480">יזרעאל</name> ושם <lb/>מעין אחד גדול ובה <persName>יהודי אחד
 						צבע</persName>.</seg>
 				<seg xml:id="GN11S20">
-					<lb/>ומשם ששה פרסאות ל<name ref="#K3544">שיפוריה</name> היא
 						<name>צפורי</name> ושם קברו של <persName>רבינו הקדוש</persName>
 						ו<persName>רבי חייא שעלה מבבל</persName> ו<persName>יונה בן אמתי
 						הנביא</persName>
@@ -1680,9 +1675,9 @@
 					<lb/>גדול ועליו ריחים וגנות ופרדסים בתוך <lb/>המדינה </seg>
 				<seg xml:id="GN14S5"> וגם <name>תדמור
 			</name> במדבר אשר בנה
+				<seg xml:id="GN14S5"> וגם <name>תדמור</name> במדבר אשר בנה
 						<persName>שלמה</persName> כמו זה בנין אבנים גדולות והעיר
 						<name>תדמור</name> מוקפת חומה והיא במדבר <lb/>רחוקה מן היישוב
-						ומ<name>בעלת</name> הנזכרת <lb/>ארבעת ימים וכאלפים יהודים ב<name>תדמור</name>
 					<lb/>גבורי מלחמה ונלחמים עם בני אדום <lb/>ועם בני ערב שהם תחת ממשלת
 						<persName>נור אלדין</persName> ועוזרים לשכיניהם הישמעאלים <lb/>ובראשם
 						<persName>רבי יצחק היוני</persName> ו<persName>רבי נתן</persName>
