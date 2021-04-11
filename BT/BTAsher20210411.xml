@@ -26,7 +26,720 @@
 				</biblStruct>
 			</sourceDesc>
 		</fileDesc>
-		
+		<profileDesc>
+			<settingDesc>
+				<listPlace>
+					<place xml:id="K6347" type="point">
+						<placeName>Zaragoza</placeName>
+						<location>
+							<geo>41.65606 -0.87734</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Place/6347</idno>
+					</place>
+					<place xml:id="GN3123754" type="line">
+						<idno type="URI">https://www.geonames.org/3123754/</idno>
+					</place>
+					<place xml:id="K9805" type="point">
+						<placeName>Tortosa</placeName>
+						<location>
+							<geo>40.815111 0.523778</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/9805</idno>
+					</place>
+					<place xml:id="K7559" type="point">
+						<placeName>Tarragona</placeName>
+						<location>
+							<geo>41.119196 1.258058</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7559</idno>
+					</place>
+					<place xml:id="K6471" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/6471</idno>
+					</place>
+					<place xml:id="K582" type="point">
+						<placeName>Barcelona</placeName>
+						<location>
+							<geo>41.384106 2.175422</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/582</idno>
+					</place>
+					<place xml:id="K251" type="point">
+						<location>
+							<geo>43.719417 10.400106</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/251</idno>
+					</place>
+					<place xml:id="K877" type="point">
+						<location>
+							<geo>44.40766 8.93151</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/877</idno>
+					</place>
+					<place xml:id="K667" type="point">
+						<location>
+							<geo>31.195371 29.904133</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/667</idno>
+					</place>
+					<place xml:id="K2501" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/2501</idno>
+					</place>
+					<place xml:id="K8720" type="point">
+						<location>
+							<geo>41.98311 2.82493</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8720</idno>
+					</place>
+					<place xml:id="K10031" type="point">
+						<location>
+							<geo>43.184722 3.003611</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/10031</idno>
+					</place>
+					<place xml:id="K7195" type="point">
+						<location>
+							<geo>43.339552 3.214097</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7195</idno>
+					</place>
+					<place xml:id="K7467" type="point">
+						<location>
+							<geo>43.608176 3.8794455</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7467</idno>
+					</place>
+					<place xml:id="K7951" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/7951</idno>
+					</place>
+					<place xml:id="K10968" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/10968</idno>
+					</place>
+					<place xml:id="K7637" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/7637</idno>
+					</place>
+					<place xml:id="K6399" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/6399</idno>
+					</place>
+					<place xml:id="K12708" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/12708</idno>
+					</place>
+					<place xml:id="K12204" type="point">
+						<location>
+							<geo>43.67778 4.13611</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/12204</idno>
+					</place>
+					<place xml:id="K7808" type="point">
+						<location>
+							<geo>43.6942 4.2769</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7808</idno>
+					</place>
+					<place xml:id="K10262" type="point">
+						<location>
+							<geo>43.6786 4.4317</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/10262</idno>
+					</place>
+					<place xml:id="K2047" type="line">
+						<idno type="URI">http://geo-kima.org/place/2047</idno>
+					</place>
+					<place xml:id="K8962" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/8962</idno>
+					</place>
+					<place xml:id="K7224" type="point">
+						<location>
+							<geo>43.676944 4.628611</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7224</idno>
+					</place>
+					<place xml:id="K7085" type="point">
+						<location>
+							<geo>43.299467 5.365307</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7085</idno>
+					</place>
+					<place xml:id="K8782" type="point">
+						<location>
+							<geo>35.9000363 -5.4164103</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8782</idno>
+					</place>
+					<place xml:id="K6491" type="point">
+						<location>
+							<geo>43.840677 10.50602</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6491</idno>
+					</place>
+					<place xml:id="K6800" type="point">
+						<location>
+							<geo>41.1061258 14.2130486</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6800</idno>
+					</place>
+					<place xml:id="K9790" type="point">
+						<location>
+							<geo>40.84394 14.0952</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/9790</idno>
+					</place>
+					<place xml:id="K9809" type="point">
+						<location>
+							<geo>40.624604 14.365806</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/9809</idno>
+					</place>
+					<place xml:id="K440" type="point">
+						<location>
+							<geo>41.89262 12.4843457</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/440</idno>
+					</place>
+					<place xml:id="K673" type="point">
+						<location>
+							<geo>40.829595 14.21755</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/673</idno>
+					</place>
+					<place xml:id="K6373" type="point">
+						<location>
+							<geo>40.6779567 14.7659122</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6373</idno>
+					</place>
+					<place xml:id="K7024" type="point">
+						<location>
+							<geo>41.6084823 15.8897665</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7024</idno>
+					</place>
+					<place xml:id="K6262" type="point">
+						<location>
+							<geo>40.63443 14.60318</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6262</idno>
+					</place>
+					<place xml:id="K6449" type="point">
+						<location>
+							<geo>41.13155 14.77433</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6449</idno>
+					</place>
+					<place xml:id="K12281" type="point">
+						<location>
+							<geo>40.99571 15.65578</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/12281</idno>
+					</place>
+					<place xml:id="K7555" type="polygon">
+						<location>
+							<geo>41.25 15.75</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7555</idno>
+					</place>
+					<place xml:id="GN3182747" type="point">
+						<location>
+							<geo>42.8554 13.57495</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/3182747</idno>
+					</place>
+					<place xml:id="K7879" type="point">
+						<location>
+							<geo>41.27733 16.41011</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7879</idno>
+					</place>
+					<place xml:id="K691" type="point">
+						<location>
+							<geo>31.776667 35.234167</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/691</idno>
+					</place>
+					<place xml:id="K7504" type="point">
+						<location>
+							<geo>41.13031 16.87014</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/7504</idno>
+					</place>
+					<place xml:id="K6284" type="polygon">
+						<location>
+							<geo>37.53667612 14.08648465</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6284</idno>
+					</place>
+					<place xml:id="K8176" type="point">
+						<location>
+							<geo>40.476034 17.228553</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8176</idno>
+					</place>
+					<place xml:id="K7660" type="polygon">
+						<location>
+							<geo>40.75 17.75</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7660</idno>
+					</place>
+					<place xml:id="K11068" type="point">
+						<location>
+							<geo>40.641136 17.946867</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/11068</idno>
+					</place>
+					<place xml:id="K7029" type="point">
+						<location>
+							<geo>40.145948 18.490953</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7029</idno>
+					</place>
+					<place xml:id="K1039" type="point">
+						<location>
+							<geo>39.60733 19.92178</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/1039</idno>
+					</place>
+					<place xml:id="K20954" type="point">
+						<location>
+							<geo>39.159 20.985</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Place/20954</idno>
+					</place>
+					<place xml:id="GN265507" type="point">
+						<location>
+							<geo>40.66152 22.7119</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/265507</idno>
+					</place>
+					<place xml:id="U1" type="point"/>
+					<place xml:id="K12768" type="point">
+						<location>
+							<geo>38.243265 21.738518</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/12768</idno>
+					</place>
+					<place xml:id="K21742" type="point">
+						<location>
+							<geo>38.39167 21.8275</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=21742</idno>
+					</place>
+					<place xml:id="GN259862" type="point">
+						<location>
+							<geo>38.4753859 22.4689446</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/259862</idno>
+					</place>
+					<place xml:id="GN255730" type="point">
+						<location>
+							<geo>38.53528 22.62188</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/255730</idno>
+					</place>
+					<place xml:id="GN259289" type="point">
+						<location>
+							<geo>37.906045 22.878721</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/259289</idno>
+					</place>
+					<place xml:id="K14830" type="point">
+						<location>
+							<geo>38.318092 23.255096</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/14830</idno>
+					</place>
+					<place xml:id="K8822" type="polygon">
+						<location>
+							<geo>39.04697922 22.97947876</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8822</idno>
+					</place>
+					<place xml:id="K6927" type="point">
+						<location>
+							<geo>41.012379 28.975926</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6927</idno>
+					</place>
+					<place xml:id="K14277" type="point">
+						<location>
+							<geo>38.464 23.602</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/14277</idno>
+					</place>
+					<place xml:id="GN258577" type="point">
+						<location>
+							<geo>38.567348 23.281349</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/258577</idno>
+					</place>
+					<place xml:id="GN261211" type="point">
+						<location>
+							<geo>38.77844 22.78573</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/261211</idno>
+					</place>
+					<place xml:id="GN258620" type="point">
+						<location>
+							<geo>38.9 22.43333</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/258620</idno>
+					</place>
+					<place xml:id="K9259" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/9259</idno>
+					</place>
+					<place xml:id="GN255638" type="point">
+						<location>
+							<geo>38.94813 22.8398</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/255638</idno>
+					</place>
+					<place xml:id="BJ5" type="point">
+						<location>
+							<geo>39.183 22.759</geo>
+						</location>
+						<idno type="URI"
+							>http://www.byzantinejewry.net/applications/mjcb/show_evidence_details.php?evidence_id=5</idno>
+					</place>
+					<place xml:id="BJ9" type="point">
+						<location>
+							<geo>39.687 22.725</geo>
+						</location>
+						<idno type="URI"
+							>http://www.byzantinejewry.net/applications/mjcb/show_evidence_details.php?evidence_id=9</idno>
+					</place>
+					<place xml:id="K103" type="point">
+						<location>
+							<geo>40.64361 22.93086</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/103</idno>
+					</place>
+					<place xml:id="GN736795" type="point">
+						<location>
+							<geo>41.07041 23.46064</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/736795</idno>
+					</place>
+					<place xml:id="K14269" type="point">
+						<location>
+							<geo>41.15283 24.1473</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/14269</idno>
+					</place>
+					<place xml:id="GN735861" type="point">
+						<location>
+							<geo>40.93959 24.40687</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/735861</idno>
+					</place>
+					<place xml:id="K4579" type="point">
+						<location>
+							<geo>40.19406 26.41122</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/4579</idno>
+					</place>
+					<place xml:id="U4" type="polygon"/>
+					<place xml:id="Q1404297" type="polygon">
+						<idno type="URI">https://www.wikidata.org/wiki/Q1404297</idno>
+					</place>
+					<place xml:id="K22613" type="polygon">
+						<location>
+							<geo>34.5 46.5</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/22613</idno>
+					</place>
+					<place xml:id="K7639" type="polygon">
+						<idno type="URI">http://geo-kima.org/Places/Details?id=7639</idno>
+					</place>
+					<place xml:id="K8046" type="polygon">
+						<location>
+							<geo>19.21140877 30.56732963</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8046</idno>
+					</place>
+					<place xml:id="U6" type="polygon"/>
+					<place xml:id="Q171150" type="polygon">
+						<location>
+							<geo>47.16508477 19.42015481</geo>
+						</location>
+						<idno type="URI">https://www.wikidata.org/wiki/Q171150</idno>
+					</place>
+					<place xml:id="U2" type="polygon"/>
+					<place xml:id="U3" type="polygon"/>
+					<place xml:id="K662" type="point">
+						<location>
+							<geo>33.31468 44.39044</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/662</idno>
+					</place>
+					<place xml:id="Q1472490" type="point">
+						<location>
+							<geo>41.0339 28.9403</geo>
+						</location>
+						<idno type="URI">https://www.wikidata.org/wiki/Q1472490</idno>
+					</place>
+					<place xml:id="U7" type="polygon"/>
+					<place xml:id="K7544" type="point">
+						<location>
+							<geo>41.031944 28.976111</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7544</idno>
+					</place>
+					<place xml:id="K22213" type="point">
+						<location>
+							<geo>40.97801 27.50852</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/22213</idno>
+					</place>
+					<place xml:id="GN746983" type="point">
+						<location>
+							<geo>40.41028 26.67083</geo>
+						</location>
+						<idno type="URI">http://sws.geonames.org/746983</idno>
+					</place>
+					<place xml:id="PL844961" type="point">
+						<location>
+							<geo>41.18195 31.387409</geo>
+						</location>
+						<idno type="URI">http://pleiades.stoa.org/places/844961</idno>
+					</place>
+					<place xml:id="GN256866" type="point">
+						<location>
+							<geo>39.10772 26.55529</geo>
+						</location>
+						<idno type="URI">http://sws.geonames.org/256866</idno>
+					</place>
+					<place xml:id="K17289" type="point">
+						<location>
+							<geo>38.414 26.053</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/17289</idno>
+					</place>
+					<place xml:id="K14268" type="point">
+						<location>
+							<geo>37.73 26.84</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/14268</idno>
+					</place>
+					<place xml:id="K2044" type="point">
+						<location>
+							<geo>36.43333333 28.21666667</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/2044</idno>
+					</place>
+					<place xml:id="K7562" type="point">
+						<location>
+							<geo>35.04088353 33.27533716</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7562</idno>
+					</place>
+					<place xml:id="PL638939" type="point">
+						<location>
+							<geo>36.465278 34.154167</geo>
+						</location>
+						<idno type="URI">https://pleiades.stoa.org/places/638939</idno>
+					</place>
+					<place xml:id="K16830" type="point">
+						<location>
+							<geo>36.191111 44.009167</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=16830</idno>
+					</place>
+					<place xml:id="U10" type="point"/>
+					<place xml:id="U11" type="point"/>
+					<place xml:id="U9" type="line"/>
+					<place xml:id="K11503" type="point">
+						<location>
+							<geo>36.200663 36.165318</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/11503</idno>
+					</place>
+					<place xml:id="K5150" type="line">
+						<location>
+							<geo>35.2728339 36.4825754</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=5150</idno>
+					</place>
+					<place xml:id="K11554" type="point">
+						<location>
+							<geo>35.1359 36.7495</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/11554</idno>
+					</place>
+					<place xml:id="GN173576" type="point">
+						<location>
+							<geo>35.53168 35.79011</geo>
+						</location>
+						<idno type="URI">http://geonames.org/173576</idno>
+					</place>
+					<place xml:id="K18052" type="point">
+						<location>
+							<geo>34.116667 35.65</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=18052</idno>
+					</place>
+					<place xml:id="K15821" type="point">
+						<location>
+							<geo>34.30096 36.11575</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=15821</idno>
+					</place>
+					<place xml:id="GN173389" type="point">
+						<location>
+							<geo>35.09855 36.15984</geo>
+						</location>
+						<idno type="URI">http://geonames.org/173389</idno>
+					</place>
+					<place xml:id="U8" type="polygon"/>
+					<place xml:id="K13529" type="point">
+						<location>
+							<geo>34.447 35.817833</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/13529</idno>
+					</place>
+					<place xml:id="K15288" type="point">
+						<location>
+							<geo>34.116667 35.65</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=15288</idno>
+					</place>
+					<place xml:id="K651" type="point">
+						<location>
+							<geo>33.897902 35.501176</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/651</idno>
+					</place>
+					<place xml:id="K13639" type="point">
+						<location>
+							<geo>33.560243 35.371208</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/13639</idno>
+					</place>
+					<place xml:id="K21726" type="point">
+						<location>
+							<geo>33.416111 35.8575</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/21726</idno>
+					</place>
+					<place xml:id="K14095" type="point">
+						<location>
+							<geo>33.268071 35.209358</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/14095</idno>
+					</place>
+					<place xml:id="K10934" type="point">
+						<location>
+							<geo>43.205842 2.364076</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/10934</idno>
+					</place>
+					<place xml:id="U12" type="point"/>
+					<place xml:id="K71" type="point">
+						<location>
+							<geo>32.920744 35.068626</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/71</idno>
+					</place>
+					<place xml:id="K21499" type="line">
+						<idno type="URI">http://geo-kima.org/Places/Details?id=21499</idno>
+					</place>
+					<place xml:id="K791" type="point">
+						<location>
+							<geo>32.8 34.98333333</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=791</idno>
+					</place>
+					<place xml:id="K1156" type="point">
+						<location>
+							<geo>32.6725 35.023333</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=1156</idno>
+					</place>
+					<place xml:id="K26255" type="point">
+						<location>
+							<geo>32.829729 34.967766</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=26255</idno>
+					</place>
+					<place xml:id="U5" type="point"/>
+					<place xml:id="K4090" type="point">
+						<location>
+							<geo>33.44948 35.29948</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=4090</idno>
+					</place>
+					<place xml:id="K_14307" type="point">
+						<location>
+							<geo>45.04888889 35.37916667</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=14307</idno>
+					</place>
+					<place xml:id="WD_Q2639368" type="point">
+						<location>
+							<geo>44.42666667 33.65333333</geo>
+						</location>
+						<idno type="URI">https://www.wikidata.org/wiki/Q2639368</idno>
+					</place>
+					<place xml:id="K_17819" type="point">
+						<location>
+							<geo>44.51118 33.59942</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=17819</idno>
+					</place>
+					<place xml:id="GN_746983" type="point">
+						<location>
+							<geo>40.4 26.66667</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/746983</idno>
+					</place>
+					<place xml:id="K_9825" type="point">
+						<location>
+							<geo>40.41028 26.67083</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=9825</idno>
+					</place>
+					<place xml:id="WD_Q6514" type="point">
+						<location>
+							<geo>40.2 26.4</geo>
+						</location>
+						<idno type="URI">https://www.wikidata.org/wiki/Q6514</idno>
+					</place>
+					<place xml:id="K_533" type="point">
+						<location>
+							<geo>41.01 28.96027778</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=533</idno>
+					</place>
+					<place xml:id="K_17289" type="point">
+						<location>
+							<geo>38.4 26.01666667</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=17289</idno>
+					</place>
+					<place xml:id="K_2689" type="point">
+						<location>
+							<geo>36.81527778 27.11027778</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=2689</idno>
+					</place>
+					<place xml:id="K_468" type="point">
+						<location>
+							<geo>36.43333333 28.21666667</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=468</idno>
+					</place>
+					<place xml:id="K_17099" type="point">
+						<location>
+							<geo>45 34</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=17099</idno>
+					</place>
+					<place xml:id="K_667" type="point">
+						<location>
+							<geo>31.2 29.91666667</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=667</idno>
+					</place>
+				</listPlace>
+			</settingDesc>
+		</profileDesc>
 	</teiHeader>
 	<text>
 		<front>
@@ -231,7 +944,7 @@
 					בכל-שנה ושנה בימי תשעה <lb/>באב נמצאה זיעה עליהם נגרת כמים. <lb/>ושם
 						<name>מערה</name> שגנז <persName>טיטוס בן אספסיינוס</persName>
 					<lb/>כלי בית המקדש שהביא מ<name ref="#K691" type="place">ירושלם</name> וגם <name>מערה</name> אחת בהר על-שפת
-					הנהר טיברו. <lb/>ושם קבורים <persName>הצדיקים ז״ל עשרה הרוגי מלכות</persName>
+					הנהר <name ref="#K61045">טיברו</name>. <lb/>ושם קבורים <persName>הצדיקים ז״ל עשרה הרוגי מלכות</persName>
 					ולפני שלגוון דלטרנה מצוייר <pb n="16"/>
 					<lb/>שמשון וכידור*) בידו של אבן | וגם <persName>אבשלום בן דוד</persName> וגם
 					המלך <persName>קושטדינוס</persName> שבנה <name ref="#K6927" type="place"
@@ -527,7 +1240,7 @@
 					היונים הנקראים גריגיש.</seg>
 				<seg xml:id="GN8S3"> ומשם <lb/>שני ימים ל<name ref="#K11503" type="place">אנטוכיא
 						הגדולה</name> היושבת על <lb/>
-					<name ref="#K5150">נהר פיר</name> (<name ref="U9" type="id">נחל
+					<name ref="#K5150">נהר פיר</name> (<name ref="U9" type="idf">נחל
 						יבוק</name>) היורד מ<name ref="#K15821" type="place">הר הלבנון</name>
 					<name/> היורד מהר הלבנון <lb/>מארץ <name ref="#K11554" type="place">חמת</name>
 					והיא העיר הגדולה שבנה <persName>אנטוכיוס המלך</persName>.</seg> ויש על המדינה הר
@@ -644,7 +1357,7 @@
 					<persName> מלך ישראל</persName></name> והיא היתה עיר בצורה בהר <lb/>מאד ובה מעיינות
 					וארץ נחלי מים וגגות <lb/>ופרדסים וכרמים וזתים אין שם יהודים. </seg>
 				<seg xml:id="GN9S9">
-					<lb/>ומשם שני פרסאות ל<name>נבילש</name> היא
+					<lb/>ומשם שני פרסאות ל<name ref="#K5412" type="place">נבילש</name> היא
 					<name ref="#K5412" type="place">שכם</name>
 					<lb/>ב<name>הר אפרים</name> ואין שם יהודים והיא יושבת <lb/>בעמק בין
 					<name ref="#Q1288751" type="place">הר גריזים</name> ו<name ref="#Q1975866" type="place">הר עיבל</name>| ובה כמו
@@ -672,7 +1385,7 @@
 				<seg xml:id="GN9S12"> וביניהם בעמק עיר <name ref="#K5412" type="place">שכם</name>.</seg>
 				<seg xml:id="GN9S13"> ומשם ארבע פרסאות ל<name ref="#K33871">הר הגלבוע</name> וקוראין להם
 					אדום <name ref="#K33871" type="translation">מונטו גלבוי</name>. <lb/>והיא ארץ יבשה מאד.</seg>
-				<seg xml:id="GN9S14"> ומשם חמשה <lb/>פרסאות ל<name>עמק אילון</name>
+				<seg xml:id="GN9S14"> ומשם חמשה <lb/>פרסאות ל<name ref="#K21722">עמק אילון</name>
 					וקוראין אותו אדום <name>וואל דלונא</name>.</seg>
 				<seg xml:id="GN9S15"> ומשם פרסה אחת ל<name>גראן דוד</name> היא עיר
 						<name>גבעון הגדולה</name> ואין שם <lb/>יהודים.</seg>
@@ -683,7 +1396,7 @@
 					אנשים הרבה <lb/>יעקובין וארמים ויונים וגורגיין ופרנקוש <lb/>מכל לשונות הגוים ויש
 					שם בית הצביעה <pb n="40"/>
 					<lb/>שקונין אותו היהודים בכל-שנה מהמלך <lb/>שלא יעשה שום אדם צביעה ב<name ref="#K691" type="place">ירושלם</name>
-					<lb/>כי אם היהודים לבדם והם מאתים <lb/>יהודים דרים תחת <name>מגדל
+					<lb/>כי אם היהודים לבדם והם מאתים <lb/>יהודים דרים תחת <name ref="#K21050">מגדל
 						דוד</name> בפאת <lb/>המדינה| ובחומות שבמגדל דוד הבנין <lb/>הראשון של
 					יסוד כמו עשר אמות מבנין <lb/>הקדמונים שבנו אבותינו והשאר בנין <lb/>ישמעאלים ואין
 					בכל-העיר בנין חזק יותר <lb/>ממגדל דוד</seg>
@@ -693,7 +1406,7 @@
 					ושם חונים בשפיתלי <lb/>ויוצאים ממנו ארבע מאות פרשים בכל- <lb/>יום למלחמה חוץ מן
 					הפרשים הבאים <lb/>מארץ פרנקוש ומארץ אדום ונודרים על <lb/>עצמם ויעמדו ימים או
 					שנים עד מלאת <lb/>נדרם.</seg>
-				<seg xml:id="GN10S3"> ושם הבמה הגדולה שקורין <name>שפולקרי</name>
+				<seg xml:id="GN10S3"> ושם הבמה הגדולה שקורין <name ref="Q3463426">שפולקרי</name>
 					<lb/>קבר <persName>אותו האיש</persName> שהולכין כל התועים*) <pb n="41"/>
 					<lb/>אליו </seg>
 				<seg xml:id="GN10S4">ויש ב<name ref="#K691" type="place">ירושלם</name> ארבעה שערים שער <lb/>הקורים <name>שער
@@ -809,16 +1522,16 @@
 						<persName>אברהם אבינו עליו השלום</persName></name> ומעין לפני <lb/>הבית ואין מניחין
 					שם לעשות בית מפני <lb/>כבוד אברהם. </seg>
 				<seg xml:id="GN11S7"> ומשם חמשה פרסאות <lb/>ל<name ref="#K21427">בית גברין</name> והיא
-					<name ref="#K4206" type="idf">	מרשה</name> ואין שם אלא <lb/>שלשה יהודים. </seg>
+					<name ref="#K4206" type="idf">מרשה</name> ואין שם אלא <lb/>שלשה יהודים. </seg>
 				<seg xml:id="GN11S8"> ומשם חמשה פרסאות <lb/>ל<name ref="#K13834">טורון דו לוש
 					גבללריש*)</name> היא <name ref="#Q2916070" type="idf"> שונם</name> ויש <lb/>בה שלש מאות
 					יהודים. </seg>
-				<seg xml:id="GN11S9">ומשם שלשה <lb/>פרסאות ל<name>שנט שמואל דשילה</name>
+				<seg xml:id="GN11S9">ומשם שלשה <lb/>פרסאות ל<name ref="#Q2907254">שנט שמואל דשילה</name>
 					היא <name>שילה</name> הקרובה ל<name ref="#K691" type="place">ירושלם</name> שני פרסאות <lb/>וכשלקחו בני אדום
 					את <name>רמלה </name>היא <name>רמה</name>
 					<lb/>מיד בני ישמעאל מצאו קברו של <persName>שמואל הרמתי</persName> אצל כנסת
 					היהודים והוציאוהו <lb/>בני אדום מקברו והוליכוהו לשילה ובנו <lb/>עליו במה גדולה
-					וקראו אותו <name>שנט שמואל דשילה</name> עד היום הזה. </seg>
+					וקראו אותו <name ref="#Q2907254">שנט שמואל דשילה</name> עד היום הזה. </seg>
 				<seg xml:id="GN11S10"> ומשם <lb/>שלשה פרסאות (להר מוריה)
 						ל<name>פשיפוה</name> היא <name>גבעת שאול</name> ואין בה
 					יהודים והיא <name>גבע בנימן</name>. </seg>
@@ -840,10 +1553,10 @@
 					<lb/>הנה גבול אפרים.</seg>
 				<seg xml:id="GN11S16"> ומשם שתי פרסאות <lb/>ל<name ref="#U14">פלמיס</name> היא
 					<name ref="Q12412087" type="idf">אשדוד</name> אשר לפלשתים <lb/>החרבה ואין בה יהודים.</seg>
-				<seg xml:id="GN11S17"> ומשם שני <lb/>פרסאות ל<name ref="#K16023" type="place">אשקלונה</name> היא
-					<name ref="#K16023" type="place">אשקלון החדשה</name> שבנה <persName>עזרא הכהן ז״ל</persName>
-					על-שפת <lb/>הים והיו קורין אותה מתחלה <name type="id/translation?">בניברה</name>
-					<lb/>והיא רחוקה מ<name type="?">אשקלון הקדומה</name> החרבה <lb/>ארבע פרסאות והיא עיר גדולה מאוד <pb
+				<seg xml:id="GN11S17"> ומשם שני <lb/>פרסאות ל<name>אשקלונה</name> היא
+						<name>אשקלון החדשה</name> שבנה <persName>עזרא הכהן ז״ל</persName>
+					על-שפת <lb/>הים והיו קורין אותה מתחלה <name>בניברה</name>
+					<lb/>והיא רחוקה מ<name>אשקלון הקדומה</name> החרבה <lb/>ארבע פרסאות והיא עיר גדולה מאוד <pb
 						n="49"/>
 					<lb/>ויפה ובאים אליה מכל מקום לסחורה <lb/>כי היא יושבת בקצה גבול <name
 						ref="#K8046">מצרים</name> ובה <lb/>כמו מאתים יהודים רבנים ובראשם
@@ -851,20 +1564,20 @@
 						שלמה</persName> ושם כמו <lb/>ארבעים קראין ושם כותיים כמו שלש <lb/>מאות ושם
 					בתוך העיר בור שקוראין לו <name>ביר <persName>אברהים אל כליל</persName>
 					</name> אשר חפר בימי <lb/>פלשתים.</seg>
-				<seg xml:id="GN11S18"> ומשם ל<name  ref="#K48396" type="place">סגורש*)</name> היא
-					<name  ref="#K48396" type="id">לוד</name>. </seg>
+				<seg xml:id="GN11S18"> ומשם ל<name>סגורש*)</name> היא
+					<name ref="#K178">לוד</name>. </seg>
 				<seg xml:id="GN11S19">
-					<lb/>ומשם יום וחצי ל<name>זריין**)</name> היא
-						<name>יזרעאל</name> ושם <lb/>מעין אחד גדול ובה <persName>יהודי אחד
+					<lb/>ומשם יום וחצי ל<name ref="#K21480">זריין**)</name> היא
+					<name ref="#K21480">יזרעאל</name> ושם <lb/>מעין אחד גדול ובה <persName>יהודי אחד
 						צבע</persName>.</seg>
 				<seg xml:id="GN11S20">
-					<lb/>ומשם ששה פרסאות ל<name ref="#K3544" type="place">שיפוריה</name> היא
-					<name ref="#K3544" type="idt">צפורי</name> ושם קברו של <persName>רבינו הקדוש</persName>
+					<lb/>ומשם ששה פרסאות ל<name ref="#K3544">שיפוריה</name> היא
+						<name>צפורי</name> ושם קברו של <persName>רבינו הקדוש</persName>
 						ו<persName>רבי חייא שעלה מבבל</persName> ו<persName>יונה בן אמתי
 						הנביא</persName>
 					<lb/>והם קבורים בהר ויש שם קברים הרבה. </seg>
 				<seg xml:id="GN11S21">
-					<lb/>ומשם חמש פרסאות ל<name ref="#K807" type="place">טיבריה</name> היושבת <lb/>על
+					<lb/>ומשם חמש פרסאות ל<name>טיבריה</name> היושבת <lb/>על
 						ה<name>ירדן</name> הנקרא <name>ים כנרת</name>
 				</seg>
 				<seg xml:id="GN11S22"> ושם נופל <lb/>הירדן (ושופך ים המלח אל ארץ הככר) <lb/>והוא
@@ -874,7 +1587,7 @@
 			</ab>
 			<ab xml:id="GeoNar12">
 				<seg xml:id="GN12S1">
-					<lb/>וב<name ref="#K807" type="place">טבריה</name> כמו חמשים יהודים ובראשם <persName>רבי אברהם
+					<lb/>וב<name>טבריה</name> כמו חמשים יהודים ובראשם <persName>רבי אברהם
 						החוזה</persName> ו<persName>רבי מוכתר</persName> ו<persName>רבי
 						יצחק</persName>
 					<lb/>ושם מים חמין נובעים מתחת הארץ <lb/>וקורואין להם <name>חמי
@@ -883,13 +1596,13 @@
 						זכאי</persName>
 					<lb/>ורבי <persName>יהונתן בן לוי</persName> הכל בגליל התחתון. </seg>
 				<seg xml:id="GN12S2">
-					<lb/>ומשם שני ימים*) ל<name ref="#K26032">טימין</name> היא
-						<name type="idf">תמנתה</name>
+					<lb/>ומשם שני ימים*) ל<name>טימין</name> היא
+						<name>תמנתה</name>
 					<lb/>ושם קבר <persName>שמואל הצדיק</persName> והרבה <lb/>מישראל.</seg>
-				<seg xml:id="GN12S3"> ומשם יום ל<name ref="#Q2912620" type="typo?">עשת</name> היא <name ref="#Q2912620" type="idt">גוש
+				<seg xml:id="GN12S3"> ומשם יום ל<name>עשת</name> היא <name>גוש
 						חלב</name> ושם כמו עשרים יהודים.</seg>
-				<seg xml:id="GN12S4"> ומשם <lb/>שש פרסאות ל<name ref="Q2899953" type="place">מרן</name> היא
-					<name  ref="Q2899953" type="idt">מרון</name>
+				<seg xml:id="GN12S4"> ומשם <lb/>שש פרסאות ל<name>מרן</name> היא
+						<name>מרון</name>
 				</seg>
 				<seg xml:id="GN12S5"> ושם <name>מערה</name> אחת קרוב משם ושם
 							<name>קברי<persName>הלל</persName> ו<persName>שמאי</persName>
@@ -898,7 +1611,7 @@
 					</name>ו<name>
 						<persName>רבי יהודה בן בתירה</persName>
 					</name>.</seg>
-				<seg xml:id="GN12S6"> ומשם שש פרסאות <lb/>ל<name>עלמה</name>ושם חמשים
+				<seg xml:id="GN12S6"> ומשם שש פרסאות <lb/>ל<name ref="#K21705">עלמה</name>ושם חמשים
 					יהודים ו<name>בית הקברות</name> גדול לישראל.</seg>
 				<seg xml:id="GN12S7"> ומשם חצי יום <lb/>ל<name>קאדיס</name> היא
 						<name>קדש נפתלי </name>על-שפת הירדן ושם <name>קבר
@@ -908,8 +1621,8 @@
 					</name> ו<persName>רבי שמעון בן גמליאל</persName> ו<persName>רבי יוסי
 						הגלילי</persName> ושם <name>קבר <persName>ברק בן אבינועם</persName>
 					</name> ואין בה יהודים </seg>
-				<seg xml:id="GN12S8">ומשם יום <lb/>ל<name ref="#K21492">בלינוס</name> היא
-					<name ref="#K4500" type="IDT">דן</name> ושם <name>מערה</name> אחת ומשם <lb/>
+				<seg xml:id="GN12S8">ומשם יום <lb/>ל<name>בלינוס</name> היא
+						<name>דן</name> ושם <name>מערה</name> אחת ומשם <lb/>
 					יוצא הירדן עד דרך שלשה מילין מתחבר <lb/>אליו <name>נחל ארנון</name>
 					היורד מגבול מואב <lb/>ולפני המערה נכר מקום המזבח של <lb/>פסל
 						<persName>מיכה</persName> שהיו עובדים בני דן בימים <lb/>ההם ושם מקום המזבח
@@ -917,14 +1630,14 @@
 					מצד הים האחרון. </seg>
 			</ab>
 			<ab xml:id="GeoNar13">
-				<seg xml:id="GN13S1">ומשם שני <lb/>ימים עד <name ref="#K29951">דמשק</name> העיר הגדולה
+				<seg xml:id="GN13S1">ומשם שני <lb/>ימים עד <name>דמשק</name> העיר הגדולה
 					היא <lb/>תחלת ממשלת <persName>נור אל דין מלך תוגרמים</persName> הנקראים טורקוש
 					והיא עיר <lb/>גדולה ויפה עד מאד ומוקפת חומה <lb/>והיא ארץ גנות ופרדסים מהלך חמשה
 					<lb/>עשר מילין מכל-צד לא נראה מדינת <lb/>פירות בכל-הארץ כמוה</seg>
 				<seg xml:id="GN13S2"> ויורדים אליה <lb/>מהר <name ref="#K21726" type="place"
 						>חרמון</name>
-					<name ref="#Q765106">אמנה</name> ו<name ref="#Q4829689">פרפר</name> כי היא יושבת <lb/>תחת
-					<name ref="#K21726" type="place">חרמון</name> <name ref="#KQ765106">אמנה</name> יורד בתוך העיר <lb/>והולכים
+					<name>אמנה</name> ו<name>פרפר</name> כי היא יושבת <lb/>תחת
+						<name ref="#K21726" type="place">חרמון</name> אמנה יורד בתוך העיר <lb/>והולכים
 					המים על ידי גשרים על-כל-בתי <pb n="52"/>
 					<lb/>הגדולים ובחוצות ובשוקים והיא ארץ <lb/>סחורה לכל הארצות. ופרפר הולך בין
 					<lb/>הגנות והפרדסים חוץ לעיר ומשקין ממנו <lb/>כל הגנות והפרדסים שלהם </seg>
@@ -954,10 +1667,10 @@
 				<seg xml:id="GN14S1"> ומשם מהלך יום ל<name>גלעד</name> היא
 						<name>גלעד</name> ושם מישראל כמו ששים ובראשם <persName>רבי
 						צדוק</persName> והיא רחבת ידים נחלי מים <lb/>וגנות ופרדסים.</seg>
-				<seg xml:id="GN14S2"> ומשם חצי יום <lb/>ל<name ref="Q24343">סלכאת</name> היא
-						<name type="id">עיר סלכה</name>.</seg>
-				<seg xml:id="GN14S3"> ומשם ל<name ref="#K22679">בעל ביק</name> חצי יום והיא
-					<name ref="#K22679">בעלת</name> ב<name>בקעת הלבנןן</name>
+				<seg xml:id="GN14S2"> ומשם חצי יום <lb/>ל<name>סלכאת</name> היא
+						<name>עיר סלכה</name>.</seg>
+				<seg xml:id="GN14S3"> ומשם ל<name >בעל ביק</name> חצי יום והיא
+						<name>בעלת</name> ב<name>בקעת הלבנון</name>
 					<lb/>אשר בנה <persName>שלמה</persName> ל<persName>בת פרעה</persName> ובנין
 					<lb/>הארמן מאבנים גדולות אורך האבן <lb/>עשרים זרתות ורחבה שתים עשרה <pb n="54"/>
 					<lb/>זרתות ואין בין אבן ואבן כלום ואומרים <lb/>בני אדם שלא נעשה בנין זה אלא על
@@ -965,29 +1678,30 @@
 				</seg>
 				<seg xml:id="GN14S4"> ובראש המדינה מעין גדול <lb/>יוצא והולך באמצע המדינה כמו נהר
 					<lb/>גדול ועליו ריחים וגנות ופרדסים בתוך <lb/>המדינה </seg>
-				<seg xml:id="GN14S5"> וגם <name ref="#K12562">תדמור</name> במדבר אשר בנה
+				<seg xml:id="GN14S5"> וגם <name>תדמור
+			</name> במדבר אשר בנה
 						<persName>שלמה</persName> כמו זה בנין אבנים גדולות והעיר
-					<name ref="#K12562">תדמור</name> מוקפת חומה והיא במדבר <lb/>רחוקה מן היישוב
-					ומ<name ref="#K22679">בעלת</name> הנזכרת <lb/>ארבעת ימים וכאלפים יהודים ב<name ref="#K12562">תדמור</name>
+						<name>תדמור</name> מוקפת חומה והיא במדבר <lb/>רחוקה מן היישוב
+						ומ<name>בעלת</name> הנזכרת <lb/>ארבעת ימים וכאלפים יהודים ב<name>תדמור</name>
 					<lb/>גבורי מלחמה ונלחמים עם בני אדום <lb/>ועם בני ערב שהם תחת ממשלת
 						<persName>נור אלדין</persName> ועוזרים לשכיניהם הישמעאלים <lb/>ובראשם
 						<persName>רבי יצחק היוני</persName> ו<persName>רבי נתן</persName>
 						ו<persName>רבי עוזיאל ז״ל</persName>.</seg>
-				<seg xml:id="GN14S6"> ומשם ל<name ref="173361">קריתין</name> מהלך חצי <lb/>יום והיא
+				<seg xml:id="GN14S6"> ומשם ל<name>קריתין</name> מהלך חצי <lb/>יום והיא
 						<name>קריתים</name> ואין בה יהודים אלא <persName>אחד
 						צבע</persName>.</seg>
-				<seg xml:id="GN14S7"> ומשם דרך יום ל<name ref="#K11554" type="place">חמה</name> והיא <name
-					ref="#K11554">חמת</name> היושבת על <name ref="#Q188871" type="misnomen?">נהר יבוק</name> תחת
-					<name ref="#K33532">הר הלבנון</name> ובימים ההם בא רעש גדול בעיר <lb/>ומתו (ביום אחד) חמשה עשר אלף <pb
+				<seg xml:id="GN14S7"> ומשם דרך יום ל<name ref="#K11554">חמה</name> והיא <name
+						ref="#K11554">חמת</name> היושבת על <name>נהר יבוק</name> תחת
+					הר הלבנון ובימים ההם בא רעש גדול בעיר <lb/>ומתו (ביום אחד) חמשה עשר אלף <pb
 						n="55"/>
 					<lb/>אנשים ביום אחד ולא נשארו כי אם <lb/>שבעים איש ובראשם <persName>רבי עולה
 						הכהן</persName>
 					<lb/>ו<persName>שיך אבו אל גאלב ומוכתר</persName>.</seg>
-				<seg xml:id="GN14S8"> ומשם חצי <lb/>יום ל<name ref="#Q1030058">שיהא*)</name> היא
-						<name type="idf">חצור</name>.</seg>
-				<seg xml:id="GN14S9"> ומשם שלשה <lb/>פרסאות ל<name ref="#KQ17355674">למדין</name>.</seg><seg
-					xml:id="GN14S10"> ומשם מהלך שני <lb/>ימים ל<name ref="#K40867">חלב</name>
-					היא<name ref="#K40867"> ארם צובה</name> והיא עיר <lb/>מלוכה ל<persName>מלך נור
+				<seg xml:id="GN14S8"> ומשם חצי <lb/>יום ל<name ref="#K23345">שיהא*)</name> היא
+						<name>חצור</name>.</seg>
+				<seg xml:id="GN14S9"> ומשם שלשה <lb/>פרסאות ל<name>למדין</name>.</seg><seg
+					xml:id="GN14S10"> ומשם מהלך שני <lb/>ימים ל<name ref="#K794">חלב</name>
+					היא<name ref="#K794"> ארם צובה</name> והיא עיר <lb/>מלוכה ל<persName>מלך נור
 						אלדין</persName> ובתוך העיר <lb/>ארמונו מוקף חומה גדולה מאד ואין בה
 					<lb/>מעין ולא נהר אלא מימי המטר הם <lb/>שותים וכל אדם יש לו בור בביתו שקורין
 					אלגוב ובה כמו אלף וחמש <lb/>מאות מישראל ובראשם רבי <persName>משה
@@ -996,9 +1710,9 @@
 			</ab>
 			<ab xml:id="GeoNar15">
 				<seg xml:id="GN15S1">
-					<lb/>ומשם שני ימים ל<name>באליץ</name> היא
+					<lb/>ומשם שני ימים ל<name ref="#Q3634572" type="mysuggestion">באליץ</name> היא
 						<name>פתורה</name>
-					<lb/>על <name>נהר פרת</name> ועד היום הזה שם מגדל <persName>בלעם בן
+					<lb/>על <name ref="#K1412">נהר פרת</name> ועד היום הזה שם מגדל <persName>בלעם בן
 						בעור</persName> שם רשעים ירקב שבנה <lb/>על ענין שעות היום ושם כמו מנין
 					<lb/>יהודים.</seg>
 				<seg xml:id="GN15S2"> ומשם חצי יום ל<name ref="#Q1857888">קלע גבר</name> היא
@@ -1007,7 +1721,7 @@
 					<lb/>והבריחום אל המדברות ושם כמו אלפים <lb/>יהודים ובראשם <persName>רבי
 						צדקיה</persName> ו<persName>רבי חייא</persName>
 					<lb/>ו<persName>רבי שלמה</persName>.</seg>
-				<seg xml:id="GN15S3"> ומשם יום ל<name>רקיא</name> והיא <name>
+				<seg xml:id="GN15S3"> ומשם יום ל<name ref="#K20273">רקיא</name> והיא <name>
 						כלנה</name>
 					<lb/>בתחלת ארץ <name ref="Q1404297" type="place">שנער</name> החולקת בין מלכות
 					<lb/>התוגרמים וארץ <name ref="Q1404297" type="place">שנער</name> ובה כמו שבע
@@ -1020,13 +1734,13 @@
 					עשרים יהודים ושם <name>כנסת עזרא</name> כמו כן ובאותו מקום שהיה.
 					<lb/>שם <name>ביתו של <persName>אברהם אבינו</persName>
 					</name> אין עליו <lb/>בנין וישמעאלים מכבדים אותו מקום <lb/>ובאים שם להתפלל. </seg>
-				<seg xml:id="GN15S5">ומשם מהלך שני <lb/>ימים ומשם יוצא נהר <name>אל
-						כבור</name> והוא <name>חבור</name>*) והוא הולך לארץ
+				<seg xml:id="GN15S5">ומשם מהלך שני <lb/>ימים ומשם יוצא נהר <name ref="#K4883">אל
+					כבור</name> והוא <name ref="#K4883">חבור</name>*) והוא הולך לארץ
 						<name ref="#K22613" type="place">מדי</name> ונופל בנהר*)
 						<name>גוזן</name> ושם כמו מאתים יהודים.</seg>
-				<seg xml:id="GN15S6"> ומשם <lb/>שני ימים ל<name>נציבין</name> והיא עיר
+				<seg xml:id="GN15S6"> ומשם <lb/>שני ימים ל<name ref="#K22186">נציבין</name> והיא עיר
 					גדולה ונחלי <lb/>מים ובה כמו אלף יהודים</seg>
-				<seg xml:id="GN15S7"> ומשם שני <lb/>ימים ל<name>גזיר בן עמר</name> והוא
+				<seg xml:id="GN15S7"> ומשם שני <lb/>ימים ל<name ref="#K20455">גזיר בן עמר</name> והוא
 					בתוך נהר <pb n="57"/>
 					<lb/>חדקל לרגלי <name>הרי אררט</name> מהלך ארבעה <lb/>מילין למקום שנחה
 					שם תיבת נח אבל <persName>עמר בן אל כטאב</persName> לקח את-התיבה מעל <lb/>ראש שני
@@ -1038,7 +1752,7 @@
 				</seg>
 			</ab>
 			<ab xml:id="GeoNar16">
-				<seg xml:id="GN16S1"> ומשם שני <lb/>ימים ל<name>אל-מוצל</name> היא
+				<seg xml:id="GN16S1"> ומשם שני <lb/>ימים ל<name ref="#K6985">אל-מוצל</name> היא
 						<name>אשור הגדולה</name> ושם כמו <lb/>שבעת אלפים יהודים ובראשם
 						<persName>רבי זכאי הנשיא</persName> מזרע <persName>דוד המלך</persName>
 						ו<persName>רבי יוסף המכונה ברהן אל פלך</persName> והוא חוזה למלך
@@ -1047,32 +1761,32 @@
 				</seg>
 				<seg xml:id="GN16S2">
 					<lb/>והיא תחלת ארץ <name ref="#K7639" type="place">פרס</name> היא עיר גדולה <lb/>מאד
-					מימי קדם והיא יושבת על <name>נהר חדקל</name> ובינה ובין
-						<name>נינוה</name> הגשר לבד והיא <lb/>חרבה אבל יש שם כפרים וכרכים
+					מימי קדם והיא יושבת על <name ref="#K2273">נהר חדקל</name> ובינה ובין
+					<name ref="#K14078">נינוה</name> הגשר לבד והיא <lb/>חרבה אבל יש שם כפרים וכרכים
 					רבים </seg>
 				<seg xml:id="GN16S3">
-					<lb/>ומנינוה מהלך פרסה עד עיר <name>ארבאל</name>
+					<lb/>ומנינוה מהלך פרסה עד עיר <name ref="#K12037">ארבאל</name>
 					<pb n="58"/>
-					<lb/>והעיר <name>נינוה</name> על-שפת חדקל</seg>
+					<lb/>והעיר <name ref="#K14078">נינוה</name> על-שפת חדקל</seg>
 				<seg xml:id="GN16S4"> ובמדינת <lb/>אשור <name>כנסת <persName>עובדיה</persName>
 					</name> ו<name>כנסת <persName>יונה בן אמתי</persName>
 					</name> ו<name>כנסת <persName>נחום האלקושי</persName>
 					</name>.</seg>
-				<seg xml:id="GN16S5"> ומשם <lb/>מהלך שלשה ימים ל<name>רחבה</name> היא
+				<seg xml:id="GN16S5"> ומשם <lb/>מהלך שלשה ימים ל<name ref="#Q1309261">רחבה</name> היא
 						<name>רחובות</name>
-					<lb/>אשר על-שפת <name>נהר פרת</name> ובה כמו אלפים <lb/>יהודים ובראשם
+					<lb/>אשר על-שפת <name ref="#K1412">נהר פרת</name> ובה כמו אלפים <lb/>יהודים ובראשם
 						<persName>רבי חזקיה</persName>
 					<persName>רבי אהוד</persName>
 					<lb/>ו<persName>רבי יצחק</persName> והיא עיר מוקפת חומה ויפה <lb/>עד מאד וגדולה
 					ובצורה וסביבותיה גנות <lb/>ופרדסים.</seg>
 			</ab>
 			<ab xml:id="GeoNar17">
-				<seg xml:id="GN17S1"> ומשם מהלך יום ל<name>קרקסיא</name> היא
-						<name>כרכמיש</name> על-שפת <name>נהר פרת</name> ובה כמו
+				<seg xml:id="GN17S1"> ומשם מהלך יום ל<name ref="#Q1092772">קרקסיא</name> היא
+					<name ref="#K6702" type="idf">כרכמיש</name> על-שפת <name ref="#K1412">נהר פרת</name> ובה כמו
 					<lb/>חמש מאות יהודים ובראשם <persName>רבי יצחק</persName>
 					<lb/>ו<persName>רבי אלחנן</persName>.</seg>
-				<seg xml:id="GN17S2"> ומשם שני ימים ל<name>אל יובר</name> היא
-						<name>פום בדיתא</name> אשר ב<name>נהרדעא</name>
+				<seg xml:id="GN17S2"> ומשם שני ימים ל<name  ref="#K3373" type="resolve">אל יובר</name> היא
+					<name ref="#K3360">פום בדיתא</name> אשר ב<name ref="#K3373" type="idf">נהרדעא</name>
 					<lb/>ושם כמו אלפים יהודים וביניהם <lb/>תלמידי חכמים ובראשם <persName>חן
 						הרב</persName> ו<persName>רבי משה</persName> ו<persName>רבי
 						אליקים</persName> ושם <name>קבר <persName>רב יהודה</persName>
@@ -1087,18 +1801,18 @@
 					<lb/>ומשם חמשה ימים ל<name>חרדה</name> ושם כמו <lb/>חמשה עשר אלף
 					יהודים ובראשם <persName>רבי זקן</persName> ו<persName>רבי יוסף</persName>
 						ו<persName>רבי נתנאל</persName>.</seg>
-				<seg xml:id="GN17S4">ומשם שני <lb/>ימים ל<name>עוקברה</name> היא המדינה
+				<seg xml:id="GN17S4">ומשם שני <lb/>ימים ל<name ref="#Q766309">עוקברה</name> היא המדינה
 					אשר בנה <persName>יכניה מלך יהודה</persName> ובה כמו עשרת <lb/>אלפים יהודים
 					ובראשם <persName>רבי יהושע</persName> ו<persName>רבי נתן</persName>
 				</seg>
 			</ab>
 			<ab xml:id="GeoNar18">
-				<seg xml:id="GN18S1"> ומשם שני ימים ל<name>בגדאד</name> היא העיר
+				<seg xml:id="GN18S1"> ומשם שני ימים ל<name ref="#K662">בגדאד</name> היא העיר
 					<lb/>הגדולה ראש ממשלת <persName>כליפת אמיר אל מומנין אל עבאסי</persName> ממשפחת
 						<persName>הנביא שלהם</persName> והוא הממונה על דת הישמעאלים <lb/>עליהם כמו
 						<persName>הפפא</persName> על הנוצרים וכל מלכי ישמעאל מודים לו והוא עליהם כמו
 					הפפא אצל הנוצרים </seg>
-				<seg xml:id="GN18S2"> ויש לו <lb/>ארמון בתוך <name>בגדאד</name> מהלך שלשה
+				<seg xml:id="GN18S2"> ויש לו <lb/>ארמון בתוך <name ref="#K662">בגדאד</name> מהלך שלשה
 					מילין <lb/>ובתוך הארמון יער גדול מכל מיני <lb/>אילני העולם בין עושי פרי ובין
 					שאינן <lb/>עושין פרי ושם כל מיני חיות ובתוך <lb/>היער מקוה מים באים מנהר חדקל
 					<lb/>ובשעה שירצה לטייל עצמו בו ולשמוח <lb/>ולשתות צדים לו עופות וחיות ודגים ובא
@@ -1108,7 +1822,7 @@
 					<lb/>ועושה מחצלאות וחותם חותמו בהן <lb/>ומוכרין אותם שריו בשוק וקונים אותם
 					<lb/>גדולי הארץ ומדמיהן הוא אוכל ושותה <lb/>והוא איש טוב ובעל אמונה ודובר שלום
 					<lb/>לכל הבריות ואינן יכולים בני ישמעאל <lb/>לראותו והתועים הבאים מארץ מרחק
-					<lb/>ללכת ל<name>מיקה</name> בארץ <name>אלימן</name> מבקשים
+					<lb/>ללכת ל<name ref="#K647">מיקה</name> בארץ <name>אלימן</name> מבקשים
 					<lb/>ללכת לפניו ואומרים לו מהארמון <lb/>אדונינו אור הישמעאלים וזהר תורתנו
 					<lb/>הראנו זיו פניך ואינו חושש לדבריהם <lb/>ובאים שריו ועבדיו המשרתים אותו
 					<lb/>ואומרים אדונינו פרוש שלומך על <lb/>האנשים הבאים מארץ מרחק המתאוים
@@ -1158,7 +1872,7 @@
 					בקיץ ואוסרין כל אחד ואחד <lb/>מהם בכבלי ברזל עד שחוזרין לדעתם <lb/>מניחין אותם
 					וכל אחד ואחד הולך <lb/>לביתו כי בכל-חדש וחדש בודקין אותם <lb/>פקידי המלך אם
 					חוזרין לדעתם מתירין <lb/>אותם והולכים לדרכם וכל זה עושה <lb/>המלך לצדקה לכל
-					הבאים לעיר <name>בגדאד</name>
+					הבאים לעיר <name ref="#K662">בגדאד</name>
 					<lb/>בין חולים בין משוגעים והמלך איש <lb/>חסיד וכונתו לטובה בזה הענין | ויש
 					<lb/>שם בבגדאד כמו אלף יהודים והם <pb n="65"/>
 					<lb/>יושבים בשלוה ובהשקט ובכבוד גדול <lb/>תחת יד המלך הגדול וביניהם חכמים
@@ -1219,14 +1933,14 @@
 					הגדול לביתו בתופים ובמחולות <lb/>והוא עושה הסמיכה לאנשי הישיבה. </seg>
 				<seg xml:id="GN18S7">
 					<lb/>והיהודים שבמדינה בה תלמידי חכמים <lb/>ועשירים גדולים ובעיר
-						<name>בגדאד</name> שמנה <pb n="69"/>
-					<lb/>ועשרים בתי כניסיות ליהודים בין <name>בגדאד</name>
-					<lb/>ובין <name>אל כרך</name> אשר מעבר <name>חדקל</name> כי
+						<name ref="#K662">בגדאד</name> שמנה <pb n="69"/>
+					<lb/>ועשרים בתי כניסיות ליהודים בין <name ref="#K662">בגדאד</name>
+					<lb/>ובין <name>אל כרך</name> אשר מעבר <name ref="#K2273"> חדקל</name> כי
 					<lb/>הנהר חולק את המדינה וכניסה גדולה <lb/>של ראש הגולה מבנין עמודי שיש מכל
 					<lb/>מיני צבעים מצופים בזהב ובכסף <lb/>ובעמודים אותיות של זהב בפסוקי תלים
 					<lb/>ושם לפני הארון מדרגות מאבני שיש <lb/>כמו עשרה ובמדרגה העליונה ראש
 					<lb/>הגולה עם נשיאי בית דוד|</seg>
-				<seg xml:id="GN18S8"> ומדינת <name>בגדאד</name> עיר שלשה מילין גדולה בהקפת
+				<seg xml:id="GN18S8"> ומדינת <name ref="#K662">בגדאד</name> עיר שלשה מילין גדולה בהקפת
 					<lb/>העיר והיא ארץ תמרים וגנות ופרדסים <lb/>שאין כמותם בכל ארץ <name
 						ref="Q1404297">שנער</name> ובאים <lb/>אליה בסחורה מכל הארצות ובה אנשים
 					<lb/>חכמים פילוסופין בכל חכמה חרטומים <lb/>יודעים בכל מיני כשוף |</seg>
@@ -1237,7 +1951,7 @@
 					אלפים מישראל ובתוכה <lb/>כנסת גדולה ושם קבור* בבית סמוך <lb/>לכנסת ותחת קברו
 						<name>מערה</name> קבורים בה <lb/>שנים עשר מתלמידיו| </seg>
 				<seg xml:id="GN19S2">ומשם יום <pb n="70"/>
-					<lb/>ל<name ref="U4" type="place">בבל</name> היא בבל הקדמונה החרבה והיא <lb/>מהלך
+					<lb/>ל<name ref="#Q5684" type="place">בבל</name> היא בבל הקדמונה החרבה והיא <lb/>מהלך
 					שלשים מילין ברחובותיה עדין <name>ארמון <persName>נבוכדצר</persName>
 					</name> שם חרב ויראים בני <lb/>אדם ליכנס בו מפני הנחשים והעקרבים <lb/>שיש
 					בתוכו|</seg>
@@ -1249,7 +1963,7 @@
 					<lb/>הושלכו שם <persName>חנניה</persName>
 					<persName>מישאל</persName> ו<persName>עזריה</persName> והוא <lb/>עמק ידוע
 					לכל|</seg>
-				<seg xml:id="GN19S5"> ומשם ל<name>חילה</name> חמשה <lb/>מילין ושם כמו עשרה
+				<seg xml:id="GN19S5"> ומשם ל<name ref="#K18484">חילה</name> חמשה <lb/>מילין ושם כמו עשרה
 					אלפים מישראל <lb/>ובה ארבע בתי כנסיות אחת של <name>רבי מאיר</name>
 					והוא קבור לפניה ו<name>רב זעירי בר חמא</name> ו<name>רב
 						מאירי</name> ומתפללין שם בכל-יום <lb/>יהודים.</seg>
@@ -1267,9 +1981,9 @@
 				<seg xml:id="GN20S2">
 					<lb/>ומשם שלשה פרסאות ל<name>כנסת<persName> יחזקאל הנביא עליו
 							השלום</persName>
-					</name> שעל <name>נהר פרת</name>
+					</name> שעל <name ref="#K1412">נהר פרת</name>2273
 					<lb/>ובמקום הכנסת כנגדו ששים מגדלים <lb/>ובין כל מגדל ומגדל כנסת ובחצר
-					<lb/>הכנסת התיבה ואחרי הכנסת קברו של <persName>יחזקאל בן בויבוזי הכהן</persName>
+					<lb/>הכנסת התיבה ואחרי הכנסת <name ref="#Q2903334" type="inaccurate">קברו של <persName>יחזקאל בן בויבוזי הכהן</persName></name>
 					ועליו כיפה גדולה <lb/>ובנין יפה עד מאד מבנין <persName>יכניה מלך
 						יהודה</persName> וחמשה ושלשים אלף יהודים <lb/>שבאו עמו כשהוציא אותו
 						<persName>אויל מרודך</persName>
@@ -1323,14 +2037,14 @@
 					<persName> עליו השלום</persName>
 					<lb/>ועליו כיפה גדולה</seg>
 				<seg xml:id="GN21S6"/>
-				<seg xml:id="GN21S7"> ומשם לעיר <name>קופה</name>
+				<seg xml:id="GN21S7"> ומשם לעיר <name ref="#Q186234">קופה</name>
 					<lb/>מהלך יום ושם <name>קברו של <persName>יכניה המלך</persName>
 					</name>
 					<lb/>בנין גדול וכנסת לפניו</seg>
 				<seg xml:id="GN21S8"/>
 				<seg xml:id="GN21S9"> ושם כמו שבעת <lb/>אלפים יהודים|</seg>
 				<seg xml:id="GN21S10"/>
-				<seg xml:id="GN21S11"> ומשם יום וחצי ל<name>סוריא</name> היא
+				<seg xml:id="GN21S11"> ומשם יום וחצי ל<name ref="#Q4446399">סוריא</name> היא
 						<name>מתא מחסיא</name> שהיו בה ראשי גליות <lb/>וראשי ישיבות בתחלה
 					ושם <name>[קבר]<persName>רב שרירא</persName>
 					</name>
@@ -1391,7 +2105,7 @@
 						<persName>שלמנאסר מלך אשור</persName> והלכו שם <lb/>ובנו הערים האלה גדולות
 					ובצורות <lb/>ונלחמים בכל הממלכות ואין אדם יכול <lb/>ליכנס אליהם שמנה עשר יום
 					הולכים <lb/>במדברות בלא ישוב (ואין ליכנס עליהם)
-						<lb/>ו<name>כיבר</name> עיר גדולה מאד ושם כמו חמשים <lb/>אלף
+					<lb/>ו<name ref="#K17130">כיבר</name> עיר גדולה מאד ושם כמו חמשים <lb/>אלף
 					מישראל ובה תלמידי חכמים <lb/>ואנשים גבורים עורכי מלחמה עם בני <name
 						ref="Q1404297">שנער</name> וארץ צפון וארץ <name>אלימן</name>
 					הקרובים <lb/>אליהם שהיא תחלת ארץ <name>הודו</name>
@@ -1402,8 +2116,8 @@
 					<lb/>ל<name>נאסט</name>*) ושם כמו עשרה אלפים מישראל <lb/>וביניהם
 						<persName>רב נדיין</persName>.</seg>
 				<seg xml:id="GN22S9"/>
-				<seg xml:id="GN22S10"> ומשם מהלך חמשה <lb/>ימים ל<name>בוצרה</name> היושבת
-					על <name>נהר חדקל</name>
+				<seg xml:id="GN22S10"> ומשם מהלך חמשה <lb/>ימים ל<name ref="#K9541">בוצרה</name> היושבת
+					על <name ref="#K2273">נהר חדקל</name>
 					<lb/>ובה כמו אלפים מישראל וביניהם <lb/>תלמידי חכמים ועשירים הרבה|</seg>
 				<seg xml:id="GN22S11"> ומשם <lb/>שני ימים ל<name>נהר סמורה</name> היא תחלת
 					<lb/>ארץ <name ref="#K7639" type="place">פרס</name> ובה כמו אלף וחמש מאות
@@ -1416,12 +2130,12 @@
 			<ab xml:id="GeoNar23">
 				<seg xml:id="GN23S1">ומשם ארבע מילין ל<name>כוזסתאן</name> והיא
 						<name>עילם</name> המדינה הגדולה אבל אינה <lb/>מיושבת כלה כי היא
-					חרבה מקצתה <lb/>ובתוך חרבותיה <name>שושן הבירה</name> והוא
+					חרבה מקצתה <lb/>ובתוך חרבותיה <name ref="#K2448">שושן הבירה</name> והוא
 						<name>ארמון המלך <persName>אחשורוש</persName>
 					</name> ויש בו בנין גדול <lb/>ויפה מימים קדמונים</seg>
 				<seg xml:id="GN23S2"> ובה שבעת אלפים <lb/>יהודים ובה ארבע עשר בתי כנסיות <pb n="79"/>
 					<lb/>ולפני הכנסת האחת <name>קברו של דניאל</name>
-					<persName> עליו השלום</persName> ו<name>נהר חדקל</name>*) חולק את
+					<persName> עליו השלום</persName> ו<name ref="#K2273">נהר חדקל</name>*) חולק את
 					<lb/>המדינה והגשר ביניהם ובצד האחד <lb/>שדרים שם היהודים שם הם השווקים <lb/>ושם
 					הסחורות כלם ושם יושבים כל <lb/>העשירים| והצד האחר הם עניים <lb/>מפני שאין ביניהם
 					שווקים ולא סחורה <lb/>ולא גנות ופרדסים עד שלבשו קנאה <lb/>ואמרו אין כל העושר
@@ -1434,8 +2148,8 @@
 					על כל מלכי <name ref="#K7639" type="place">פרס</name>
 					<lb/>על חמשה וארבעים שהם תחת ידו והוא <pb n="80"/>
 					<persName>סולטאן אל פורס אל כביר</persName> בלשון ערב <lb/>והוא המולך משער
-						<name>נהר סמורה</name> עד עיר <name>סמרכנת</name> ועד
-						<name>נהר גוזן</name> ועד מדינת <name>ניסבור</name> וכל
+					<name>נהר סמורה</name> עד עיר <name ref="#K635">סמרכנת</name> ועד
+					<name>נהר גוזן</name> ועד מדינת <name ref="#KQ131350">ניסבור</name> וכל
 					נהר <name>גוזן</name> וערי <name ref="#K22613" type="place">מדי</name>
 					והרי <name>חפתון</name> ועד מדינות טובות שימצאו שם <lb/>ביערים שלה
 					חיות שיצא מהן המור <lb/>וממשלתו מהלך ארבעה חדשים וארבע <lb/>ימים </seg>
@@ -1450,7 +2164,7 @@
 					<lb/>בשביל כבודו של דניאל| </seg>
 			</ab>
 			<ab xml:id="GeoNar24">
-				<seg xml:id="GN24S1">ומשם שלשה <lb/>ימים ל<name>רובדבר</name>*) ושם כמו
+				<seg xml:id="GN24S1">ומשם שלשה <lb/>ימים ל<name ref="#Q766927">רובדבר</name>*) ושם כמו
 					עשרים אלף <lb/>מישראל וביניהם תלמידי חכמים <lb/>ועשירים אבל בגלות הם יושבים
 					שם.</seg>
 				<seg xml:id="GN24S2">
@@ -1463,13 +2177,13 @@
 					בהרים <lb/>הגבוהים הם דרים ויורדים מן ההרים <lb/>לשלול שלל ולבוז בז ועולים להרים
 					ואין <lb/>אדם יכול להלחם עמם והיהודים <lb/>שבארץ ביניהם תלמידי חכמים והם
 					<lb/>תחת רשות ראש הגולה שב<name ref="U4" type="place">בבל</name>|</seg>
-				<seg xml:id="GN24S4"> ומשם <lb/>חמשה ימים ל<name>עמריה</name> ושם כמו חמשה
+				<seg xml:id="GN24S4"> ומשם <lb/>חמשה ימים ל<name  ref="#K6933">עמריה</name> ושם כמו חמשה
 						<pb n="82"/>
 					<lb/>ועשרים אלף מישראל והיא תחלת <lb/>הקהלות הדרים בהרי
 						<name>חפתון</name> כי שם <lb/>יותר ממאה קהלות מישראל והיא תחלת
 					<lb/>ארץ <name ref="#K22613" type="place">מדי</name> והם מן הגלות הראשון שהגלה
 						<persName>שלמנאסר המלך</persName> והם מדברים בלשון <lb/>תרגום וביניהם תלמידי
-					חכמים והם <lb/>שכנים למדינת <name>עמאריה</name> יום עד מלכות
+					חכמים והם <lb/>שכנים למדינת <name ref="#K6933">עמאריה</name> יום עד מלכות
 						<name ref="#K7639" type="place">פרס</name> ורשות <persName>מלך פרס</persName>
 					עליהם ולוקח <lb/>מהם מס על יד <persName>פקידו</persName> והמס שפורעין <lb/>בכל
 					מלכות ישמעאל על כל אחד ואחד <lb/>מן הזכרים מבן חמש עשרה שנה <lb/>ומעלה פורעין
@@ -1477,9 +2191,9 @@
 			</ab>
 			<ab xml:id="GeoNar25">
 				<seg xml:id="GN25S1"> והיום עשר <lb/>שנים קם שם איש אחד ושמו <persName>דוד אל
-						רואי</persName> מעיר <name>עמאריה</name> ולמד לפני <persName>ראש
+					רואי</persName> מעיר <name ref="#K6933">עמאריה</name> ולמד לפני <persName>ראש
 						הגולה חסדאי</persName> ולפני <persName>ראש הישיבה עלי גאון יעקב</persName>
-					במדינת <name>בגדאד</name> והיה גדול <lb/>בתורת משה ובהלכה ובתלמוד ובכל
+					במדינת <name ref="#K662">בגדאד</name> והיה גדול <lb/>בתורת משה ובהלכה ובתלמוד ובכל
 					<lb/>חכמה חיצונית ובלשון ישמעאל <lb/>ובכתיבתם ובספרי החרטומים והמכשפים <pb
 						n="83"/>
 					<lb/>ועלה בדעתו להרים יד במלך <name ref="#K7639" type="place">פרס</name>
@@ -1502,16 +2216,16 @@
 					עבדיו הולכים אחרי <lb/>מלכם עד בואם אל שפת הנהר והוא <lb/>לקח סודרו ופרש על-פני
 					המים ועבר <lb/>עליו באותה שעה ראו אותו כל עבדי <lb/>המלך שהיה עובר במים על סודרו
 					ודלגו <lb/>אחריו בדוגיות ואמרו כי אין מכשף <lb/>בעולם כמו זה ובאותו היום הלך
-					מהלך <lb/>עשרה ימים עד אל <name>עמאריה</name> בשם <lb/>המפורש והגיד
+					מהלך <lb/>עשרה ימים עד אל <name ref="#K6933">עמאריה</name> בשם <lb/>המפורש והגיד
 					ליהודים כל אשר קרהו <lb/>ותמהו כלם על-חכמתו ואחר כך שלח <lb/>מלך <name
 						ref="#K7639">פרס</name> זה אל <persName>אמיר אלמומנין כליפה</persName>
-					אשר ב<name>בגדאד</name> אדון הישמעאלים <pb n="85"/>
+					אשר ב<name ref="#K662">בגדאד</name> אדון הישמעאלים <pb n="85"/>
 					<lb/>לדבר עם <persName>ראש הגולה</persName> ועם ראשי <lb/>הישיבות ולמנוע
 						את-<persName>דוד אל רואי</persName>
 					<lb/>מלעשות כדברים האלה ואם לאו אהרוג <lb/>את כל היהודים הנמצאים בכל מלכותי
 					<lb/>ובעת ההיא היתה צרה לכל הקהלות <lb/>ארץ <name ref="#K7639" type="place"
 						>פרס</name> ושלחו כתבים אל ראש הגולה <lb/>ואל ראשי הישיבות
-						שב<name>בגדאד</name> למה נמות <lb/>לעיניכם גם אנחנו גם כל הקהלות
+						שב<name ref="#K662">בגדאד</name> למה נמות <lb/>לעיניכם גם אנחנו גם כל הקהלות
 					אשר <lb/>במלכות מנעו את האיש הזה ולא ישפוך <lb/>דם נקי| אז כתבו אליו ראש הגולה
 					<lb/>וראשי הישיבות דע לך כי לא הגיע זמן <lb/>הגאולה עדין ואותותינו לא ראינו כי
 					לא <lb/>בכוח יגבר איש ואנו אומרים לך <lb/>שתמנע עצמך מעשות עוד כדברים <lb/>האלו
@@ -1531,7 +2245,7 @@
 			</ab>
 			<ab xml:id="GeoNar26">
 				<seg xml:id="GN26S1">
-					<lb/>ומאותו ההר עד <name>חמדן</name> מהלך עשרה <lb/>ימים היא
+					<lb/>ומאותו ההר עד <name ref="#Q28587">חמדן</name> מהלך עשרה <lb/>ימים היא
 						<name ref="#K22613" type="place">מדי</name> העיר הגדולה ושם כמו <lb/>חמשים אלף
 					מישראל ושם לפני כנסת <lb/>אחת קבורים <persName>מרדכי</persName>
 						ו<persName>אסתר</persName>|</seg>
@@ -1539,13 +2253,13 @@
 					כמו <lb/>ארבעה אלפים יהודים על נהר <name>גוזן</name>. <pb n="87"/>
 				</seg>
 				<seg xml:id="GN26S3">
-					<lb/>ומשם שבעה ימים למדינת <name>אסבהאן</name>
+					<lb/>ומשם שבעה ימים למדינת <name ref="#K340">אסבהאן</name>
 					<lb/>היא העיר הגדולה והיא עיר המלוכה <lb/>והיא מהלך שתים עשרה מיל ובה כמו
 					<lb/>חמשה עשר אלף מישראל ושם <persName>שר שלום הרב</persName> שהיה ממונה על יד
 					ראש <lb/>הגולה ועל כל הכרכים אשר בכל <lb/>מלכות פרס|</seg>
-				<seg xml:id="GN26S4"> ומשם ארבעה ימים <lb/>ל<name>שיראז</name> היא
+				<seg xml:id="GN26S4"> ומשם ארבעה ימים <lb/>ל<name ref="#K8061">שיראז</name> היא
 						<name>פרס המדינה</name> ובה כמו <lb/>עשרת אלפים יהודים.</seg>
-				<seg xml:id="GN26S5"> ומשם שבעה <lb/>ימים ל<name>גיבה</name> העיר הגדולה
+				<seg xml:id="GN26S5"> ומשם שבעה <lb/>ימים ל<name ref="#K12743" type="exploreFurther">גיבה</name> העיר הגדולה
 					שעל שפת <lb/>נהר גוזן*) ובה כמו שמונת אלפים <lb/>מישראל ואותה העיר ארץ סחורה
 					באים <lb/>אליה בסחורה מכל לשונות הגוים והיא <lb/>ארץ רחבת ידים. </seg>
 				<seg xml:id="GN26S6">ומשם חמשה ימים <lb/>ל<name>סמרכנת</name> העיר הגדולה
@@ -1573,7 +2287,7 @@
 			</ab>
 			<ab xml:id="GeoNar27">
 				<seg xml:id="GN27S1"> והיום שמונה עשרה שנה <lb/>כשבאו לארץ <name ref="#K7639" type="place"
-						>פרס</name> בחיל גדול ולקחו <lb/>את מדינת <name>ראי</name>
+					>פרס</name> בחיל גדול ולקחו <lb/>את מדינת <name ref="#19286">ראי</name>
 					והכו אותה לפי חרב <lb/>ולקחו את כל שללה והלכו להם דרך <lb/>המדבר ומהיום לכמה
 					ימים לא נראה <lb/>כדבר הזה בכל מלכות <name ref="#K7639" type="place">פרס</name>
 					וכששמע <lb/>מלך <name ref="#K7639" type="place">פרס</name> חרה אפו עליהם ואמר לא
@@ -1589,13 +2303,13 @@
 					אויבינו ויען ויאמר לו תעיתי <lb/>בדרך ויחר אפו ויצו להתיז את ראשו <lb/>וצוה המלך
 					בכל מחנהו כל אדם שיש <lb/>לו שום מחיה לחלוק יחלוק עם חברו <lb/>ואכלו מה שבידם
 					וגם הבהמות והלכו <lb/>במדבר עדין שלשה עשר ימים עד <lb/>שבאו אל הרי
-						<name>ניסבור</name>*) והיהודים יושבים שם <lb/>והם באו שם (ביום)
+					<name>ניסבור</name>*) והיהודים יושבים שם <lb/>והם באו שם (ביום)
 					וחנו בגנות ופרדסים <lb/>ועל מעינות המים אשר מצד לנהר <name>גוזן</name>
 					<lb/>והימים ימי הפירות ואכלו והשחיתו ואין <lb/>אדם יוצא אליהם אבל היו רואים על
 					<lb/>ההרים מדינות ומגדלים הרבה וצוה <lb/>המלך לשני אנשים מעבדיו ללכת <pb n="91"/>
 					<lb/>לשאול מה אומה יושבת בהרים ולעבור <lb/>אליהם על כל פנים בספינות או לשוט
 					<lb/>על פני המים ושם מצאו (לשם) גשר גדול <lb/>ועליו מגדלים ופתח סגור ולפני הגשר
-					<lb/>מאותו הצד עיר גדולה וצעקו לפני <lb/>הגשר עד <name>שבא</name> להם
+					<lb/>מאותו הצד עיר גדולה וצעקו לפני <lb/>הגשר עד שבא להם
 					אדם אחד ושאל <lb/>להם מה תרצו או למי אתם ולא הבינו <lb/>עד
 						<name>שבא</name>
 					<persName>התורגמן</persName> שהיה יודע לשונם <lb/>ושאל אותם ואמרו עבדי מלך
@@ -1629,17 +2343,17 @@
 					ואמר לו אם תרצה לשוב <lb/>לדתנו ואני אעשה עמך חסד ותהיה <lb/>עשיר גדול וממונה על
 					כל ביתי ענה <lb/>ואמר לו אדוני המלך לא אוכל לעשות <lb/>הדבר הזה אז לקחו המלך
 					וישימהו <lb/>בבית <persName>הרב שר שלום</persName> מן קהל
-						<name>אספהאן</name>
+					<name ref="#K340">אספהאן</name>
 					<lb/>ונתן לו הרב <persName>בתו</persName> לאשה והוא רבי משה <lb/>זה ספר לי את כל
 					הדברים האלה| </seg>
 			</ab>
 			<ab xml:id="GeoNar28">
 				<seg xml:id="GN28S1">
 					<lb/>ומשם חזרתי לארץ <name>כוזסתאן</name> אשר על- <lb/>שפת
-						<name>חדקל</name>
+						<name ref="#K2273">חדקל</name>
 				</seg>
 				<seg xml:id="GN28S2"> ומשם יורד הנהר ויורד ב<name>ים הודו</name> אל אי אחד
-					נקרא <name>קיש</name>*) מהלך האי <pb n="94"/>
+					נקרא <name ref="#Q221883">קיש</name>*) מהלך האי <pb n="94"/>
 					<lb/>ששה ימים*) ואין זורעין שם ואין להם <lb/>אלא מעין אחד ואין שם בכל האי נהר
 					<lb/>כי מימי גשמים הם שותים ותגרים באים <lb/>מארץ הודו ומן האיים וחונים שם
 					<lb/>בסחורה ואנשי ארץ <name ref="Q1404297" type="place">שנער</name>
@@ -1648,7 +2362,7 @@
 					ודוחן ושפון וכל מיני מאכל <lb/>וכל מיני קטנית ועושין סחורה אלו עם <lb/>אלו כי
 					אנשי <name>הודו</name> מביאים שם בשמים <lb/>לרוב מאד ואנשי האי סרסורים
 					ביניהם <lb/>ומזה הדבר בלבד הוא חייהם ויש שם <lb/>כמו חמש מאות יהודים.</seg>
-				<seg xml:id="GN28S3"> ומשם עשרה <lb/>ימים בים עד <name>קתיפה</name> ושם
+				<seg xml:id="GN28S3"> ומשם עשרה <lb/>ימים בים עד <name ref="#K19892">קתיפה</name> ושם
 					חמש אלפים <lb/>מישראל ושם ימצא הבדולח ובארבע <lb/>ועשרים בניסן ירד שם מטר על פני
 					המים <lb/>ומקבלים השרצים המטר ההוא ונסגרים <lb/>ונופלין לתוך קרקע הים ובחצי תשרי
 					<lb/>באין שם (שני) בני אדם לקרקע הים <lb/>בחבלים ומלקטים את השרצים ההם <pb
@@ -1656,7 +2370,7 @@
 					<lb/>ומוציאין אותם ומבקעים אותם ומוציאין <lb/>מתוכם אבני הללו|</seg>
 			</ab>
 			<ab xml:id="GeoNar29">
-				<seg xml:id="GN29S1"> ומשם מהלך <lb/>שבע ימים ל<name>חאולם</name> הוא תחלת
+				<seg xml:id="GN29S1"> ומשם מהלך <lb/>שבע ימים ל<name ref="#Q321475">חאולם</name> הוא תחלת
 					מלכות <lb/>עובדי השמש והם בני כוש והם חוזים <lb/>בכוכבים וכולם שחורים ובעלי
 					אמונה <lb/>במשא ובמתן וכשיבואו אליהם התגרים <lb/>מארץ מרחק ונכנסין אליהם בנמל
 					<lb/>נכנסין אליהם <persName>שלשה סופרי המלך</persName>
@@ -1724,10 +2438,10 @@
 				<seg xml:id="GN32S1"> ומשם שלשה ימים אל <name>גינגלה</name>
 					<lb/>מהלך חמשה עשר ימים דרך ים ושם <lb/>כמו אלף מישראל. ומשם
 						ל<name>כולן</name> שבעה*) <lb/>ימים דרך ים ואין שם ישראל. </seg>
-				<seg xml:id="GN32S2">ומשם <lb/>שנים עשר ימים ל<name>זביד</name> ושם יהודים
+				<seg xml:id="GN32S2">ומשם <lb/>שנים עשר ימים ל<name ref="#K11566">זביד</name> ושם יהודים
 					<lb/>מעטים. </seg>
 				<seg xml:id="GN32S3">ומשם שמונה ימים ל<name>הודו</name> אשר ביבשה הנקרא
-						<name>בעדן</name> והיא <name>עדן אשר בתלסר</name> ובה
+					<name ref="#K11337">בעדן</name> והיא <name>עדן אשר בתלסר</name> ובה
 					הרים גדולים ושם <lb/>מישראל הרבה ואין עליהם עול גוים <lb/>ולהם ערים ומגדלים
 					בראשי ההרים <pb n="101"/>
 					<lb/>ויורדים לארץ המעטום הנקראת <name>נוביא</name>*) <lb/>היא ממשלת
@@ -1747,22 +2461,22 @@
 					<name ref="#K8046" type="place">מצרים</name> ובכל הממלכות אשר סביבותיהם <lb/>והם
 					העבדים השחורים בני חם| </seg>
 				<seg xml:id="GN32S5">
-					<lb/>ומאסואן עד <name>חלואן</name> שנים עשר יום ובה <lb/>כמו שלש מאות
+					<lb/>ומ<name>אסואן</name> עד <name ref="#K15135">חלואן</name> שנים עשר יום ובה <lb/>כמו שלש מאות
 					יהודים ומשם הולכין <lb/>בשיירות מהלך חמשים יום דרך מדבר <lb/>הנקרא <name>אל
-						צחרא</name> למדינת <name>זוילא</name> היא
+						צחרא</name> למדינת <name ref="#Q3663184">זוילא</name> היא
 						<name>חוילה</name> בארץ<name> גאנה</name> ובאותו המדבר
 					יש <lb/>הרי חול ובעת שיקום הרוח מכסה <lb/>השיירות בחול ומתים כולם בתוך החול
 					והנצלים מהם מוליכין עמהם ברזל <lb/>ונחשת ומיני פירות ומיני קטנית ומלח
 					<lb/>ומביאים משם הזהב והמרגליות היקרות <lb/>והיא מ<name>ארץ כוש</name>
 					הנקראת <name>אלחבש</name>
 					<lb/>מירכתי מערב|</seg>
-				<seg xml:id="GN32S6"> ומחלואן דרך שלשה <lb/>עשר ימים ל<name>קוץ</name>
+				<seg xml:id="GN32S6"> ומ<name ref="#K15135">חלואן</name> דרך שלשה <lb/>עשר ימים ל<name ref="#Q1816589">קוץ</name>
 					המדינה היא (ראש) <lb/>תחלת <name ref="#K8046" type="place">מצרים</name> ובה כמו
 					שלשים אלף <lb/>יהודים. </seg>
 			</ab>
 			<ab xml:id="GeoNar33">
-				<seg xml:id="GN33S1">ומשם עד <name>פיום</name> חמשה ימים <lb/>והיא
-						<name>פיתום</name> ובה כמו עשרים יהודים ועד <lb/>היום הזה נראה שם
+				<seg xml:id="GN33S1">ומשם עד <name ref="#K12725">פיום</name> חמשה ימים <lb/>והיא
+					<name ref="#K22877" type="idf">פיתום</name> ובה כמו עשרים יהודים ועד <lb/>היום הזה נראה שם
 					מן הבנין בנו <lb/>אבותינו| </seg>
 				<seg xml:id="GN33S2">ומשם למצרים ארבע ימים <pb n="103"/>
 					<lb/>והיא עיר גדולה היושבת על-שפת <name>נילוס</name> והוא
@@ -1783,7 +2497,7 @@
 						מצרים</name> המדינה והיא עיר מלוכה <lb/>לכל בני ערב ושם <persName>אמיר
 						אל מומנין עלי בן אביטאלב</persName> וכל בני ארצו נקראים <lb/>מורדים אשר מרדו
 						<persName>באמיר אל מומנין אל עבאסי</persName> היושב
-						ב<name>בגדאד</name> וביניהם <lb/>קנאה עד לעולם והוא הושיב כסאו
+						ב<name ref="#K662">בגדאד</name> וביניהם <lb/>קנאה עד לעולם והוא הושיב כסאו
 						<lb/>ב<name>צוען</name> כי הוא הדומה לו והוא יוצא שני <lb/>פעמים
 					בשנה אחת בעת חגם והשנית <lb/>כשיוצא <name>נילוס</name> הנהר</seg>
 				<seg xml:id="GN34S2"> ו<name>צוען</name> מוקפת חומה <lb/>ומצרים אין לה
@@ -1818,10 +2532,10 @@
 			</ab>
 			<ab xml:id="GeoNar35">
 				<seg xml:id="GN35S1">כי היאור כשיבוא למצרים <lb/>משם יפרד לארבעה ראשים שביל <lb/>אחד
-					הולך <name>דמיאט</name> היא <name>כפתור</name> ונופל <lb/>שם
-					בים. ושביל אחר הולך לעיר <name>רשיד</name>
+					הולך <name ref="#K8964">דמיאט</name> היא <name>כפתור</name> ונופל <lb/>שם
+					בים. ושביל אחר הולך לעיר <name ref="#K20050">רשיד</name>
 					<pb n="107"/>
-					<lb/>הקרובה ל<name>אלכסנדריאה</name> ונופל שם בים. <lb/>ושביל השלישי
+					<lb/>הקרובה ל<name ref="#K667">אלכסנדריאה</name> ונופל שם בים. <lb/>ושביל השלישי
 					הולך דרך <name>אשמון</name> העיר <lb/>הגדולה בגבול מצרים| ועל ארבע
 					<lb/>ראשים האלו מדינות וכרכים וכפרים <lb/>מזה ומזה וכל בני אדם הולכים בספינה
 					<lb/>וביבשה ואין בארץ ארץ נושבת כמוה <lb/>והיא רחבת ידים מלאה כל-טוב.</seg>
@@ -1838,7 +2552,7 @@
 			<ab xml:id="GeoNar36">
 				<seg xml:id="GN36S1"> ומשם <lb/>ל<name>ארץ גושן</name> שמנה פרסאות היא
 					(בולסיר**) <pb n="108"/>
-					<lb/>בלביש*) ושם כמו שלשת אלפים יהודים <lb/>והיא עיר גדולה.</seg>
+					<lb/><name ref="#K22392">בלביש</name>*) ושם כמו שלשת אלפים יהודים <lb/>והיא עיר גדולה.</seg>
 				<seg xml:id="GN36S2"> ומשם חצי יום <lb/>ל<name>עיזקאל</name>
 						ל<name>עין אל שמס</name> היא <name>רעמסס</name>
 					<lb/>והיא חרבה ושם מהבנין שבנו אבותינו <lb/>עליהם השלום ושם כמו מגדלים בנוים
@@ -1852,7 +2566,7 @@
 				<seg xml:id="GN36S6"> ומשם חמשה ימים <lb/>ל<name>מהלה</name> ושם כמו חמש
 					מאות מישראל| </seg>
 				<seg xml:id="GN36S7">
-					<lb/>ומשם שני ימים ל<name>אלכסנדריאה</name>
+					<lb/>ומשם שני ימים ל<name ref="#K667">אלכסנדריאה</name>
 					<lb/>ו<persName>אלכסנדרוס מוקדון</persName> קראה על שמו <lb/>ובנה אותה בנין חזק
 					ויפה עד מאד <lb/>וחוץ למדינה מדרש <persName>ארסטו</persName> רבו של
 						<persName>אלכסנדרוס</persName> ושם <name>בנין יפה וגדול</name>
@@ -1863,7 +2577,7 @@
 					<lb/>מהלך מיל מ<name>שער רשיד</name> ועד <name>שער
 						הים</name>
 					<lb/>ושם בנה <name>מסלה על הנמל</name> של
-						<name>אלכסנדריאה</name> דרך מיל בתוך ים ושם <lb/>עשה מגדל גדול הוא
+					<name ref="#K667">אלכסנדריאה</name> דרך מיל בתוך ים ושם <lb/>עשה מגדל גדול הוא
 					הנקרא <name> המנראה</name> ובלשון ערב <name>מנאר
 						אלכסנדריאה</name> ועשה <lb/>על ראש המגדל מראה של זכוכית וכל
 					<lb/>הספינות שהולכות להלחם בה להזיק לה <lb/>מארץ <name ref="#K8822" type="place"
@@ -1882,14 +2596,14 @@
 			</ab>
 			<ab xml:id="GeoNar37">
 				<seg xml:id="GN37S1"> ומאותו היום <lb/>והלאה התחילו בני אדום לבא שם <lb/>בדוגיות
-					ובספינות גדולות ולקחו מידם <lb/>את האי הגדולה <name>קריטס</name> וגם
+					ובספינות גדולות ולקחו מידם <lb/>את האי הגדולה <name ref="#K8648">קריטס</name> וגם
 						<name ref="#K7562" type="place">כיפרוס</name>
 					<lb/>שהם תחת עול יונים עד היום הזה ולא <lb/>יכלו אנשי ארץ <name ref="#K8046" type="place"
 						>מצרים</name> עוד לעצור כח <lb/>לפני היונים ועד היום הזה מגדל המנורה
-					<lb/>סימן להולכי הים כי כל הבאים אל <name>אלכסנדריאה</name> מכל
+					<lb/>סימן להולכי הים כי כל הבאים אל <name ref="#K667">אלכסנדריאה</name> מכל
 					המקומות רואים <lb/>אותה מרחוק מהלך מאה מילין ביום <lb/>ובלילה מאירה מאור אבוקה
 					ורואים <lb/>הספנים האש מרחוק והולכין כנגדו והיא <lb/>ארץ סחורה רוכלת לכל העמים
-					ומכל <lb/>מלכות אדום באים שם אל <name>אלכסנדריאה</name>
+					ומכל <lb/>מלכות אדום באים שם אל <name ref="#K667">אלכסנדריאה</name>
 					<pb n="111"/>
 					<lb/>מארץ <name>בלינסייא</name> ו<name>טוסכנה</name>
 						ו<name>לומברדיאה</name> ו<name>פוליה</name> ו<name
@@ -1920,11 +2634,11 @@
 					ובו מצוייר <lb/>כל מיני עופות וחיות והכל בכתיבת <lb/>הקדמונים ואין אדם מכיר
 					הכתיבה <lb/>ואומרים מסברא שהיה מלך בימי קדם <pb n="112"/>
 					<lb/>קודם המבול ובאורך הקבר חמש עשרה <lb/>זרתות וששה רחבו ושם
-						ב<name>אלכסנדריאה</name>
+					ב<name type="#K667">אלכסנדריאה</name>
 					<lb/>כמו שלשת אלפים מישראל|</seg>
 			</ab>
 			<ab xml:id="GeoNar38">
-				<seg xml:id="GN38S1"> ומשם <lb/>שני ימים ל<name>דמיאט</name> היא
+				<seg xml:id="GN38S1"> ומשם <lb/>שני ימים ל<name ref="#K8964">דמיאט</name> היא
 						<name>כפתור</name> ושם כמו <lb/>מאתים מישראל|</seg>
 				<seg xml:id="GN38S2"> ומשם ל<name>סונבאט</name> חצי <lb/>יום והם זורעין
 					פשתן ואורגים חור <lb/>ומוליכין לכל העולם|</seg>
@@ -1938,20 +2652,20 @@
 					חמשה <lb/>ימים והם תחת עול מצרים|</seg>
 				<seg xml:id="GN38S6"> ו<name>ים סוף</name>
 					<lb/>רחוק מ<name>הר סיני</name> דרך יום והוא זרוע מים <lb/>הודו|
-					ויחזור ל<name>דמיאט</name>
+					ויחזור ל<name ref="#K8964">דמיאט</name>
 				</seg>
-				<seg xml:id="GN38S7"> ומשם דרך ים <lb/>יום ל<name>טניס</name> היא
+				<seg xml:id="GN38S7"> ומשם דרך ים <lb/>יום ל<name ref="#K3054">טניס</name> היא
 						<name>חנס</name> ושם כמו ארבעים <lb/>מישראל והוא אי בתוך הים ועד
 					הנה <pb n="113"/>
 					<lb/>מלכות מצרים| </seg>
 			</ab>
 			<ab xml:id="GeoNar39">
-				<seg xml:id="GN39S1">ומשם דרך ים עשרים <lb/>יום ל<name>מיסני</name> היא
+				<seg xml:id="GN39S1">ומשם דרך ים עשרים <lb/>יום ל<name ref="#K7699">מיסני</name> היא
 					תחלת אי סקלייה <lb/>היושבת על הזרוע הנקרא <name>לוניד</name> הוא
 					<lb/>חולק בין <name>קלברייה</name> ובין <name>סקלייה</name>
 					ושם כמו <lb/>מאתים יהודים והיא ארץ מלאה כל טוב <lb/>וגנות ופרדסים ושם מתקבצים
 					רוב <lb/>התועים*) לעבור ל<name ref="#K691" type="place">ירושלם</name> כי שם המעבר <lb/>הטוב|</seg>
-				<seg xml:id="GN39S2"> ומשם מהלך שני ימים למדינת <name>פלירמו</name> היא
+				<seg xml:id="GN39S2"> ומשם מהלך שני ימים למדינת <name ref="#K7745">פלירמו</name> היא
 					עיר גדולה כמהלך שני <lb/>מילין באורך ושנים ברוחב ושם <name>ארמון גדול
 							מ<persName>מלך גוליימו</persName>
 					</name> ובה כמו אלף וחמש <lb/>מאות יהודים ואדום וישמעאל הרבה <lb/>וארץ
