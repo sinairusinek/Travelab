@@ -813,8 +813,11 @@
 				<seg xml:id="GN11S8"> ומשם חמשה פרסאות <lb/>ל<name ref="#K13834">טורון דו לוש
 					גבללריש*)</name> היא <name ref="#Q2916070" type="idf"> שונם</name> ויש <lb/>בה שלש מאות
 					יהודים. </seg>
+<<<<<<< Updated upstream
 				<seg xml:id="GN11S9">ומשם שלשה <lb/>פרסאות ל<name>שנט שמואל דשילה</name>
+=======
 				<seg xml:id="GN11S9">ומשם שלשה <lb/>פרסאות ל<name ref="#Q2907254">שנט שמואל דשילה</name>
+>>>>>>> Stashed changes
 					היא <name>שילה</name> הקרובה ל<name ref="#K691" type="place">ירושלם</name> שני פרסאות <lb/>וכשלקחו בני אדום
 					את <name>רמלה </name>היא <name>רמה</name>
 					<lb/>מיד בני ישמעאל מצאו קברו של <persName>שמואל הרמתי</persName> אצל כנסת
@@ -827,7 +830,6 @@
 					<name ref="#K26059" type="idf">נוב</name> עיר הכהנים </seg>
 				<seg xml:id="GN11S12"> ובאמצע <pb n="48"/>
 					<lb/>הדרך שני הסלעים של <persName>יהונתן</persName> שם האחד
-						<name>בוצן</name> ושם השני <name>סנה</name> ושם שני
 						<name type="checkTypo">בוצן</name> ושם השני <name>סנה</name> ושם שני
 						<persName>יהודים צבעים</persName>. </seg>
 				<seg xml:id="GN11S13"> ומשם שלש פרסאות ל<name>רמש</name> היא
@@ -853,6 +855,7 @@
 						שלמה</persName> ושם כמו <lb/>ארבעים קראין ושם כותיים כמו שלש <lb/>מאות ושם
 					בתוך העיר בור שקוראין לו <name>ביר <persName>אברהים אל כליל</persName>
 					</name> אשר חפר בימי <lb/>פלשתים.</seg>
+<<<<<<< Updated upstream
 				<seg xml:id="GN11S18"> ומשם ל<name  ref="#K48396" type="place">סגורש*)</name> היא
 					<name  ref="#K48396" type="id">לוד</name>. </seg>
 				<seg xml:id="GN11S19">
@@ -862,7 +865,17 @@
 				<seg xml:id="GN11S20">
 					<lb/>ומשם ששה פרסאות ל<name ref="#K3544" type="place">שיפוריה</name> היא
 					<name ref="#K3544" type="idt">צפורי</name> ושם קברו של <persName>רבינו הקדוש</persName>
+=======
+				<seg xml:id="GN11S18"> ומשם ל<name>סגורש*)</name> היא
+						<name>לוד</name>. </seg>
+				<seg xml:id="GN11S19">
+					<lb/>ומשם יום וחצי ל<name>זריין**)</name> היא
 					<name ref="#K21480">יזרעאל</name> ושם <lb/>מעין אחד גדול ובה <persName>יהודי אחד
+						צבע</persName>.</seg>
+				<seg xml:id="GN11S20">
+					<lb/>ומשם ששה פרסאות ל<name>שיפוריה</name> היא
+						<name>צפורי</name> ושם קברו של <persName>רבינו הקדוש</persName>
+>>>>>>> Stashed changes
 						ו<persName>רבי חייא שעלה מבבל</persName> ו<persName>יונה בן אמתי
 						הנביא</persName>
 					<lb/>והם קבורים בהר ויש שם קברים הרבה. </seg>
@@ -920,17 +933,23 @@
 					מצד הים האחרון. </seg>
 			</ab>
 			<ab xml:id="GeoNar13">
+<<<<<<< Updated upstream
 				<seg xml:id="GN13S1">ומשם שני <lb/>ימים עד <name ref="#K29951">דמשק</name> העיר הגדולה
+=======
 				<seg xml:id="GN13S1">ומשם שני <lb/>ימים עד <name ref="#K939">דמשק</name> העיר הגדולה
+>>>>>>> Stashed changes
 					היא <lb/>תחלת ממשלת <persName>נור אל דין מלך תוגרמים</persName> הנקראים טורקוש
 					והיא עיר <lb/>גדולה ויפה עד מאד ומוקפת חומה <lb/>והיא ארץ גנות ופרדסים מהלך חמשה
 					<lb/>עשר מילין מכל-צד לא נראה מדינת <lb/>פירות בכל-הארץ כמוה</seg>
 				<seg xml:id="GN13S2"> ויורדים אליה <lb/>מהר <name ref="#K21726" type="place"
 						>חרמון</name>
+<<<<<<< Updated upstream
 					<name ref="#Q765106">אמנה</name> ו<name ref="#Q4829689">פרפר</name> כי היא יושבת <lb/>תחת
 					<name ref="#K21726" type="place">חרמון</name> <name ref="#KQ765106">אמנה</name> יורד בתוך העיר <lb/>והולכים
+=======
 					<name ref="#Q765106">אמנה</name> ו<name>פרפר</name> כי היא יושבת <lb/>תחת
 					<name ref="#K21726" type="place">חרמון</name> <name ref="#Q765106">אמנה</name> יורד בתוך העיר <lb/>והולכים
+>>>>>>> Stashed changes
 					המים על ידי גשרים על-כל-בתי <pb n="52"/>
 					<lb/>הגדולים ובחוצות ובשוקים והיא ארץ <lb/>סחורה לכל הארצות. ופרפר הולך בין
 					<lb/>הגנות והפרדסים חוץ לעיר ומשקין ממנו <lb/>כל הגנות והפרדסים שלהם </seg>
@@ -974,13 +993,20 @@
 				<seg xml:id="GN14S5"> וגם <name ref="#K12562">תדמור</name> במדבר אשר בנה
 						<persName>שלמה</persName> כמו זה בנין אבנים גדולות והעיר
 					<name ref="#K12562">תדמור</name> מוקפת חומה והיא במדבר <lb/>רחוקה מן היישוב
+<<<<<<< Updated upstream
 					ומ<name ref="#K22679">בעלת</name> הנזכרת <lb/>ארבעת ימים וכאלפים יהודים ב<name ref="#K12562">תדמור</name>
+=======
+					ומ<name>בעלת</name> הנזכרת <lb/>ארבעת ימים וכאלפים יהודים ב<name ref="#K12562">תדמור</name>
+>>>>>>> Stashed changes
 					<lb/>גבורי מלחמה ונלחמים עם בני אדום <lb/>ועם בני ערב שהם תחת ממשלת
 						<persName>נור אלדין</persName> ועוזרים לשכיניהם הישמעאלים <lb/>ובראשם
 						<persName>רבי יצחק היוני</persName> ו<persName>רבי נתן</persName>
 						ו<persName>רבי עוזיאל ז״ל</persName>.</seg>
+<<<<<<< Updated upstream
 				<seg xml:id="GN14S6"> ומשם ל<name ref="173361">קריתין</name> מהלך חצי <lb/>יום והיא
+=======
 				<seg xml:id="GN14S6"> ומשם ל<name ref="#Q4703079">קריתין</name> מהלך חצי <lb/>יום והיא
+>>>>>>> Stashed changes
 						<name>קריתים</name> ואין בה יהודים אלא <persName>אחד
 						צבע</persName>.</seg>
 				<seg xml:id="GN14S7"> ומשם דרך יום ל<name ref="#K11554" type="place">חמה</name> והיא <name
@@ -1050,7 +1076,6 @@
 						<persName>רבי זכאי הנשיא</persName> מזרע <persName>דוד המלך</persName>
 						ו<persName>רבי יוסף המכונה ברהן אל פלך</persName> והוא חוזה למלך
 						<persName>זין אל דין</persName> אחיו של <persName>נור אל דין</persName> מלך
-						<name>דמשק</name>
 					<name ref="#K939">דמשק</name>
 				</seg>
 				<seg xml:id="GN16S2">
@@ -1559,7 +1584,6 @@
 				<seg xml:id="GN26S6">ומשם חמשה ימים <lb/>ל<name>סמרכנת</name> העיר הגדולה
 					אשר בקצה <lb/>המלכות ושם כמו חמשים אלף מישראל <lb/>ו<persName>רבי עובדיה
 						הנשיא</persName> ממונה עליהם <lb/>וביניהם חכמים ועשירים גדולים. </seg>
-				<seg xml:id="GN26S7">ומשם <lb/>ארבעה ימים ל<name>טובות</name> היא המדינה
 				<seg xml:id="GN26S7">ומשם <lb/>ארבעה ימים ל<name ref="#KQ17252">טובות</name> היא המדינה
 					<lb/>שנמצא המור ביערים שלה.</seg>
 				<seg xml:id="GN26S8"> ומשם <pb n="88"/>
