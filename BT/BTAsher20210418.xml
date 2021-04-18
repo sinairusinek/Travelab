@@ -1564,20 +1564,20 @@
 						שלמה</persName> ושם כמו <lb/>ארבעים קראין ושם כותיים כמו שלש <lb/>מאות ושם
 					בתוך העיר בור שקוראין לו <name>ביר <persName>אברהים אל כליל</persName>
 					</name> אשר חפר בימי <lb/>פלשתים.</seg>
-				<seg xml:id="GN11S18"> ומשם ל<name>סגורש*)</name> היא
-						<name>לוד</name>. </seg>
+				<seg xml:id="GN11S18"> ומשם ל<name ref="#K48396" type="place">סגורש*)</name> היא
+					<name ref="#K48396" type="place">לוד</name>. </seg>
 				<seg xml:id="GN11S19">
-					<lb/>ומשם יום וחצי ל<name>זריין**)</name> היא
-					<name ref="#K21480">יזרעאל</name> ושם <lb/>מעין אחד גדול ובה <persName>יהודי אחד
+					<lb/>ומשם יום וחצי ל<name ref="#K21480">זריין**)</name> היא
+						<name ref="#K21480">יזרעאל</name> ושם <lb/>מעין אחד גדול ובה <persName>יהודי אחד
 						צבע</persName>.</seg>
 				<seg xml:id="GN11S20">
-					<lb/>ומשם ששה פרסאות ל<name>שיפוריה</name> היא
-						<name>צפורי</name> ושם קברו של <persName>רבינו הקדוש</persName>
+					<lb/>ומשם ששה פרסאות ל<name ref="#K3544" type="place">שיפוריה</name> היא
+					<name ref="#K3544" type="place">צפורי</name> ושם קברו של <persName>רבינו הקדוש</persName>
 						ו<persName>רבי חייא שעלה מבבל</persName> ו<persName>יונה בן אמתי
 						הנביא</persName>
 					<lb/>והם קבורים בהר ויש שם קברים הרבה. </seg>
 				<seg xml:id="GN11S21">
-					<lb/>ומשם חמש פרסאות ל<name>טיבריה</name> היושבת <lb/>על
+					<lb/>ומשם חמש פרסאות ל<name ref="#K807" type="place">טיבריה</name> היושבת <lb/>על
 						ה<name>ירדן</name> הנקרא <name>ים כנרת</name>
 				</seg>
 				<seg xml:id="GN11S22"> ושם נופל <lb/>הירדן (ושופך ים המלח אל ארץ הככר) <lb/>והוא
@@ -1587,7 +1587,7 @@
 			</ab>
 			<ab xml:id="GeoNar12">
 				<seg xml:id="GN12S1">
-					<lb/>וב<name>טבריה</name> כמו חמשים יהודים ובראשם <persName>רבי אברהם
+					<lb/>וב<name  ref="#K807" type="place">טבריה</name> כמו חמשים יהודים ובראשם <persName>רבי אברהם
 						החוזה</persName> ו<persName>רבי מוכתר</persName> ו<persName>רבי
 						יצחק</persName>
 					<lb/>ושם מים חמין נובעים מתחת הארץ <lb/>וקורואין להם <name>חמי
@@ -1599,7 +1599,7 @@
 					<lb/>ומשם שני ימים*) ל<name>טימין</name> היא
 						<name>תמנתה</name>
 					<lb/>ושם קבר <persName>שמואל הצדיק</persName> והרבה <lb/>מישראל.</seg>
-				<seg xml:id="GN12S3"> ומשם יום ל<name>עשת</name> היא <name>גוש
+				<seg xml:id="GN12S3"> ומשם יום ל<name ref="#Q2912620" type="typo?">עשת</name> היא <name ref="#Q2912620" type="ןגא">גוש
 						חלב</name> ושם כמו עשרים יהודים.</seg>
 				<seg xml:id="GN12S4"> ומשם <lb/>שש פרסאות ל<name>מרן</name> היא
 						<name>מרון</name>
