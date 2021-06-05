@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BENJAMIN DE TUDELE RELATION DE VOYAGE</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Oeuvre numérisée par Marc Szwajcer<ref
+                  target="http://remacle.org/bloodwolf/juifs/benjamin/voyage.htm#1a"/></p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <front>
+         <head> PRÉFACE.</head> <p>Ce livre est composé des relations qu'a faites un homme juste, Navarrais,
+            nommé R. Benjamin, fils de Jonas de Tudèle, dont la mémoire est en bénédiction. Cet
+            homme a voyagé en plusieurs pays éloignés, ainsi qu'il le rapporte dans ce livre ; et,
+            en quelque lieu qu'il soit allé, il a rapporté ce qu'il a vu ou entendu dire à des
+            personnes dignes de foi, dont la renommée est parvenue jusqu'en Espagne. Il y parle
+            aussi de plusieurs princes et autres grands personnages qui vivaient dans les lieux où
+            il a passé. A son retour, il a apporté cette relation dans la Castille, l'an 933
+            (1173).[3] Ce rabbin était un homme d'un esprit profond, très prudent et fort versé dans
+            les lois sacrées. Tous ceux qui ont examiné après lui les choses dont il parle ont
+            trouvé qu'il n'est rien sorti que de véritable de sa boucher car c'était un homme
+            sincère et amateur de la vérité. </p>
+      </front>
+      <body>
+         <head> RELATION. [4]ROUTE DE SARAGOSSE A MARSEILLE PAR TORTOSE, TARRAGONE, BARCELONE,
+            GIRONNE, NARBONNE, BEZIERS, MONTPELLIER, LUNEL, POSQUIERS, SAINT-GILLES ET ARLES. </head>
+         <ab xml:id="opening"> Benjamin de Tudèle, fils du rabbin Jonas de pieuse mémoire, dit:</ab><ab xml:id="GN1"> Je
+            partis (1) d'abord de la ville de Saragosse (2), je descendis l'Ebre pour me rendre à
+            Tortose (3) : de là, après deux jours de marche, j'entrai dans la ville de Tarragone
+            l'ancienne (4). Cette ville était d'une architecture grecque, gigantesque (5); dans
+            toutes les provinces d'Espagne (6), on ne rencontrait aucune construction semblable.
+            Tarragone est située près de la mer, et possède une belle synagogue desservie par le
+            maître Joseph Ebn Palta (7), homme sage et fort instruit. La ville de Barcelone (8) est
+            à deux journées de là. Elle renferme une sainte réunion d'hommes sages et lettrés, de
+            grands et nombreux chefs (9), tels que les docteurs Schescheth (10), Schealthiel (11) et
+            Salomon fils d'Abraham ben Chasdaï (12), dont le souvenir soit en bénédiction. Barcelone
+            est une ville petite, mais jolie, située sur le bord de la mer. Les négociants y
+            abordent de toutes parts avec leurs marchandises ; de Pise, de Gènes, de la Sicile, de
+            la Grèce, d'Alexandrie en Egypte, de la Palestine, et des pays limitrophes. De Barcelone
+            à Gironne (13), où se trouve une petite communauté juive, il y a une journée et demie de
+            chemin. Le poète Zerachia le Lévite (14) préside cette communauté. Narbonne (15) est à
+            trois journées de cette dernière. C'est une ville où la profession de la loi existe
+            depuis longtemps et d'où elle s'est ensuite répandue dans toutes les autres contrées.
+            Elle renferme de grands savants et d'honorables chefs. On y remarque le rabbin Kalonymos
+            (16), fils du fameux prince Théodore de glorieuse mémoire, connu dans sa généalogie
+            comme descendant de la maison de David. Il possède des terres et des biens-fonds qu'il
+            tient de Seigneurs du pays, sans que personne puisse les lui ravir par la force. A la
+            tête des savants de cette cité, se trouvent le rabbin Abraham (17), chef de l'académie,
+            le poète Joseph, fils d'Isaac ben Kimchi (18), le rabbin Machir (19) et le maître Iéhuda
+            (20), ainsi qu'une foule d'autres docteurs de la loi. Narbonne compte aujourd'hui trois
+            cents juifs (21). A quatre milles (22) de Narbonne est Béziers (23). Les rabbins
+            Salomon, fils de Chalefta, (24) et Joseph, fils de Nathanel (25), sont les chefs d'une
+            congrégation de docteurs de la loi, qui se trouve en cette ville. De Béziers jusqu'au
+            Mont Gaas (26), plus connue sous le nom de Montpellier, il y a deux journées. C'est un
+            endroit situé à deux milles de la mer et très avantageux pour le négoce. On y vient de
+            tous côtés pour commercer. Les Chrétiens (27) et les Mahométans (28) s'y rendent
+            d'Algarbe (29), d'Espagne, de France, d'Angleterre, appelée le pays des îles (30), de la
+            Lombardie, du royaume de Rome la grande, (31) de la Grèce, de l'Egypte et de
+            la-Palestine ; en un mot, on y trouve des gens de toutes les langues principalement des
+            Génois (32) et des Pisans. Montpellier possède les docteurs les plus célèbres du siècle,
+            dont voici les principaux : les rabbins Ruben, fils de Théodore (33), Nathan, fils de
+            Zacharie (34), Samuel, fils de Moïse (35) leur maître, Salamia (36) et Mardochée
+            d'heureuse mémoire (37). On en distingue de fort riches et très charitables qui
+            soutiennent tous ceux qui invoquent leur secours (38). Lunel (39) est à quatre milles de
+            Montpellier. Elle renferme Une sainte assemblée d'Israélites, qui s'appliquent jour et
+            nuit à l'étude de la loi. C'est là qu'avait, résidé! le maître Meschulam:(40), ce grand
+            docteur. Ses cinq fils sont aussi érudits que riches, savoir : les rabbins Joseph (41),
+            Isaac, Jacob (42), Ahron (43) et Asser l'Abstème (44), qui s'abstint d'occupations
+            mondaines, s'attacha jour et nuit à l'étude, jeûna et ne mangea jamais de viande. Ce
+            dernier est de plus un grand talmudiste, de même que le rabbin Moïse (45), son
+            beau-frère, le rabbin Samuel l'ancien (46), le maître Salomon Cohen (47) et le docteur
+            Iéhuda le médecin (48), fils du Saül Ebn Tybbon de Grenade en Espagne. Tous ceux qui
+            viennent des pays éloigné pour apprendre la loi, sont nourris et instruits par eux. Ils
+            reçoivent gratuitement de la communauté, tout ce qui leur est nécessaire, pour la
+            nourriture et les vêtements pendant tout le temps qu'ils fréquentent le collège (49). Ce
+            sont des hommes vraiment sages et saints ; ils observent les préceptes, et secourent
+            leurs frères, présents ou éloignés. Lunel au reste est située à deux milles de la mer ;
+            elle renferme à peu près trois cents israélites : que Dieu les protège ! De Lunel à
+            Posquiers (50), il y a deux milles. C'est un grand bourg (51), qui possède environ
+            quarante familles juives, et une célèbre école dirigée par le grand docteur Rabbi
+            Abraham, fils de David (52), d'heureuse mémoire, grand dans ses actions et très savant
+            dans le Talmud et la Bible. Ceux qui, de pays éloignés, viennent chez lui pour
+            s'instruire, trouvent sécurité dans sa maison. Il les instruit gratuitement, et, comme
+            il est très riche, il subvient, même de sa propre bourse, à toutes les dépenses de ceux
+            qui n'ont pas les moyens de le faire eux-mêmes. Les autres savants de Posquiers, sont
+            les rabbins Joseph (53), fils du maître Menachem, Benbenast (54), Benjamin (55), Abraham
+            (56) et Isaac, fils de Moïse (57), dont le souvenir soit en bénédiction! De là jusqu'au
+            village (58) nommé bourg de St-Gilles (59), il y a trois milles. On trouve, dans ce
+            village, une assemblée de juifs d'environ cent sages; à leur tête, se distinguent les
+            rabbins Isaac, fils de Jacob (60), Abraham., fils de Iéhuda (61), Éléazar (62), Isaac
+            (63), Moïse (64) et Jacob (65), fils du grand docteur Rabbi Lévi. St-Gilles est le
+            rendez-vous des nations et des insulaires des extrémités de la terre (66). Elle est
+            éloignée de trois milles de la mer et située sur les bords du grand fleuve appelé le
+            Rhône, qui coule le long de la Provence. C'est la que demeure le noble maitre Abba-Mari,
+            fils d’Isaac, d'heureuse mémoire, intendant (67) du prince (68) Ramon (69) A trois
+            milles de St.-Gilles est la ville d'Arles (70). Elle contient à peu près deux cents
+            Israélites, qui ont pour chefs les docteurs Moïse (71), Tobie (72), Isaïe (73), Salomon
+            Dodia:(74), Nathan, le maître,(75) et Abba-Mari de précieuse mémoire (76). D'Arles à
+            Marseille (77) il y à trois journées. C'est une ville d'excellents et savants hébreux,
+            qui forment deux communautés, au nombre de trois cents familles juives. Elles ont leurs
+            habitations sur les bords de la mer, l'une occupant la partie supérieure, l'autre Celle
+            qui lui est immédiatement inférieure, baignée par les eaux. Elles ont une grande
+            académie et des docteurs de la loi fort instruits. Les chefs de la communauté de la
+            ville haute sont les rabbins Siméon, fils d'Antoli (78), Iakob (79), son frère, et Rabbi
+            Lebaro (80). A la tête de la communauté de la ville basse sont le rabbin Iakob
+            Perpiniano (81), le rabbin Abraham (82), le rabbin Meir (83), son gendre, le rabbin
+            Isaac Gaillac (84), Abba-Mari (85) et Meir (86). Marseille est, par son port de mer, une
+            cité très commerçante et très célèbre dans le monde. NOTES (1) Vers l’an 1160,c'est
+            ainsi que l'on fixe généralement l'époque du départ de notre voyageur, et c'est en effet
+            environ versée temps-là qu'ont vécus les personnages cités par Benjamin de Tudèle. (2)
+            Ancienne capitale du royaume d'Aragon, ou Benjamin de Tudèle paraît avoir demeuré. (3)
+            Dertosa, ville forte et Considérable de la Catalogne, sur la rive gauche de l'Ebre. (4)
+            Taraco, antique et forte ville de la Catalogne, à 18 l. E. de Tortose. Elle renfermait
+            un grand nombre de monuments antiques, entre autres un cirque, un théâtre, moitié
+            marbre, moitié creusé dans le roc, et un temple dédié à Auguste, On en voit encore
+            quelques ruines aux environs. (5) Dans l'original cela signifie à la lettre :
+            Construction géantique des Grecs. (6) Le texte porte Sepharad, nom dont il est parlé
+            dans Abadias I, 20,et que l'auteur de la paraphrase chaldaïque avait traduit par
+            Espagne. Depuis ce temps les rabbins désignent ordinairement ce pays par le nom de
+            Sepharad. Voyez notre Relation d'Eldad le Danite, chap. I, note 1 (7) Ce dernier passage
+            manque dans le texte imprimé des voyages de Benjamin de Tudèle et le nom de Joseph Ebn
+            Palta ne se trouve non plus cité ailleurs ; il y avait bien à cette époque un docteur du
+            nom Joseph ben Plat, mais celui-ci était Français et ne demeurait point en Espagne. (8)
+            Barcino, ancienne capitale de Catalogne, à 18 l. E. de Tarragone. (9) Le mot nasi en
+            hébreu signifie proprement chef de Tribu, il se prend quelquefois, aussi dans le sens de
+            noble ou prince. (10) C'est le célèbre docteur Schescheth, que l'auteur du Tahkémoni,
+            chapitre XLVI, page 63, cite avec elôgès. (11) Charizi parle également de ce docteur
+            renommé dans son livre Tahkémoni, au même chapitre, page 68. (12) La famille ben Chasdaï
+            à Barcelone est célèbre par la naissance qu'elle avait donné au fameux Abraham, fils de
+            Samuel ben Chasdaï, poète et littérateur du treizième siècle. (13) Gerunda, autre ville
+            de la Catalogne, à 10 lieues de Barcelone. (14) C'est probablement le poète Zerachia
+            ha-Levi ben Ishak Girondi, de qui nous avons encore quelques morceaux de poésies
+            sacrées. Charizi le met an troisième rang des poètes espagnols. (V. Tahkémoni, ms. chap.
+            XII.) Son, fils Ishak ha-Levi ben Zerashia Gerundi, était également un poète distingué.
+            (15) Benjamin en se rendant en France, n'y visita que les synagogues situées sur la
+            route entre les Pyrénées et Arles, en sorte qu'il ne mentionne point les israélites de
+            Toulouse, Carcassonne et autre ville. Narbonne, la première ville. de commerce, de
+            Languedoc aux VIIIe, IXe, Xe, XIe et, XIIe siècles, avait une communauté juive
+            considérable, qui se livra. non seulement avec ardeur au commerce, mais aussi à l'éludé,
+            témoins, les, docteurs célèbres qu'elle avait produite à cette époque, tels que Todros
+            Narbonni, Abon Narbonni, Merwan ha-Levi, Iakob ben Abon Narbonni, Mosch ben Iakob
+            Narbonni, Ishak ben Merwan ha-Levi, Joseph ben Merwan ha-Levi, Moseh ben Joseph ha-Levi,
+            Abraham ben Ishak Ab-beth-din, etc. (16) C'est peut-être le rabbin Kalonymos Nasi, de
+            Narbonne, dont l'auteur du Séfer ha-Itor (édit. de Venise, page 95, col. 3), en cite les
+            Réponses Légales. (17) Il ne faut pas confondre ce docteur avec Abraham ben Ishak
+            Ab-beth-din (note 15), ce dernier est mort en 1159, un an avant le voyage de Benjamin de
+            Tudèle. (18) Père des célèbres grammairiens David et Moïse Kimchi. On peut consulter sur
+            ce savant de Rossi : Dizion, Stor. degli Autori Ebrei, vol. 1, p. 164. (19) Il y a eu en
+            France un autre docteur de ce nom, frère du célèbre Gerson Meor ha-Goleh, auteur d'un
+            dictionnaire hébraïque très estimé. (20) Sans doute le père du rabbin Ishak ben Iéhuda,
+            que Menahem ha-Meïri cite au nombre des savants de Narbonne. (21) Il est probable que
+            Benjamin veut parler de trois cents pères de famille. (22) Il paraît par cet endroit que
+            la parasange, dont notre voyageur se sert pour mesurer les distances, sont d'une lieue
+            ordinaire, puisqu'il dit qu'il y a de Narbonne à Béziers quatre parasanges, et qu'il est
+            certain que ces deux villes ne sont éloignées que de quatre lieues. (23) Biterrae,
+            Bideras ou Bediers était regardée comme le centre de la colonie juive en Languedoc,
+            aussi les juifs furent ils exposés périodiquement à une persécution odieuse. Mais au
+            moment où Benjamin y passa (en 1160) ils se rachetèrent de cette persécution auprès du
+            vicomte Raymond, surnommé Trincavelle. V. Depping, les Juifs dans le moyen âge, p. 57.
+            (24) Il y a dans l'original imprimé Salomon Chalefta, mais le manuscrit porte Salomon
+            ben Chalefta. (25) Ce rabbin n'est guère connu que par cette seule citation. (26)
+            Allusion au Mont Gaas dont il est parlé dans le livre de Josué XXIV, 30. Cet usage
+            d'emprunter des noms de la Bible pour désigner de lieux et d'établissements, a été assez
+            commun dans le moyen âge, non seulement chez les juifs, mais aussi chez les chrétiens,
+            comme, par exemple, Béthanie, Josaphat, etc., que les moines se plaisaient à imposer à
+            leurs monastres. Voyez Hist. Littér. de France, tome XVI, page 122. (27) Edom, Iduméens,
+            c'est ainsi que les rabbins du moyen-âge nomment généralement les chrétiens. Voyez
+            Basnage, Hist. des juifs, liv. VII, chap. 8. (28) Ismaël, Ismaélites, nom que les
+            écrivains hébreux donnent ordinairement aux sectateurs de Mahomet, principalement aux
+            Sarrasins. (29) Algarve, Algarbia, province de Portugal dont la capitale est Tavina.
+            (30) Consulter sur cette dénomination, qui ne trouve point du reste dans le texte
+            imprimé, Moïse de Coucy, Séfer Mizvoth Gadol, hilch. sabb. (31) Voyez ci-après chapitre
+            II.[5] (32) Ubert Foglieta, en parlant du secours que les Génois accordèrent en 1143 à
+            Guillaume VI, fils d'Ermessinde, seigneur de Montpellier, contre qui les habitants de
+            cette ville s'étaient révoltés, fait remarquer aussi que la ville de Montpellier était
+            alors la ville la plus marchande des pays voisins. Monspelium circumjectarum, regionum
+            frequentissimum emporium est. Voyez Genuensium, histor. Lib. 1, ad annum 1143. (33) Ce
+            docteur n'est pas connu ailleurs. (34) Rabbin qui paraît être le même que le maître
+            Nathan, l'un des auteurs des Tossaphoth. Voyez Conforti, Koré ha-Doroth, p. 17 b. (35)
+            Savant que l'auteur de Séfer ha-Iuchasin, édition de Cracovie, p. 123 b., appelle mal à
+            propos disciple de Moseh ha-Darschon. (36) Il y a un rabbin Salamia mentionné par
+            l'auteur du Séfer ha-Iuchasin, l. c; qui paraît être le même que le nôtre. (37) J'ignore
+            si ce rabbin Mardochée est le même que le rabbin Mardochée, collaborateur des
+            Tossaphoth. Voyez Conforti, Koré ha-Doroth, p. 17. (38) Cette expression est prise du
+            psaume CV, 23. On la trouve aussi dans Ezéchiel XXII, 30. Elle s'entend également de
+            ceux qui procurent des secours spirituels pu des secours temporels. (39) Lunate, ville
+            de Languedoc à 4 l. N. E. de Montpellier Les écrivains hébreux la nomment ordinairement
+            Ierach, Lune. (40) Célèbre savant; restaurateur des sciences et lettres parmi les
+            israélites de Provence, fils d'un rabbin Iakob. Voyez la notice que j'ai donnée sur ce
+            grand homme dans l'Orient du docteur Fürst, année 1840, Literaturblat, n° 49, page 760.
+            — L'auteur du Séfer ha-Iuchasen, le cite parmi les anciens savants de Languedoc, il est
+            donc à présumer qu'il n'est pas le docteur Meschulam, mort suivant l'auteur de Schebat
+            Iehuda, édit. d'Amsterdam p. 55 en 1170. (41) Rabbin assez peu connu, ainsi que son
+            frère Isaac. (42) Ce savant est cité par l'auteur du Séfer ha-Itur; édit. de Venise, p.
+            36, col. 3. (43) Docteur cité dès sa jeunesse dans la lettre morale que le docteur
+            Iehuda Ebn-Tybbon avait adressée à son fils Samuel, comme un excellent mathématicien.
+            Ahron ben Meschulam est aussi connu comme, l'un des défenseurs des livres de Maïmonide
+            contre les attaques du rabbin Meir ben Todros de Tolède, qui les condamnait au feu. (44)
+            Asser, également cité, dans sa jeunesse par Ebn-Tybbon, est auteur d'un ouvrage assez
+            renommé sur les cérémonies et rites de la synagogue. (45) Ce rabbin Moseh est sans
+            contredit le docteur Mosek ben Iehuda, cité dans la lettre morale déjà mentionnée. (46)
+            Ha-Sakan, c'est ainsi la leçon de la première édition et du texte du manuscrit, quelques
+            éditions ont Chazan, ce qui est une erreur. (47) Sous ce nom, il n'y a aucun rabbin de
+            Lunel connu à cette époque. (48) Au sujet de ce célèbre médecin on peut lire ce que j'ai
+            dit dans l'Histoire de médecins juifs, § XXXII, p. 70. (49) Ceci ressemble assez aux
+            bourses établies aujourd'hui dans la plupart des Universités, dont les Israélites
+            paraissent avoir donné l'exemple, comme ils sont les fondateurs d'une foule d'autres
+            bonnes œuvres, Concernant l'instruction. (50) Posquières, Posquiers, Pouquiers, bourg
+            non loin de Vauvert, à trois lieues de Nîmes, autrefois un lieu très considérable,
+            formant là seigneurie de Posquières. Constantin Lempereur.(Not. in itiner. Benjamin).
+            Basnage (Hist. des Juifs, liv. IX, chap.8, n° 33) D. de Vic et D. Vaissete (Hist. gén.
+            de Languedoc, tom. II,.p. 517), et une foule d'autres écrivains jusqu'au Dr Zunz (Geiger
+            's Wisserisch. Zeitschrift für jüd. Theol., t. II, p. 309), se sont trompés en
+            appliquant à la ville de Beaucaire, l'endroit de la relation de notre voyageur qui
+            concerne le lieu de Posquières ; 1° la position que Benjamin donne à deux lieues de
+            Lunel et à trois lieues de Saint-Gilles, ne peut convenir qu'à Posquières, comme le fait
+            fort bien remarquer Ménage[6] 2° Beaucaire n'est désigné dans les écrits des écrivains
+            hébreux que sous le nom de Belcaire, voyez Charizi, Tahkemoni, chap. XLVI, page 63 ;
+            Minchat Iehuda, page 2, col. 3. (51) Village, bourg, ou comme Arias Montanus; l'a rendu
+            en latin, Castrum; Constantin Lempereur l'a mal traduit par le mot Civitas. (52) C'est
+            le célèbre critique de Maïmonide et de Zerachia ha-Levi, mort le 27 novembre 4198. (53)
+            J'ai cherché en vain dans les biographes hébreux quel pouvait être ce rabbin ; tout ce
+            que j'ai pu trouver c'est qu'à la fin du XIIe siècle il y avait à Posquières, un savant
+            grammairien et interprète nommé Menachem ben Siméon, qui était probablement le neveu de
+            notre Joseph. Dans son commentaire sur Jérémie, manuscrit à la Bibliothèque Royale de
+            Paris. (Fonds Sorbonne n° 85), il dit qu'il était disciple de Joseph Kimchi, et qu'il a
+            terminé son livre à Posquières l'an 4951 (1191). C'est un commentaire littéral et
+            grammatical. (54) On ne put savoir quel est ce Benbenaste, mais il n'y a aucun doute que
+            ce ne soit un docteur distingué dans son temps. (55-56) Ce rabbin et le suivant sont eu
+            connus aujourd'hui, l'histoire ne nous a rien laissé sur eux (57) Il ne faut pas
+            confondre notre docteur avec le rabbin Ishak ben Moseh, cité par Meir Rothenbourg
+            (Questions et réponses légales, n° 753) ; ce dernier était Allemand et vivait plus d'un
+            siècle plus tard. (58) Magras, village, et non pas Nogrès, qui est une faute
+            d'impression. Cette correction a déjà été proposée par Samuel Petit. Voyez Observat.
+            Lib. III, chap. 1, p. 249. (59) Bourk Sal Gil, c'est ainsi que Benjamin, qui rapporte
+            ordinairement les noms comme on les prononçait de son temps dans la langue du pays,
+            désigne St.-Gilles. (60) Il y a plusieurs rabbins de ce nom, entre autres un disciple;
+            du célèbre Rabbi Asser ben Iéchiel. Voyez ses Questions et réponses légales, section
+            LXV, n° 2 (61) Ce savant Abraham ben Iehuda n'est pas l'auteur de Séfer Arbaa-Tourim,
+            celui-ci était de Barcelone et vivait presqu'un siècle après notre rabbin. (62) Rabbin
+            assez peu connu aujourd'hui. (63) Aucun biographe rabbinique ne parle de cet Isaac de
+            St.-Gilles. (64) Sous ce nom personne de St.-Gilles ne nous est connu. (65) Il ne faut
+            pas confondre ce savant avec Jacob ben Levi, auteur des Questions cabalistiques qui
+            viennent d'être publiées en Turquie, ce dernier florissait en 1203. Voyez Azulai,
+            Schemha-Ghedolim II, lettre Iod, n° 18. (66) Le port de St-Gilles était aux XIe et XIIe
+            siècles l'un des ports les plus considérables et les plus fréquentés de France. C'est là
+            que la princesse Emma, fille de Roger, comte de Sicile, aborda en 1086, quand elle vint
+            en France pour épouser le roi Philippe Ier qui voulait répudier la reine Berthe (Histor.
+            Roberti Guiscardi, lib. IV, cap. 8). C'est là que le pape Gélase II, chassé d'Italie par
+            l'empereur Henri V, débarqua en 1118 (Paudulgh, in Vita Gelasii II). C'est encore là que
+            le pape Innocent II aborda de même en 1130, lorsque le parti d'Anaclet II, qui prévalait
+            à Rome, l'obligea de se réfugier en France (Baronium, ad ann. 1130). Bertrand, comte de
+            Toulouse, s'y embarqua, en 1109, avec quatre mille chevaliers sur quarante vaisseaux
+            pour passer en Palestine (Hist. Génér. de Languedoc, tom. II, p. 352) et Louis VII vint
+            y prendre terre en 1148, à son retour de Syrie (Du Chesne, tom. IV, p. 527). Enfin les
+            ambassadeurs de Manuel Comnène vinrent y débarquer en 1162, deux ans après le voyage de
+            Benjamin dans cette ville (Ibidem page 612 et 619). (67) Pekid, inspecteur, homme
+            d'affaires, intendant. (68) Schilton, prince, en arabe sultan. (69) C'est Raimond V,
+            comte de Toulouse et de St-Gilles ; il est ainsi nommé suivant le langage qu'on parlait
+            alors, qu'on parle encore aujourd'hui en Languedoc, et que Benjamin a fidèlement
+            rapporté, comme nous l'avons déjà remarqué (ci-dessus, note 13). Quant au mot Damon qui
+            se trouve dans le texte, ce n'est qu'une faute d'impression que l'on a pu aisément
+            commettre en changeant le Resch en Daleth, si ressemblable en hébreu, surtout dans un
+            nom propre inconnu des ouvriers compositeurs. On peut juger d'après ce qu'on vient de
+            dire combien tous les traducteurs, depuis Arias Montanus jusqu'à Baratier, ont
+            malentendu ce passage de notre voyageur. (70) Arelate. Cette ville de Provence avait été
+            très commerçante tant qu'elle fut le siège du préfet du Prétoire, et pour ainsi dire la
+            capitale des Gaules. Cet avantage se soutint sous les Goths et sous les. Francs, et
+            reprit même de nouvelles forces sous les rois d'Arles. Mais la Provence étant échue à
+            dès Seigneurs particuliers, et la ville d'Arles ayant été obligée de les reconnaître,
+            son commerce tomba, presque entièrement sous ces maîtres trop avides. La plus grande
+            partie passa à St-Gilles, que le voisinage mit à portée d'en profiter et où la
+            protection des comtes de Toulouse qui étaient les souverains et qui étaient puissants et
+            généreux, contribua beaucoup à l'entretenir et à l'augmenter. (71) Il ne faut pas
+            confondre ce Rabbi Moseh avec le rabbin Moseh ben Iéhuda, d'Arles, qui florissait
+            longtemps avant lui. (72) Savant qui n'est plus connu ailleurs. (73) Il y a un poète de
+            ce nom, auteur d'un Tachnun qui commence par ces mots : ainsi qu'on le voit par
+            l'acrostiche, et d'un Pethicha inédit, mais celui-ci était italien et vivait après notre
+            rabbin. (74) Ste Dode, Miélan, bourg du département du Gers. (75) Il est fait mention
+            d'un rabbin Nathan dans le Séfer ha-Itur, page 72. (76) Il y a un Abba-Mari souvent cité
+            dans le Séfer ha-Itur, mais celui-ci était de Marseille et père de l'auteur de cet
+            ouvrage. (77) Massilia, à 16 S.-E. d'Arles. (78) Chef de cette famille célèbre dont nous
+            avons parlé au long dans notre Histoire des médecins juifs, voyez § LXII, page 121. (79)
+            V. Hist. de méd. juifs, ibidem. (80) Ce rabbin n'est guère connu que par cette seule
+            citation. (81) Homme célèbre, mort en 1170 (Schebat Iéhuda, p. 55). Il était fils d'un
+            riche philanthrope, nommé David, et trisaïeul du docteur Muels de Marseille, qui nous
+            donne ainsi la généalogie de ses ancêtres dans la préface de sa traduction du Traité de
+            l'Ame, composé en grec par Alexandre d'Aphrodisée, et traduit du grec en arabe par Ishak
+            ben-Honaïn, manuscrit à la Bibliothèque royale de Paris, supplément N° 15 : 4900 (1140)
+            David le Riche. 4930 (1170) Iakob Perpiniano. 4960 (1200) Salomon. 4990 (1230) Ishak.
+            5020 (1260) Meschulam. 5050 (1290) Iéhuda. 5080 (1320) Samuel, surnommé Muels de
+            Marseille, écrivit en 1324. (82-83) Ce docteur ainsi que son gendre rabbi Meir, ne sont
+            point cité par aucun biographe. (84) Village près de Perpignan. (85) Probablement fils
+            de Siméon ben Antoli (ci-dessus note 78) et père de deux savants célèbres ; Isaac ben
+            Abba-Mari, auteur de Séfer ha-Itur, et de Iakob, ben Abba-Mari, dont nous avons déjà
+            parlé dans cet ouvrage (voyez page 46). (86) Rabbin qu'il faut distinguer de son
+            homonyme (note 83), gendre du docteur Abraham. [7]A Marseille l'on s'embarque pour
+            Gènes, ville aussi située sur le bord de la mer, et où on peut arriver en quatre jours.
+            Il n'y a dans cette ville que deux frères juifs, R. Samuel et son frère, lesquels sont
+            de la ville de Sabatha, et fort honnêtes gens. La ville est ceinte d'une muraille ; ses
+            habitants n'ont point de roi ou de prince qui domine sur eux; mais ils ont des juges
+            qu'ils établissent selon leur bon plaisir. Ils ont chacun une tour à leur maison; ils se
+            font la guerre les uns aux autres; ils sont les maîtres de la mer; ils ont des vaisseaux
+            qu'ils appellent galères, avec lesquels ils vont piller et ravager partout où ils
+            trouvent quelque butin qu'ils emportent ensuite chez eux, à Gênes. Les Génois sont à
+            présent en guerre avec les Pisans. La ville de Pise est éloignée de celle de Gênes de
+            deux journées. C'est une très grande ville où l'on compte environ dix mille tours aux
+            maisons des citoyens, d'où ils se font la guerre dans le temps de leurs divisions. Ce
+            sont tous des gens vaillants ; ils n'ont ni roi ni prince, mais des juges qu'ils
+            établissent eux-mêmes. On trouve à Pise une vingtaine de Juifs qui ont à leur tête R.
+            Moïse, R. Chajim et R. Joseph, d'heureuse mémoire. La ville n'a point de murailles ;
+            elle est éloignée de la mer de quatre milles, mais elle a des communications avec la
+            ville par le moyen d'une rivière qui la traverse, où les vaisseaux peuvent monter et
+            descendre. De Pise à Lucques, il y a quatre parasanges.[8] Lucques est une grande ville
+            où l'on voit une quarantaine de Juifs dont les chefs sont R. David, R. Samuel et R.
+            Jacob.[9] A six journées de cette dernière ville on trouve Rome la grande, cette ville
+            qui est la capitale du royaume d'Édom.[10] Il y a environ deux cents Juifs, tous gens de
+            considération, qui ne payent point tribut à personne, entre lesquels il y en a
+            quelques-uns qui sont ministres du pape Alexandre,[11] ce grand prince qui est établi
+            sur toute la religion d'Edom. On trouve à Rome d'excellents sages, à la tête desquels
+            sont le grand rabbin R. Daniel, et R. Jéchiel, ministre du pape, fort beau jeune homme,
+            prudent et sage, qui entre et sort librement du palais du pape, étant son intendant des
+            finances; il est petit-fils de R. Nathan, auteur du livre d'Aruch et de ses
+            commentaires. Outre ces deux, il y a encore R. Jacob, fils de Salomon, R. Menahem,
+            recteur de l'Académie, R. Jéchiel, qui habite au delà du Tibre, et R. Benjamin, fils de
+            R. Schabtai, d'heureuse mémoire. La ville de Rome a deux parties. Le fleuve du Tibre qui
+            la traverse la sépare en deux parties, l'une en deçà et l'autre au delà de ce fleuve.
+            Dans la première partie est la grande église qu'on appelle Saint-Pierre de Rome. Là est
+            aussi le palais du grand Jules César, et plusieurs autres édifices et ouvrages qui
+            surpassent tous les autres qui sont dans le monde. Toute la ville, tant ce qui est
+            habité que ce qui est désert, contient l'espace de vingt-quatre milles. On y voit aussi
+            quatre-vingts palais d'autant de rois de grand renom, qui s'appellent tous empereurs,
+            depuis le règne de Tarquin[12] jusqu'au règne de Pipus (Pépin), père de Charles, qui
+            s'est soumis l'Espagne après l'avoir arrachée aux Ismaélites. Hors de Rome, on voit le
+            palais de Tite, que trois cents sénateurs refusèrent de recevoir, parce qu'il n'avait
+            pas obéi à leurs ordres, employant trois ans à prendre Jérusalem, au lieu qu'ils ne lui
+            en avaient prescrit que deux. Outre ce palais, on y voit aussi le château ou la
+            forteresse du roi Vespasien, qui est un grand édifiée bien muni. C'est là encore qu'on
+            voit le palais du roi Galbin (Galba), au milieu duquel on voit trois cent soixante
+            tours,[13] selon le nombre des jours de l'année : ces tours ont trois milles de
+            circuit.[14] Dans les temps anciens, il y a eu une guerre entre les Romains, où il y a
+            eu plus de cent mille hommes de tués dans ce palais, dont l’on voit encore aujourd'hui
+            les os pendus. Le roi a fait tailler toute celle histoire en marbre, où l'on voit les
+            deux armées à l'opposite l'une de l'autre, avec les hommes, leurs chevaux et leurs
+            armes, en sorte que dans ce siècle on peut encore voir cette guerre qui s'est faite dans
+            les anciens temps. On voit encore une caverne souterraine où sont le roi et la reine son
+            épouse sur leurs trônes; avec eux, environ cent des principaux grands seigneurs embaumés
+            jusqu'à ce jour. Dans la Salatisne[15] et dans le temple,[16] il y a deux colonnes
+            d'airain de l'ouvrage du roi Salomon qui repose en terre, et sur chaque colonne est
+            gravé (le nom de) Salomon, fils de David. Les Juifs de Rome m'ont raconté que tous les
+            ans, le neuvième du mois d'ab,[17] ces colonnes suent à grosses gouttes. Là on voit
+            aussi une caverne où Tite, fils de Vespasien, mit les vases sacrés qu'il avait apportés
+            de Jérusalem. Il y a encore une autre grotte ou caverne sous une montagne, au bord du
+            Tibre, où sont les sépulcres des dix justes d'heureuse mémoire, qu'on appelle les Tués
+            du royaume.[18] Devant Saint-Jean (de Latran) est taillée l'image de Samson, tenant dans
+            sa main un globe de pierre, comme aussi l'image d'Absalon, fils de David, et celle du
+            roi Constantin qui a bâti Constantine, et l'a appelée de son nom Constantinople. Lui et
+            son cheval sont d'une sculpture d'airain couverte d'or.[19] Il y a encore plusieurs
+            autres édifices et ouvrages de Rome qu'il n'est pas possible de décrire. De Rome, il y a
+            quatre journées à Capoue; c'est une belle ville bâtie par le roi Capys. Mais les eaux
+            sont très mauvaises et rendent la terre malsaine. Il y a là environ trois cents Juifs,
+            parmi lesquels il y en a de très sages et célèbres partout, dont les principaux sont R.
+            Compasso, R. Samuel son frère, R. Zaken, et ce grand maître R. David, d'heureuse
+            mémoire, qu'on appelle principaux. De Capoue, on va à Pouzzoles ou Sorrento[20] ; cette
+            grande ville a été bâtie par Tzintzen-Nadar-Eser (Hadar'eser), qui fuyait devant le roi
+            David, qui repose en paix.[21] Mais la mer s’étant débordée a inondé les deux parties de
+            la ville. On y voit encore aujourd'hui les rues et les tours qui étaient au milieu
+            d'elle.[22] Là est une fontaine qui sort du fond des abîmes ; sur la superficie de ses
+            eaux, on recueille une certaine huile qu'on appelle petroleo, dont on se sert pour des
+            médicaments. On y trouve aussi des bains chauds, dont l'eau sort de la terre au bord de
+            la mer. Il y a deux de ces bains dans lesquels quiconque va se baigner y trouve sa
+            guérison et du soulagement. Tous les malades de Lombardie y viennent durant l'été. De
+            là, on va pendant quinze milles sous des montagnes ; ouvrage construit par Romudous
+            (c'est-à-dire Romulus), ce roi qui a bâti Rome, lequel fit tout cela pour la peur qu'il
+            eut de David et de Joab son général d'armée. C'est aussi pour la même raison qu'il fit
+            les édifices qui sont au-dessus et au-dessous des montagnes de la ville de Naples.
+            Naples est une ville très forte, bâtie par les Grecs sur le bord de la mer. Il y a là
+            environ cinq cents Juifs, entre lesquels sont R. Ezéchias, R. Schalom, R. Élie le
+            sacrificateur, et R. Isaac-Mahar-Hahar, d'heureuse mémoire. A une journée de Naples est
+            la ville de Salerno, où il y a une école de médecins Iduméens ; on y compte environ six
+            cents Juifs, entre lesquels sont les sages suivants : R. Juda, fils de R. Isaac, R.
+            Melchisedech, ce grand maître natif de la ville de Siplionath, R. Salomon le
+            sacrificateur,[23] R. Elie le Grec, R. Abraham de Narbonne, et R. Tiramon. La ville est
+            enceinte d'une muraille, tant du côté de la terre que du côté de la mer. Sur le haut de
+            la montagne il y a une bonne forteresse. De là il y a une demi-journée à Amalfi,[24] où
+            il y a une vingtaine de Juifs, entre lesquels sont Chananeel le médecin, R. Elisée et
+            Abualgid le prince,[25] d'heureuse mémoire. Les habitants de cette contrée sont tous
+            marchands, et vont çà et là pour négocier. Ils ne sèment point, et ils achètent tout
+            pour de l'argent, parce qu'ils habitent sur des rochers et sur de hautes montagnes;
+            mais, d'un autre côté, ils abondent en fruits, en vignes, en figuiers et en jardins.
+            Personne ne peut leur aller faire la guerre. D'Amalfi à Bénévent, il y a une journée;
+            c'est une grande ville située sur le bord de la mer et sur une montagne. Il y a là une
+            assemblée d'environ deux cents Juifs qui ont à leur tête R. Kalonyme, R. Zara et R.
+            Abraham, d'heureuse mémoire. De là il y a deux journées à Makhi (Melfi), dans la
+            Pouille, qui est la terre de Phul,[26] où il y a environ deux cents Juifs qui ont à leur
+            tête R. Achimaaz, R. Nathan[27] et R. Tzadok. De là à Ascoli il y a une journée; on y
+            trouve une quarantaine de Juifs; à leur tête sont R. Kontilo, R. Tzemach son gendre, et
+            R. Joseph, d'heureuse mémoire. D'Ascoli à Trani il y a deux journées ; cette dernière
+            ville est sur le bord de la mer ; c'est le rendez-vous ordinaire de ceux qui veulent
+            passer la mer pour aller à Jérusalem, parce qu'il y a là un port très commode. On y
+            trouve une assemblée d'environ deux cents Juifs, dont les principaux sont R. Elie, R.
+            Nathan le prédicateur, et R. Jacob. Cette ville est grande et belle. A une journée de là
+            est Micilas de Bar,[28] autrefois grande ville, mais qui a été ruinée par Guillaume, roi
+            de Sicile, à cause de quoi il n'y a plus ni Juifs ni gentils. De là à Tarente il y a une
+            demi-journée ; c'est le commencement du royaume de la Calabre. Ses habitants sont Grecs.
+            C'est une grande ville où l'on compte environ trois cents Juifs, parmi lesquels il y en
+            a de très sages, dont les principaux sont R. Mali, R. Nathan et R. Israël. A une journée
+            de Tarente est Brindes, sur le bord de la mer, où il y a dix Juifs teinturiers. A deux
+            journées de là, Otrante, sur le bord de la mer de la Grèce, où il y a environ cinq cents
+            Juifs, qui ont à leur tête R. Ménachem, R. Caleb et R. Mali. D'Otrante on fait en deux
+            jours le trajet à Okrophus (Corfou), où il n'y a qu'un seul Juif nommé R. Joseph ;
+            jusqu'ici est le royaume de Sicile.[29] De Corfou, il y a deux jours par mer à la terre
+            de Levatto,[30] où commence le royaume de Manuel, roi de la Grèce. C'est un bourg où il
+            y a environ cent Juifs, à la tête desquels sont R. Schélachia et R. Arkolis ou Hercule.
+            A deux journées de là est Achilon,[31] où il y a une douzaine de Juifs qui ont pour chef
+            R. Schabtai. A une demi-journée d'Achilon est Nétolikon,[32] située sur un bras de mer.
+            Après un jour de trajet, on arrive de là à Patras, qui est la ville d'Antipater,[33] roi
+            de la Grèce, qui fut l'un des quatre rois qui s'élevèrent après Alexandre. Il y a à
+            Patras de grands et antiques édifices; il y a aussi une cinquantaine de Juifs qui ont à
+            leur tête R. Isaac, R. Jacob et R. Samuel. De Patras à Lépante, il y a une demi-journée
+            par mer; on y trouve une centaine de Juifs, sur le rivage de la mer, dont les principaux
+            sont R. Gazri, R. Schalom et R. Abraham, d'heureuse mémoire. A une journée et demie de
+            là est Cours,[34] où il y a deux cents Juifs, qui sont les seuls habitants du mont
+            Parnasse; ils sèment et moissonnent leurs terres et leurs possessions. Ils ont à leur
+            tête R. Salomon, R. Chajim et R. Jedajah. A trois journées de là est la ville de
+            Corinthe, où l'on compte environ trois cents Juifs, dont les principaux sont R. Léon, R.
+            Jacob, R. Ézéchias. A trois journées de Corinthe, on trouve Thèbes, la grande ville. Il
+            y à Thèbes environ deux mille Juifs, lesquels sont les meilleurs ouvriers de la Grèce en
+            soie et en pourpre. Il y a aussi parmi eus des sages très célèbres dans ce siècle, très
+            versés dans le Talmud. A leur tête sont le grand rabbin R. Aaron-Koti, R. Moïse son
+            frère, R. Chaïa, R. Élie Firtino et R. Joktan. Il n'y en a point de semblables à eux
+            dans toute la Grèce, si vous en exceptez la ville de Constantinople. De Thèbes il y a
+            une journée à Égriphou,[35] grande ville sur le bord de la mer, très fréquentée par les
+            marchands, qui y abondent de tous côtés. On y compte environ deux cents Juifs, qui ont à
+            leur tête R. Psaltiri, R. Emmanuel et R. Caleb. De là il y a une journée à
+            Jabustériza,[36] ville située sur le bord de la, mer, où il y a environ cent Juifs. A
+            leur télé sont R. Joseph, R. Eléazar et R. Isaac: De Robenica,[37] il y a une journée à
+            Sinon-Potmo,[38] où il y a une quarantaine de Juifs, qui ont pour chefs R. Salomon et R.
+            Isaac. Ici commence la Valachie, dont les habitants demeurent sur les montagnes.[39]
+            C'est la nation que l'on appelle Valaques; ils courent comme des chevreuils, et
+            descendent des montagnes pour piller et voler dans les terres des Grecs.[40] Personne ne
+            peut monter contre eux pour leur faire la guerre, ni aucun roi dominer sur eux; ils ne
+            suivent point la loi des nazaréens ou chrétiens. Ils se donnent entre eux des noms comme
+            les noms des Juifs; de là vient que plusieurs les croient Juifs. Il y en a même qui
+            appellent les Juifs leurs frères. Quand ils en trouvent, ils les dépouillent bien, mais
+            ils ne les tuent pas, comme ils tuent les Grecs. Ces peuples, au reste, n'ont point de
+            loi. De là il y a deux journées à Gradigi,[41] ville ruinée où il n'y a que peu
+            d'habitants, tant Juifs que Grecs. De là il y a deux journées à Armillo,[42] grande
+            ville sur le bord de la mer, fort marchande et fort fréquentée par les Vénitiens, les
+            Génois et les Pisans, et par tous les autres marchands qui y viennent de toutes parts.
+            Le pays est fort grand. On y compte environ quatre cents Juifs, qui ont à leur tête R.
+            Schilo et R. Joseph, le gouverneur de la synagogue. A une journée de là, Bissina,[43] où
+            il y a une centaine de Juifs qui ont à leur tête R. Schabta, R. Salomon et R. Jacob. De
+            là il y a deux journées par mer à Salouski,[44] qui a été bâtie par le roi Seleucus,
+            l'un des quatre princes grecs qui se sont élevés après Alexandre. C'est une très grande
+            ville dans laquelle il y a environ cinq cents Juifs, entre autres le grand rabbin R.
+            Samuel et ses fils, disciples des sages. Celui-ci est gouverneur des Juifs et dépend
+            immédiatement du roi[45] ; ensuite viennent R. Schabtai son gendre, R. Élie et R.
+            Michel. Les Juifs captifs sont fort considérables dans cette ville, et ils y exercent
+            diverses professions. De Salouski il y a deux journées à Métressi,[46] où il y a vingt
+            Juifs, entre autres R. Esaïe, R. Machir et R. Éliab. A deux journées de là est
+            Darma,[47] où l'on compte cent quarante Juifs, qui ont à leur tête R. Michel et R.
+            Joseph. De là il y a une journée à Canistoli,[48] où l'on trouve vingt Juifs. De là il y
+            a trois journées à Abiro (Abydos), située sur le bord de la mer. Après cinq jours de
+            marche entre les montagnes, on arrive enfin à la grande ville de Constantinople, qui est
+            la capitale de toute la terre des Javanites appelés Grecs. Elle est le lieu de la
+            résidence du roi Manuel,[49] empereur, lequel a douze rois[50] sous son empire, qui ont
+            chacun leur palais à Constantinople. Ils ont aussi des châteaux et des villes et des
+            gouvernements dans tout le pays. Ils ont à leur tête le roi Agripus le Grand[51] ; le
+            second d'entre eux est Méga-Dumestukitz,[52] le troisième Dominot,[53] le quatrième
+            Makdukus,[54] le cinquième Iknomus-Mégli,[55] et ainsi des autres, qui ont de semblables
+            noms. La ville de Constantinople a dix-huit milles de circuit, de telle sorte qu'il y en
+            la moitié située sur la mer et l'autre moitié sur le continent.[56] Elle est sur deux
+            bras de mer, dont l’un vient de Russie et l'autre de l'Espagne. Les marchands y viennent
+            de tous côtés, de Babylone, de Sinéar, de la Médie, de la Perse, de tout le royaume
+            d'Egypte, de la terre de Chanaan, du royaume de Russie, de la Hongrie, de Phasianke,[57]
+            de Burie,[58] de la Lombardie et de l'Espagne. La ville est fort peuplée, à cause de la
+            foule des marchands qui y abondent de tous côtés, par mer et par terre, en sorte qu'il
+            n'y a point de ville dans le monde qui puisse lui être comparée que Bagdad, cette grande
+            ville qui appartient aux Ismaélites.[59] C'est aussi à Constantinople qu'est le temple
+            de Sainte-Sophie[60] et le pape des Grecs, ces derniers n'étant point soumis aux lois du
+            pape de Rome. On compte autant d'autels que de jours en l'an dans le temple de
+            Sainte-Sophie. On y apporte des richesses immenses des îles, châteaux et villes de tout
+            le pays. Il n'y a aucun temple dans l'univers où l'on trouve tant de richesses que dans
+            celui-là. Au milieu de ce temple, il y a des colonnes d'or et d'argent, et des
+            chandeliers des mêmes métaux en si grand nombre qu'on ne peut les compter. Il y a aussi
+            un lieu où le roi se divertit, appelé Hippodrome, près de la muraille du palais.[61]
+            C'est là que tous les ans, le jour de la naissance de Jésus le Nazaréen, le roi donne un
+            grand spectacle. On y représente par art magique, devant le roi et la reine, les figures
+            de toutes les espèces d'hommes qu'il y a dans le monde; on y amène aussi des lions, des
+            ours, des tigres et des ânes sauvages que l'on fait battre ensemble, comme aussi des
+            oiseaux. On ne voit point de tel spectacle dans tout le monde.[62] Le roi Emmanuel a
+            aussi bâti un grand palais, pour le trône ou le siège de son royaume, sur le bord de la
+            mer, outre ceux qui ont été bâtis par ses ancêtres, et l'a appelé Blachernes, dont il a
+            couvert les colonnes et leurs chapiteaux d'or et d'argent pur, et y a fait graver toutes
+            les guerres que lui et ses ancêtres ont faites.[63] C'est là aussi qu'il s'est fait un
+            trône d'or[64] et de pierres précieuses, au-dessus duquel est pendue une couronne d'or
+            par une chaîne aussi d'or, qui vient justement à sa mesure quand il est assis. Il y a à
+            cette couronne des pierreries d'un si grand prix que personne ne peut les estimer. La
+            nuit, on n'y a pas besoin de lumière, car chacun y voit assez à la faveur de l'éclat que
+            jettent ces pierres précieuses. Il y a là encore plusieurs autres merveilles que
+            personne ne pourrait raconter. C'est là qu'on apporte tous les ans les tributs de toute
+            la Grèce, dont les tours sont remplies d'habits de soie, de pourpre et d'or. On ne voit
+            nulle part ailleurs dans le monde de tels édifices ni de si grandes richesses ; on dit
+            même que le tribut de la seule ville de Constantinople monte à vingt mille florins d'or
+            par jour, tant de ce qui provient des impôts sur les boutiques, sur les hôtelleries et
+            sur les places des marchés, que de ceux que payent les marchands, qui y abondent de tous
+            cotés par mer et parterre. Les Grecs habitants du pays sont très riches en or et en
+            pierreries. Ils vont habillés de vêtements de soie garnis de franges d'or et d'ouvrages
+            de broderie: à les voir dans cet équipage, montés sur leurs chevaux, on dirait que ce
+            sont autant d'enfants de rois. Le pays est fort vaste, abondant en pain, en viande, en
+            vin et en toutes sortes de denrées. Personne, dans toute la terre, ne les égale en
+            richesse, Les Grecs sont aussi très versés et savants dans leurs livres, mangeant et
+            buvant chacun dans sa vigne et chacun sous son figuier. Ils entretiennent des soldats à
+            gages de toutes les nations, qu'ils appellent barbares, pour faire la guerre au roi des
+            peuples de Togarma,[65] appelés Turcs; car les Grecs eux-mêmes n'ont ni cœur ni courage
+            pour la guerre : aussi sont-ils réputés comme des femmes qui n'ont aucune force pour
+            combattre. Il n'y a point de Juifs parmi eux dans la ville; on les a transportés au delà
+            d'un bras de mer.[66] Le bras de mer de Sainte-Sophie les environne d'un côté, et ils ne
+            peuvent sortir pour négocier avec les habitants de la ville que par mer. On compte à
+            Constantinople deux mille Juifs rabbinites, et outre cela cinq cents caraïtes[67] de
+            l'autre côté. Il y a une muraille pour les séparer des rabbinites, qui sont les
+            disciples des sages. A la tête de ceux-ci sont le grand rabbin R. Abtalion, R. Obadias,
+            R. Aaron Chouspo, R. Joseph Sarguino et R. Éliakim, le gouverneur de la synagogue. Il y
+            a parmi eux des ouvriers en soie, beaucoup de marchands et de gens extrêmement riches.
+            Il n'est pourtant permis à aucun Juif de monter à cheval, excepté au seul R. Salomon
+            l'Égyptien, médecin du roi, par le crédit duquel les Juifs jouissent d'un grand
+            soulagement dans leur captivité, qui d'ailleurs y est très rude. Ils sont surtout fort
+            haïs par les tanneurs qui préparent les peaux, car ils jettent leur eau sale devant les
+            portes des Juifs pour les souiller. En général, les Grecs haïssent tous les Juifs, sans
+            distinction des bons ou des méchants; ils aggravent leur joug sur eux. Quand ils
+            rencontrent des Juifs dans les rues, ils les battent, les traitent cruellement et les
+            tiennent sous une dure servitude. Cependant les Juifs sont riches, gens de bien,
+            charitables, supportant patiemment leur exil. Le lieu où ils habitent s'appelle Péra. De
+            Constantinople, il y a deux journées par mer à Rodoston,[68] où il y a une assemblée
+            d'environ quatre cents Juifs, dont les chefs sont R. Moïse, Abia et Jacob. A deux
+            journées de là est Gallipoli, où l'on compte environ deux cents Juifs, à la tête
+            desquels sont R. Élie Caphid, R. Schabtai Zutra et R. Isaac Mégas; car en Grèce on
+            appelle mégas tout ce qu'on veut honorer. De là il y a deux journées à Cals (ou
+            Kilia),[69] où il y a une cinquantaine de Juifs, dont les chefs sont R. Juda, R. Jacob
+            et R. Schémaia. De là il y a deux journées à Mitylène,[70] où il y a des assemblées
+            d'Israélites en dix endroits. De là il y a trois journées à Chika (Chio), où il y a
+            environ quatre cents Juifs, à la tête desquels sont R. Élie Teman et Schabtai. C'est là
+            que sont les arbres d'où l'on recueille le mastic.[71] A deux journées de là est l'île
+            de Samos, où il y a environ trois cents Juifs, qui ont à leur tête R. Schémaria; R.
+            Obadia et R. Joël, il y a dans toute cette île plusieurs assemblées d'Israélites. De là
+            il y a trois jours par mer à Rhodes, où il y a environ quatre cents Juifs, à la tête
+            desquels sont R. Abba, R. Chananeel et R. Élie. A quatre journées de là est Dophros
+            (Chypre), où il y a une assemblée de Juifs rabbinites. Il y a aussi là d'autres Juifs,
+            hérétiques chypriens, qui sont épicuriens.[72] Les Israélites les excommunient partout :
+            ils profanent le soir du sabbat et honorent le soir du premier jour. De là il y a deux
+            journées à Corcos (Corycus), aujourd'hui Korghos, le commencement du royaume d'Édom[73]
+            appelé l'Arménie. C'est là que commence le royaume de Tourous,[74] seigneur des
+            montagnes et roi d'Arménie, lequel règne jusqu'à la province de Dukim (Adiabene) et
+            jusqu'au pays des Togarmites, qu'où appelle Turcs. De là il y a trois jours à
+            Malmistras[75] ou Tursis (Tersoos), située sur le bord de la mer.[76] Jusqu'ici s'étend
+            le royaume des Javanites, qu'on appelle Grecs, De là il y a deux jours à Antioche la
+            Grande, située sur le fleuve Pir, torrent de Jabok, qui descend du mont Liban, de la
+            terre de Hamath (Chamath). Cette grande ville a été bâtie par le roi Antiochus.
+            Au-dessus de la ville, il y a une fort haute montagne, ceinte d'une muraille. Au sommet
+            de la montagne est une fontaine, laquelle a sur elle un homme établi pour conduire l'eau
+            de cette fontaine, par des canaux souterrains, dans les maisons des grands de la ville.
+            L'autre côté de la ville est arrosé par la rivière. Cette ville, au reste, est très
+            forte et sous la domination des irrupteurs.[77] La foi dominante y est celle des
+            Poitevins, qui est celle du pape. Il y a là quelques Juifs ouvriers en verre, qui ont à
+            leur tête R. Mardochée, R. Chajim et R. Ismaël. A deux journées de là est Liga,[78] ou
+            Laodicée, fondée par Seleucus Nicator, où il y a environ deux cents Juifs, entre
+            lesquels sont R. Chiia et R. Joseph. De là il y a deux journées à Gébal, ou Bagdad
+            (Ba'al-Gad), sous le mont Liban. Près de Gébal est le peuple qu'on appelle
+            Alhashishin.[79] Ces gens ne sont pas de la religion des Ismaélites, mais de celle d'un
+            certain Cambat (Kharmath),[80] qu'ils tiennent pour un prophète. Ils obéissent à tout ce
+            qu'il dit, soit pour la vie, soit pour la mort, ils l'appellent Scheich-al-Hassissin
+            (Sheikh-al-Hashishing). C'est un vieillard établi sur eux, par l'ordre duquel ces
+            montagnards vont et viennent. Le lieu de sa résidence est la ville de Karmos, qui était
+            autrefois dans le pays de Sihon.[81] Ils sont très religieux observateurs de leur foi
+            entre eux par l'ordre de leur vieillard. Ils se rendent formidables partout, parce
+            qu'ils assassinent les rois avec une espèce de scie.[82] On peut marcher huit journées
+            sur leurs terres. Ils sont en guerre avec ces Edomites qu'on appelle Francs, et avec le
+            sultan de Tripoli, ou Taraboulous de Scham.[83] Il n'y a pas longtemps qu'il y a eu à
+            Tripoli un tremblement de terre où plusieurs gentils et Juifs ont été ensevelis sous les
+            ruines des maisons qui tombaient sur eux. Ce tremblement de terre s'est aussi fait
+            sentir en même temps dans tout le pays d'Israël, où il a péri plus de vingt mille
+            personnes. A une journée de là, il y a une autre Gébal,[84] qui est sur les frontières
+            du pays des enfants de Hammon (Ammon), où il y a environ cent cinquante Juifs. Elle est
+            sous la domination de sept Hégénotes (Génois), dont le sultan (chef) s'appelle
+            Giliano-Enviremo (Julianus Embriaco).[85] C'est là qu'on trouve la place où était
+            autrefois le temple des enfants de Hammon. C'est aussi là qu'était leur abomination,
+            c'est-à-dire leur idole, assise sur un trône fait de pierre, mais couvert d'or. Il y
+            avait aussi deux femmes assises, l'une à sa droite et l'autre à sa gauche, et un autel
+            vis-à-vis, où l'on offrait le parfum et où l'on sacrifiait en leur présence du temps des
+            Ammonites. Il y a là environ deux cents Juifs, à la tête desquels sont R. Meir, R. Jacob
+            et R. Sinha. Elle est sur le bord de la mer du pays d'Israël. De là il y a deux journées
+            à Biroth, qui est Beerouth, où il y a une cinquantaine de Juifs, qui ont à leur tête R.
+            Salomon, R. Obadia et R. Jacob.[86] De là il y a une journée à Tsaïd, ou Sidon la grande
+            ville, où il y a une vingtaine de Juifs. A dix milles de là est une nation qui fait la
+            guerre aux Sidoniens. On appelle Ces gens-là Dogziens[87] ; on les nomme aussi Paganous,
+            ou villageois, ou bien Paganous, ou païens. C'est un peuple sans religion qui habite sur
+            de hautes montagnes et dans les cavernes des rochers. Ils n'ont ni roi ni prince qui
+            domine sur eux. Ils vivent libres entre leurs montagnes et leurs rochers, qui s'étendent
+            jusqu'à la montagne de Hermon, le chemin de trois jours. Ils sont plongés dans le vice,
+            et se marient avec leurs propres filles. Ils ont une certaine fête dans l'année, en
+            laquelle hommes et femmes s'assemblent pour boire, et alors ils changent de femmes les
+            uns avec les autres. Ils disent, lorsque l'âme sort du corps : « Si c'est l'âme d'un
+            homme de bien, elle entre dans le corps de quelque petit enfant qui naît au même moment
+            qu'elle sort de son corps précédent; mais si c'est l'âme d'un méchant homme, elle entre,
+            selon eux, dans le corps d'un chien ou de quelque autre animal. » Telle est la folle
+            erreur de ces gens-là. Il n'y a point de Juifs parmi eux, sinon qu'il y a quelquefois
+            chez eux des teinturiers ou des ouvriers juifs qui y demeurent quelque temps pour y
+            travailler ou négocier; après quoi ils s'en retournent en leur maison. Ces peuples
+            aiment les Juifs. Au reste, ils grimpent les montagnes et les collines avec une vitesse
+            extraordinaire, et personne n'ose les aller attaquer. A une journée de là est Tyr la
+            nouvelle, ville extrêmement belle, avec un port très commode au milieu d'elle, où
+            abordent les vaisseaux entre deux tours. Les péagers jettent, la nuit, entre ces
+            deux-tours des chaînes de fer, en sorte que personne n'y peut venir, soit sur un
+            vaisseau, soit autrement, pour voler quelque chose des vaisseaux qui y sont. Il n'y a
+            point de port sur toute la terre si sûr et si commode. Il y a dans cette belle ville
+            environ quatre cents Juifs, entre lesquels il y en a de très savants dans le Talmud. A
+            leur tête sont R. Éphraïm l'Égyptien, juge ; R. Meir, de Carcassonne, et R. Abraham,
+            chef de la synagogue. Les Juifs ont aussi des vaisseaux à eux sur mer. Là sont aussi les
+            ouvriers qui font ce beau verre de Tyr si renommé par toute la terre. C'est aussi à Tyr
+            que l'on trouve la meilleure pourpre.[88] Si l'on monte sur les murailles de la nouvelle
+            Tyr, on découvre de là Tyr la couronnée, couverte de la mer, qui n'est éloignée de la
+            nouvelle que d'un jet de pierre. Si l'on y va avec un vaisseau, on voit au fond de la
+            mer les tours, les palais, les places et les rues de cette ancienne ville. Au reste, la
+            nouvelle Tyr est une ville fort marchande où l'on aborde de toutes parts. De Tyr il y a
+            une journée à Akdi, ou Acco,[89] autrefois les limites de la tribu d'Aser et le
+            commencement de la terre d'Israël. Elle est située sur le bord de la grande mer. Elle a
+            un grand port, où abordent tous ceux qui ont fait vœu d'aller à Jérusalem et qui y vont
+            par mer. Il passe devant la ville une rivière appelée le torrent de Kadoumin.[90] Il y a
+            là environ deux cents Juifs, à la tête desquels sont R. Tzadok, Japhet et Jonas,
+            d'heureuse mémoire. De là il y a trois parasanges à Niphesch, qui est Gad-Hachepha,[91]
+            sur le bord de la mer. A un des côtés de la ville est la montagne de Carmel, au sommet
+            et au pied de laquelle sont plusieurs tombeaux des Israélites, Dans la montagne même est
+            la caverne ou la grotte d'Élie, d'heureuse mémoire, où deux Iduméens ont bâti une église
+            ou chapelle qu'ils appellent Saint-Elie. Au sommet de cette montagne, on reconnaît
+            encore les vestiges de l'autel qu'Élie, d'heureuse mémoire, démolit et rebâtit au temps
+            d'Achab. L'endroit de cet autel est rond et s'étend environ l'espace de quatre
+            coudées.[92] Au pied de la montagne, à côté, coule le torrent de Céson.[93] A quatre
+            parasanges de là est Capernaüm, c'est-à-dire bourg ou village de consolation. Il semble
+            au premier coup d'œil que cette ville est sur le Carmel.[94] De Capernaüm il y a six
+            parasanges à Gad des Philistins, ou Césarée. Il y a dans cette ville dix Juifs et deux
+            cents Cuthéens, ou Juifs de Schomron, c'est-à-dire de Samarie, appelés vulgairement
+            Samaritains. Césarée est une très belle et bonne ville, sur le bord de la mer, bâtie par
+            le roi-empereur César, qui l'a appelée Césarée de son nom.[95] A une demi-journée de là
+            est Kakko[96] ou Kéhila. On n'y trouve aucun Juif. De là il y a une demi-journée à
+            Sargorg,[97] ou Luz. Il n'y a qu'un seul Juif, teinturier, dans cette ville. A une
+            journée de cette ville est Sébaste, ou Samarie. On y reconnaît encore les vestiges du
+            palais d'Achab, roi d'Israël. Samarie est une ville très forte, située sur une montagne
+            et arrosée de fontaines. Le terroir est entrecoupé de ruisseaux et abonde en jardins, en
+            vergers, en vignobles et en oliviers ; mais on n'y trouve point de Juifs. De Samarie il
+            y a deux parasanges à Naplouse, ou Sichem, sur la montagne d'Ephraïm. Il n'y a point ici
+            de Juifs. La ville est située entre les montagnes de Garizim et d'Ébal, dans une vallée.
+            On y compte environ cent Cuthéens, qui ne gardent que la loi de Moïse, et qu'on appelle
+            Samaritains. Ils ont des sacrificateurs de la postérité d'Aaron le sacrificateur, qu'ils
+            appellent Aaronites. Les Samaritains ne donnent point leurs filles aux sacrificateurs,
+            ceux-ci ne prenant pour femmes que des filles de race sacerdotale, pour ne pas se
+            confondre avec le peuple. Cependant ces sacrificateurs de leur loi sacrifient et offrent
+            des holocaustes, dans l'assemblée qu'ils ont sur le mont Garizim, comme il est écrit
+            dans le livre de la loi (Deut., XI, 20) : « Tu donneras la bénédiction, sur la montagne
+            de Garizim. » C'est pourquoi ils disent que c'est la maison du sanctuaire. Ils offrent
+            des holocaustes le jour de Pâques et les autres jours de fête sur un autel bâti sur le
+            mont Garizim, de ces pierres dont les Israélites ont dressé un monument lorsqu'ils
+            passèrent le Jourdain. Ils se disent de la tribu d'Ephraïm. Ils ont parmi eux le
+            sépulcre du sage Joseph, fils de Jacob, notre père, selon ce qui est dit (Jos., XXIV,
+            32) : « On ensevelit à Sichem les os de Joseph, que les Israélites avaient apportés
+            d'Egypte.[98] » Les Samaritains n'ont pas ces trois lettres hé, cheth et ajin. Ils n'ont
+            point de hé dans le nom d'Abraham, notre père; c'est pourquoi ils n'ont point de gloire.
+            Ils manquent du cheth dans le non d'Ischak, notre père; c'est pourquoi ils n'ont point
+            de piété. Enfin ils n'ont point de ajin dans le nom de Jacob, notre père, et, par
+            conséquent, ils manquent aussi d'humilité. Au lieu de ces trois lettres, ils mettent un
+            aleph, par où ils font connaître qu'ils ne sont pas de la postérité d'Israël : ils ont
+            la loi de Moïse, excepté ces trois lettres.[99] Ils se gardent soigneusement de la
+            souillure des morts, des os dos tués par accident, et des sépulcres. Lorsqu'ils vont à
+            leur synagogue, ils dépouillent leurs habits ordinaires, et, après s'être lavé le corps
+            avec de l'eau, ils en prennent d'autres. C'est ainsi qu'ils en usent toujours. Au reste,
+            il y a des fontaines et des vergers sur le mont Garizim; mais celui d'Ébal est sec comme
+            les pierres et les rochers. La ville de Sichem (Naplouse) est dans une plaine entre deux
+            montagnes. A quatre parasanges de là est la montagne de Gilboa,[100] que les Édomites
+            appellent monte Gilboe, qui est terroir fort aride. De là il y a cinq parasanges à la
+            vallée d'Ajalon, appelée par les Iduméens val de Luna. De cette vallée est éloignée à
+            une parasange la montagne de Moria-Grandariel,[101] qui est la grande ville de Gabaon,
+            où il n'y a point de Juifs. De Gabaon, il y a trois parasanges à Jérusalem. C'est une
+            petite ville munie de trois murailles et fort peuplée de Jacobites, de Syriens, de
+            Grecs, de Géorgiens et de Francs de toute langue et nation. Il y a une maison où l'on
+            fait de la teinture, que les Juifs possèdent, ayant eux seuls le droit de faire de la
+            teinture, moyennant une certaine somme qu'ils payent tous les ans au roi. On compte dans
+            cette ville environ deux cents Juifs,[102] qui demeurent sous la tour de David, dans un
+            coin de la ville. Pour ce qui est de la muraille de la tour de David, il ne reste
+            environ que dix coudées de haut sur les fondements de cet ancien édifice bâti par nos
+            pères. Tout ce qui est au-dessus est l'ouvrage des Ismaélites. Il n'y a point d'édifice
+            dans toute la ville plus fort que cette tour. Il y a encore à Jérusalem deux hôpitaux
+            d'où sortent quatre cents chevaliers, et où l'on reçoit tous les malades qui y viennent,
+            auxquels on fournit tout ce qui leur est nécessaire soit pour la vie, soit pour la mort.
+            On appelle le second hôpital de Salomon. C'a été le palais qu'a bâti le roi Salomon
+            autrefois. Dans celui-ci demeurent et en sortent quatre cents chevaliers toujours prêts
+            pour la guerre, outre les chevaliers qui viennent du pays des Francs et des Édomites,
+            qui ont fait des vœux, et qui y restent quelques années, jusqu'à ce que leur vœu soit
+            accompli. Là est aussi ce grand temple qu'on appelle Sepolcro, qui est le tombeau de CET
+            HOMME.[103] Il y a à Jérusalem quatre portes : la porte d'Abraham, la porte de David, la
+            porte de Sion et la porte de Josaphat, vis-à-vis de la maison du Sanctuaire, qui était
+            là autrefois.[104] C'est la qu'est te temple Domino,[105] qui a été autrefois un lieu
+            sacré sur lequel Omar, fils d'Alcata,[106] avait bâti une grande et parfaitement belle
+            voûte, où les gentils n'osent point mettre d'images, ni aucune ressemblance, mais y
+            viennent seulement pour y faire leurs prières. A l'opposite de cet endroit, à
+            l'occident, est une muraille qui est un reste de celle du temple, et même du Saint des
+            Saints ; on l'appelle la porte de Miséricorde. Tous les Juifs vont prier devant cette
+            muraille, à l'endroit où était le parvis.[107] Il y a encore à Jérusalem, dans cette
+            maison qui a été autrefois à Salomon, les écuries que ce roi a fait bâtir : c'est un
+            bâtiment très solide, tout de grandes pierres ; on ne voit nulle part ailleurs un
+            bâtiment semblable. On y voit encore aujourd'hui le canal où l'on égorgeait autrefois
+            les victimes. Tous les Juifs y écrivent leurs noms sur la muraille. En sortant de la
+            porte de Josaphat, on trouve le désert des peuples, où est la statue appelée
+            Jad-Absçalom,[108] le sépulcre du roi Ozias, et la grande fontaine des eaux de Siloé,
+            auprès du torrent de Kédron. Sur la fontaine est un grand édifice bâti du temps de nos
+            pères; on n'y trouve que fort peu d'eau, la plupart des habitants de Jérusalem ne buvant
+            que de l'eau de pluie, qu'ils reçoivent dans les citernes qu'ils ont dans leurs maisons.
+            De la vallée de Josaphat on va à la montagne des Oliviers, qui n'est séparée de la ville
+            que par cette vallée. De cette montagne on découvre la mer de Sodome, qui n'est éloignée
+            que de deux parasanges de la statue de sel en laquelle fut changée la femme de Loth.
+            Quoique les troupeaux qui passent lèchent continuellement cette statue, elle recroît
+            néanmoins toujours et devient comme elle était auparavant; on voit aussi de là toute la
+            plaine et le torrent de Sittim, jusqu'au mont Nébo. Devant Jérusalem est la montagne de
+            Sion, sur laquelle il n'y a point d'autres édifices qu'on temple des nazaréens ou
+            chrétiens. Il y a encore devant Jérusalem trois espèces de cimetières des Israélites, où
+            ils ensevelissaient autrefois leurs morts, entre lesquels il y a un tombeau qui a sa
+            date gravée. Mais les Iduméens les démolissent et en tirent les pierres pour bâtir leurs
+            maisons. Tout autour de Jérusalem il y a de grandes montagnes. Sur le mont de Sion sont
+            les sépulcres de la maison de David et des rois qui ont régné après lui. Mais personne
+            ne connaît cet endroit; car il y a environ quinze ans qu'une muraille du temple qui est
+            sur le mont de Sion étant tombée, le patriarche ordonna au prêtre de rebâtir cette
+            église, et lui dit de prendre des pierres de l'ancien mur de Sion pour cet effet, ce que
+            ce prêtre se mit aussitôt en devoir de faire. Il laissa une vingtaine d'ouvriers qui
+            arrachaient les pierres des fondements de la muraille de Sion. Parmi ces ouvriers, il y
+            en avait deux, entre autres, très bons et très fidèles amis. Un jour un de ces deux
+            ayant régalé son camarade, et tous deux étant retournés un peu tard à leur ouvrage,
+            celui qui les commandait leur dit : « Pourquoi venez-vous si tard? » A quoi ils
+            répondirent : « Qu'est-ce que cela te fait? nous travaillerons pendant que nos camarades
+            iront manger. » En tirant donc de ces pierres, ils en tirèrent entre autres une sous
+            laquelle ils trouvèrent l'entrée d'une caverne ou grotte. Là-dessus ils se dirent l'un à
+            l'autre : « Allons voir si nous trouverons quelque trésor. » Ils entrèrent donc dans la
+            caverne jusqu'à ce qu'ils parvinrent à un grand palais, bâti sur des colonnes de marbre,
+            tout couvert d'or et d'argent. D'abord s'offrit à leur vue une table et un sceptre d'or,
+            avec une couronne d'or. C'était le tombeau de David, roi d'Israël; à la gauche était
+            celui de Salomon ; et de même ceux de tous les autres rois de Juda qui y ont été
+            ensevelis. Il y avait aussi des coffres fermés, et personne ne sait ce qu'ils
+            contiennent. Ces deux hommes voulurent entrer dans le palais ; mais voici qu'un vent
+            impétueux, qui venait de l'entrée de la caverne, les terrassa de telle sorte qu'ils
+            tombèrent à terre comme morts, et demeurèrent là jusqu'au soir. Alors s'éleva un autre
+            vent, et comme une voix d'homme qui leur cria : « Levez-vous, sortez d'ici! » Ces
+            ouvriers, tout effrayés, se hâtèrent de sortir, et vinrent raconter le tout au
+            patriarche. Celui-ci fit venir de Constantinople R. Abraham Chasid, ou le Pieux, un de
+            ceux qui pleurent Jérusalem,[109] et lui raconta tout ce qui était arrivé à ces deux
+            hommes. R. Abraham répondit: « Ce sont les tombeaux des rois de la maison de David et
+            des rois de la maison de Juda. » Le lendemain, on renvoya s'informer vers ces deux
+            hommes, qu'on trouva l'un et l'autre gisant dans leurs lits et disant : « Nous n'avons
+            garde de retourner en se lieu, car l'Éternel ne veut pas que personne voie ces choses. »
+            Alors le patriarche fit boucher l'entrée de la caverne, pour cacher cet endroit aux
+            hommes jusqu'à ce jour. R. Abraham le Pieux m'a conté lui-même toute cette histoire. De
+            Jérusalem il y a deux parasanges à Bethléem, ou la maison de pain de Juda. A un
+            demi-mille de cette ville est le monument du sépulcre de Rachel, dans un chemin fourchu.
+            Ce monument est composé de onze pierres, selon le nombre des enfants de Jacob.
+            Au-dessous il y a une voûte soutenue par quatre colonnes. Tous les Juifs qui passent par
+            là écrivent leurs noms sur les pierres de ce monument. A Bethléem, il y a douze
+            teinturiers juifs. Le pays est arrosé de plusieurs torrents, puits et fontaines. De
+            Bethléem à Hébron il y a six parasanges. Cette ville, située autrefois sur une montagne,
+            est maintenant déserte et ruinée. La ville d'aujourd'hui est dans la vallée. Dans la
+            plaine de Macpéla il y a un grand temple appelé Saint-Abraham, qui du temps des
+            Ismaélites était une synagogue des Juifs. Les gentils, c'est-à-dire les chrétiens, y ont
+            bâti six tombeaux sous les noms d'Abraham et de Sara, d’Isaac et de Rébecca, de Jacob et
+            de Léa ; ils disent aux voyageurs que ce sont les sépultures de ces patriarches, et en
+            tirent de l'argent; mais s'il vient un Juif qui donne de l'argent au portier de la
+            caverne, on lui ouvre une porte de fer faite du temps de nos pères ; alors, descendant
+            avec des flambeaux à la main, ils ne trouvent rien dans la première ni la seconde
+            caverne ; mais, venant à la troisième, ils y trouvent les six tombeaux d'Abraham et de
+            Sara, d'Isaac et de Rébecca, de Jacob et de Léa, vis-à-vis les uns des autres. Chacun a
+            son inscription propre. Sur le tombeau d'Abraham est cette inscription : « Ceci est le
+            tombeau d'Abraham, notre père, qui repose en paix. » Et de même sur le tombeau d'Isaac
+            et sur les autres. Il y a une lampe allumée, dans la caverne, qui brûle jour et nuit sur
+            les tombeaux. On y voit aussi des tonneaux pleins des os des Israélites, qui apportaient
+            là chacun des morts et les os de leurs ancêtres, qui sont encore là jusqu'à ce jour. Au
+            bout du champ de Macpéla[110] est la maison d'Abraham, notre père, et devant la maison
+            il y a une fontaine. Il n'est pas permis de bâtir là d'autre maison, par respect pour
+            Abraham. D'Hébron à Beith-Gabren,[111] ou Marescha, il y a cinq parasanges; il n'y a là
+            que trois Juifs. A cinq parasanges de là est Toron-Dolos-Gabra-Larisch,[112] ou Sunem ;
+            on y trouve trois cents Juifs. De là il y a trois parasanges à San-Samuel de Scilo,[113]
+            éloignée de Jérusalem de deux parasanges. Lorsque les Édomites (chrétiens) prirent Rimla
+            (qui est Rama) sur les Ismaélites, ils trouvèrent prés de la synagogue des Juifs le
+            tombeau de Samuel de Rama ; alors ils en tirèrent le corps, le transportèrent à Scilo,
+            et bâtirent dessus un grand temple qui subsiste encore sous le nom de San-Samuel de
+            Scilo. A trois parasanges de Scilo on trouve le mont Morija, ou Resipuah,[114] qui est
+            Gibéath de Saül, ou Gibéa de Benjamin, où il n'y a point de Juifs. De là il y a trois
+            parasanges à Beth-Nobi (Beith-Nubi), ou Nob, ville des sacrificateurs ; au milieu du
+            chemin sont les deux rochers de Jonathan,[115] dont l'un s'appelle Botzetz et l'autre
+            Séna. Il n'y a là que deux Juifs, teinturiers. De là il y a trois parasanges à Ramas,
+            qui est l'ancienne Rama. On y voit encore des murailles bâties du temps de nos pères,
+            car c'est ainsi que nous l'avons trouvé écrit sur les pierres. Il n'y a là que deux ou
+            trois Juifs. C'était autrefois une très grande ville. On y voit encore un cimetière des
+            Israélites qui a trois milles de circuit.[116] A cinq parasanges de là est Gapha, ou
+            Japho (Jaffa), sur le bord de la mer, où il n'y a qu'un seul Juif, teinturier. De là à
+            Eblin ou Jasné[117] il y a trois parasanges. On y voit encore le lieu de l'école,[118]
+            mais il n'y a plus de Juifs. Jusqu'ici s'étendent les limites d'Éphraim.[119] De Jasné
+            il y a deux parasanges à Palmis, ou Asdod[120] des Philistins. Cette ville est ruinée,
+            et il n'y a point de Juifs. De là il y a deux parasanges à Askelona ou Ascalon la
+            Nouvelle, bâtie par Esdras le sacrificateur, d'heureuse mémoire, sur le bord de la mer.
+            On l'appelait au commencement Bénibra. Elle est éloignée de quatre parasanges de
+            l'ancienne Ascalon, qui est déserte. C'est une grande et belle ville qui, étant située à
+            l'extrémité des frontières de l'Egypte, est très fréquentée pour le commerce. On y
+            compte environ deux cents Juifs rabbanites, qui ont à leur tête R. Tzemach, R. Aaron et
+            R. Salomon. Il y a aussi une quarantaine de Karréens et environ trois cents Cuthéens ou
+            Samaritains. Au milieu de la ville il y a un puits qu'on appelle Bir-Abraham-al-Calil,
+            qui a été creusé du temps des Philistins.[121] D'Ascalon[122] on va à Segoures ou Lud,
+            et, en une journée et demie, on arrive à Zarzin (Serain) ou Izréel, où il y a une grande
+            fontaine[123] et un seul Juif, teinturier. A trois parasanges de Zarzin est
+            Schiphouria,[124] autrefois Tsippori, où est le sépulcre de notre rabbin le saint,[125]
+            et de R. Chija, qui est venu de Babylone, et celui de Jonas le prophète, fils d'Amittai.
+            Ces tombeaux sont sur la montagne avec plusieurs autres.[126] A cinq parasanges de là
+            est Tibérias,[127] située sur le Jourdain, qui y prend le nom de mer de Cinnéreth ou de
+            Génézareth, car le Jourdain se jette dans cette mer, et ensuite va se perdre dans la mer
+            Salée, dans la plaine appelée Asded-Happisga ; c'est la mer de Sodome, ou la mer Salée.
+            Il y a à Tibérias environ cinquante Juifs, qui ont à leur tête R. Abraham le voyant, R.
+            Muctar et R. Isaac, Il y a aussi des bains chauds qui sortent du fond de la terre, et
+            qu'on appelle bains chauds de Tibérias; tout près de là est la synagogue de Caleb, fils
+            de Jephuné, et un cimetière des juifs où sont les tombeaux de R. Jochanan, fils de
+            Zaccaï, et de R. Jonathan, fils de Lévi. Tout cela est dans la Galilée inférieure. De
+            Tibérias il y a deux journées à Timin (Tebnin) ou Timnatha,[128] où sont les tombeaux de
+            Samuel le Juste[129] et de plusieurs autres Israélites. De là il y a une journée à
+            Aschat, autrefois Guseb-Chalab,[130] où il y a une vingtaine de Juifs. A six parasanges
+            de là est Marandite, autrefois Meron;[131] près de là est une grotte ou caverne, où sont
+            les sépulcres d'Hillel et de Schammaï, et de vingt d'entre leurs disciples, de même que
+            ceux de R. Benjamin, fils de Japhet, et de R. Joda, fils de Betira. De là il y a six
+            parasanges à Alma, où il y a une cinquantaine de Juifs et un grand cimetière des
+            Israélites. A une demi-journée de là est Kadis ou Kades-Nephtali, sur le bord du
+            Jourdain[132] où sont les tombeaux de R. Éléazar, fils d'Arach, de R. Eléazar, fils
+            d'Azaria, aussi bien que ceux de Chouni-Hammaegal, de Raschbag, de R. José le Galiléen,
+            et de Darak, fils d'Abianoum. Il n'y a là, au reste, point de Juifs. De là il y a une
+            journée à Balinos (Belinas), autrefois Dan. C'est là qu'est la caverne d'où sort le
+            Jourdain,[133] qui, après un parcours de trois milles, se joint à l'Arnon,[134] lequel
+            descend des frontières de Moab. Au-devant de la caverne l'on connaît encore l'endroit où
+            était l'idole de Mica, qu'adoraient les Danites, et celui de l'autel de Jéroboam, fils
+            de Nébat, où était le veau d'or.[135] Ici finissent les limites de la terre d'Israël du
+            côté de la mer postérieure. De là il y a deux journées à Damas, grande ville où commence
+            le pays de Nouraldin,[136] roi des Togarmites ou Turcs. La ville est fort grande et fort
+            belle, ceinte de murailles ; le terroir abonde en jardins et en vergers, à quinze milles
+            à la ronde ; on ne voit point dans toute la terre de pays si fertile que celui-ci. La
+            ville est située au pied du mont Hermon, d'où sortent les deux rivières d'Amana et de
+            Pharphar, dont la première passe par le milieu de la ville, et dont les eaux sont
+            conduites par des aqueducs dans les maisons des grands, aussi bien que dans les places
+            et dans les marchés. Ce pays commerce avec tout le reste du monde. Le Pharphar arrose de
+            ses eaux les jardins et les vergers qui sont: hors de la ville.[137] Les ismaélites ont
+            à Damas une mosquée appelée Goman-Dammesec, c'est-à-dire synagogue de Damas.[138] Il n'y
+            a point de bâtiment semblable dans toute laterre. On dit que c'a été autrefois un palais
+            de Benhadad. On y voit une muraille de verre construite par art magique. Il y a dans
+            cette muraille autant de trous qu'il y a de jours dans l'année solaire; le soleil,
+            descendant par douze degrés, selon le nombre des heures du jour, entre chaque jour dans
+            l'un de ces trous, et, par là, chacun peut connaître à ces trous quelle heure il est. Au
+            dedans du palais il y a des maisons bâties d'or et d'argent, grandes comme une cuve, qui
+            peuvent contenir trois personnes si elles veulent s'y laver ou se baigner. Au milieu du
+            palais on voit suspendue la côte d'un Anakéen, c'est-à-dire d'un géant, longue de neuf
+            pans et large de deux, C'était un ancien roi de la race des Anakéens, nommé Abcamaz, car
+            c'est ainsi qu'on l'a trouvé écrit sur une pierre de son sépulcre, où il était aussi
+            écrit qu'il avait régné sur tout le monde. Il y a à Damas environ trois mille
+            Israélites,[139] entre lesquels il y a plusieurs disciples des sages et plusieurs
+            riches, c'est là que sont les chefs de l'Académie du pays d'Israël. Là est aussi R.
+            Esdras[140] et ses frères, le prince Schalom, père de la maison du jugement, R. Joseph,
+            le cinquième dans l'Académie, R. Matzltach, chef de l'ordre et prédicateur, R. Meir, la
+            gloire des sages, R. Joseph Aben-Phallat, le plus habile et le plus intelligent de
+            l’Académie, R. Heman, et R. Tzaddik le médecin. On compte encore à Damas environ deux
+            cents caraïtes et quatre cents Cuthéens. Ils cultivent la paix entre eux, mais ils ne
+            s'allient point par mariage. De Damas à Galaad il y a une journée ; on y compte environ
+            soixante Israélites, dont le chef est R. Tsadok. La ville est ample, et la terre abonde
+            en torrents, jardins et vergers. De là il y a une demi-journée à Salcaat, qui est la
+            ville de Salcat de l'Écriture.[141] A une demi-journée de Safcaat est Balbek, autrefois
+            Baalath, bâtie par Salomon en faveur de la fille de Pharaon, dans la vallée du
+            Liban.[142] Le palais est tout bâti de grandes pierres, chacune longue de vingt pans et
+            large de douze; il n'y a rien du tout entre les pierres, aussi dit-on qu'il ne peut
+            avoir été bâti que par les mains d'Asmodaï. A l'entrée de la ville il sort une grande
+            source qui l'arrose par le milieu, comme une grande rivière, autour de laquelle il y a
+            des moulins, des jardins et des vergers. Tadmor est aussi dans le désert.[143] Salomon
+            l'a pareillement bâtie toute de grandes pierres. Cette ville est ceinte d'une muraille.
+            Elle est dans un désert, éloignée de toute habitation, et à quatre journées de cette
+            Baalath dont nous venons de parler. Il y a à Tadmor environ deux mille Juifs vaillants à
+            la guerre. Ils sont en guerre avec les Iduméens et avec les Arabes sujets de Nouraldin,
+            et fournissant du secours à leurs voisins les Ismaélites.[144] Ces Juifs ont à leur tête
+            R. Isaac le Grec, R. Nathan, et R. Uyrel, d'heureuse mémoire. De là il y a une
+            demi-journée à Kiriathin (Cariatin) ou Kiriathaïm, où il n'y a qu'un seul Juif,
+            teinturier. De Kiriathin il y a une demi-journée à Hamaou Chamath, située sur la rivière
+            de Jabok (l'Oronte), sous le mont Liban. Il n'y a pas longtemps qu'un grand tremblement
+            de terre a fait périr dans cette ville quinze mille personnes en un seul jour; il n'en
+            est resté que soixante-dix, à la tête desquels sont R. Oulah le sacrificateur, le
+            Scheich ou vieillard Abualgala, et Muctar.[145] A une demi-journée de là est Scehia,
+            autrefois Hatzor.[146] De là à Lamdin,[147] il y a trois parasanges. A deux journées de
+            là est Halab, autrefois Aram-Tsoba, lieu de la résidence du roi Nouraldin, au milieu de
+            laquelle il y a un palais environné d'une haute muraille. Il n'y a ni puits ni rivière
+            dans cette ville ; les habitants n'y boivent que de l'eau de pluie, que chacun a soin de
+            ramasser chez soi, dans une citerne, qu'on appelle algob. On compte à Halab quinze cents
+            Israélites, à la tête desquels sont R. Moïse, Al-Constantini, R. Israël et R. Seth. De
+            Halab il y a deux journées à Balitz[148] ou Pethora, sur l'Euphrate, où l'on voit encore
+            aujourd'hui la tour de Balaam, fils de Beor,[149] dont le nom soit en exécration ; il
+            l'a bâtie de telle sorte qu'elle répond aux heures du jour. Il y a là quelques
+            Juifs.[150] A une demi-journée de là est Kalahgaber ou Selah-Midbara,[151] qui est
+            restée aux Arabes lorsque les Turcs s'emparèrent de leur pays et les chassèrent dans le
+            désert. Il y a là environ deux milles Juifs, à la tête desquels sont R. Sedekias, R.
+            Chija et R. Salomon. De là il y a une journée à Rakia,[152] autrefois Calné, à l'entrée
+            de la terre de Sinhar (Mésopotamie). On y compte environ sept cents Juifs, qui ont à
+            leur tête R. Zachée, R. Nadid le Clairvoyant, et R. Joseph. Il y a là une synagogue
+            bâtie par Esdras, lorsqu'il alla de Babel à Jérusalem. Rakia, au reste, sépare le pays
+            de Sinhar d'avec le royaume des Turcs. A deux journées de là est Charran
+            l'ancienne,[153] où il y a environ vingt Juifs, et pareillement une synagogue bâtie par
+            Esdras. A l'endroit où a été autrefois la maison d'Abraham, notre père, il n'y a point
+            d'autre maison bâtie. Les Ismaélites honorent cet endroit et y viennent faire leurs
+            prières. De Charran il y a deux journées à l'endroit où est la source d'Al-Chabor ou
+            Chabor, qui, après avoir traversé le pays des Mèdes, tombe dans la montagne de
+            Gazan.[154] Il y a là environ deux cents Juifs. De là il y a deux journées à Nisibe, qui
+            est une grande ville, où il y a des rivières ou sources d'eau, et environ mille
+            Juifs.[155] De Nisibe il y a deux journées à Guezir-ben-Omar (Zabdicena).[156] Cette
+            ville est dans une île au milieu du Tigre, au pied des montagnes d'Ararat,[157] à quatre
+            milles au lieu où est l'arche de Noé. Mais Omar, fils d'Alchittab, a pris l'arche qui
+            est sur le sommet de ces deux montagnes, et en a bâti une mosquée. Près de l'arche, il y
+            a une synagogue d'Esdras le scribe qui subsiste jusqu'à ce jour, les Juifs de la ville y
+            viennent faire leurs prières les jours de fête.[158] Dans la ville de Guezir d'Omar,
+            fils d'Al-chittah, on compte environ quatre mille Juifs, à la tête desquels sont R.
+            Macbar, R. Joseph, R. Chaüm. De là il y a deux journées à Al-Motzal,[159] qui est Assur
+            la grande,[160] où il y a environ sept mille Juifs, à la tête desquels sont R. Zaccaï ou
+            Zachée, le prince de la postérité de David, et R. Joseph, surnommé Brahon-Alphelec,
+            astronome du roi Zinaldin, frère de Nouraldin, roi de Damas.[161] suite </ab>
+      </body>
+      <back>
+         <ab> [1] Le texte numérisé ci-dessous provient en grande partie de l’ouvrage d’Ed. Charton,
+            Voyageurs anciens et modernes, t. II, 1854. Cet auteur indique qu’il s’appuie
+            essentiellement sur la traduction faite par Baratier au XVIIIe siècle à laquelle il a
+            fait quelques amendements. Le début de cette Relation provient de la Revue Orientale,
+            1841, trad. d’Eliakim Carmoly, rabbin et érudit juif alsacien du XIXe s (voir sa
+            biographie sur Wikipédia). Carmoly était vraisemblablement meilleur connaisseur de
+            l’hébreu qu’Ed. Charton, journaliste et homme politique, ce jugement arbitraire est
+            soutenu par E. Charton lui-même à la fin de cette Relation, où il déclare : « il est
+            très regrettable que l’auteur Carmoly n’ait encore publié que ce premier chapitre ; les
+            notes sont intéressantes et instructives. » La traduction anglaise de 1907, disponible
+            sur Internet, quel que soit le texte français retenu, offre des disparités sur les noms
+            de lieux et de personnes, mais aussi sur la forme littéraire du texte, les notes, etc.
+            Aussi peut-on espérer un jour une traduction réellement meilleure et des notes
+            modernisées. Une telle traduction n’existe pas en février 2010. [2] La préface provient
+            du texte d’Ed. Charton. Cette préface se trouvait en tête des deux manuscrits d'après
+            lesquels furent faites les premières éditions en hébreu (1543 et 1556). Il est évident
+            que ce n'est point Benjamin qui en est l'auteur. On suppose qu'elle fut ajoutée au récit
+            vers la fin du douzième siècle. [3] 933 est écrit pour 4933. Les Juifs font commencer
+            l'ère vulgaire trois mille sept cent soixante ans après la création. [4] Ici commence la
+            traduction d’Eliakim Carmoly. [5] Ce chapitre II n’a jamais été écrit par Carmoly. [6]
+            Voici ses propres paroles (Les Origines de la langue française, art. Vauvert): On a
+            aussi appelé Vauvert, de la verdeur des vallées, un bourg du bas Languedoc, à deux
+            lieues de Lunel. Il n'y a pas plus de cent ans qu'on l'appelait Pasquiers et
+            Pousquiers:: et il est ainsi appelé dans tous les anciens titres. Benjamin dans son
+            Itinéraire, fait mention de ce Pousquiers. Le traducteur s'est trompé, en rendant
+            Pousquiers par Beaucaire : le chemin de Lunel à Saint-Gilles n'étant pas de passer à
+            Beaucaire, mais à Vert. [7] Ici commence le texte d’E. Charton, Voyageurs anciens et
+            modernes, t. II. [8] Le voyageur semble faire ici un détour inusité ; Lucques est plus
+            près de Gènes que ne l'est Pise. [9] R. Jacob B. Jeduha, qui fit un voyage en Provence
+            cent quarante ans après Benjamin de Tudèle, rapporte que, de son temps, on ne
+            rencontrait aucun Juif depuis la Provence jusqu'à Rome, et que le petit nombre de ceux
+            qui, au siècle précédent, habitaient Gênes, Pise et Lucques, avaient disparu. Zunz fait
+            remarquer qu'il y avait toutefois des congrégations juives dans le centre et l'est de
+            l'Italie septentrionale. En 1460, le rabbin Moshe-Minz parle de l'enseignement juif à
+            Lucques. [10] « De toute la chrétienté. » (Asher.) [11] Alexandre III, natif de Sienne,
+            qui avait succédé en 1159 à Adrien IV (Nicolas Breakspare), né en Angleterre. Du
+            rapprochement des dates historiques, on conclut que Benjamin de Tudèle dut
+            nécessairement visiter Rome entre 1159 et 1167. [12] Tarquin l'Ancien. Rappelons ici, à
+            propos de ces quatre-vingts rois, que Benjamin de Tudèle n'avait pas grande science,
+            surtout en histoire. Il est vrai que la plupart de ses contemporains, même à Rome,
+            n'étaient ni moins ignorants, ni moins crédules. Gibbon cite des traits curieux de
+            l'oubli complet où était tombée l'histoire de l'ancienne Rome. [13] Asher traduit
+            fenêtres au lieu de tours. [14] La circonférence du palais. [15] A la porte Latine. [16]
+            L'église de Saint-Jean de Latran. [17] Jour de deuil pour les Juifs. C'est
+            l'anniversaire de la destruction des deux temples de Jérusalem. Il est l'occasion de
+            cérémonies solennelles dans toutes te synagogues. [18] Dix Juifs qui enseignèrent leur
+            foi et furent immolés dans l'intervalle des règnes de Vespasien et d'Hadrien. Ils ne
+            furent pas tous ensevelis à Rome. Les tombeaux d'Akiba, d'Ishma'el et de Jehuda B. Thema
+            étaient révérés en Palestine entre les treizième et seizième siècles ; peut-être aussi
+            ceux de Jehuda B. Baba et de Simon B. Gamaliel. [19] Statue de Marc Aurèle. [20] Il y a
+            ici confusion entre deux villes fort éloignées l'une de l'autre. Il s'agit probablement
+            de Pouzzoles et des ruines romaines que rouvraient en partie les eaux. Plus loin, il est
+            fait allusion à la grotte de Pausilippe. [21] Cette bizarre tradition et la plupart de
+            celles du mime genre que l'on trouve dans la relation paraissent avoir été empruntées à
+            Josephus Gorionides. [22] La disposition des lieux a changé depuis et ces derniers sont
+            bien au-dessus du niveau de la mer. [23] Non pas sacrificateur, mais cohen, suivant
+            Asher. Nous sommes obligé de passer sous silence la plupart de ces différences
+            d'importance secondaire entre les deux traducteurs. [24] Soumise et en partie ruinée par
+            l’empereur et les Pisans, en 1135, Amalfi existait cependant encore comme république en
+            1310. (Ersch und Gruber Encyclopedia, art. Amalfi.) [25] Le bienveillant ou noble.
+            (Asher.) [26] Voy. Isaïe, LXVI, 19. Erreur commise également par des auteurs moins
+            anciens. [27] Le lecteur ou interprète de la sainte Écriture. [28] Saint-Nicolas de
+            Bari. L'église et le prieuré de ce nom échappèrent à la destruction de la ville en 1156.
+            C'était Roger, duc d'Apulie, qui les avait fait construire. Guillaume le Bon ordonna sa
+            reconstruction en 1169 ; Benjamin visita donc Bari avant cette date. [29] Manuel,
+            empereur de Grèce, avait repris Corfou au roi de Sicile en 1149. [30] Au golfe d'Arta.
+            (Voy. Pouqueville, t. II, p. 91.) [31] Achéloüs, ancienne ville d'Étolie, sur la rivière
+            Achéloüs qui va dans la mer Ionienne à l’opposé d’Ithaque. [32] Anatolica, sur le golfe,
+            au nord-ouest, près de Missolonghi. [33] Patras, l’ancienne Patrae, fondée bien avant
+            l’époque d’Antipater. [34] Crissa, à la base méridionale du Parnasse. [35] Nègrepont,
+            nom dérivé d'Euripus, Euripo, Negripo, Négripont. (Gibbon, ch. 60.) [36] Jabustériza,
+            ville inconnue aujourd'hui, et qui fut sans doute détruite au moyen âge. (Asher.) —
+            Jaboustérisa, dit Lelewel, répond à Proschina (sur d'autres cartes Proscina, Frescina).
+            Ce nom est tout à fait slave, désignant, sans changer de prononciation, « poudre, une
+            toute petite parcelle de poudre; » et on appelle une toute petite chose, un tout petit
+            objet, protchina, pronschina, proszina. [37] Robenica. Il est question de cette ville
+            dans la Chronique de Henri de Valenciennes : « Ensi comme jou devant vous dys, fut li
+            parlemens ou val de Ravenique. » [38] Sinon-Potamo ou Zeitun. Asher suppose qu'il faut
+            lire « Zeitun sur la rivière. » Cette ville a encore quelque importance. (Voy.
+            Pouqueville, III, 255, 258.) [39] « Ici commence la Balakhia, Valakhia, dit Benjamin, et
+            cela révolterait toutes les conceptions étroites qui se borneraient à la Valakhie
+            d'aujourd'hui. Mais si l'on interroge l'histoire, on apprendra qu'il y avait une
+            Valakhie sur le Niestr, une Valakhie dans l'intérieur de la Hongrie, une Valakhie en
+            Macédoine, en Romanie, en Thessalie, et c'est la Grande-Valakhie. Fouillez les écrivains
+            byzantins, et vous y trouverez que les Valaches, en descendant de Zigora (nom slave des
+            montagnes, d'au delà des montagnes), se répandirent aussi bien dans l'intérieur de la
+            Grèce, comme vers le Danube, que leurs bandes vagabondes, leurs hordes errantes étaient
+            connues en Macédoine, en Thessalie, avant qu'elles ne le fussent au nord de Hémus, Gora,
+            Zagora; que, par conséquent, on appelait le pays aux environs de Zeitoun
+            Grande-Valakhie. Or, en partant de Boudounitsa, on entrait, du temps de Benjamin, dans
+            la Grande-Valakhie. » (Lelewel.) [40] Voyez un passage à l'appui de cette assertion dans
+            l’Allgemeine Zeilung, 16 juillet 1839, p. 1531. « A cette époque, dit aussi Pouqueville,
+            parlant de ces Valaques, on les voit aux prises avec les empereurs grecs, incendiant et
+            désolant les plus belles contrées de la Thrace et de la Macédoine. Parfois vaincus, et
+            plus souvent vainqueurs, ils brillent par des traits de courage et de férocité. Unis aux
+            Romains et aux Scythes, ils descendent comme des torrents dévastateurs des sommets du
+            mont Hémus et du Rhodope. Sersès, Philippolis, Ternobe, Rodosto, éprouvent leurs
+            fureurs, et l'Orient épouvanté tremble au seul bruit de leur nom. Ils fomentent toutes
+            les révolutions pour y prendre part, et ils se mêlent aux convulsions sanglantes de
+            l'État, afin de le démembrer et de s'en partager les lambeaux. Enfin, au mois de mars
+            1205, ils portent un coup fatal à ce fantôme d'empire que les Latins voulaient soutenir.
+            » [41] Gardicki ou Cardicki, sur le bord du golfe Volo ; petite bourgade. « Sur la route
+            d'Amyros à Zeitun, dit Pouqueville, à la distance de sept heures, sont situés Vrignia,
+            Cardicki, Garrani et Kouphous [42] Armyros, de même sur la côte du port Volo. [43] Les
+            auteurs du moyen âge appellent cette ville Vissena, Vessena et Bezena. Elle n'existe
+            plus. [44] Salonicki, l'ancienne Thessalonique. [45] Le roi Jean avait conféré à un
+            Juif, nommé James, le titre de presbyter (ancien) de tous les Juifs d'Angleterre. [46]
+            Mitrizzi, ou plutôt Dimitritzi, qui était située près d'Amphipoles. « De Salouski,
+            Benjamin compte à Metressi deux journées, de là à Darma deux journées. A une telle
+            distance de Saloniki, sur la plaine de l'antienne Philippi, vous avez aujourd'hui Drama.
+            Or Metressi, étant à moitié chemin, est situé au nord ou au midi du lac Takinos. Je
+            pense donc que c'est Seres. C'est une jolie ville, dit Edrisi, bâtie sur une colline
+            dont les environs sont très agréables, les habitations nombreuses et les ressources
+            abondantes. » (Lelewel.) [47] Drama, suivant Nicéphore Grégoras, Dramine et Draimes,
+            suivant Villehardouin, était située dans une vallée, près de l'ancienne cité de
+            Philippi. [48] Christopoli (ville du Christ), ville qui était située sur les frontières
+            de la Macédoine et de la Thrace, sur la côte européenne de la Propontide. On s'y
+            embarquait ordinairement pour se rendre de Macédoine à Constantinople. On naviguait le
+            long de la côte, on doublait la péninsule de Gallipoli, et l'un se dirigeait vers le
+            port d'Abydos, sur l'Hellespont. [49] Emmanuel Comnène, dont le règne commença en 1143,
+            et qui mourut en 1180. On trouve dans le quarante-huitième chapitre de Gibbon (Décadence
+            et chute de l'empire romain) de belles pages sur cet empereur et sur son avènement au
+            trône. [50] Douze ministres d'État. (Gibbon, chap. LIII.) [51] Asher traduit : « Le
+            premier de ces dignitaires porte le titre de prœpositus magnus. » C'était le gouverneur
+            de la ville et le commandant des forces militaires qui la gardaient. (Voy. le Glossaire
+            de Ducange.) [52] Domesticus, le général en chef des années. [53] Dominus, le grand
+            chambellan. [54] Megas ducas, le grand amiral. [55] Oeconomos magnus. [56] Les détails
+            dans lesquels Benjamin de Tudèle entre sur cette ville sont au nombre de ceux qui
+            donnent le plus de prix à sa relation. Ils s'accordent avec les faits recueillis par
+            Gibbon, Hammer et les principaux historiens de Constantinople et du Bas-Empire. [57] «
+            Pa'tzinakia, peuple Scythe ou slave qui habile une partie de h Hongrie. » (Asher.). «
+            Les Palzinakh, Partzinakh, appelés par les Polonais Pietchingin, sont, dit Lelewel, les
+            Badjnaks d'Edrisi et Phasianke de Benjamin; la Bourie serait la Boulgarie, Boulgria,
+            Bougria, Boura, établies toutes deux sur le Danube. » Ils sont appelés aujourd’hui
+            Petchénègues. [58] « Budia, probablement le pays des Bulgares. » (Asher.) [59]
+            Mahométans. [60] Voy. la belle description et l'histoire de ce temple dans l’ouvrage de
+            Hammer : Constantinople et le Bosphore, et celle de Procope. [61] Aujourd'hui appelé
+            At-Meidan, ou marché des chevaux. [62] Il est possible que Benjamin ait été le témoin
+            des fêtes célébrées à Constantinople à l'occasion du mariage de l'empereur Manuel avec
+            Marie, fille du prince d'Antioche, le jour de Noël de 1161. [63] On suppose ici quelque
+            souvenir confus de la colonne d’Arcadius. [64] Sur ce trône, voy. Cinnamus, t. II, et
+            Gibbon, ch. LIII. « Sur une haute estrade couverte de tapis précieux, s'élevait un trône
+            d'or enrichi de pierreries et couronné d'un dais où brillaient les plus belles perles de
+            l’Orient. Le prince, assis sur le trône, était vêtu d'une pourpre éclatante, semée de
+            haut en bas de perles et de pierreries de diverses couleurs, plus artistement arrangées
+            que les fleurs dans le plus beau parterre ; sur sa poitrine pendait, à des chaînes d'or,
+            un rubis étincelant, d'une grosseur extraordinaire, et la Splendeur de cette rayonnante
+            parure était encore surpassée par l'éclat du diadème... Cette salle semblait être le
+            palais du Soleil. » (Le Beau, 88, 38, d'après Cinnamus et Nicétas.) [65] « Le sultan de
+            Thogarmini. » (Asher.) [66] Au delà de la tour de Galata, et près de l'entrée du port. «
+            La Juevie, que l'on appelle le Stanor (Stenum), dit Villehardouin, où il avoit mult bone
+            ville et mult riche. » [67] Les caraïtes, moins nombreux que les Juifs de l'autre secte,
+            rejetaient les explications religieuses des rabbins. Cette secte existe encore. Le
+            docteur Delitzsch a fait connaître ses doctrines ; voy. Aron Ben Elia's Ez Chajim ;
+            Leipsick, 1840. [68] Rodosto, l'ancienne Bisanthe, appelée Radesta par Ptolémée, et
+            Rodostoch par Villehardouin. [69] Coela de Ptolémée, Celus de Pline et de Pomponius
+            Mela. Kilia est un port sur la côte orientale de la péninsule de Gallipoli. [70] « L'une
+            des îles de la mer. » (Asher.) [71] Ce suc, qui découle du pistachier (Pistacia
+            Lentiscus), est encore un des principaux objets du commerce de Chio. [72] Sur les
+            anciennes sectes juives, consultez l'ouvrage de Zunz : Gottedienstliche Vortrage, p.
+            395, 396. [73] D’Aram. [74] Toros ou Thoros. Ce prince avait été le favori de l'empereur
+            Jean Porphyrogénète. A l'avènement de Manuel Comnène, il prit la fuite, déguisé en
+            marchand, guerroya longtemps, et finit par se réconcilier avec Manuel, qui lui donna le
+            litre de pansebastos. Il mourut en 1167. [75] L'ancienne Mopsubestia, sur le Pyranius,
+            aujourd'hui Messis, sur le Jeihan. [76] Erreur. Malmistras était à environ quinze lieues
+            de Tersous, ou Tarse. [77] « Sous la domination du prince Boémond Poitevin, surnommé le
+            Baube. Elle contient environ dix Juifs qui fabriquent le verre : les principaux d'entre
+            eux sont R. Mordekhai, R. Maüm et R. Jishma'el.» (Asher.) — « On donne, dit Thomas de la
+            Thaumassière, le nom de Poitiers à Poitevin, comte de Valentinois, descendant de
+            Guillaume de Poitiers. » — On lit dans l'Art de vérifier les dates : « Boémond III,
+            prince d'Antioche, surnommé le Bambe ou l'Enfant par les uns, le Baube ou le Bègue par
+            les autres, succéda, l'an 1163, à sa mère dans la principauté d'Antioche. L'an 1201 fut
+            le terme de ses jours. » [78] Lega ou Latachia. [79] On sait que sous ce nom
+            d’Assassins, ou plus correctement Hashishin, il faut entendre les partisans d'une secte
+            mahométane qui apparut en Perse, au onzième siècle, et se rendit fameuse par son ardeur
+            guerrière, sa discipline et son fanatisme. Hassain ou Hassan-Ben-Sabah, leur chef, avait
+            composé un catéchisme à leur usage. Le nom d’Assassins est dérivé, soit de la plante
+            hashish, qui sert à composer une liqueur enivrante dont les sectaires faisaient usage,
+            soit plus probablement du nom même du fondateur de la secte, Hasain. (Voy. sur ce sujet
+            les notes de docteur Gesenius, dans sa traduction des Voyages en Syrie de Burckhardt,
+            et, plus loin, un paragraphe spécial de la bibliographie qui termine cette relation.)
+            [80] Fondateur de la secte des Carmathiens, que notre voyageur confond avec celle des
+            Assassins. [81] « Dans la cité de Kadmus, le Kedemoth de l'Écriture, sur la terre de
+            Sichon. » (Asher.) [82] Avec une espèce de scie ne se trouve point dans la traduction
+            d'Asher; il y a seulement dans le texte qu'ils tuent même les rois si leur chef
+            (Chamath) l'ordonne. [83] Tarablous-el-Sham. [84] Djebaïl, Byblos des Grecs. [85]
+            Guillaume Embriaco prit Byblos en 1100, et en devint le suzerain, soumis comme
+            tributaire à Gènes, sa patrie. [86] Voy. sur l'état de cette ville dans le commencement
+            du quinzième siècle, le vol. XXI de l’Archeologia, p. 342. [87] M. Asher traduit par le
+            mot Druses. M. Rapaport lit : Nosariens ou Nosairi (sectaires chiites) qui, selon le
+            docteur Gesenius, sont cités plusieurs fois comme apostats dans le catéchisme des
+            Druses. Ils auraient été appelés originairement Karmats ou Carmats, et leur fondateur,
+            qui leur aurait donné le nom de sa patrie, serait né à Nasrana on Nasraya, près de Kufa.
+            [88] La pêche du murex, coquillage qui donne la pourpre, se fait près de Tyr, surtout
+            dans le mois d'avril et de mai. [89] Acre. On peut lire dans Rosenmüller et dans Clarke
+            une histoire détaillée de cette ville. [90] Ou le Nahr-el-Mukattua, qui coule à l'est de
+            la baie d'Acre, ou le Naaman (Belus), dont les sables ont longtemps servi à la
+            fabrication du verre. [91] Khaifa, petit village, ou l'ancienne Ephah. [92] Voy. la
+            relation d'Irby et Mangles, qui visitèrent l'autel et l'église gothique construite
+            auprès. [93] La rivière Mukattua, qui traverse la plaine d'Esdralon, et se jette dans la
+            mer près de Khaifa. [94] Erreur manifeste du voyageur ou des copistes. [95] Non par
+            Auguste, mais par Hérode, en l'honneur d'Auguste. [96] Aujourd'hui Kakon. (Voy. la place
+            de cette ville sur l'excellente carte de la Palestine par Ritter.) [97] « De ce point
+            (Kakon), dit Lelewel, il n'y a qu'une autre demi-journée à Samaria. Cependant le texte
+            nomme à une demi-journée Sargorg-Louz, éloigné d'une journée entière de Samaria (VIII,
+            p. 76, 77). Je présume que sur ce point le texte est corrompu. Une journée, Sargorg-Louz
+            et deux teinturiers ne sont pas à leur place. Cette présomption grandit et se confirme
+            lorsqu'on confronte ce passage avec la corruption de l'autre, où Segores-Loud avec une
+            journée et demie et d'autres circonstances aggravantes (X, p. 155) reparaissent bien
+            misérablement. » — Asher traduit « Saint-Georges. » [98] Cette tradition s'est conservée
+            jusqu'à nos jours. [99] M. Rapaport fait observer que ces remarques sur la vicieuse
+            prononciation des Samaritains sont confirmées par les voyageurs et les critiques
+            modernes. Ou les trouve aussi textuellement dans un extrait de Makrizi publié par
+            Sylvestre de Sacy (Chrestomathie arabe). [100] « A quatre parasanges de Sichem il se
+            trouve au monte Gilboe. Benjamin se conforme trop souvent à une étrange version de la
+            Bible pour qu'il soit nécessaire de remarquer qu'il ne s'agit pas ici de la montagne
+            véritable de Gilboa (éloignée de huit parasanges de Sichem), mais de quelques hauteurs
+            arides du mont Efraïm, au delà de Libna, qualifiée quelquefois de Gibba. » (Lelewel.) Il
+            se pourrait toutefois qu'il y eut plutôt erreur dans la mesure itinéraire. Sur la
+            montagne de Gilboe était le tombeau de Goliath. Il avait l'apparence des monuments
+            druidiques que l'on appelle galgals; c'était un amas de pierres. « On ne saurait trouver
+            à vingt milles à la ronde, dit le compagnon de saint Antonin, une seule pierre
+            transportable, car il est d'usage que quiconque passe par cet endroit doit porter avec
+            lui trois pierres et tes jeter sur ce tombeau ; et ainsi avons-nous fait nous-mêmes. »
+            De même, en Grèce, les passants jetaient des pierres sur les galgals consacrés à
+            Mercure. Darius avait fait élever un amas de pierres sur les bords de l’Artisque.
+            (Hérod., liv. IV, ch. 92.) On prétendait qu'il ne pleuvait jamais sur le mont Gilboe,
+            mais cette assertion a été démentie. « Il n'est pas vrai, dit le dominicain Brocard,
+            qu'il ne tombe ni rosée ni pluie sur la montagne de Gilboe (où David prononça
+            l'imprécation après la mort de Jonathas), car j'y étais le jour de la Saint-Merlin, l'an
+            du Seigneur 1383, quand il y tomba une telle pluie que je fus mouillé jusqu'à la chair.
+            » [101] Gran-David, suivant Asher, qui émet l'hypothèse qu'au temps de Benjamin cette
+            ville pouvait être connue sous le nom de Gib-Daoud. [102] Petachia, qui visita Jérusalem
+            vers 1175, ne trouva qu'un seul Juif dans cette ville. [103] C'est ainsi que
+            Jésus-Christ est appelé dans le Talmud. [104] Voy., sur les portes de Jérusalem, la
+            relation d'Arculfe par Adamnan sur ce même site. [105] Templo Domino. [106] Fils
+            d'Al-Khotaab. [107] Voy. la relation d'Arculfe par Adamnan sur ce même site. [108] Voy.
+            la relation d'Arculfe par Adamnan sur ce même site. [109] Un de ceux que l'on appelait
+            les pleureurs de Jérusalem. [110] Makhphéla. [111] Beith-Jaberim ou Beith-Jibrin est la
+            Bethogabris des écrivains grecs et romains. D'après Edward Robinson, ce serait la
+            célèbre Éleutropolis, que mentionnent souvent Eusèbe et saint Jérôme. [112] Toron de los
+            Caballeros, un des forts construits pendant que les chrétiens occupèrent la Palestine.
+            [113] Il y a en effet, à peu de distance de Jérusalem, à deux heures au sud-est de Gib,
+            sur une éminence, une mosquée appelée Nebi-Semwill qui est supposée contenir le sépulcre
+            de Samuel ; c'est une ancienne église chrétienne. Edw. Robinson pense que ce doit être
+            l'emplacement de l'ancienne Mizpeh. Benjamin de Tudèle ne pouvait pas avoir visité tous
+            ces lieux dans l’ordre où il les cite. Ce n'est évidemment pas un itinéraire qu'il a
+            voulu tracer. [114] Asher traduit Pesipua. Ce nom ne paraît avoir aucun rapport avec le
+            mont Moriah, qui du reste est lui-même fort étranger à Gébéa-Shaoul ou Giba-Benjamin,
+            situé à trente stades de Jérusalem. [115] Edw. Robinson a vu, en effet, ces deux
+            collines de forme conique entre Jeba et Mukhmâs. [116] Deux milles, d'après Asher. [117]
+            Ibelin, Jabneh. Une ville et une forteresse situées près de cette ville appartinrent,
+            pendant l'occupation chrétienne, à Balian, frère du comte Guillaume de Chartres, et à
+            ses descendants. [118] Avant le dernier siège de Jérusalem, les Juifs membres du
+            sanhédrin, ou cour judiciaire suprême, s'étaient retirés à Jabneth et y siégèrent
+            longtemps sous la direction des plus célèbres interprètes du Talmud. [119] Erreur. La
+            tribu d’Éphraïm était au nord de la Palestine. [120] L’Azotos des Grecs ou l’Azotus des
+            Romains. C'est aujourd'hui un petit village dont les misérables huttes sont mêlées à des
+            ruines. Palmis était sans doute un nom adopté par les Européens. [121] Büsching fait
+            mention de ce puits. [122] « En rétrogradant, » dit Asher. [123] Guillaume de Tyr donne
+            à cette fontaine le nom de Tubania. E. Robinson croit que c'est l'ancienne fontaine de
+            Jesréel; on l'appelle aujourd'hui Jalud. [124] Sufurieh, jadis ville principale de
+            Galilée, et l'un des cinq sanhédrins de Judée. [125] Rabbi Juda, surnommé le Saint,
+            docteur de l'Académie de Tibériade, qui composa, dans le premier quart du troisième
+            siècle, le Mischna (Répétition ou Seconde loi), recueil des codes partiels et des lois
+            traditionnelles des écoles pharisiennes. Ce code est divisé en six parties appelées
+            sedarim (ordres). Les notes et les discussions dont il fut ensuite l'objet forment un
+            nouveau recueil que l'on appela Guemara (Complément : Le Mischna et le Guemara réunis
+            forment le Talmud (Doctrine). Rappelons qu'il y a deux Talmud : celui des écoles de
+            Palestine, appelé le Talmud de Jérusalem, que l’on croit avoir été achevé dans la
+            deuxième moitié du quatrième siècle; l'autre, appelé le Talmud de Babylone, rédigé au
+            cinquième siècle par Asché, docteur de l'Académie de Sora, et par son disciple Rabina,
+            et terminé l'an 500 par Rabbi José. [126] Petachia décrit ces tombeaux. [127] « Tabarié
+            est belle, et construite sur une colline qui s'étend, en longueur plus qu'en largeur,
+            sur un espace d'environ deux milles; au pied de cette colline, du côté de l'ouest, est
+            un lac d'eau douce. La longueur de ce lac est de douze milles, et sa largeur d'une égale
+            étendue… On y voit des bains d'eaux thermales; ces eaux sont chaudes en toutes saisons,
+            sans qu'il soit nécessaire du feu pour les échauffer. » (Jaubert, traduction d'Edrisi.)
+            [128] Erreur. Timnatha était située dans la Judée, fort loin de Tibérias. [129]
+            Peut-être faut-il lire Simon au lieu de Samuel. [130] Aujourd'hui Gish. [131] Meirûn
+            (voy. la carte de Berghaus) est encore, de nos jours, un lieu de pèlerinage pour les
+            Juifs ; ils y viennent prier sur des tombeaux. [132] Erreur. [133] La caverne de Panéas.
+            [134] Un des petits affluents du Jourdain, mais inconnu sous ce nom. [135] Il s'agit,
+            comme nous l'avons indiqué précédemment, d'inscriptions grecques et romaines. [136] Nour
+            eddin. [137] Edrisi dit de Damas : « La situation en est admirable, le climat sain et
+            tempéré, le sol fécond, les eaux abondantes, les productions variées, les richesses
+            immenses, les troupes nombreuses, les édifices superbes. » [138] Asher traduit : « une
+            Mosquée mahométane, appelée la synagogue de Damas. » [139] Au temps de Petachia, il y
+            avait dix mille Juifs à Damas. [140] « Président de l'université de Palestine » (Asher.)
+            — Au temps de Benjamin, les présidents de l'enseignement et de la justice étaient nommés
+            à Bagdad par le prince de la captivité. [141] Salkah est située dans le voisinage de
+            Boszra, à plus de deux journées de Damas. [142] Balbek, l’Héliopolis des Grecs et des
+            Romains. Edrisi compte dix jours de distance entre Damas et les ruines de Balbek. [143]
+            Il n'y a pas si loin de Thadmor à Palmyre qu'on pourrait le croire à première vue. C'est
+            affaire de prononciation. Les Arabes appelaient Thadmira la ville espagnole Palma. «
+            Parmi les villes que Salomon fit bâtir ou fortifier pour protéger le pays contre une
+            invasion, nous trouvons la célèbre ville de Tadmar (Palmyre), dont les fortifications
+            pouvaient servir de boulevard contre les ennemis venant de l'Euphrate et contre les
+            hordes arabes. » (Munk, Palestine, p. 294.) [144] De Guignes confirme ce que dit
+            Benjamin au sujet des guerres que, de son temps, se livraient les chrétiens et les
+            Arabes: « Les Francs, dit-il, avaient profité des circonstances que toute la contrée
+            était dégarnie de troupes pour faire ne expédition dans ses environs... Quelque temps
+            après ils vinrent dans la vallée de Bacar, proche Damas. C'est dans ces contrées que
+            l’on trouve tme ville célèbre par ses monuments et par ses superbes édifices. On croit
+            qu'elle est la même que l'ancienne Palmyre. Les habitants des environs furent faits
+            prisonniers, leurs biens pillés et leur territoire ravagé… Telles furent les suites des
+            divisions qui régnaient parmi les musulmans. » [145] Ce tremblement de terre eut lieu en
+            l'année 1157, et ruina, en même temps que Hamab, un grand nombre de villes de Syrie :
+            Antioche, Émesse, Apamie, Laodicée, etc. [146] « Reiha, qui est Chatsor. » (Asher.) —.
+            On donne encore aujourd'hui ce nom à une montagne sur la route de Damas à Alep. [147]
+            Lieu inconnu. — « Lamdin, d'où l'on va en deux jours à Aky, l'Ararm-Tsoba de l'Écriture.
+            » (Asher.) [148] Belès, d'après Irby et Mangles, et d'après Buckingham. « Cette ville,
+            dit Ibn-Haukal, est située au bord de l'Euphrate, sur les confins du désert. » —
+            Conquise par les croisés sous Tancrède, en 1111, elle fut reprise par les Turcs sous
+            Zenghi. [149] « Bifani-ben-Be'or. » (Asher.) [150] « Dix Juifs. » (Asher.) [151] Voy.
+            sur cette place, de Guignes, Hist. des Huns, t. III, p. 110. Voici ce qu'en dit
+            Aboulféda : « Kalatdjabar s'appelait anciennement Daousariah, de Daouser, employé de
+            Noman-ben-Montjari, roi de Gira, qui le fit construire quand il administrait les
+            frontières de la Syrie. Ensuite il s'empara du fort Saboheddin-Djabar le Kaschirien et
+            le posséda jusqu'à sa vieillesse, qui le priva de la lumière. Depuis ce temps, le fort
+            changea de nom. Les deux fils dudit Djabar, dont le brigandage causait des inquiétudes,
+            furent dépossédés par Seljdouk Melik-Schah (vers 1060). Enfin ce fort abandonné tomba en
+            mines. Il est dans le Djezira (Diar-Bekr), sur les rives septentrionales de l'Euphrate,
+            sur un rocher inaccessible, entre Balès et Rakka. » [152] Racca, ville très commerçante
+            au temps d'Edrisi. (Voy. de Guignes, Hist. des Huns, t. III.) [153] « Harran est la
+            ville principale des Sabéens ; ils y possèdent une colline sur laquelle est un oratoire
+            qu'ils vénèrent beaucoup, et dont ils attribuent la fondation à Abraham, sur qui soit
+            salut ! » (Edrisi.) « Harran, dit Niebuhr, est actuellement un petit endroit à deux
+            journées au sud sud-est d'Orfa, que les Juifs vont encore fréquemment visiter; c'était,
+            selon toute apparence, la ville qu'Abraham quitta pour aller au pays de Chanaan. » [154]
+            Peut-être Ras-el-Aïn, ville considérable où, suivant Edrisi, l'on voyait près de trois
+            cents sources environnées de grillage et formant la source du Khabour. « Je ne saurais
+            dire d'où Benjamin a pu tirer l'assertion bizarre que Khabor, après avoir traversé le
+            pays des Mèdes, tombe dans la montagne de Gozan. Certainement elle n'est pas le produit
+            de ses propres explorations, mais plutôt d’une érudition mal conçue et maladroitement
+            appliquée. La montagne Gozan est un produit biblique ; du temps de David, on disait que
+            Khabor était un fleuve du pays de Gozan ; Madaï vient d'un autre point de l'érudition,
+            où, au nombre des terres de l'exil, Habor, Gozan et Madaï se trouvent dans les mêmes
+            versets. » (Lelewel.) [155] Au temps de Niebuhr, Nisibe n'était déjà plus qu'une
+            bourgade. En 1812, on n'y voyait plus que des ruines. (Voy. Buckingham, Mésopotamie, t.
+            I, p. 431, 440.) [156] Djeziret ou Zabdicena était une ville commerçante servant
+            d'entrepôt, entre Mossoul et l'Arménie. Aujourd'hui son nom turc est Kora, ce qui veut
+            dire noir, parce que ses maisons sont construites en basalte. [157] Erreur manifeste;
+            mais la tradition relative à l'arche de Noé était, en effet, très populaire au temps de
+            Benjamin. « Joudi est une montagne près de Nisibe, dit Ibn-Haukal, et l'on assure que
+            l'arche de Noé (la paix soit avec lui!) s'arrêta à son sommet. » [158] « Le 9 de ab. »
+            [159] Mossoul. [160] Ce passage est digne de remarque. [161] Voy. plus loin la note sur
+            le califat de Bagdad. </ab>
+      </back>
+   </text>
+</TEI>

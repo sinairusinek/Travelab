@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Asher's Benjamin of Tudela</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc xml:id="Asher" corresp="BT">
+				<biblStruct>
+					<monogr>
+						<title>The Itinerary of Rabbi Benjamin of Tudela</title>
+						<author>Benjamin of Tudela</author>
+						<editor>A. Asher</editor>
+						<imprint>
+							<date>1840</date>
+							<pubPlace>London</pubPlace>
+							<publisher>A. Asher and co.</publisher>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<settingDesc>
+				<listPlace>
+					<place xml:id="K6347" type="point">
+						<placeName>Zaragoza</placeName>
+						<location>
+							<geo>41.65606 -0.87734</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Place/6347</idno>
+					</place>
+					<place xml:id="GN3123754" type="line">
+						<idno type="URI">https://www.geonames.org/3123754/</idno>
+					</place>
+					<place xml:id="K9805" type="point">
+						<placeName>Tortosa</placeName>
+						<location>
+							<geo>40.815111 0.523778</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/9805</idno>
+					</place>
+					<place xml:id="K7559" type="point">
+						<placeName>Tarragona</placeName>
+						<location>
+							<geo>41.119196 1.258058</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7559</idno>
+					</place>
+					<place xml:id="K6471" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/6471</idno>
+					</place>
+					<place xml:id="K582" type="point">
+						<placeName>Barcelona</placeName>
+						<location>
+							<geo>41.384106 2.175422</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/582</idno>
+					</place>
+					<place xml:id="K251" type="point">
+						<location>
+							<geo>43.719417 10.400106</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/251</idno>
+					</place>
+					<place xml:id="K877" type="point">
+						<location>
+							<geo>44.40766 8.93151</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/877</idno>
+					</place>
+					<place xml:id="K667" type="point">
+						<location>
+							<geo>31.195371 29.904133</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/667</idno>
+					</place>
+					<place xml:id="K2501" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/2501</idno>
+					</place>
+					<place xml:id="K8720" type="point">
+						<location>
+							<geo>41.98311 2.82493</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8720</idno>
+					</place>
+					<place xml:id="K10031" type="point">
+						<location>
+							<geo>43.184722 3.003611</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/10031</idno>
+					</place>
+					<place xml:id="K7195" type="point">
+						<location>
+							<geo>43.339552 3.214097</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7195</idno>
+					</place>
+					<place xml:id="K7467" type="point">
+						<location>
+							<geo>43.608176 3.8794455</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7467</idno>
+					</place>
+					<place xml:id="K7951" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/7951</idno>
+					</place>
+					<place xml:id="K10968" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/10968</idno>
+					</place>
+					<place xml:id="K7637" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/7637</idno>
+					</place>
+					<place xml:id="K6399" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/6399</idno>
+					</place>
+					<place xml:id="K12708" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/12708</idno>
+					</place>
+					<place xml:id="K12204" type="point">
+						<location>
+							<geo>43.67778 4.13611</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/12204</idno>
+					</place>
+					<place xml:id="K7808" type="point">
+						<location>
+							<geo>43.6942 4.2769</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7808</idno>
+					</place>
+					<place xml:id="K10262" type="point">
+						<location>
+							<geo>43.6786 4.4317</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/10262</idno>
+					</place>
+					<place xml:id="K2047" type="line">
+						<idno type="URI">http://geo-kima.org/place/2047</idno>
+					</place>
+					<place xml:id="K8962" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/8962</idno>
+					</place>
+					<place xml:id="K7224" type="point">
+						<location>
+							<geo>43.676944 4.628611</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7224</idno>
+					</place>
+					<place xml:id="K7085" type="point">
+						<location>
+							<geo>43.299467 5.365307</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7085</idno>
+					</place>
+					<place xml:id="K8782" type="point">
+						<location>
+							<geo>35.9000363 -5.4164103</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8782</idno>
+					</place>
+					<place xml:id="K6491" type="point">
+						<location>
+							<geo>43.840677 10.50602</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6491</idno>
+					</place>
+					<place xml:id="K6800" type="point">
+						<location>
+							<geo>41.1061258 14.2130486</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6800</idno>
+					</place>
+					<place xml:id="K9790" type="point">
+						<location>
+							<geo>40.84394 14.0952</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/9790</idno>
+					</place>
+					<place xml:id="K9809" type="point">
+						<location>
+							<geo>40.624604 14.365806</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/9809</idno>
+					</place>
+					<place xml:id="K440" type="point">
+						<location>
+							<geo>41.89262 12.4843457</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/440</idno>
+					</place>
+					<place xml:id="K673" type="point">
+						<location>
+							<geo>40.829595 14.21755</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/673</idno>
+					</place>
+					<place xml:id="K6373" type="point">
+						<location>
+							<geo>40.6779567 14.7659122</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6373</idno>
+					</place>
+					<place xml:id="K7024" type="point">
+						<location>
+							<geo>41.6084823 15.8897665</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7024</idno>
+					</place>
+					<place xml:id="K6262" type="point">
+						<location>
+							<geo>40.63443 14.60318</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6262</idno>
+					</place>
+					<place xml:id="K6449" type="point">
+						<location>
+							<geo>41.13155 14.77433</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6449</idno>
+					</place>
+					<place xml:id="K12281" type="point">
+						<location>
+							<geo>40.99571 15.65578</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/12281</idno>
+					</place>
+					<place xml:id="K7555" type="polygon">
+						<location>
+							<geo>41.25 15.75</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7555</idno>
+					</place>
+					<place xml:id="GN3182747" type="point">
+						<location>
+							<geo>42.8554 13.57495</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/3182747</idno>
+					</place>
+					<place xml:id="K7879" type="point">
+						<location>
+							<geo>41.27733 16.41011</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7879</idno>
+					</place>
+					<place xml:id="K691" type="point">
+						<location>
+							<geo>31.776667 35.234167</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/691</idno>
+					</place>
+					<place xml:id="K7504" type="point">
+						<location>
+							<geo>41.13031 16.87014</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/7504</idno>
+					</place>
+					<place xml:id="K6284" type="polygon">
+						<location>
+							<geo>37.53667612 14.08648465</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6284</idno>
+					</place>
+					<place xml:id="K8176" type="point">
+						<location>
+							<geo>40.476034 17.228553</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8176</idno>
+					</place>
+					<place xml:id="K7660" type="polygon">
+						<location>
+							<geo>40.75 17.75</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7660</idno>
+					</place>
+					<place xml:id="K11068" type="point">
+						<location>
+							<geo>40.641136 17.946867</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/11068</idno>
+					</place>
+					<place xml:id="K7029" type="point">
+						<location>
+							<geo>40.145948 18.490953</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7029</idno>
+					</place>
+					<place xml:id="K1039" type="point">
+						<location>
+							<geo>39.60733 19.92178</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/1039</idno>
+					</place>
+					<place xml:id="K20954" type="point">
+						<location>
+							<geo>39.159 20.985</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Place/20954</idno>
+					</place>
+					<place xml:id="GN265507" type="point">
+						<location>
+							<geo>40.66152 22.7119</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/265507</idno>
+					</place>
+					<place xml:id="U1" type="point"/>
+					<place xml:id="K12768" type="point">
+						<location>
+							<geo>38.243265 21.738518</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/12768</idno>
+					</place>
+					<place xml:id="K21742" type="point">
+						<location>
+							<geo>38.39167 21.8275</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=21742</idno>
+					</place>
+					<place xml:id="GN259862" type="point">
+						<location>
+							<geo>38.4753859 22.4689446</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/259862</idno>
+					</place>
+					<place xml:id="GN255730" type="point">
+						<location>
+							<geo>38.53528 22.62188</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/255730</idno>
+					</place>
+					<place xml:id="GN259289" type="point">
+						<location>
+							<geo>37.906045 22.878721</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/259289</idno>
+					</place>
+					<place xml:id="K14830" type="point">
+						<location>
+							<geo>38.318092 23.255096</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/14830</idno>
+					</place>
+					<place xml:id="K8822" type="polygon">
+						<location>
+							<geo>39.04697922 22.97947876</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8822</idno>
+					</place>
+					<place xml:id="K6927" type="point">
+						<location>
+							<geo>41.012379 28.975926</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/6927</idno>
+					</place>
+					<place xml:id="K14277" type="point">
+						<location>
+							<geo>38.464 23.602</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/14277</idno>
+					</place>
+					<place xml:id="GN258577" type="point">
+						<location>
+							<geo>38.567348 23.281349</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/258577</idno>
+					</place>
+					<place xml:id="GN261211" type="point">
+						<location>
+							<geo>38.77844 22.78573</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/261211</idno>
+					</place>
+					<place xml:id="GN258620" type="point">
+						<location>
+							<geo>38.9 22.43333</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/258620</idno>
+					</place>
+					<place xml:id="K9259" type="polygon">
+						<idno type="URI">http://geo-kima.org/place/9259</idno>
+					</place>
+					<place xml:id="GN255638" type="point">
+						<location>
+							<geo>38.94813 22.8398</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/255638</idno>
+					</place>
+					<place xml:id="BJ5" type="point">
+						<location>
+							<geo>39.183 22.759</geo>
+						</location>
+						<idno type="URI"
+							>http://www.byzantinejewry.net/applications/mjcb/show_evidence_details.php?evidence_id=5</idno>
+					</place>
+					<place xml:id="BJ9" type="point">
+						<location>
+							<geo>39.687 22.725</geo>
+						</location>
+						<idno type="URI"
+							>http://www.byzantinejewry.net/applications/mjcb/show_evidence_details.php?evidence_id=9</idno>
+					</place>
+					<place xml:id="K103" type="point">
+						<location>
+							<geo>40.64361 22.93086</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/103</idno>
+					</place>
+					<place xml:id="GN736795" type="point">
+						<location>
+							<geo>41.07041 23.46064</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/736795</idno>
+					</place>
+					<place xml:id="K14269" type="point">
+						<location>
+							<geo>41.15283 24.1473</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/14269</idno>
+					</place>
+					<place xml:id="GN735861" type="point">
+						<location>
+							<geo>40.93959 24.40687</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/735861</idno>
+					</place>
+					<place xml:id="K4579" type="point">
+						<location>
+							<geo>40.19406 26.41122</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/4579</idno>
+					</place>
+					<place xml:id="U4" type="polygon"/>
+					<place xml:id="Q1404297" type="polygon">
+						<idno type="URI">https://www.wikidata.org/wiki/Q1404297</idno>
+					</place>
+					<place xml:id="K22613" type="polygon">
+						<location>
+							<geo>34.5 46.5</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/22613</idno>
+					</place>
+					<place xml:id="K7639" type="polygon">
+						<idno type="URI">http://geo-kima.org/Places/Details?id=7639</idno>
+					</place>
+					<place xml:id="K8046" type="polygon">
+						<location>
+							<geo>19.21140877 30.56732963</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/8046</idno>
+					</place>
+					<place xml:id="U6" type="polygon"/>
+					<place xml:id="Q171150" type="polygon">
+						<location>
+							<geo>47.16508477 19.42015481</geo>
+						</location>
+						<idno type="URI">https://www.wikidata.org/wiki/Q171150</idno>
+					</place>
+					<place xml:id="U2" type="polygon"/>
+					<place xml:id="U3" type="polygon"/>
+					<place xml:id="K662" type="point">
+						<location>
+							<geo>33.31468 44.39044</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/662</idno>
+					</place>
+					<place xml:id="Q1472490" type="point">
+						<location>
+							<geo>41.0339 28.9403</geo>
+						</location>
+						<idno type="URI">https://www.wikidata.org/wiki/Q1472490</idno>
+					</place>
+					<place xml:id="U7" type="polygon"/>
+					<place xml:id="K7544" type="point">
+						<location>
+							<geo>41.031944 28.976111</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7544</idno>
+					</place>
+					<place xml:id="K22213" type="point">
+						<location>
+							<geo>40.97801 27.50852</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/22213</idno>
+					</place>
+					<place xml:id="GN746983" type="point">
+						<location>
+							<geo>40.41028 26.67083</geo>
+						</location>
+						<idno type="URI">http://sws.geonames.org/746983</idno>
+					</place>
+					<place xml:id="PL844961" type="point">
+						<location>
+							<geo>41.18195 31.387409</geo>
+						</location>
+						<idno type="URI">http://pleiades.stoa.org/places/844961</idno>
+					</place>
+					<place xml:id="GN256866" type="point">
+						<location>
+							<geo>39.10772 26.55529</geo>
+						</location>
+						<idno type="URI">http://sws.geonames.org/256866</idno>
+					</place>
+					<place xml:id="K17289" type="point">
+						<location>
+							<geo>38.414 26.053</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/17289</idno>
+					</place>
+					<place xml:id="K14268" type="point">
+						<location>
+							<geo>37.73 26.84</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/14268</idno>
+					</place>
+					<place xml:id="K2044" type="point">
+						<location>
+							<geo>36.43333333 28.21666667</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/2044</idno>
+					</place>
+					<place xml:id="K7562" type="point">
+						<location>
+							<geo>35.04088353 33.27533716</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/7562</idno>
+					</place>
+					<place xml:id="PL638939" type="point">
+						<location>
+							<geo>36.465278 34.154167</geo>
+						</location>
+						<idno type="URI">https://pleiades.stoa.org/places/638939</idno>
+					</place>
+					<place xml:id="K16830" type="point">
+						<location>
+							<geo>36.191111 44.009167</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=16830</idno>
+					</place>
+					<place xml:id="U10" type="point"/>
+					<place xml:id="U11" type="point"/>
+					<place xml:id="U9" type="line"/>
+					<place xml:id="K11503" type="point">
+						<location>
+							<geo>36.200663 36.165318</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/11503</idno>
+					</place>
+					<place xml:id="K5150" type="line">
+						<location>
+							<geo>35.2728339 36.4825754</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=5150</idno>
+					</place>
+					<place xml:id="K11554" type="point">
+						<location>
+							<geo>35.1359 36.7495</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/11554</idno>
+					</place>
+					<place xml:id="GN173576" type="point">
+						<location>
+							<geo>35.53168 35.79011</geo>
+						</location>
+						<idno type="URI">http://geonames.org/173576</idno>
+					</place>
+					<place xml:id="K18052" type="point">
+						<location>
+							<geo>34.116667 35.65</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=18052</idno>
+					</place>
+					<place xml:id="K15821" type="point">
+						<location>
+							<geo>34.30096 36.11575</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=15821</idno>
+					</place>
+					<place xml:id="GN173389" type="point">
+						<location>
+							<geo>35.09855 36.15984</geo>
+						</location>
+						<idno type="URI">http://geonames.org/173389</idno>
+					</place>
+					<place xml:id="U8" type="polygon"/>
+					<place xml:id="K13529" type="point">
+						<location>
+							<geo>34.447 35.817833</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/13529</idno>
+					</place>
+					<place xml:id="K15288" type="point">
+						<location>
+							<geo>34.116667 35.65</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=15288</idno>
+					</place>
+					<place xml:id="K651" type="point">
+						<location>
+							<geo>33.897902 35.501176</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/651</idno>
+					</place>
+					<place xml:id="K13639" type="point">
+						<location>
+							<geo>33.560243 35.371208</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/13639</idno>
+					</place>
+					<place xml:id="K21726" type="point">
+						<location>
+							<geo>33.416111 35.8575</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/21726</idno>
+					</place>
+					<place xml:id="K14095" type="point">
+						<location>
+							<geo>33.268071 35.209358</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/14095</idno>
+					</place>
+					<place xml:id="K10934" type="point">
+						<location>
+							<geo>43.205842 2.364076</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/10934</idno>
+					</place>
+					<place xml:id="U12" type="point"/>
+					<place xml:id="K71" type="point">
+						<location>
+							<geo>32.920744 35.068626</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/place/71</idno>
+					</place>
+					<place xml:id="K21499" type="line">
+						<idno type="URI">http://geo-kima.org/Places/Details?id=21499</idno>
+					</place>
+					<place xml:id="K791" type="point">
+						<location>
+							<geo>32.8 34.98333333</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=791</idno>
+					</place>
+					<place xml:id="K1156" type="point">
+						<location>
+							<geo>32.6725 35.023333</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=1156</idno>
+					</place>
+					<place xml:id="K26255" type="point">
+						<location>
+							<geo>32.829729 34.967766</geo>
+						</location>
+						<idno type="URI">http://geo-kima.org/Places/Details?id=26255</idno>
+					</place>
+					<place xml:id="U5" type="point"/>
+					<place xml:id="K4090" type="point">
+						<location>
+							<geo>33.44948 35.29948</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=4090</idno>
+					</place>
+					<place xml:id="K_14307" type="point">
+						<location>
+							<geo>45.04888889 35.37916667</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=14307</idno>
+					</place>
+					<place xml:id="WD_Q2639368" type="point">
+						<location>
+							<geo>44.42666667 33.65333333</geo>
+						</location>
+						<idno type="URI">https://www.wikidata.org/wiki/Q2639368</idno>
+					</place>
+					<place xml:id="K_17819" type="point">
+						<location>
+							<geo>44.51118 33.59942</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=17819</idno>
+					</place>
+					<place xml:id="GN_746983" type="point">
+						<location>
+							<geo>40.4 26.66667</geo>
+						</location>
+						<idno type="URI">https://www.geonames.org/746983</idno>
+					</place>
+					<place xml:id="K_9825" type="point">
+						<location>
+							<geo>40.41028 26.67083</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=9825</idno>
+					</place>
+					<place xml:id="WD_Q6514" type="point">
+						<location>
+							<geo>40.2 26.4</geo>
+						</location>
+						<idno type="URI">https://www.wikidata.org/wiki/Q6514</idno>
+					</place>
+					<place xml:id="K_533" type="point">
+						<location>
+							<geo>41.01 28.96027778</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=533</idno>
+					</place>
+					<place xml:id="K_17289" type="point">
+						<location>
+							<geo>38.4 26.01666667</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=17289</idno>
+					</place>
+					<place xml:id="K_2689" type="point">
+						<location>
+							<geo>36.81527778 27.11027778</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=2689</idno>
+					</place>
+					<place xml:id="K_468" type="point">
+						<location>
+							<geo>36.43333333 28.21666667</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=468</idno>
+					</place>
+					<place xml:id="K_17099" type="point">
+						<location>
+							<geo>45 34</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=17099</idno>
+					</place>
+					<place xml:id="K_667" type="point">
+						<location>
+							<geo>31.2 29.91666667</geo>
+						</location>
+						<idno type="URI">http://data.geo-kima.org/Places/Details?id=667</idno>
+					</place>
+				</listPlace>
+			</settingDesc>
+		</profileDesc>
+	</teiHeader>
+  <text>
+      <body>
+         <ab xml:id="GeoNar32">
+            <seg xml:id="GN32S1"> ומשם שלשה ימים אל <placeName
+>גינגלה</placeName>
+
+               <lb/>מהלך חמשה עשר ימים דרך ים ושם <lb/>כמו אלף מישראל. ומשם
+               ל<placeName
+>כולן</placeName>
+ שבעה*) <lb/>ימים דרך ים ואין שם ישראל. </seg>
+            <seg xml:id="GN32S2">ומשם <lb/>שנים עשר ימים ל<placeName
+ ref="#K11566">זביד</placeName>
+ ושם יהודים
+               <lb/>מעטים. </seg>
+            <seg xml:id="GN32S3">ומשם שמונה ימים ל<placeName
+>הודו</placeName>
+ אשר ביבשה הנקרא
+               <placeName
+ ref="#K11337">בעדן</placeName>
+ והיא <placeName
+>עדן אשר בתלסר</placeName>
+ ובה
+               הרים גדולים ושם <lb/>מישראל הרבה ואין עליהם עול גוים <lb/>ולהם ערים ומגדלים
+               בראשי ההרים <pb n="101"/>
+               <lb/>ויורדים לארץ המעטום הנקראת <placeName
+>נוביא</placeName>
+*) <lb/>היא ממשלת
+               אדום והם הנובים**) אשר <lb/>בארץ נוביא*) ונלחמים עמהם היהודים <lb/>ולוקחין שלל
+               ובזה ועולין אל ההרים ואין <lb/>אדם יכול להלחם עמהם ובאים שם <lb/>מאותם היהודים
+               אשר בארץ <placeName
+>עדאן</placeName>
+ רבים <lb/>לארץ <placeName
+ ref="#K7639" type="place"
+                  >פרס</placeName>
+ וארץ <placeName
+ ref="#K8046" type="place">מצרים</placeName>
+.</seg>
+            <seg xml:id="GN32S4"> ומשם לארץ <placeName
+ ref="#K12030">אסואן</placeName>
+ מהלך עשרים יום במדבר
+               <placeName
+>שבא</placeName>
+
+               <lb/>על נהר <placeName
+>פישון</placeName>
+ היורד מארץ כוש שיש <lb/>להם מלך וקוראין
+               אותו <persName>סולטאן אל חבש</persName>
+               <lb/>ויש מהם קצת שהם כבהמות לכל <lb/>ענייניהם אוכלים העשבים על-שפת <lb/>פישון
+               והולכין בשדות ערומים ואין להם <lb/>דעת כשאר בני אדם שוכבין עם <lb/>אחיותיהן ועם
+               מי שימצאו והיא ארץ <lb/>חמה מאד וכשהולכין אנשי אסואן <lb/>לשלול שלל בארצם
+               מוליכין עמהם לחם <lb/>וחטים וצמוקים ותאנים ומשליכים <lb/>אליהם והם באים אחרי
+               המאכל ומביאין <lb/>אותם שבויים ומוכרין אותם בארץ <pb n="102"/>
+               <placeName
+ ref="#K8046" type="place">מצרים</placeName>
+ ובכל הממלכות אשר סביבותיהם <lb/>והם
+               העבדים השחורים בני חם| </seg>
+            <seg xml:id="GN32S5">
+               <lb/>ומ<placeName
+ ref="#K12030">אסואן</placeName>
+ עד <placeName
+ ref="#K15135">חלואן</placeName>
+ שנים עשר יום ובה <lb/>כמו שלש מאות
+               יהודים ומשם הולכין <lb/>בשיירות מהלך חמשים יום דרך מדבר <lb/>הנקרא <placeName
+ ref="#K2019">אל
+                  צחרא</placeName>
+ למדינת <placeName
+ ref="#Q3663184">זוילא</placeName>
+ היא
+               <placeName
+>חוילה</placeName>
+ בארץ<placeName
+> גאנה</placeName>
+ ובאותו המדבר
+               יש <lb/>הרי חול ובעת שיקום הרוח מכסה <lb/>השיירות בחול ומתים כולם בתוך החול
+               והנצלים מהם מוליכין עמהם ברזל <lb/>ונחשת ומיני פירות ומיני קטנית ומלח
+               <lb/>ומביאים משם הזהב והמרגליות היקרות <lb/>והיא מ<placeName
+>ארץ כוש</placeName>
+
+               הנקראת <placeName
+>אלחבש</placeName>
+
+               <lb/>מירכתי מערב|</seg>
+            <seg xml:id="GN32S6"> ומ<placeName
+ ref="#K15135">חלואן</placeName>
+ דרך שלשה <lb/>עשר ימים ל<placeName
+ ref="#Q1816589">קוץ</placeName>
+
+               המדינה היא (ראש) <lb/>תחלת <placeName
+ ref="#K8046" type="place">מצרים</placeName>
+ ובה כמו
+               שלשים אלף <lb/>יהודים. </seg>
+         </ab>
+         <ab xml:id="GeoNar33">
+            <seg xml:id="GN33S1">ומשם עד <placeName
+ ref="#K12725">פיום</placeName>
+ חמשה ימים <lb/>והיא
+               <placeName
+ ref="#K22877" type="idf">פיתום</placeName>
+ ובה כמו עשרים יהודים ועד <lb/>היום הזה נראה שם
+               מן הבנין בנו <lb/>אבותינו| </seg>
+            <seg xml:id="GN33S2">ומשם למצרים ארבע ימים <pb n="103"/>
+               <lb/>והיא עיר גדולה היושבת על-שפת <placeName
+ ref="#Q3392">נילוס</placeName>
+ והוא
+               <placeName
+ ref="#Q3392">אל ניל</placeName>
+ ובה כמו אלפים יהודים <lb/>ושם שני בתי כניסיות
+               אחת לאנשי ארץ <lb/>ישראל <placeName
+>כניסיה אל שאמיין</placeName>
+ ואחת כנסת
+               <lb/>אנשי <placeName
+ ref="#U4" type="place">בבל</placeName>
+
+               <placeName
+>כניסיה אל עראקיין</placeName>
+**) ואינם <lb/>נוהגים מנהג אחד בפרשיות
+               ובסדרים <lb/>של תורה כי אנשי <placeName
+ ref="#U4" type="place">בבל</placeName>
+ נוהנים לקרות
+               <lb/>בכל-שבוע פרשה כמו שעושין בכל <placeName
+ ref="#K6471" type="place">ספרד</placeName>
+ ובכל
+               שנה מסיימים את התורה <lb/>ואנשי <placeName
+ ref="#K2501" type="place">ארץ ישראל</placeName>
+
+               אינם נוהגים כך אבל <lb/>עושים מכל פרשה שלשה סדרים <lb/>ומסיימין את התורה לסוף
+               שלש שנים <lb/>ויש ביניהם מנהג ותקנה להתחבר כלם <lb/>ולהתפלל ביחד ביום שמחת תורה
+               וכן <lb/>ביום מתן תורה וביניהם <persName>רבי נתנאל שר השרים ראש הישיבה והוא ראש
+                  לכל קהלות מצרים</persName> להקים רבנים וחזנין</seg>
+         </ab>
+         <ab xml:id="GeoNar34">
+            <seg xml:id="GN34S1"> והוא <lb/>משרת פני המלך הגדול היושב ב<placeName
+>ארמון צוען
+               מצרים</placeName>
+ המדינה והיא עיר מלוכה <lb/>לכל בני ערב ושם <persName>אמיר
+                  אל מומנין עלי בן אביטאלב</persName> וכל בני ארצו נקראים <lb/>מורדים אשר מרדו
+               <persName>באמיר אל מומנין אל עבאסי</persName> היושב
+               ב<placeName
+ ref="#K662">בגדאד</placeName>
+ וביניהם <lb/>קנאה עד לעולם והוא הושיב כסאו
+               <lb/>ב<placeName
+>צוען</placeName>
+ כי הוא הדומה לו והוא יוצא שני <lb/>פעמים
+               בשנה אחת בעת חגם והשנית <lb/>כשיוצא <placeName
+ ref="#Q3392">נילוס</placeName>
+ הנהר</seg>
+            <seg xml:id="GN34S2"> ו<placeName
+>צוען</placeName>
+ מוקפת חומה <lb/>ומצרים אין לה
+               חומה כי היאור מסבב <lb/>אותה מצד אחד והיא עיר גדולה ובה <lb/>שווקים ופונדקאות
+               ויהודים עשירים <lb/>הרבה בה ולא ירד שם מטר ולא קרח <lb/>ולא שלג לא ראו מעולם
+               והארץ חמה <lb/>ביותר והיאור יוצא פעם אחת בשנה <lb/>בחדש אלול ומכסה כל הארץ ומשקה
+               אותה <lb/>מהלך חמשה עשר ימים והמים נשארים <lb/>אלול ותשרי על פני הארץ להשקותה
+               <lb/>ולהרוותה ויש להם <placeName
+>עמוד של שיש</placeName>
+ שבנו <lb/>שם בחכמה והוא
+               לפני אי אחד בתוך <lb/>המים והוא שתים עשרה אמות ארכו על <lb/>פני המים ובשעה שעולה
+               היאור ומכסה <pb n="105"/>
+               <lb/>אותו יודעים כי כבר עלה וכסה ארץ <placeName
+ ref="#K8046" type="place">מצרים</placeName>
+
+               מהלך חמשה עשר יום ואם כסה <lb/>חצי העמוד לא יכסה כי אם חצי הארץ <lb/>ובכל יום
+               ויום מודד אותם אדם אחד ומכריז בצוען ובמצרים ואומר תנו שבח <lb/>לאל כי עלה היאור
+               כך וכך| ובכל-יום <lb/>הוא מודד ומכריז אם מכסה היאור <lb/>העמוד כלו יש שובע גדול
+               בכל ארץ <placeName
+ ref="#K8046" type="place">מצרים</placeName>
+ והיאור עולה מעט מעט עד
+               <lb/>שמכסה הארץ לקצה חמשה עשר יום. <lb/>ומי שיש לו שדה שוכר פועלים וחופרין
+               <lb/>לו חפירה גדולה בשדהו ובאים הדגים <lb/>בעלות המים נכנסים בחפירות ובשעה
+               <lb/>שיחסרו המים נשארים הדגים בחפירות <lb/>ולוקחין אותם בעלי השדות ואוכלים
+               <lb/>ומוכרים לסוחרים שמוליכין אותם <lb/>ממולחין בכל מקום והדגים שמנים מאד
+               <lb/>ביותר וגדולי הארץ לוקחין מן השומן של <lb/>הדגים ומדליקין [בו] נרותיהם
+               (בארץ*) ואם <lb/>אכל אדם מאותם הדגים וישתה אחריהם <pb n="106"/>
+               <lb/>ממי היאור לא יזיק לו כי אותם המים <lb/>רפואה להם ושואלין בני אדם ואומרים
+               <lb/>להם מפני מה היא עלות היאור ואומרים <lb/>אנשי <placeName
+ ref="#K8046" type="place"
+                  >מצרים</placeName>
+ כי למעלה בארץ <placeName
+>אל חבש</placeName>
+ והיא
+               <placeName
+>ארץ חוילה</placeName>
+ יורד בה מטר הרבה <lb/>בזמן עלות היאור ומכסה
+               פני הארץ. <lb/>ובשעה שאין היאור עולה אינם זורעים <lb/>והרעב כבד בארץ והם זורעין
+               במרחשון <lb/>לאחר שוב היאור למקומו ובאדר <lb/>קוצרים השעורים ובניסן החטים.
+               ובניסן <lb/>יש להם גודגדניות ואגוזים וקשואים <lb/>ודלועים וחרובין ופולים
+               וגלבונים ואפונים <lb/>ומיני ירקות כגון פרפחנים וירבוזנים <lb/>וקטפים וחזרת
+               וכוסברת ועולשין ופרוחים*) <lb/>וענבים והארץ מלאה כל-טוב והגנות <lb/>והפרדסים
+               משקין אותם ממקוה המים <lb/>וממי היאור </seg>
+         </ab>
+         <ab xml:id="GeoNar35">
+            <seg xml:id="GN35S1">כי היאור כשיבוא למצרים <lb/>משם יפרד לארבעה ראשים שביל <lb/>אחד
+               הולך <placeName
+ ref="#K8964">דמיאט</placeName>
+ היא <placeName
+>כפתור</placeName>
+ ונופל <lb/>שם
+               בים. ושביל אחר הולך לעיר <placeName
+ ref="#K20050">רשיד</placeName>
+
+               <pb n="107"/>
+               <lb/>הקרובה ל<placeName
+ ref="#K667">אלכסנדריאה</placeName>
+ ונופל שם בים. <lb/>ושביל השלישי
+               הולך דרך <placeName
+>אשמון</placeName>
+ העיר <lb/>הגדולה בגבול מצרים| ועל ארבע
+               <lb/>ראשים האלו מדינות וכרכים וכפרים <lb/>מזה ומזה וכל בני אדם הולכים בספינה
+               <lb/>וביבשה ואין בארץ ארץ נושבת כמוה <lb/>והיא רחבת ידים מלאה כל-טוב.</seg>
+            <seg xml:id="GN35S2">
+               <lb/>ומ<placeName
+>מצרים החדשה</placeName>
+ ל<placeName
+>מצרים הקדמונה</placeName>
+
+               <lb/>שני פרסאות והיא חרבה ומקום בנין <lb/>החומות והבתים נראין עד היום הזה וגם
+               <lb/>אוצרות <persName>יוסף</persName> שם הרבה מאד ויש שם
+               <placeName
+>עמודים</placeName>
+*) עשוים בכשוף ולא נראה כמוהם <lb/>בכל הארץ
+               ובכל המקומות והם בנויים <lb/>בסיד ואבנים בנין חזק עד מאד ושם <lb/>חוץ לעיר
+               <placeName
+>כנסת משה רבינו</placeName>
+ עליו השלום <lb/>מימי קדם ושם זקן אחד
+               פרנס שמש <lb/>של הכנסת והוא תלמיד חכם וקורין <lb/>אותו <persName>אל שיך
+                  אבונאצר</persName> ובמצרים <lb/>החרבה כמהלך שלשה מילין.</seg>
+         </ab>
+         <ab xml:id="GeoNar36">
+            <seg xml:id="GN36S1"> ומשם <lb/>ל<placeName
+>ארץ גושן</placeName>
+ שמנה פרסאות היא
+               (בולסיר**) <pb n="108"/>
+               <lb/><placeName
+ ref="#K22392">בלביש</placeName>
+*) ושם כמו שלשת אלפים יהודים <lb/>והיא עיר גדולה.</seg>
+            <seg xml:id="GN36S2"> ומשם חצי יום <lb/>ל<placeName
+>עיזקאל</placeName>
+
+               ל<placeName
+>עין אל שמס</placeName>
+ היא <placeName
+>רעמסס</placeName>
+
+               <lb/>והיא חרבה ושם מהבנין שבנו אבותינו <lb/>עליהם השלום ושם כמו מגדלים בנוים
+               <lb/>מלבנים</seg>
+            <seg xml:id="GN36S3"> ומשם יום ל<placeName
+>אל בודאיג</placeName>
+**) ושם <lb/>כמו
+               מאתים יהודים.</seg>
+            <seg xml:id="GN36S5"> ומשם ל<placeName
+>זיפתא</placeName>
+***) <lb/>חצי יום ושם כמו
+               מאתים יהודים|</seg>
+            <seg xml:id="GN36S7"> ומשם <lb/>ל<placeName
+>דמירה</placeName>
+ ארבע פרסאות ושם כשבע
+               <lb/>מאות יהודים.</seg>
+            <seg xml:id="GN36S8"> ומשם חמשה ימים <lb/>ל<placeName
+>מהלה</placeName>
+ ושם כמו חמש
+               מאות מישראל| </seg>
+            <seg xml:id="GN36S9">
+               <lb/>ומשם שני ימים ל<placeName
+ ref="#K667">אלכסנדריאה</placeName>
+
+               <lb/>ו<persName>אלכסנדרוס מוקדון</persName> קראה על שמו <lb/>ובנה אותה בנין חזק
+               ויפה עד מאד <lb/>וחוץ למדינה מדרש <persName>ארסטו</persName> רבו של
+               <persName>אלכסנדרוס</persName> ושם <placeName
+>בנין יפה וגדול</placeName>
+
+               ועמודי <lb/>שיש בין מדרש למדרש| ושם כמו <lb/>עשרים מדרשות שהיו באים שם מכל
+               <lb/>העולם ללמוד שם חכמת <persName>אריסטו הפילוסוף</persName> והעיר בנויה למעלה
+               וחלולה <pb n="109"/>
+               <lb/>למטה על ידי גשרים וחוצותיה ישרות <lb/>ובתוכה שוקים שאינם רואים אדם מהם
+               <lb/>מהלך מיל מ<placeName
+>שער רשיד</placeName>
+ ועד <placeName
+>שער
+                  הים</placeName>
+
+               <lb/>ושם בנה <placeName
+>מסלה על הנמל</placeName>
+ של
+               <placeName
+ ref="#K667">אלכסנדריאה</placeName>
+ דרך מיל בתוך ים ושם <lb/>עשה מגדל גדול הוא
+               הנקרא <placeName
+> המנראה</placeName>
+ ובלשון ערב <placeName
+>מנאר
+                  אלכסנדריאה</placeName>
+ ועשה <lb/>על ראש המגדל מראה של זכוכית וכל
+               <lb/>הספינות שהולכות להלחם בה להזיק לה <lb/>מארץ <placeName
+ ref="#K8822" type="place"
+                  >יון</placeName>
+ ומארץ המערב ממהלך <lb/>חמשים יום היו רואין אותן מן המראה
+               <lb/>של זכוכית והיו שומרין עצמם מהם עד <lb/>שיום מימים באה ספינה מארץ <placeName
+
+                  ref="#K8822">יון</placeName>
+
+               <lb/>לימים רבים אחרי מות אלכסנדרוס <lb/>ושם הספן <persName>טודרוס</persName> איש
+               יוני חכם בכל <lb/>חכמה והיו היונים משועבדים תחת עול <placeName
+ ref="#K8046" type="place"
+                  >מצרים</placeName>
+ בימים ההם והביא האיש ההוא <lb/>הספן דורון גדול למלך
+               <placeName
+ ref="#K8046" type="place">מצרים</placeName>
+ כסף <lb/>וזהב ובגדי משי וחנה לפני
+               המראה כי <lb/>כך היה מנהג כל סוחר שיבוא לחנות <pb n="110"/>
+               <lb/>שם ובכל יום ויום היה אוכל עמו שומר <lb/>מגדל המנורה הוא ועבדיו עד שמצא חן
+               <lb/>בעיניו והיה יוצא ובא כל הימים שם ויום <lb/>אחד עשה לו משתה והשקהו יין הרבה
+               <lb/>לו ולכל עבדיו עד שהיו ישנים כולם <lb/>וקם הספן ועבדיו ושברו המראה והלכו
+               <lb/>לדרכם בלילה ההוא</seg>
+         </ab>
+         <ab xml:id="GeoNar37">
+            <seg xml:id="GN37S1"> ומאותו היום <lb/>והלאה התחילו בני אדום לבא שם <lb/>בדוגיות
+               ובספינות גדולות ולקחו מידם <lb/>את האי הגדולה <placeName
+ ref="#K8648">קריטס</placeName>
+ וגם
+               <placeName
+ ref="#K7562" type="place">כיפרוס</placeName>
+
+               <lb/>שהם תחת עול יונים עד היום הזה ולא <lb/>יכלו אנשי ארץ <placeName
+ ref="#K8046" type="place"
+                  >מצרים</placeName>
+ עוד לעצור כח <lb/>לפני היונים ועד היום הזה מגדל המנורה
+               <lb/>סימן להולכי הים כי כל הבאים אל <placeName
+ ref="#K667">אלכסנדריאה</placeName>
+ מכל
+               המקומות רואים <lb/>אותה מרחוק מהלך מאה מילין ביום <lb/>ובלילה מאירה מאור אבוקה
+               ורואים <lb/>הספנים האש מרחוק והולכין כנגדו והיא <lb/>ארץ סחורה רוכלת לכל העמים
+               ומכל <lb/>מלכות אדום באים שם אל <placeName
+ ref="#K667">אלכסנדריאה</placeName>
+
+               <pb n="111"/>
+               <lb/>מארץ <placeName
+>בלינסייא</placeName>
+ ו<placeName
+>טוסכנה</placeName>
+
+               ו<placeName
+>לומברדיאה</placeName>
+ ו<placeName
+>פוליה</placeName>
+ ו<placeName
+
+                  ref="#K12281">מלפי</placeName>
+ ו<placeName
+>סקילייה</placeName>
+
+               ו<placeName
+>רקופיה</placeName>
+ ו<placeName
+>קרט</placeName>
+
+               <placeName
+>ויה</placeName>
+*) <lb/>ו<placeName
+>אספנייא</placeName>
+
+               ו<placeName
+>רוסייא</placeName>
+ ו<placeName
+>אלמאנייה</placeName>
+
+               ו<placeName
+>שושנאה</placeName>
+
+               <lb/>ו<placeName
+>דנאמרקא</placeName>
+ ו<placeName
+>גלאץ</placeName>
+
+               ו<placeName
+>פלנדריש</placeName>
+ ו<placeName
+>היטר</placeName>
+**)
+               <lb/>ו<placeName
+>לרמנדיה</placeName>
+***) ו<placeName
+>פראנציה</placeName>
+0)
+               ו<placeName
+>פייטו</placeName>
+ ו<placeName
+>אנגו</placeName>
+
+               <lb/>ו<placeName
+>ברגונייה</placeName>
+ ו<placeName
+>מדיאנה</placeName>
+
+               ו<placeName
+>פרובינצא</placeName>
+ ו<placeName
+ ref="#K877" type="place">גינואה</placeName>
+
+               <lb/>ו<placeName
+>פישא</placeName>
+ ו<placeName
+>גשקוניא</placeName>
+00)
+               ו<placeName
+>ארגון</placeName>
+ ו<placeName
+>נבארה</placeName>
+ | ומצד
+               <lb/>המערב לישמעאלים <placeName
+>אל אנדלוס</placeName>
+ ו<placeName
+>אל
+                  ערוה</placeName>
+ ו<placeName
+>אפריקיה</placeName>
+ ו<placeName
+>ארץ
+                     אלערב</placeName>
+| ומצד <placeName
+>הודו</placeName>
+
+               ומ<placeName
+>חוילה</placeName>
+ ו<placeName
+>אל חבש</placeName>
+
+               ו<placeName
+>נוביה</placeName>
+000) ו<placeName
+>אלימן</placeName>
+
+               <lb/>ו<placeName
+ ref="#Q1404297" type="place">שנער</placeName>
+ ו<placeName
+>אל שאם</placeName>
+
+               ו<placeName
+ ref="#K8822" type="place">יון</placeName>
+ הנקראים גריגיש <lb/>ואל תורך ושם
+               מביאים סחורה מ<placeName
+>הודו</placeName>
+
+               <lb/>כל מיני בשמים סוחרי אדום קונים <lb/>מהם והעיר הומיה לסחורה ולכל אומה
+               <lb/>ואומה פונדק בפני עצמה|</seg>
+            <seg xml:id="GN37S2"> ויש שם על <lb/>שפת הים <placeName
+>קבר אחד של שיש</placeName>
+
+               ובו מצוייר <lb/>כל מיני עופות וחיות והכל בכתיבת <lb/>הקדמונים ואין אדם מכיר
+               הכתיבה <lb/>ואומרים מסברא שהיה מלך בימי קדם <pb n="112"/>
+               <lb/>קודם המבול ובאורך הקבר חמש עשרה <lb/>זרתות וששה רחבו ושם
+               ב<placeName
+ ref="#K667">אלכסנדריאה</placeName>
+
+               <lb/>כמו שלשת אלפים מישראל|</seg>
+         </ab>
+         <ab xml:id="GeoNar38">
+            <seg xml:id="GN38S1"> ומשם <lb/>שני ימים ל<placeName
+ ref="#K8964">דמיאט</placeName>
+ היא
+               <placeName
+>כפתור</placeName>
+ ושם כמו <lb/>מאתים מישראל|</seg>
+            <seg xml:id="GN38S3"> ומשם ל<placeName
+>סונבאט</placeName>
+ חצי <lb/>יום והם זורעין
+               פשתן ואורגים חור <lb/>ומוליכין לכל העולם|</seg>
+            <seg xml:id="GN38S4"> ומשם ארבע <lb/>ימים ל<placeName
+>אילאה</placeName>
+ היא
+               <placeName
+>אילים</placeName>
+ והיא לבני ערב <lb/>החונים במדבר. </seg>
+            <seg xml:id="GN38S5">ומשם שני ימים <lb/>ל<placeName
+>רפידים</placeName>
+ ויושבים שם
+               בני ערב ואין בה <lb/>מישראל.</seg>
+            <seg xml:id="GN38S6"> ומשם יום ל<placeName
+>הר סיני</placeName>
+ ובראש <lb/>ההר במה
+               לכומרים הנקראים סורייניס <lb/>ובתחתית ההר כרך גדול וקוראים אותו <placeName
+>טור
+                  סיני</placeName>
+ ויושביו מדברים בלשון תרגום <lb/>והוא הר קטן רחוק ממצרים
+               חמשה <lb/>ימים והם תחת עול מצרים|</seg>
+            <seg xml:id="GN38S7"> ו<placeName
+>ים סוף</placeName>
+
+               <lb/>רחוק מ<placeName
+>הר סיני</placeName>
+ דרך יום והוא זרוע מים <lb/>הודו|
+               ויחזור ל<placeName
+ ref="#K8964">דמיאט</placeName>
+
+            </seg>
+            <seg xml:id="GN38S8"> ומשם דרך ים <lb/>יום ל<placeName
+ ref="#K3054">טניס</placeName>
+ היא
+               <placeName
+>חנס</placeName>
+ ושם כמו ארבעים <lb/>מישראל והוא אי בתוך הים ועד
+               הנה <pb n="113"/>
+               <lb/>מלכות מצרים| </seg>
+         </ab>
+      </body>
+  </text>
+</TEI>
