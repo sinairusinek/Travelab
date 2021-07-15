@@ -21,16 +21,16 @@
             <ab> This is the book of travels, which was compiled by <persName
                     type="recogito-086c8115-7e43-4f3f-ae4d-549dfc0f5410">Rabbi Benjamin</persName>,
                 the son of <persName type="recogito-b100b332-712d-42ff-95b3-33d9de17339c"
-                    >Jonah</persName>, of the land of <placeName xml:id="d1e766"
+                    >Jonah</persName>, of the land of <placeName xml:id="temp9001"
                 >Navarre</placeName>--his repose be in Paradise. The said <persName
                     type="recogito-59cd30b2-103c-42de-89dd-8d73c2ee61b5">Rabbi Benjamin</persName>
-                set forth from <placeName type="recogito-c53868dc-832a-4aa4-87dd-ca36406fb685"
+                set forth from <placeName type="temp9002"
                     >Tudela</placeName>, his native city, and passed through many remote countries,
                 as is related in his book. In every place which he entered, he made a record of all
                 that he saw, or was told of by trustworthy persons--matters not previously heard of
-                in the land of <placeName xml:id="d1e783">Sepharad</placeName><note n="1"/>. Also he
+                in the land of <placeName xml:id="temp9003">Sepharad</placeName><note n="1"/>. Also he
                 mentions some of the sages and illustrious men residing in each place. He brought
-                this book with him on his return to the country of <placeName xml:id="d1e791"
+                this book with him on his return to the country of <placeName xml:id="temp9004"
                     >Castile</placeName>, in the year 4933 <gloss>C.E. 1173</gloss><note n="2"/>. The said
                     <persName type="recogito-992314b8-8925-4bb6-b5f0-b4d8f1a99025">Rabbi
                     Benjamin</persName> is a wise and understanding man, learned in the Law and the
@@ -41,16 +41,16 @@
         <body>
             <ab/>
             <ab xml:id="GeoNar1"><seg xml:id="GN1S1">--I journeyed first from my native town to the
-                    city of <placeName xml:id="d1e832" ref="#K6347">Saragossa</placeName><note n="3"
-                    />, and thence by way of the River <placeName xml:id="d1e835" ref="#GN3123754"
-                        >Ebro</placeName> to <placeName xml:id="d1e838" ref="#K9805"
+                    city of <placeName xml:id="temp0001" ref="#K6347">Saragossa</placeName><note n="3"
+                    />, and thence by way of the River <placeName xml:id="temp0002" ref="#GN3123754"
+                        >Ebro</placeName> to <placeName xml:id="temp0003" ref="#K9805"
                         >Tortosa</placeName>.</seg><seg xml:id="GN1S2"> From there I went a journey
-                    of two days to the ancient city of <placeName xml:id="d1e844" ref="#K7559"
+                    of two days to the ancient city of <placeName xml:id="temp0004" ref="#K7559"
                         >Tarragona</placeName> with its Cyclopean and Greek buildings<note n="4"/>.
                     The like thereof is not found among any of the buildings in the country of
-                        <placeName xml:id="d1e851" ref="#K6471">Sepharad</placeName>. It is situated
+                        <placeName xml:id="temp0005" ref="#K6471">Sepharad</placeName>. It is situated
                     by the sea,</seg><seg xml:id="GN1S3"> and two days' journey from the city of
-                        <placeName xml:id="d1e859" ref="#K582">Barcelona</placeName>, where there is
+                        <placeName xml:id="temp0006" ref="#K582">Barcelona</placeName>, where there is
                     a holy congregation, including sages, wise and illustrious men, such as
                         <persName type="recogito-3997c9e0-e573-4dbe-8560-cbf0affd23c3">R.
                         Shesheth</persName><note n="5"/>, <persName
@@ -62,17 +62,17 @@
                         type="recogito-a73a4ffc-d0d8-445d-af0e-9ce23aa9b2c8">Chisdai</persName>.
                     This is a small city and beautiful, lying upon the sea-coast. <pb n="2"/>
                     Merchants come thither from all quarters with their wares, from <placeName
-                        xml:id="d1e883" ref="#K8822">Greece</placeName>, from <placeName
-                        xml:id="d1e886" ref="#K251">Pisa</placeName>, <placeName xml:id="d1e890"
-                        ref="#K877">Genoa</placeName>, <placeName xml:id="d1e893" ref="#K6284"
-                        >Sicily</placeName>, <placeName xml:id="d1e896" ref="#K667"
-                        >Alexandria</placeName> in <placeName xml:id="d1e899" ref="#K8046"
-                        >Egypt</placeName>, <placeName xml:id="d1e902" ref="#K2501"
-                        >Palestine</placeName>, <placeName xml:id="recogito-0949cde6-7174-4d9e-996d-5ef6c5b3b122" ana="notinAsher">Africa</placeName> and
+                        xml:id="temp0007" ref="#K8822">Greece</placeName>, from <placeName
+                        xml:id="temp0008" ref="#K251">Pisa</placeName>, <placeName xml:id="temp0009"
+                        ref="#K877">Genoa</placeName>, <placeName xml:id="temp0010" ref="#K6284"
+                        >Sicily</placeName>, <placeName xml:id="temp0011" ref="#K667"
+                        >Alexandria</placeName> in <placeName xml:id="temp0012" ref="#K8046"
+                        >Egypt</placeName>, <placeName xml:id="temp0013" ref="#K2501"
+                        >Palestine</placeName>, <placeName xml:id="temp0014" ana="notinAsher">Africa</placeName> and
                     all its coasts.</seg><seg xml:id="GN1S4"> Thence it is a day and a half to
-                        <placeName xml:id="d1e910" ref="#K8720">Gerona</placeName>, in which there
+                        <placeName xml:id="temp0015" ref="#K8720">Gerona</placeName>, in which there
                     is a small congregation of Jews<note n="6"/>. </seg><seg xml:id="GN1S5">A three
-                    days'journey takes one to <placeName xml:id="d1e917" ref="#K10031"
+                    days'journey takes one to <placeName xml:id="temp0016" ref="#K10031"
                         >Narbonne</placeName>, which is a city preeminent for learning; thence the
                     Torah <gloss>Law</gloss> goes forth to all countries. Sages, and great and illustrious men
                     abide here. At their head is <persName
@@ -88,25 +88,25 @@
                     and <persName type="recogito-7d97cb88-339c-4b8e-88ef-335cf004f9a9">R.
                         Judah</persName>, and many other distinguished scholars. At the present day
                     300 Jews are there. </seg><seg xml:id="GN1S6"> Thence it is four parasangs<note
-                        n="9"/> to the city of <placeName xml:id="d1e958" ref="#K7195"
+                        n="9"/> to the city of <placeName xml:id="temp0017" ref="#K7195"
                         >Beziers</placeName>, where there is a congregation of learned men. At their
                     head is <persName type="recogito-fa4162ba-df1d-4a3b-97bc-5b113428eaaa">R.
                         Solomon Chalafta</persName>, <persName
                         type="recogito-41ce0738-1793-4a0c-92b4-1c7b1d4065e0">R Joseph</persName>,
                     and <persName type="recogito-48468946-58be-4a32-9c26-824c51abb29d">R.
                         Nethanel</persName>.</seg><seg xml:id="GN1S7"> Thence it is two days to Har
-                    Gaash which is called <placeName xml:id="d1e976" ref="#K7467"
+                    Gaash which is called <placeName xml:id="temp0019" ref="#K7467"
                         >Montpellier</placeName>. This is a place well situated for commerce. <pb
                         n="3"/> It is about a parasang from the sea, and men come for business there
-                    from all quarters, from Edom, Ishmael, the land of <placeName xml:id="d1e987"
-                        ref="#K7951">Algarve</placeName>, <placeName xml:id="d1e990" ref="#K10968"
-                        >Lombardy</placeName>, the dominion of <placeName xml:id="d1e993"
+                    from all quarters, from Edom, Ishmael, the land of <placeName xml:id="temp0020"
+                        ref="#K7951">Algarve</placeName>, <placeName xml:id="temp0021" ref="#K10968"
+                        >Lombardy</placeName>, the dominion of <placeName xml:id="temp0022"
                         ref="#K7637">Rome</placeName> the Great, from all the land of <placeName
-                        xml:id="d1e996" ref="#K8046">Egypt</placeName>, <placeName xml:id="d1e999"
-                        ref="#K2501">Palestine</placeName>, <placeName xml:id="d1e1003" ref="#K8822"
-                        >Greece</placeName>, <placeName xml:id="d1e1006" ref="#K6399"
-                        >France</placeName>, <placeName xml:id="recogito-b8f4095d-976b-4ac9-a258-65f575dd4434">Asia</placeName> and
-                        <placeName xml:id="d1e1013" ref="#K12708">England</placeName>. People of all
+                        xml:id="temp0023" ref="#K8046">Egypt</placeName>, <placeName xml:id="temp0024"
+                        ref="#K2501">Palestine</placeName>, <placeName xml:id="temp0025" ref="#K8822"
+                        >Greece</placeName>, <placeName xml:id="temp0026" ref="#K6399"
+                        >France</placeName>, <placeName xml:id="temp0027">Asia</placeName> and
+                        <placeName xml:id="temp0029" ref="#K12708">England</placeName>. People of all
                     nations are found there doing business through the medium of the Genoese and
                     Pisans. In the city there are scholars of great eminence, at their head being
                         <persName type="recogito-53080b53-1494-40e5-87ac-9799a36fd4af">R.
@@ -123,7 +123,7 @@
                     study of the Talmud. Among the community are men both rich and charitable, who
                     lend a helping hand to all that come to them. </seg><seg xml:id="GN1S8"> From
                         <placeName type="recogito-63527933-196a-4d3f-bb52-4cd9cd8cb316"
-                        >Montpellier</placeName> it is four parasangs to <placeName xml:id="d1e1049"
+                        >Montpellier</placeName> it is four parasangs to <placeName xml:id="temp0030"
                         ref="#K12204">Lunel</placeName>, in which there is a congregation of
                     Israelites, who study the Law day and night. Here lived <persName
                         type="recogito-f97e0294-cfd4-4e1c-bd8e-61ad6da49c39">Rabbenu
@@ -138,7 +138,7 @@
                         type="recogito-8526d747-eeee-4ac5-879f-eb0195bf439f">R. Asher</persName>,
                     the recluse, who dwells apart from the world; he pores over his books day and
                     night, fasts periodically and abstains from all meat<note n="11"/>. <pb n="4"/>
-                    He is a great scholar of the Talmud. At <placeName xml:id="recogito-b6674b38-f666-4a7c-9085-2a91b546e6b7">Lunel</placeName> live
+                    He is a great scholar of the Talmud. At <placeName xml:id="temp0031">Lunel</placeName> live
                     also their brother-in-law <persName
                         type="recogito-d6ec1933-480f-4bbe-a6a4-c98f0b8d9565">R. Moses</persName>,
                     the chief rabbi, <persName type="recogito-f61dfc0b-4e36-404e-b602-80e55589e532"
@@ -155,7 +155,7 @@
                     benevolence, who lend a helping hand to all their brethren both far and near.
                     The congregation consists of about 300 Jews--may the Lord preserve them.
                     </seg><seg xml:id="GN1S9"> From there it is two parasangs to <placeName
-                        xml:id="d1e1124" ref="#K7808">Posquières</placeName>, which is a large place
+                        xml:id="temp0032" ref="#K7808">Posquières</placeName>, which is a large place
                     containing about forty Jews, with an Academy under the auspices of the great
                     Rabbi, <persName type="recogito-e82edf47-7ba1-4add-a391-a647f3189613">R.
                         Abraham</persName>, son of David, of blessed memory, an energetic and wise
@@ -174,7 +174,7 @@
                         type="recogito-81254f93-efb3-4e8f-9f6c-bbe5c04c2074">R. Isaac</persName>,
                     son of <persName type="recogito-e3650641-4c9d-4d88-87c2-9952ae5395b8">R.
                         Meir</persName> of blessed memory. </seg><seg xml:id="GN1S10">Thence it is
-                    four parasangs to the suburb <gloss>Ghetto?</gloss> <placeName xml:id="d1e1172" ref="#K10262"
+                    four parasangs to the suburb <gloss>Ghetto?</gloss> <placeName xml:id="temp0034" ref="#K10262"
                         >Bourg de St. Gilles</placeName>, in which place there are about a hundred
                     Jews. Wise men abide there; at their head being <persName
                         type="recogito-e19bf217-2e85-4035-992c-67c72aaad800">R. Isaac</persName>,
@@ -193,9 +193,9 @@
                     son of rabbi <persName type="recogito-b8e995e0-bd79-4cd0-8825-836576cba525"
                         >Levi</persName> of blessed memory. This is a place of pilgrimage of the
                     Gentiles who come hither from the ends of the earth. It is only three miles from
-                    the sea, and is situated upon the great River <placeName xml:id="d1e1208"
+                    the sea, and is situated upon the great River <placeName xml:id="temp0035"
                         ref="#K2047">Rhone</placeName>, which flows through the whole land of
-                        <placeName xml:id="d1e1213" ref="#K8962">Provence</placeName>. Here dwells
+                        <placeName xml:id="temp0036" ref="#K8962">Provence</placeName>. Here dwells
                     the illustrious <persName type="recogito-aa6d2d1e-c37f-4f7a-80d9-cd36837d919e"
                         >R. Abba Mari</persName>, son of the late <persName
                         type="recogito-2efaa347-0685-4cc3-9211-a93bbac20c89">R. Isaac</persName>; he
@@ -203,7 +203,7 @@
                         type="recogito-ececf11b-fff2-4eec-afeb-99b8fa5bf17b">Raymond</persName><note
                         n="14"/>. <pb n="6"/>
                 </seg><seg xml:id="GN1S11"> Thence it is three parasangs to the city of <placeName
-                        xml:id="d1e1228" ref="#K7224">Arles</placeName>, which has about 200
+                        xml:id="temp0037" ref="#K7224">Arles</placeName>, which has about 200
                     Israelites, at their head being <persName
                         type="recogito-5a76f0d8-fadf-42cd-8eea-d948e84ab60a">R. Moses</persName>,
                         <persName type="recogito-766aeb1f-b21f-49ef-b6e9-8c53df5d2cf2">R.
@@ -214,10 +214,10 @@
                         type="recogito-85fc889b-1a79-4237-8295-6d82ace9bdd8">R. Nathan</persName>,
                     and <persName type="recogito-110249ad-4e7e-4953-ad04-98ced9efc81e">R. Abba
                         Mari</persName>, since deceased<note n="15"/>. </seg><seg xml:id="GN1S12">
-                    From there it is two days' journey to <placeName xml:id="d1e1251" ref="#K7085"
+                    From there it is two days' journey to <placeName xml:id="temp0038" ref="#K7085"
                         >Marseilles</placeName><note n="16"/>, which is a city of princely and wise
                     citizens, possessing two congregations with about 300 Jews. One congregation
-                    dwells below on the shore by the sea, the other is in the <placeName xml:id="d1e1263" type="building" >castle</placeName> above. They
+                    dwells below on the shore by the sea, the other is in the <placeName xml:id="temp0039" type="building" >castle</placeName> above. They
                     form a great academy of learned men, amongst them being <persName
                         type="recogito-14bcc01b-8126-4f87-8e15-0d7c60719ea6">R. Simeon</persName>,
                         <persName type="recogito-8b92be0a-b120-45d1-adba-afd5c2419e37">R.
@@ -242,26 +242,26 @@
                         >R. Meir</persName>. It is a very busy city upon the sea-coast. </seg>
                 <pb n="7"/></ab>
             <ab xml:id="GeoNar2">
-                <seg xml:id="GN2S1"> From <placeName xml:id="recogito-e1cd4813-0c52-48b5-8fad-97311e502572">Marseilles</placeName>
-                    one can take ship and in four days reach <placeName xml:id="d1e1305" ref="#K877"
+                <seg xml:id="GN2S1"> From <placeName xml:id="temp0040">Marseilles</placeName>
+                    one can take ship and in four days reach <placeName xml:id="temp0041" ref="#K877"
                         >Genoa</placeName>, which is also upon the sea. Here live two Jews,
                         <persName type="recogito-71bc3035-a350-4510-a2f3-ef31c1867ed6">R.
                         Samuel</persName>, son of <persName
                         type="recogito-e78d688b-b3f8-4a3f-ba39-d08074be0a55">Salim</persName>, and
-                    his brother, from the city of <placeName xml:id="d1e1316" ref="#K8782"
+                    his brother, from the city of <placeName xml:id="temp0042" ref="#K8782"
                         >Ceuta</placeName>, both of them good men. The city is surrounded by a wall,
                     and the inhabitants are not governed by any king, but by judges whom they
                     appoint at their pleasure. Each householder has a tower to his house, and at
                     times of strife they fight from the tops of the towers with each other. They
                     have command of the sea. They build ships which they call galleys, and make
-                    predatory attacks upon Edom and Ishmael<note n="19"/> and the land of <placeName xml:id="recogito-27f7e65e-e7cd-4ab5-b61c-d14f1afb7e44" ana="notinAsher">Greece</placeName> as
+                    predatory attacks upon Edom and Ishmael<note n="19"/> and the land of <placeName xml:id="temp0043" ana="notinAsher">Greece</placeName> as
                     far as <placeName type="recogito-d4f26233-69bf-4877-ad36-8893015818f9"
-      ana="notinAsher"                  >Sicily</placeName>, and they bring back to <placeName xml:id="d1e1337"
+      ana="notinAsher"                  >Sicily</placeName>, and they bring back to <placeName xml:id="temp0044"
                         ref="#K877">Genoa</placeName> spoils from all these places. They are
-                    constantly at war with the men of <placeName xml:id="d1e1340" ref="#K251"
+                    constantly at war with the men of <placeName xml:id="temp0045" ref="#K251"
                         >Pisa</placeName>. Between them and the Pisans there is a distance of two
                     days' journey. </seg><seg xml:id="GN2S2">
-                    <placeName xml:id="d1e1345" ref="#K251">Pisa</placeName> is a very great city,
+                    <placeName xml:id="temp0046" ref="#K251">Pisa</placeName> is a very great city,
                     with about 10,000 turreted houses for battle at times of strife. All its
                     inhabitants are mighty men. They possess neither king nor prince to govern them,
                     but only the judges appointed by themselves. In this city are about twenty Jews,
@@ -272,9 +272,9 @@
                         type="recogito-f823c16e-a783-4daa-930b-ae925eeb2aba">R. Joseph</persName>.
                     The city is not surrounded by a wall. It is about six miles from the sea; the
                     river which flows through the city provides it with ingress and egress for
-                    ships. </seg><seg xml:id="GN2S3"> From <placeName xml:id="recogito-5ea8c6d8-3228-4839-9f69-ae6e9671cba6">Pisa</placeName> it is
-                    four parasangs to the city of <placeName xml:id="d1e1380" ref="#K6491"
-                        >Lucca</placeName>, which is the beginning of the frontier of <placeName xml:id="recogito-be2f8afc-dee0-4d42-894a-4aa4e5d05c93">Lombardy</placeName>.
+                    ships. </seg><seg xml:id="GN2S3"> From <placeName xml:id="temp0047">Pisa</placeName> it is
+                    four parasangs to the city of <placeName xml:id="temp0048" ref="#K6491"
+                        >Lucca</placeName>, which is the beginning of the frontier of <placeName xml:id="temp0049">Lombardy</placeName>.
                     In the city of <placeName type="recogito-52fa46da-8fd6-41b1-b92c-8c5e8755c0c3"
                         >Lucca</placeName> are about forty Jews. It is a large place, and at the
                     head of the Jews are <persName
@@ -285,8 +285,8 @@
                         <pb n="8"/></seg>
             </ab>
             <ab xml:id="GeoNar3"><seg xml:id="GN3S1"> Thence it is six days' journey to the great
-                    city of <placeName type="d1e1400"
-                        >Rome</placeName>. <placeName xml:id="recogito-4185b758-7a04-43a9-a472-696be10ab094" ana="verbose">Rome</placeName> is the
+                city of <placeName type="temp0050"
+                        >Rome</placeName>. <placeName xml:id="temp0050b" ana="verbose">Rome</placeName> is the
                     head of the kingdoms of Christendom, and contains about 200 Jews, who occupy an
                     honourable position and pay no tribute, and amongst them are officials of the
                         <persName type="recogito-954bf9aa-98f5-4549-85dd-9ec5918bf41f">Pope
@@ -310,15 +310,15 @@
                         >Trastevere</placeName>, and <persName
                         type="recogito-538c4e7f-3ee5-48d6-a5f7-74c166368b56">R. Benjamin</persName>,
                     son of <persName type="recogito-af8fdcc4-42f1-4b00-8ac7-8195a6ab818a">R.
-                        Shabbethai</persName> of blessed memory. <placeName xml:id="d1e1400"
+                        Shabbethai</persName> of blessed memory. <placeName xml:id="temp0051"
                         >Rome</placeName> is divided into two parts by the River <placeName
-                        xml:id="d1e1450">Tiber</placeName>. In the one part is the great church
-                    which they call <placeName xml:id="d1e1459">St. Peter's of Rome</placeName>. The
-                    great <placeName xml:id="d1e1484" cert="unknown">Palace of Julius
-                        Caesar</placeName> was also in <placeName xml:id="other">Rome</placeName><note
+                        xml:id="temp0052">Tiber</placeName>. In the one part is the great church
+                    which they call <placeName xml:id="temp0053">St. Peter's of Rome</placeName>. The
+                    great <placeName xml:id="temp0054" cert="unknown">Palace of Julius
+                        Caesar</placeName> was also in <placeName xml:id="temp0055">Rome</placeName><note
                         n="22"/>. <pb n="9"/> There are many wonderful structures in the city,
                     different from any others in the world. Including both its inhabited and ruined
-                    parts, <placeName xml:id="recogito-5111d81a-b0f3-45bc-80c2-ad95659813d3">Rome</placeName> is about twenty-four
+                    parts, <placeName xml:id="temp0056">Rome</placeName> is about twenty-four
                     miles in circumference. In the midst thereof<note n="23"/> there are eighty
                     palaces belonging to eighty kings who lived there, each called Imperator,
                     commencing from King Tarquinius down to <persName
@@ -328,15 +328,15 @@
                         type="recogito-e650a28b-f4ef-4444-9b3c-4c0a1844b2da">Jesus</persName> the
                     Nazarene, ending with <persName
                         type="recogito-d0266f9a-e753-4387-88ab-098733805c81">Pepin</persName>, who
-                    freed the land of <placeName xml:id="setalsoinAsher" ana="hasparallel">Sepharad</placeName> from
+                    freed the land of <placeName xml:id="temp0057" ana="hasparallel">Sepharad</placeName> from
                     Islam, and was father of <persName
                         type="recogito-76f977f8-cee4-4a1e-abaf-01f42e41dfd4">Charlemagne</persName>.
-                    There is a <placeName xml:id="d1e1484b" type="היכל"  >palace</placeName> outside <placeName xml:id="recogito-e3053f11-fd90-4fc1-98de-3d44d4663727">Rome</placeName> <gloss>said
+                    There is a <placeName xml:id="temp0058" type="היכל"  >palace</placeName> outside <placeName xml:id="temp0059">Rome</placeName> <gloss>said
                     to be of Titus</gloss>. The Consul and his 300 Senators treated him with disfavour,
-                    because he failed to take <placeName xml:id="d1e1494">Jerusalem</placeName> till
+                    because he failed to take <placeName xml:id="temp0060">Jerusalem</placeName> till
                     after three years, though they had bidden him to capture it within two<note
                         n="24"/>. In <placeName type="recogito-4a61af5c-dc1f-4ee1-b8fa-9073f8f48d34"
-                        >Rome</placeName> is also the <placeName xml:id="d1e1499" cert="unknown"
+                        >Rome</placeName> is also the <placeName xml:id="temp0061" cert="unknown"
                         >palace of Vespasianus</placeName>, a great and very strong building; also
                     the <placeName type="recogito-10806a99-a469-4cad-a39b-2f3c39b95e8b"
                         >Colosseum</placeName><note n="25"/>, in which edifice there are 365
@@ -346,36 +346,36 @@
                     piled up to the present day. <pb n="10"/> The king caused to be engraved a
                     representation of the battle and of the forces on either side facing one
                     another, both warriors and horses, all in marble, to exhibit to the world the
-                    war of the days of old. In <placeName xml:id="recogito-9fd647c1-abb4-4643-a505-74169d545333">Rome</placeName> there
-                    is a <placeName xml:id="d1e1534" cert="unknown">cave which runs
-                        underground</placeName>, and <placeName xml:id="recogito-773221f5-9ec1-4af3-ac70-247c76eb5665" cert="unknown"
+                    war of the days of old. In <placeName xml:id="temp0062">Rome</placeName> there
+                    is a <placeName xml:id="temp0063" cert="unknown">cave which runs
+                        underground</placeName>, and <placeName xml:id="temp0064" cert="unknown"
                         >catacombs</placeName> of King <persName
                         type="recogito-d1de0d2e-1488-413b-8c04-20b39b9e3daf">Tarmal
                         Galsin</persName> and his royal consort who are to be found there, seated
                     upon their thrones, and with them about a hundred royal personages. They are all
-                    embalmed and preserved to this day. In the <placeName xml:id="d1e1550">church of
+                    embalmed and preserved to this day. In the <placeName xml:id="temp0065">church of
                         St. John in the Lateran</placeName> there are two bronze columns taken from
                     the Temple, the handiwork of King <persName
                         type="recogito-4b157039-1b94-45a8-9460-0ccde7112460">Solomon</persName>,
-                    each column being engraved "Solomon the son of David." The Jews of <placeName xml:id="recogito-ae0541ea-01b1-4d33-b874-5ffa35c4db20">Rome</placeName> told
+                    each column being engraved "Solomon the son of David." The Jews of <placeName xml:id="temp0066">Rome</placeName> told
                     me that every year upon the 9th of Ab they found the columns exuding moisture
-                    like water. There also is the <placeName xml:id="d1e1569" >cave</placeName> where Titus the son of Vespasianus stored the
-                    Temple vessels which he brought from <placeName xml:id="d1e1576"
-                        >Jerusalem</placeName>. There is also a <placeName xml:id="d1e1579" >cave</placeName> in a hill on one bank of the
-                    River <placeName xml:id="d1e1582">Tiber</placeName> where are the graves of the
+                    like water. There also is the <placeName xml:id="temp0067" >cave</placeName> where Titus the son of Vespasianus stored the
+                    Temple vessels which he brought from <placeName xml:id="temp0068"
+                        >Jerusalem</placeName>. There is also a <placeName xml:id="temp0069" >cave</placeName> in a hill on one bank of the
+                    River <placeName xml:id="temp0070">Tiber</placeName> where are the graves of the
                     ten martyrs<note n="26"/>. <pb n="11"/> In front of <placeName
-                        xml:id="setnewinAshertoo"
+                        xml:id="temp0071"
                         type="recogito-f89f5b0e-a90e-46db-9dd1-39d0ecfbd91f">St. John in the
                         Lateran</placeName> there are statues of Samson in marble, with a spear in
                     his hand, and of Absalom the son of King David, and another of Constantinus the
-                    Great, who built <placeName xml:id="d1e1601">Constantinople</placeName> and
+                    Great, who built <placeName xml:id="temp0073">Constantinople</placeName> and
                     after whom it was called. The last-named statue is of bronze, the horse being
                     overlaid with gold<note n="27"/>. Many other edifices are there, and remarkable
                     sights beyond enumeration.</seg>
             </ab>
             <ab xml:id="GeoNar4">
-                <seg xml:id="GN4S1"> From <placeName xml:id="recogito-5cc8b240-e252-4a13-b5d0-69268e62f5a3" ref="#K440"
-                        >Rome</placeName> it is four days to <placeName xml:id="d1e1615"
+                <seg xml:id="GN4S1"> From <placeName xml:id="temp0076" ref="#K440"
+                        >Rome</placeName> it is four days to <placeName xml:id="temp0077"
                         ref="#K6800">Capua</placeName>, the large town which King Capys built. It is
                     a fine city, but its water is bad, and the country is fever-stricken<note n="28"
                     />. About 300 Jews live there, among them great scholars and esteemed persons,
@@ -387,8 +387,8 @@
                     the chief rabbi <persName type="recogito-9988a1fb-f95b-4692-8f35-1f37111468a5"
                         >R. David</persName>, since deceased. They call this district the
                     Principality. </seg>
-                <seg xml:id="GN4S2">From there one goes to <placeName xml:id="d1e1647" ref="#K9790"
-                        >Pozzuoli</placeName> which is called <placeName xml:id="d1e1650"
+                <seg xml:id="GN4S2">From there one goes to <placeName xml:id="temp0078" ref="#K9790"
+                        >Pozzuoli</placeName> which is called <placeName xml:id="temp0079"
                         ref="#K9809">Sorrento</placeName> the Great, built by <persName
                         type="recogito-feb07959-3a9d-45bc-9c8a-083c277d5281">Zur</persName>, son of
                         <persName type="recogito-e55be608-23b5-40cd-9758-ac3733086a93"
@@ -400,17 +400,17 @@
                     of the water and use it medicinally. There are also hot-water springs to the
                     number of about twenty, which issue from the ground and are situated near the
                     sea, and every man who has any disease can go and bathe in them and get cured.
-                    All the afflicted of <placeName xml:id="d1e1685" ref="#K10968"
+                    All the afflicted of <placeName xml:id="temp0080" ref="#K10968"
                         >Lombardy</placeName> visit it in the summer-time for that purpose. </seg>
                 <seg xml:id="GN4S3">From this place a man can travel fifteen miles along a road
                     under the mountains, a work executed by King <persName
                         type="recogito-68c8ccc3-8fd3-4049-ab82-635c83e53ce1">Romulus</persName> who
-                    built the city of <placeName xml:id="d1e1697" ref="#K440">Rome</placeName>. He
+                    built the city of <placeName xml:id="temp0081" ref="#K440">Rome</placeName>. He
                     was prompted to this by fear of King David and <persName
                         type="recogito-8dda1a92-f39d-4001-848c-1e15b8e21e48">Joab</persName> his
                         general<note n="30"/>. He built fortifications both upon the mountains and
                     below the mountains reaching as far as the city of <placeName ref="#K673"
-                        >Naples</placeName>. <placeName xml:id="d1e1709" ref="#K673"
+                        >Naples</placeName>. <placeName xml:id="temp0082" ref="#K673"
                         >Naples</placeName> is a very strong city, lying upon the sea-board, and was
                     founded by the Greeks. About 500 Jews live here, amongst them <persName
                         type="recogito-92a1442c-3229-4d24-8714-a56b06d2c44b">R. Hezekiah</persName>,
@@ -421,14 +421,14 @@
                         type="recogito-5c4e2491-ff27-43d0-99f0-32d571c91fc3">R. Isaac of Har
                         Napus</persName>, the chief rabbi of blessed memory.</seg>
                 <seg xml:id="GN4S4">Thence one proceeds by sea to the city of <placeName
-                        xml:id="d1e1733" ref="#K6373">Salerno</placeName>, where the Christians have
+                        xml:id="temp0083" ref="#K6373">Salerno</placeName>, where the Christians have
                     a school of medicine. About 600 Jews dwell there. <pb n="13"/> Among the
                     scholars are <persName type="recogito-5ac27e72-d766-49bd-bc56-4f56e7ca9385">R.
                         Judah</persName>, son of <persName
                         type="recogito-4e0007f9-14f2-4818-9566-a41dd9f25c96">R. Isaac</persName>,
                     the son of <persName type="recogito-6288f733-f85b-41b2-b40b-3bb8e3290437"
                         >Melchizedek</persName>, the great Rabbi<note n="31"/>, who came from the
-                    city of <placeName xml:id="d1e1747" ref="#K7024">Siponto</placeName>; also
+                    city of <placeName xml:id="temp0084" ref="#K7024">Siponto</placeName>; also
                         <persName type="recogito-35008ca2-01ed-4240-beff-5108ffeb7b0b">R.
                         Solomon <gloss>the Cohen</gloss></persName>, <persName
                         type="recogito-18dad899-2b35-46ae-9dc8-8d3d56e7629b">R. Elijah</persName>
@@ -437,7 +437,7 @@
                         type="recogito-22811582-5fd4-46ba-a3ef-27ee6386e09a">R. Hamon</persName>. It
                     is a city with walls upon the land side, the other side bordering on the sea and
                     there is a very strong castle on the summit of the hill.</seg>
-                <seg xml:id="GN4S5">Thence it is half a day's journey to <placeName xml:id="d1e1765"
+                <seg xml:id="GN4S5">Thence it is half a day's journey to <placeName xml:id="temp0085"
                         ref="#K6262">Amalfi</placeName>, where there are about twenty Jews, amongst
                     them <persName type="recogito-396c6f00-efc5-42a3-b34f-c6957508a2cc">R.
                         Hananel</persName>, the physician, <persName
@@ -447,7 +447,7 @@
                     crags, but buy everything for money. Nevertheless, they have an abundance of
                     fruit, for it is a land of vineyards and olives, of gardens and plantations, and
                     no one can go to war with them.</seg>
-                <seg xml:id="GN4S6"> Thence it is a day's journey to <placeName xml:id="d1e1793"
+                <seg xml:id="GN4S6"> Thence it is a day's journey to <placeName xml:id="temp0086"
                         ref="#K6449">Benevento</placeName>, which is a city situated between the
                     sea-coast and a mountain, and possessing a community of about 200 Jews. At their
                     head are <persName type="recogito-de8beb38-7da3-4905-b5a3-52a2462ff84e">R.
@@ -456,24 +456,24 @@
                     and <persName type="recogito-260771f0-7fd8-439a-a7ea-a3c853044548">R.
                         Abraham</persName>.</seg>
                 <seg xml:id="GN4S7">From there it is two days' journey to <placeName
-                        xml:id="d1e1812" ref="#K12281">Melfi</placeName> in the country of
-                        <placeName xml:id="d1e1815" ref="#K7555">Apulia</placeName>, which is the
-                    land of <placeName xml:id="d1e1818" >Pul</placeName><note n="32"/>, where about 200 Jews reside, at their head being
+                        xml:id="temp0087" ref="#K12281">Melfi</placeName> in the country of
+                        <placeName xml:id="temp0088" ref="#K7555">Apulia</placeName>, which is the
+                    land of <placeName xml:id="temp0089" >Pul</placeName><note n="32"/>, where about 200 Jews reside, at their head being
                         <persName type="recogito-57cdf8e0-233f-4e73-8f94-35a2092e90f8">R.
                         Achimaaz</persName>, <persName
                         type="recogito-3e834395-75e8-48b0-84d7-6ca33938fda7">R. Nathan</persName>,
                     and <persName type="recogito-c3987edc-2f8a-4ffd-84e4-16885f642973">R.
-                        Isaac</persName>. <pb n="14"/></seg><seg xml:id="GN4S8"> From <placeName xml:id="recogito-e02fb149-7c04-4c5b-a7b0-c4118594aed3" ref="#K12281"
+                        Isaac</persName>. <pb n="14"/></seg><seg xml:id="GN4S8"> From <placeName xml:id="temp0090" ref="#K12281"
                         >Melfi</placeName> it is about a day's journey to <placeName
-                        xml:id="d1e1837" ref="#GN3182747">Ascoli</placeName>, where there are about
+                        xml:id="temp0091" ref="#GN3182747">Ascoli</placeName>, where there are about
                     forty Jews, at their head being <persName
                         type="recogito-9a40bbda-3e81-42e8-a4a7-e6ec211039de">R. Consoli</persName>,
                         <persName type="recogito-151091c3-9989-4429-b8fd-b7b831e6707b">R.
                         Zemach</persName>, his son-in-law, and <persName
                         type="recogito-fcd40018-83bb-4453-acc4-fda34f034bc4">R.
                     Joseph</persName>.</seg><seg xml:id="GN4S9"> From there it takes two days to
-                        <placeName xml:id="d1e1852" ref="#K7879">Trani</placeName> on the sea, where
-                    all the pilgrims gather to go to <placeName xml:id="d1e1859" ref="#K691"
+                        <placeName xml:id="temp0092" ref="#K7879">Trani</placeName> on the sea, where
+                    all the pilgrims gather to go to <placeName xml:id="temp0093" ref="#K691"
                         >Jerusalem</placeName>; for the port is a convenient one. A community of
                     about 200 Israelites is there, at their head being <persName
                         type="recogito-879c0460-070c-43b7-8841-495fed0845d0">R. Elijah</persName>,
@@ -481,16 +481,16 @@
                         Nathan</persName>, the expounder, and <persName
                         type="recogito-774ffdb6-4a22-4f6b-9d07-f94f89e0c637">R. Jacob</persName>. It
                     is a great and beautiful city.</seg>
-                <seg xml:id="GN4S10">From there it is a day's journey to <placeName xml:id="d1e1880"
+                <seg xml:id="GN4S10">From there it is a day's journey to <placeName xml:id="temp0094"
                         ref="#K7504">Colo di Bari</placeName>, which is the great city which King
                         <persName xml:id="d1e1887"
                         type="recogito-6fd82bdc-c656-4383-bfe2-28a2df39a31c">William</persName> of
                         <placeName type="recogito-8a4d6131-4b0c-490e-bf42-62daf2a574ca" ref="#K6284"
                         >Sicily</placeName> destroyed<note n="33"/>. Neither Jews nor Gentiles live
                     there at the present day in consequence of its destruction.</seg><seg
-                    xml:id="GN4S11"> Thence it is a day and a half to <placeName xml:id="d1e1898"
+                    xml:id="GN4S11"> Thence it is a day and a half to <placeName xml:id="temp0095"
                         ref="#K8176">Taranto</placeName>, which is under the government of
-                        <placeName xml:id="d1e1903" ref="#K7660">Calabria</placeName>, the
+                        <placeName xml:id="temp0096" ref="#K7660">Calabria</placeName>, the
                     inhabitants of which are Greek<note n="34"/>. It is a large city, and contains
                     about 300 Jews, some of them men of learning, and at their head are <persName
                         type="recogito-e30c78a9-820c-4813-8b7d-e00fa9e9ef43">R. Meir</persName>,
@@ -498,13 +498,13 @@
                         Nathan</persName>, and <persName
                         type="recogito-a7ecdfd9-c37b-4da0-ad74-7581a86e845c">R.
                     Israel</persName>.</seg>
-                <seg xml:id="GN4S12">From <placeName xml:id="recogito-0c5a5cad-6048-475a-b55d-a5b37ac8aed5" ref="#K8176"
-                        >Taranto</placeName> it is a day's journey to <placeName xml:id="d1e1922"
+                <seg xml:id="GN4S12">From <placeName xml:id="temp0097" ref="#K8176"
+                        >Taranto</placeName> it is a day's journey to <placeName xml:id="temp0098"
                         ref="#K11068">Brindisi</placeName>, which is on the sea coast. <pb n="15"/>
                     About ten Jews, who are dyers, reside here.</seg>
             </ab>
             <ab xml:id="GeoNar5"><seg xml:id="GN5S1">It is two days' journey to <placeName
-                        xml:id="d1e1935" ref="#K7029">Otranto</placeName>, which is on the coast of
+                        xml:id="temp0099" ref="#K7029">Otranto</placeName>, which is on the coast of
                     the Greek sea. Here are about 500 Jews, at the head of them being <persName
                         type="recogito-444b1a02-0d94-4a66-90fb-fc0467287cfd">R. Menachem</persName>,
                         <persName type="recogito-7b266dd2-4b25-4043-b5d7-024f8e4b3b26">R.
@@ -512,13 +512,13 @@
                         type="recogito-33be14bc-0ec0-4636-873d-cebbba042b61">R. Meir</persName>, and
                         <persName type="recogito-01c80aa3-e5f5-4d9b-8239-6723623ec1e5">R.
                         Mali</persName>.</seg>
-                <seg xml:id="GN5S2">From <placeName xml:id="recogito-9f312011-cb07-48c2-8217-d73e583965d8" ref="#K7029"
+                <seg xml:id="GN5S2">From <placeName xml:id="temp0101" ref="#K7029"
                         >Otranto</placeName> it is a voyage of two days to <placeName
-                        xml:id="d1e1961" ref="#K1039">Corfu</placeName>, where only one Jew of the
+                        xml:id="temp0102" ref="#K1039">Corfu</placeName>, where only one Jew of the
                     name of <persName type="recogito-069edffa-cf8d-41d2-9860-715ac7f57314">R.
-                        Joseph</persName> lives, and here ends the kingdom of <placeName xml:id="recogito-451c04d3-de42-4b9a-a517-de0e778e2b04">Sicily</placeName>.</seg>
+                        Joseph</persName> lives, and here ends the kingdom of <placeName xml:id="temp0103">Sicily</placeName>.</seg>
                 <seg xml:id="GN5S3">Thence it is two days' voyage to the land of <placeName
-                    xml:id="d1e1975">Larta <gloss>Arta</gloss></placeName>, which is the beginning of the dominions of <persName
+                    xml:id="temp0104">Larta <gloss>Arta</gloss></placeName>, which is the beginning of the dominions of <persName
                         type="recogito-71df488a-77c7-4c88-b102-ada594b7122d">Emanuel</persName>,
                     Sovereign of the Greeks. It is a place containing about 100 Jews, at their head
                     being <persName type="recogito-16507f57-601a-4fa0-a3e7-b025ccabc606">R.
@@ -531,10 +531,10 @@
                     Jews, at their head being <persName
                         type="recogito-e5dc6d48-b72f-41eb-b4dd-487e768341dd">R.
                     Sabbattai</persName>.</seg>
-                <seg xml:id="GN5S5">From there it takes half a day to <placeName xml:id="d1e2002"
+                <seg xml:id="GN5S5">From there it takes half a day to <placeName xml:id="temp0106"
                         ref="#GN265507">Anatolica</placeName>, which is situated on an arm of the
                         sea<note n="36"/>. </seg><seg xml:id="GN5S6"> From there it takes a day to
-                        <placeName xml:id="d1e2008" ref="#K12768">Patras</placeName>, which is the
+                        <placeName xml:id="temp0107" ref="#K12768">Patras</placeName>, which is the
                     city which <persName type="recogito-2342303a-04f5-4504-9cbf-4004e9d41fac"
                         >Antipater</persName><note n="37"/>, King of the Greeks, built. He was one
                     of the four successors of King <persName
@@ -547,7 +547,7 @@
                         type="recogito-673b3617-a345-46d9-bf9d-2caa90f9809c">R.
                     Samuel</persName>.</seg>
                 <seg xml:id="GN5S7">Half a day's journey by way of the sea takes one to <placeName
-                        xml:id="d1e2039" ref="#K21742">Kifto <gloss>Lepanto</gloss></placeName><note n="38"/>,
+                        xml:id="temp0108" ref="#K21742">Kifto <gloss>Lepanto</gloss></placeName><note n="38"/>,
                     where there are about 100 Jews, who live on the sea-coast; at their head are
                         <persName type="recogito-0fa1e256-2305-419b-a1ba-a960871f0d74">R.
                         Guri</persName>, <persName
@@ -555,7 +555,7 @@
                     and <persName type="recogito-66622107-afd4-4900-95c5-7d376eb87334">R.
                         Abraham</persName>.</seg>
                 <seg xml:id="GN5S8">From there it is a journey of a day and a half to <placeName
-                        xml:id="d1e2058" ref="#GN259862">Crissa</placeName>, where about 200 Jews
+                        xml:id="temp0109" ref="#GN259862">Crissa</placeName>, where about 200 Jews
                     live apart. They sow and reap on their own land; at their head are <persName
                         type="recogito-1f8efea1-b903-4f2d-8b1a-92bf8af33f83">R. Solomon</persName>,
                         <persName type="recogito-0216496f-a133-4801-ad69-9e92d6c70c5d">R.
@@ -563,7 +563,7 @@
                         type="recogito-82e98c2a-efa1-429c-af2f-1e71a288a18b">R.
                     Jedaiah</persName>.</seg>
                 <seg xml:id="GN5S9">From there it is three days' journey to the capital city of
-                        <placeName xml:id="d1e2082" ref="#GN259289">Corinth</placeName>; here are
+                        <placeName xml:id="temp0111" ref="#GN259289">Corinth</placeName>; here are
                     about 300 Jews, at their head being <persName
                         type="recogito-1acacfba-9329-433a-9056-87891061212f">R. Leon</persName>,
                         <persName type="recogito-422a9b00-3b8f-47da-9653-9f997bea07aa">R.
@@ -571,9 +571,9 @@
                         type="recogito-dd89d551-46eb-480c-baa5-a3e0eddfc2bc">R.
                     Hezekiah</persName>.</seg>
                 <seg xml:id="GN5S10">Thence it is two days' journey to the great city of <placeName
-                        xml:id="d1e2101" ref="#K14830">Thebes</placeName>, where there are about
+                        xml:id="temp0112" ref="#K14830">Thebes</placeName>, where there are about
                     2,000 Jews. They are the most skilled artificers in silk and purple cloth
-                    throughout <placeName xml:id="d1e2132" ref="#K8822">Greece</placeName>. They
+                    throughout <placeName xml:id="temp0113" ref="#K8822">Greece</placeName>. They
                     have scholars learned in the Mishnah and the Talmud, and other prominent men,
                     and at their head are the chief rabbi <persName
                         type="recogito-a53fbf21-6c78-4804-9282-8089b203742f">R. Kuti</persName> and
@@ -584,9 +584,9 @@
                         Tirutot</persName>, and <persName
                         type="recogito-a04dd4c7-0d26-446f-bd06-9e123fb61e6d">R. Joktan</persName>;
                     and there are none like them in the land of the Greeks, except in the city of
-                        <placeName xml:id="d1e2136" ref="#K6927">Constantinople</placeName>.</seg>
-                <seg xml:id="GN5S11"><pb n="17"/> From <placeName xml:id="recogito-56aba61c-98ca-41ff-a5a7-a005749e82f5" ref="#K14830"
-                         ana="verbose">Thebes</placeName> it is a day's journey to <placeName xml:id="d1e2140"
+                        <placeName xml:id="temp0114" ref="#K6927">Constantinople</placeName>.</seg>
+                <seg xml:id="GN5S11"><pb n="17"/> From <placeName xml:id="temp0115" ref="#K14830"
+                         ana="verbose">Thebes</placeName> it is a day's journey to <placeName xml:id="temp0116"
                         ref="#K14277">Egripo</placeName><note n="39"/>, which is a large city upon
                     the sea-coast, where merchants come from every quarter. About 200 Jews live
                     there, at their head being <persName
@@ -595,7 +595,7 @@
                         type="recogito-e6832b2d-f204-4eee-b575-f32f66f1939d">R. Emanuel</persName>,
                     and <persName type="recogito-54a0ecfd-17e9-4d01-88d0-1c3bb2e1600d">R.
                         Caleb</persName>.</seg>
-                <seg xml:id="GN5S12">From there it takes a day to <placeName xml:id="d1e2163"
+                <seg xml:id="GN5S12">From there it takes a day to <placeName xml:id="temp0117"
                         ref="#GN258577">Jabustrisa</placeName>, which is a city upon the sea-coast
                     with about 100 Jews, at their head being <persName
                         type="recogito-d04215db-68c3-4b19-91fc-5adb52a95d81">R. Joseph</persName>,
@@ -607,32 +607,32 @@
                         type="recogito-975f3fcc-9269-4f37-b5cd-14ec81fc900b">R.
                     Nethaniah</persName>.</seg>
                 <seg xml:id="GN5S13"> From there it is a day's journey to <placeName
-                        xml:id="d1e2181" ref="#GN261211">Rabonica</placeName>, where there are about
+                        xml:id="temp0118" ref="#GN261211">Rabonica</placeName>, where there are about
                     100 Jews, at their head being <persName
                         type="recogito-19285c3b-f8dd-4bf6-8eed-680c84c8ac3d">R. Joseph</persName>,
                         <persName type="recogito-4bf5e9f7-ff40-4a37-bd53-71dc8bb14e75">R.
                         Elazar</persName>, and <persName
                         type="recogito-ab538fab-9064-4fce-9f37-eb1d4df342f4">R.
                     Isaac</persName>.</seg>
-                <seg xml:id="GN5S14">From there it is a day's journey to <placeName xml:id="d1e2199"
+                <seg xml:id="GN5S14">From there it is a day's journey to <placeName xml:id="temp0119"
                         ref="#GN258620">Sinon Potamo</placeName>, where there are about fifty Jews,
                     at their head being <persName
                         type="recogito-cd3ce17e-0d0b-4789-a901-1f1b6b59cb20">R. Solomon</persName>
                     and <persName type="recogito-c60b83e0-4074-475f-b852-15871f94b8ec">R.
                         Jacob</persName>. The city is situated at the foot of the hills of
-                        <placeName xml:id="d1e2213" ref="#K9259">Wallachia</placeName>. The nation
+                        <placeName xml:id="temp0120" ref="#K9259">Wallachia</placeName>. The nation
                     called Wallachians live in those mountains. They are as swift as hinds, and they
                     sweep down from the mountains to despoil and ravage the land of <placeName
-                        xml:id="d1e2222" ref="#K8822">Greece</placeName>. No man can go up and do
+                        xml:id="temp0121" ref="#K8822">Greece</placeName>. No man can go up and do
                     battle against them, and no king can rule over them. They do not hold fast to
                     the faith of the Nazarenes, but give themselves Jewish names. <pb n="18"/> Some
                     people say that they are Jews, and, in fact, they call the Jews their brethren,
                     and when they meet with them, though they rob them, they refrain from killing
                     them as they kill the Greeks. They are altogether lawless<note n="40"/>.</seg>
                 <seg xml:id="GN5S15"> From there it is two days' journey to <placeName
-                        xml:id="d1e2246" ref="#GN255638">Gardiki</placeName>, which is in ruins and
+                        xml:id="temp0122" ref="#GN255638">Gardiki</placeName>, which is in ruins and
                     contains but a few Greeks and Jews. </seg><seg xml:id="GN5S16">From there it is
-                    two days' journey to <placeName xml:id="d1e2255" cert="unknown" ref="#BJ5"
+                    two days' journey to <placeName xml:id="temp0123" cert="unknown" ref="#BJ5"
                         >Armylo</placeName>, which is a large city on the sea, inhabited by
                     Venetians, Pisans, Genoese, and all the merchants who come there; it is an
                     extensive place, and contains about 400 Jews. At their head are the chief rabbi
@@ -641,7 +641,7 @@
                         type="recogito-cde2bdd3-47cf-48ac-8b72-ac92df6eb1e4">R. Joseph</persName>,
                     the warden, and <persName type="recogito-0200c629-0784-49e4-bb07-db7054aec047"
                         >R. Solomon</persName>, the leading man.</seg>
-                <seg xml:id="GN5S17">Thence it is a day's journey to <placeName xml:id="d1e2280"
+                <seg xml:id="GN5S17">Thence it is a day's journey to <placeName xml:id="temp0124"
                         cert="unknown" ref="#BJ9">Vissena</placeName>, where there are about 100
                     Jews, at their head being the chief rabbi <persName
                         type="recogito-388b80ad-a8a5-4111-9204-6e0cfb904cdc">R.
@@ -649,7 +649,7 @@
                         type="recogito-88eedf65-b51c-499c-b548-fcfc7a89d8c2">R. Solomon</persName>,
                     and <persName type="recogito-9f2a8b3f-49fd-4caf-b423-28ff7995cc19">R.
                         Jacob</persName>. </seg><seg xml:id="GN5S18">From there it is two days'
-                    voyage to the city of <placeName xml:id="d1e2295" ref="#K103"
+                    voyage to the city of <placeName xml:id="temp0125" ref="#K103"
                         >Salonica</placeName>, built by <persName
                         type="recogito-4d2320ca-f675-4562-8853-0f44eeba6318">King
                         Seleucus</persName>, one of the four successors who followed after King
@@ -664,32 +664,32 @@
                         type="recogito-71bb423c-7ce9-44df-b735-cae539b349de">R. Elijah</persName>,
                     and <persName type="recogito-e0a641d7-40fe-4737-84a3-d6a636775e3a">R.
                         Michael</persName>. The Jews are oppressed, and live by silk-weaving.</seg>
-                <seg xml:id="GN5S19">Thence it is two days' journey to <placeName xml:id="d1e2340"
+                <seg xml:id="GN5S19">Thence it is two days' journey to <placeName xml:id="temp0127"
                         ref="#GN736795">Demetrizi</placeName>, with about fifty Jews. In this place
                     live <persName type="recogito-3a85876d-381a-400f-9a28-c3ed7c4548ee">R.
                         Isaiah</persName>, <persName
                         type="recogito-5ff01b59-cfe8-4ac5-8185-f101b9bc0eb2">R. Machir</persName>,
                     and <persName type="recogito-c192a9f0-8ced-45d0-a5ff-166d4794f33f">R.
                         Alib</persName>.</seg>
-                <seg xml:id="GN5S20">Thence it is two days to <placeName xml:id="d1e2358"
+                <seg xml:id="GN5S20">Thence it is two days to <placeName xml:id="temp0128"
                         ref="#K14269">Drama</placeName>, where there are about 140 Jews, at the head
                     of them being <persName type="recogito-5d05dbb4-06fa-4cac-838f-e72b31853a8e">R.
                         Michael</persName> and <persName
                         type="recogito-3c14c659-5dd9-4379-93d4-b97ade9103d9">R.
                     Joseph</persName>.</seg><seg xml:id="GN5S21"> From there it is one day's journey
-                    to <placeName xml:id="d1e2373" ref="#GN735861">Christopoli</placeName>, where
+                    to <placeName xml:id="temp0129" ref="#GN735861">Christopoli</placeName>, where
                     about twenty Jews live.</seg>
-                <seg xml:id="GN5S22">A three days' voyage brings one to <placeName xml:id="d1e2382"
+                <seg xml:id="GN5S22">A three days' voyage brings one to <placeName xml:id="temp0130"
                         ref="#K4579">Abydos</placeName>, which is upon an arm of the sea which flows
                     between the mountains, and after a five days' journey the great town of
-                        <placeName xml:id="d1e2389" ref="#K6927">Constantinople</placeName> is
+                        <placeName xml:id="temp0131" ref="#K6927">Constantinople</placeName> is
                     reached.</seg></ab>
             <ab xml:id="GeoNar6">
                 <seg xml:id="GN6S1">It is the capital of the whole land of <placeName
-                        xml:id="d1e2398" ref="#K8822">Javan</placeName>, which is called <placeName xml:id="recogito-af120187-b2b5-4b67-8654-3675e614a33f" ref="#K8822"
+                        xml:id="temp0132" ref="#K8822">Javan</placeName>, which is called <placeName xml:id="temp0133" ref="#K8822"
                          ana="inAsherGreekaspeoplewithnote">Greece</placeName>. Here is the residence of the King Emanuel the Emperor.
                     Twelve ministers are under him, each of whom has a palace in <placeName
-                        xml:id="d1e2411" ref="#K6927">Constantinople</placeName> and possesses
+                        xml:id="temp0134" ref="#K6927">Constantinople</placeName> and possesses
                     castles and cities; they rule all the land. At their head is the <persName
                         type="recogito-aa666f79-dcbf-4144-882c-6804b74ea5ce">King
                         Hipparchus</persName>, the second in command is the <persName
@@ -700,30 +700,30 @@
                         >Megaa Ducas</persName>, and the fifth is <persName
                         type="recogito-3a671de3-1d2b-4041-966e-e5686c3a5d1d">Oeconomus
                         Megalus</persName>; the others bear names like these<note n="41"/>. <pb
-                        n="20"/> The circumference of the city of <placeName xml:id="d1e2432"
+                        n="20"/> The circumference of the city of <placeName xml:id="temp0135"
                         ref="#K6927">Constantinople</placeName> is eighteen miles; half of it is
                     surrounded by the sea, and half by land, and it is situated upon two arms of the
-                    sea, one coming from the <placeName xml:id="d1e2442" >sea of Russia</placeName>, and one from the <placeName
-                        xml:id="d1e2445">sea of Sepharad</placeName>. All sorts of merchants come
-                    here from the land of <placeName xml:id="d1e2448" ref="#U4">Babylon</placeName>,
-                    from the land of <placeName xml:id="d1e2452" ref="#Q1404297">Shinar</placeName>,
-                    from <placeName xml:id="d1e2459" ref="#K22613">Persia</placeName>, <placeName
-                        xml:id="d1e2456" ref="#K7639">Media</placeName>, and all the sovereignty of
-                    the land of <placeName xml:id="d1e2464" ref="#K8046">Egypt</placeName>, from the
-                    land of <placeName xml:id="setnewandaddinAsher" cert="unknown"
-                        >Canaan</placeName>, and the empire of <placeName xml:id="d1e2467" ref="#U6"
-                        >Russia</placeName><note n="42"/>, from <placeName xml:id="d1e2470"
-                        ref="#Q171150">Hungaria</placeName>, <placeName xml:id="d1e2474" ref="#U2"
-                        >Patzinakia</placeName><note n="43"/>, <placeName xml:id="d1e2477"
+                    sea, one coming from the <placeName xml:id="temp0136" >sea of Russia</placeName>, and one from the <placeName
+                        xml:id="temp0137">sea of Sepharad</placeName>. All sorts of merchants come
+                    here from the land of <placeName xml:id="temp0138" ref="#U4">Babylon</placeName>,
+                    from the land of <placeName xml:id="temp0139" ref="#Q1404297">Shinar</placeName>,
+                    from <placeName xml:id="temp0141" ref="#K22613">Persia</placeName>, <placeName
+                        xml:id="temp0140" ref="#K7639">Media</placeName>, and all the sovereignty of
+                    the land of <placeName xml:id="temp0142" ref="#K8046">Egypt</placeName>, from the
+                    land of <placeName xml:id="temp0143" cert="unknown"
+                        >Canaan</placeName>, and the empire of <placeName xml:id="temp0144" ref="#U6"
+                        >Russia</placeName><note n="42"/>, from <placeName xml:id="temp0145"
+                        ref="#Q171150">Hungaria</placeName>, <placeName xml:id="temp0146" ref="#U2"
+                        >Patzinakia</placeName><note n="43"/>, <placeName xml:id="temp0147"
                         cert="unknown" ref="#U3">Khazaria</placeName><note n="44"/>, and the land of
-                        <placeName xml:id="d1e2480" ref="#K10968">Lombardy</placeName> and
-                        <placeName xml:id="d1e2483" ref="#K6471">Sepharad</placeName>. It is a busy
+                        <placeName xml:id="temp0149" ref="#K10968">Lombardy</placeName> and
+                        <placeName xml:id="temp0150" ref="#K6471">Sepharad</placeName>. It is a busy
                     city, and merchants come to it from every country by sea or land, and there is
-                    none like it in the world except <placeName xml:id="d1e2493" ref="#K662"
-                        >Bagdad</placeName>, the great city of Islam. In <placeName xml:id="recogito-b1999251-9737-4136-afe8-2867af6f3e8f" ref="#K6927"
-                         ana="verbose">Constantinople</placeName> is the <placeName xml:id="setnewandaddinAsher2"
+                    none like it in the world except <placeName xml:id="temp0151" ref="#K662"
+                        >Bagdad</placeName>, the great city of Islam. In <placeName xml:id="temp0152" ref="#K6927"
+                         ana="verbose">Constantinople</placeName> is the <placeName xml:id="temp0153"
                         >church of Santa Sophia</placeName>, and the seat of the Pope of the Greeks,
-                    since the Greeks do not obey the Pope of <placeName xml:id="recogito-efecfdbf-850b-44f1-ac35-4139eba4b3d3">Rome</placeName>. There
+                    since the Greeks do not obey the Pope of <placeName xml:id="temp0154">Rome</placeName>. There
                     are also churches according to the number of the days of the year. A quantity of
                     wealth beyond telling is brought hither year by year as tribute from the two
                     islands and the castles and villages which are there. <pb n="21"/> And the like
@@ -741,7 +741,7 @@
                         type="recogito-a7a6d681-7c8f-4f66-b419-e169f4861c78">Emanuel</persName>
                     built a great palace for the seat of his Government upon the sea-coast, in
                     addition to the palaces which his fathers built, and he called its name
-                        <placeName xml:id="d1e2554" ref="#Q1472490">Blachernae</placeName><note
+                        <placeName xml:id="temp0155" ref="#Q1472490">Blachernae</placeName><note
                         n="45"/>. He overlaid its columns and walls with gold and silver, and
                     engraved thereon representations of the battles before his day and of his own
                     combats. He also set up a throne of gold and of precious stones, and a golden
@@ -750,7 +750,7 @@
                     priceless value, and at night time no lights were required, for every one could
                     see by the light which the stones gave forth. Countless other buildings are to
                     be met with in the city. From every part of the empire of <placeName
-                        xml:id="d1e2582" ref="#K8822">Greece</placeName> tribute is brought here
+                        xml:id="temp0156" ref="#K8822">Greece</placeName> tribute is brought here
                     every year, and they fill strongholds with garments of silk, purple, and gold.
                     Like unto these storehouses and this wealth, there is nothing in the whole world
                     to be found. It is said that the tribute of the city amounts every year to
@@ -759,7 +759,7 @@
                     very rich in gold and precious stones, and they go clothed in garments of silk
                     with gold embroidery, and they ride horses, and look like princes. Indeed, the
                     land is very rich in all cloth stuffs, and in bread, meat, and wine. <pb n="23"
-                    /> Wealth like that of <placeName xml:id="recogito-6a929fa8-61bf-47c5-8605-bc7d74896a76"
+                    /> Wealth like that of <placeName xml:id="temp0157"
                          ana="verbose">Constantinople</placeName> is not to be found in the whole world. Here also
                     are men learned in all the books of the Greeks, and they eat and drink every man
                     under his vine and his fig-tree. They hire from amongst all nations warriors
@@ -768,7 +768,7 @@
                         Masud</persName><note n="47"/>, King of the Togarmim <gloss>Seljuks</gloss>, who are
                     called Turks; for the natives are not warlike, but are as women who have no
                     strength to fight. No Jews live in the city, for they have been placed behind an
-                    inlet of the sea. An arm of the <placeName xml:id="d1e2640" ref="#U7">sea of
+                    inlet of the sea. An arm of the <placeName xml:id="temp0158" ref="#U7">sea of
                         Marmora</placeName> shuts them in on the one side, and they are unable to go
                     out except by way of the sea, when they want to do business with the
                         inhabitants<note n="48"/>. In the Jewish quarter are about 2,000 Rabbanite
@@ -793,18 +793,18 @@
                     Jews, good and bad alike, and subject them to great oppression, and beat them in
                     the streets, and in every way treat them with rigour. Yet the Jews are rich and
                     good, kindly and charitable, and bear their lot with cheerfulness. The district
-                    inhabited by the Jews is called <placeName xml:id="d1e2707" ref="#K7544"
+                    inhabited by the Jews is called <placeName xml:id="temp0159" ref="#K7544"
                         >Pera</placeName>.</seg></ab>
-            <ab xml:id="GeoNar7"><seg xml:id="GN7S1"> From <placeName xml:id="recogito-0bca7550-e298-4c1f-a9ba-939a19e6cb4f"
+            <ab xml:id="GeoNar7"><seg xml:id="GN7S1"> From <placeName xml:id="temp0160"
                         >Constantinople</placeName> it is two days' voyage to <placeName
-                        xml:id="d1e2715" ref="#K22213">Rhaedestus</placeName><note n="49"/>, with a
+                        xml:id="temp0161" ref="#K22213">Rhaedestus</placeName><note n="49"/>, with a
                     community of Israelites of about 400, at their head being <persName
                         type="recogito-67ab568a-e7ff-4c6c-8e68-d9b976ad669f">R. Moses</persName>,
                         <persName type="recogito-6ccde9c3-622b-4b7a-a075-42b4e2038eb9">R.
                         Abijah</persName>, and <persName
                         type="recogito-345b5ab5-4e90-4489-b77a-0f6547579e53">R.
                     Jacob</persName>.</seg><seg xml:id="GN7S2"> From there it is two days to
-                        <placeName xml:id="d1e2734" ref="#GN746983">Callipolis
+                        <placeName xml:id="temp0162" ref="#GN746983">Callipolis
                         <gloss>Gallipoli</gloss></placeName>, where there are about 200 Jews, at their head being
                         <persName type="recogito-ef3d6880-7686-424f-9a42-6b85e03f39c7">R. Elijah
                         Kapur</persName>, <persName
@@ -812,63 +812,63 @@
                         Zutro</persName>, and <persName
                         type="recogito-8094bdd3-e0d2-40ba-a530-fb2264885ab0">R. Isaac
                         Megas</persName>, which means "great" in Greek.</seg><seg xml:id="GN7S3">
-                    And from here it is two days to <placeName xml:id="d1e2753" ref="#PL844961"
+                    And from here it is two days to <placeName xml:id="temp0163" ref="#PL844961"
                         >Kales</placeName>. <pb n="25"/> Here there are about fifty Jews, at their
                     head being <persName type="recogito-cb6efb11-315e-4559-a5b4-7e2de8419a72">R.
                         Jacob</persName> and <persName
                         type="recogito-6f3163a7-c1ea-4d4f-aa98-0fd6ad41a715">R.
                     Judah</persName>.</seg><seg xml:id="GN7S4"> From here it is two days' journey to
-                    the island of <placeName xml:id="d1e2771" ref="#GN256866">Mytilene</placeName>,
+                    the island of <placeName xml:id="temp0164" ref="#GN256866">Mytilene</placeName>,
                     and there are Jewish congregations in ten localities on the island.</seg><seg
                     xml:id="GN7S5"> Thence it is three days' voyage to the island of <placeName
-                        xml:id="d1e2780" ref="#K17289">Chios</placeName>, where there are about 400
+                        xml:id="temp0165" ref="#K17289">Chios</placeName>, where there are about 400
                     Jews, including <persName type="recogito-3964ced5-bd88-48d0-ae72-e635712bd152"
                         >R. Elijah Heman</persName> and <persName
                         type="recogito-888f08f4-22dc-49d1-8baa-5f03c01b9228">R. Shabtha</persName>.
                     Here grow the trees from which mastic is obtained. </seg><seg xml:id="GN7S6">Two
-                    days' voyage takes one to the island of <placeName xml:id="d1e2801"
+                    days' voyage takes one to the island of <placeName xml:id="temp0166"
                         ref="#K14268">Samos</placeName>, where there are 300 Jews, at their head
                     being <persName type="recogito-e704f362-f0b8-4841-9330-9478ed9828a6">R.
                         Shemaria</persName>, <persName
                         type="recogito-c4c54079-0141-4dbf-a3d9-5e2cb4e07a74">R. Obadiah</persName>,
                     and <persName type="recogito-5c638323-8429-46c1-8ad5-960a10f9f286">R.
                         Joel</persName>. The islands have many congregations of Jews.</seg><seg
-                    xml:id="GN7S7"> From <placeName xml:id="recogito-a1705af4-7db5-46f7-9038-c19bb655bd63" ref="#K14268"
-                        >Samos</placeName> it is three days to <placeName xml:id="d1e2816"
+                    xml:id="GN7S7"> From <placeName xml:id="temp0167" ref="#K14268"
+                        >Samos</placeName> it is three days to <placeName xml:id="temp0168"
                         ref="#K2044">Rhodes</placeName>, where there are about 400 Jews, at their
                     head being <persName type="recogito-048961dd-0a50-4fae-8af2-9bd06a44086b">R.
                         Abba</persName>, <persName
                         type="recogito-f4391046-34e1-4051-a7e9-052921bc16fd">R. Hannanel</persName>,
                     and <persName type="recogito-dedc0c21-fe14-496e-9981-2a2decdf9834">R.
                         Elijah</persName>.</seg><seg xml:id="GN7S8"> It is four days' voyage from
-                    here to <placeName xml:id="d1e2833" ref="#K7562">Cyprus</placeName>, where there
+                    here to <placeName xml:id="temp0169" ref="#K7562">Cyprus</placeName>, where there
                     are Rabbanite Jews and Karaïtes; there are also some heretical Jews called
                     Epikursin, whom the Israelites have excommunicated in all places. They profane
                     the eve of the sabbath, and observe the first night of the week, which is the
                     termination of the sabbath<note n="50"/>. </seg><pb n="26"/>
             </ab>
-            <ab xml:id="GeoNar8"><seg xml:id="GN8S1">From <placeName xml:id="recogito-580d64bf-d91f-4ebf-8faa-bef7cf803017" ref="#K7562"
-                        >Cyprus</placeName> it is four days' journey to <placeName xml:id="d1e2850"
+            <ab xml:id="GeoNar8"><seg xml:id="GN8S1">From <placeName xml:id="temp0170" ref="#K7562"
+                        >Cyprus</placeName> it is four days' journey to <placeName xml:id="temp0171"
                         ref="#PL638939">Curicus <gloss>Kurch</gloss></placeName>, which is the beginning of the
-                    land called <placeName xml:id="setnewandaddinAsher3"
+                    land called <placeName xml:id="temp0172"
                         type="recogito-361d57ec-cc2c-4c13-97a2-441b051851c5" ref="#K16830"
                         >Armenia</placeName>, and this is the frontier of the empire of Thoros<note
                         n="51"/>, ruler of the mountains, and king of <placeName
-                        xml:id="setnewandaddinAsher4" ref="#K16830">Armenia</placeName>, whose
-                    dominions extend to the province of <placeName xml:id="d1e2862"
+                        xml:id="temp0173" ref="#K16830">Armenia</placeName>, whose
+                    dominions extend to the province of <placeName xml:id="temp0174"
                         type="recogito-5eee0071-4e58-4cb7-8edc-fca07632685a" cert="unknown"
                         >Trunia</placeName><note n="52"/>, and to the country of the Togarmim or
                     Turks.</seg>
                 <seg xml:id="GN8S2"> From there it is two days' journey to <placeName
-                        xml:id="d1e2869" ref="#U11">Malmistras</placeName>, which is <placeName
-                        xml:id="d1e2872" ref="#U10">Tarshish</placeName>, situated by the sea; and
+                        xml:id="temp0175" ref="#U11">Malmistras</placeName>, which is <placeName
+                        xml:id="temp0176" ref="#U10">Tarshish</placeName>, situated by the sea; and
                     thus far extends the kingdom of the Javanim or Greeks<note n="53"/>.</seg>
-                <seg xml:id="GN8S3">Thence it is two days' journey to <placeName xml:id="d1e2881"
+                <seg xml:id="GN8S3">Thence it is two days' journey to <placeName xml:id="temp0177"
                         ref="#K11503">Antioch the Great</placeName>, situated on the river
-                        <placeName xml:id="d1e2885" ref="#K5150">Fur <gloss>Orontes</gloss></placeName>, which is
-                    the river <placeName xml:id="d1e2888" ref="#U9">Jabbok</placeName>, that flows
-                    from <placeName xml:id="d1e2891" ref="#K15821">Mount Lebanon</placeName> and
-                    from the land of <placeName xml:id="d1e2898" ref="#K11554"
+                        <placeName xml:id="temp0178" ref="#K5150">Fur <gloss>Orontes</gloss></placeName>, which is
+                    the river <placeName xml:id="temp0179" ref="#U9">Jabbok</placeName>, that flows
+                    from <placeName xml:id="temp0180" ref="#K15821">Mount Lebanon</placeName> and
+                    from the land of <placeName xml:id="temp0181" ref="#K11554"
                         >Hamath</placeName><note n="54"/>. This is the great city which <persName
                         type="recogito-e7c4120c-9a62-46fe-bca8-1e78c62b5f25">Antiochus</persName>
                     the king built. The city lies by a lofty mountain, which is surrounded by the
@@ -886,16 +886,16 @@
                     and <persName type="recogito-9a79982f-0b1b-4c32-9dc9-fccca60c9644">R.
                         Samuel</persName>.</seg>
                 <seg xml:id="GN8S4"><pb n="27"/> From here it is two days' journey to <placeName
-                        xml:id="d1e2924" ref="#GN173576">Lega</placeName>, or <placeName
-                        xml:id="d1e2927" ref="#GN173576">Ladikiya</placeName>, where there are about
+                        xml:id="temp0182" ref="#GN173576">Lega</placeName>, or <placeName
+                        xml:id="temp0183" ref="#GN173576">Ladikiya</placeName>, where there are about
                     100 Jews, at their head being <persName
                         type="recogito-c8d1879c-e85a-4bfa-ab11-d57792e565fa">R. Chayim</persName>
                     and <persName type="recogito-4cd87cee-aed5-46e5-99cd-aa27a2277014">R.
                         Joseph</persName>.</seg>
-                <seg xml:id="GN8S5">Thence it is two days' journey to <placeName xml:id="d1e2941"
+                <seg xml:id="GN8S5">Thence it is two days' journey to <placeName xml:id="temp0184"
                         ref="#K18052">Gebal <gloss>Gebela</gloss></placeName>, which is <placeName
-                        xml:id="d1e2944" ref="#K18052">Baal-Gad</placeName>, at the foot of
-                        <placeName xml:id="d1e2948" ref="#K15821">Lebanon</placeName><note n="57"/>.
+                        xml:id="temp0185" ref="#K18052">Baal-Gad</placeName>, at the foot of
+                        <placeName xml:id="temp0186" ref="#K15821">Lebanon</placeName><note n="57"/>.
                     In the neighbourhood dwells a people called Al-Hashishim<note n="58"/>. They do
                     not believe in the religion of Islam, but follow one of their own folk, whom
                     they regard as their prophet, and all that he tells them to do they carry out,
@@ -903,25 +903,25 @@
                         type="recogito-41ea1f4e-abf5-4e7f-8617-2a9b9501d015">Sheik Al
                         Hashishim</persName>, and he is known as their Elder. At his word these
                     mountaineers go out and come in.</seg>
-                <seg xml:id="GN8S6">Their principal seat is <placeName xml:id="d1e2975"
-                        ref="#GN173389">Kadmus</placeName>, which is <placeName xml:id="d1e2978"
+                <seg xml:id="GN8S6">Their principal seat is <placeName xml:id="temp0187"
+                        ref="#GN173389">Kadmus</placeName>, which is <placeName xml:id="temp0188"
                         ref="#GN173389">Kedemoth</placeName> in the land of <placeName
-                        xml:id="d1e2982" cert="unknown" ref="#U8">Sihon</placeName>. They are
+                        xml:id="temp0189" cert="unknown" ref="#U8">Sihon</placeName>. They are
                     faithful to each other, but a source of terror to their neighbours, killing even
                     kings at the cost of their own lives. The extent of their land is eight days'
                     journey. And they are at war with the sons of Edom who are called the Franks,
-                    and with the ruler of <placeName xml:id="d1e2998" ref="#K13529"
-                        >Tripolis</placeName>, which is <placeName xml:id="d1e3001" ref="#K13529"
+                    and with the ruler of <placeName xml:id="temp0190" ref="#K13529"
+                        >Tripolis</placeName>, which is <placeName xml:id="temp0191" ref="#K13529"
                         >Tarabulus el Sham</placeName><note n="59"/>.</seg>
-                <seg xml:id="GN8S7">At <placeName xml:id="recogito-f696fc90-0c4d-4ba8-abc9-0d990175f055" ref="#K13529"
+                <seg xml:id="GN8S7">At <placeName xml:id="temp0192" ref="#K13529"
                         >Tripolis</placeName> in years gone by there was an earthquake, when many
                     Gentiles and Jews perished, for houses and walls fell upon them. There was great
-                    destruction at that time throughout the <placeName xml:id="d1e3014" ref="#K2501"
+                    destruction at that time throughout the <placeName xml:id="temp0193" ref="#K2501"
                         >Land of Israel</placeName>, and more than 20,000 souls perished<note n="60"
                     />.</seg>
                 <pb n="28"/>
                 <seg xml:id="GN8S8">Thence it is a day's journey to the other <placeName
-                        xml:id="d1e3024" cert="unknown" ref="#K15288">Gebal
+                        xml:id="temp0194" cert="unknown" ref="#K15288">Gebal
                         <gloss>Gubail</gloss></placeName>, which borders on the land of the children of Ammon, and
                     here there are about 150 Jews. The place is under the rule of the Genoese, the
                     name of the governor being <persName
@@ -936,26 +936,26 @@
                         <persName type="recogito-31fa1043-98e7-4e87-a046-27b18e5d4f61">R.
                         Jacob</persName>, and <persName
                         type="recogito-c73baf2f-40bf-48cc-80c9-a1b255334334">R. Simchah</persName>.
-                    The place is situated on the sea-border of the <placeName xml:id="recogito-4abf2952-0b91-4e78-8ffe-26eb6f219f72" ref="#K2501">land of
+                    The place is situated on the sea-border of the <placeName xml:id="temp0196" ref="#K2501">land of
                         Israel</placeName>.</seg>
                 <seg xml:id="GN8S9">From there it is two days' journey to <placeName
-                        xml:id="d1e3070" ref="#K651">Beirut</placeName>, or <placeName
-                        xml:id="d1e3073" ref="#K651">Beeroth</placeName>, where there are about
+                        xml:id="temp0197" ref="#K651">Beirut</placeName>, or <placeName
+                        xml:id="temp0198" ref="#K651">Beeroth</placeName>, where there are about
                     fifty Jews, at their head being <persName
                         type="recogito-9b8d3cbd-c2d8-458a-a720-9c76ac89e5d1">R. Solomon</persName>,
                         <persName type="recogito-ec12aaa6-bc49-4aaf-ae4d-2e6b6726f3f9">R.
                         Obadiah</persName>, and <persName
                         type="recogito-aacea928-0721-48c2-8817-475c5e08d495">R. Joseph</persName>.
                     </seg><seg xml:id="GN8S10">Thence it is one day's journey to <placeName
-                        xml:id="d1e3093" ref="#K13639">Saida</placeName>, which is <placeName
-                        xml:id="d1e3096" ref="#K13639">Sidon</placeName>, a large city, with about
+                        xml:id="temp0199" ref="#K13639">Saida</placeName>, which is <placeName
+                        xml:id="temp0200" ref="#K13639">Sidon</placeName>, a large city, with about
                     twenty Jews.</seg>
                 <pb n="29"/><seg xml:id="GN8S11"> Ten miles therefrom a people dwell who are at war
                     with the men of <span type="recogito-0a80ae60-6bed-4c00-84db-79fb0886cd1b"
                         >Sidon</span>; they are called Druses, and are pagans of a lawless
                     character. They inhabit the mountains and the clefts of the rocks; they have no
                     king or ruler, but dwell independent in these high places, and their border
-                    extends to <placeName xml:id="d1e3121" ref="#K21726">Mount Hermon</placeName>,
+                    extends to <placeName xml:id="temp0202" ref="#K21726">Mount Hermon</placeName>,
                     which is a three days' journey. They are steeped in vice, brothers marrying
                     their sisters, and fathers their daughters. They have one feast-day in the year,
                     when they all collect, both men and women, to eat and drink together, and they
@@ -971,113 +971,113 @@
                     day's journey to <placeName type="recogito-5ad3f8f7-9f85-4dea-8689-93e677b174d4"
                         ref="#K4090">Sarepta <gloss>Sarfend</gloss></placeName>, which belongs to <placeName ref="#K14095"
                         >Sidon</placeName>. Thence it is a half-day to New <placeName
-                        xml:id="d1e3217" type="recogito-9411d46a-2014-4796-87f7-d30b5445f84e"
+                        xml:id="temp0204" type="recogito-9411d46a-2014-4796-87f7-d30b5445f84e"
                         ref="#K14095">Tyre <gloss>S[=u]r</gloss></placeName>, which is a very fine city, with a
                     harbour in its midst. At night-time those that levy dues throw iron chains from
                     tower to tower, so that no man can go forth by boat or in any other way to rob
-                    the ships by night. There is no harbour like this in the whole world. <placeName xml:id="recogito-9d650e14-5b73-4431-8f2a-3d47bf67db07" ref="#K14095"
+                    the ships by night. There is no harbour like this in the whole world. <placeName xml:id="temp0205" ref="#K14095"
                         >Tyre</placeName> is a beautiful city. It contains about 500 Jews, some of
                     them scholars of the Talmud, at their head being <persName
                         type="recogito-e28bace2-b460-438e-ae26-df4452c489a5">R. Ephraim</persName>
                     of <placeName type="recogito-9bfce090-2ac5-48b8-9331-481bbde0ab19" ref="#K14095"
                         >Tyre</placeName>, the Dayan, <persName
                         type="recogito-570fe210-f045-4275-936b-24480b112dfc">R. Meir</persName> from
-                        <placeName xml:id="d1e3187" ref="#K10934" ana="hasparallel">Carcassonne</placeName>, and
+                        <placeName xml:id="temp0206" ref="#K10934" ana="hasparallel">Carcassonne</placeName>, and
                         <persName type="recogito-a124e45f-af8e-4078-b8d0-a26223b9a3d1">R.
                         Abraham</persName>, head of the congregation. The Jews own sea-going
                     vessels, and there are glass-makers amongst them who make that fine Tyrian
                     glass-ware which is prized in all countries. In the vicinity is found sugar of a
                     high class, for men plant it here, and people come from all lands to buy it<note
-                        n="64"/>. A man can ascend the walls of New <placeName xml:id="d1e3200"
-                        ref="#K14095">Tyre</placeName> and see <placeName xml:id="d1e3204"
+                        n="64"/>. A man can ascend the walls of New <placeName xml:id="temp0207"
+                        ref="#K14095">Tyre</placeName> and see <placeName xml:id="temp0208"
                         ref="#U12">ancient Tyre</placeName>, which the sea has now covered, lying at
                     a stone's throw from the new city. <pb n="31"/> And should one care to go forth
                     by boat, one can see the castles, market-places, streets, and palaces in the bed
-                    of the sea. <placeName xml:id="d1e3218" ref="#K14095">New Tyre</placeName>
+                    of the sea. <placeName xml:id="temp0209" ref="#K14095">New Tyre</placeName>
                     is a busy place of commerce, to which merchants flock from all quarters.
                 </seg></ab>
             <ab xml:id="GeoNar9"><seg xml:id="GN9S1">One day's journey brings one to <placeName
-                xml:id="d1e3227" ref="#K71">Acre</placeName>, the <placeName xml:id="d1e3230" ref="#K71"  ana="hasparallel">Acco</placeName> of old, which is on
-                    the borders of Asher; it is the commencement of the <placeName xml:id="d1e3235"
-                        ref="#K2501">land of Israel</placeName>. Situated by the <placeName xml:id="recogito-cbad9b5e-6889-481f-95c1-5ea35bfd66ad">Great Sea</placeName>,
+                xml:id="temp0210" ref="#K71">Acre</placeName>, the <placeName xml:id="temp0211" ref="#K71"  ana="hasparallel">Acco</placeName> of old, which is on
+                    the borders of Asher; it is the commencement of the <placeName xml:id="temp0212"
+                        ref="#K2501">land of Israel</placeName>. Situated by the <placeName xml:id="temp0213">Great Sea</placeName>,
                     it possesses a large harbour for all the pilgrims who come to <placeName
-                        xml:id="d1e3245">Jerusalem</placeName> by ship. A stream runs in front of
-                    it, called the brook of <placeName xml:id="d1e3250" ref="#K21499"
+                        xml:id="temp0214">Jerusalem</placeName> by ship. A stream runs in front of
+                    it, called the brook of <placeName xml:id="temp0215" ref="#K21499"
                         >Kedumim</placeName><note n="65"/>. About 200 Jews live there, at their head
                     being <persName type="recogito-0f83204d-aea0-4031-8d28-63c9cb116e32">R.
                         Zadok</persName>, <persName
                         type="recogito-fb40a882-aef8-454f-bd12-7b5ba2fc8cb1">R. Japheth</persName>,
                     and <persName type="recogito-00bc0925-fbc6-46cc-98b5-5e65d18400c1">R.
                         Jonah</persName>.</seg><seg xml:id="GN9S2"> From there it is three parasangs
-                    to <placeName xml:id="d1e3267" ref="#K791">Haifa</placeName>, which is
-                        <placeName xml:id="d1e3272" type="id" >Hahepher</placeName><note n="66"/> on the seaboard, </seg><seg xml:id="GN9S3">and on the
-                    other side is <placeName xml:id="d1e3279" ref="#K1156">Mount
+                    to <placeName xml:id="temp0216" ref="#K791">Haifa</placeName>, which is
+                        <placeName xml:id="temp0217" type="id" >Hahepher</placeName><note n="66"/> on the seaboard, </seg><seg xml:id="GN9S3">and on the
+                    other side is <placeName xml:id="temp0218" ref="#K1156">Mount
                         Carmel</placeName><note n="67"/>, at the foot of which there are many Jewish
-                    graves. On the mountain is the <placeName xml:id="d1e3284" ref="#K58317" >cave of <persName
+                    graves. On the mountain is the <placeName xml:id="temp0219" ref="#K58317" >cave of <persName
                         type="recogito-2968d824-50c3-4ce8-9215-07caa051955a">Elijah</persName></placeName>,
-                    where the Christians have erected a structure called <placeName xml:id="d1e3290" ref="#U14" >St. Elias</placeName>. On the top of
-                    the mountain can be recognized the overthrown <placeName xml:id="d1e3293" >altar</placeName> which <persName
+                    where the Christians have erected a structure called <placeName xml:id="temp0220" ref="#U14" >St. Elias</placeName>. On the top of
+                    the mountain can be recognized the overthrown <placeName xml:id="temp0221" >altar</placeName> which <persName
                         type="recogito-024a8587-8101-4dba-bffd-0753920d62c6">Elijah</persName>
                     repaired in the days of <persName
                         type="recogito-20e3a4b6-257a-4d18-9dc8-8c1c4fc826a9">Ahab</persName>. The
                     site of the altar is circular, about four cubits remain thereof,</seg>
                 <seg xml:id="GN9S4">and at the foot of the mountain the brook <placeName
-                        xml:id="d1e3307">Kishon</placeName> flows. <pb n="32"/> From here it is four
-                    parasangs to <placeName xml:id="d1e3313">Capernaum</placeName>, which is the
+                        xml:id="temp0222">Kishon</placeName> flows. <pb n="32"/> From here it is four
+                    parasangs to <placeName xml:id="temp0223">Capernaum</placeName>, which is the
                         <placeName type="recogito-d062f403-8566-4390-838a-18608cecbab5">village of
-                        Nahum</placeName>, identical with <placeName xml:id="d1e3316"
+                        Nahum</placeName>, identical with <placeName xml:id="temp0224"
                         >Maon</placeName>, the home of Nabal the Carmelite<note n="68"/>.</seg>
-                <seg xml:id="GN9S5">Six parasangs from here is <placeName xml:id="d1e3324"
-                        >Caesarea</placeName>, the <placeName xml:id="d1e3327">Gath</placeName><note
+                <seg xml:id="GN9S5">Six parasangs from here is <placeName xml:id="temp0225"
+                        >Caesarea</placeName>, the <placeName xml:id="temp0226">Gath</placeName><note
                         n="69"/> of the Philistines, and here there are about 200 Jews and 200
-                    Cuthim. These are the Jews of <placeName xml:id="recogito-5c0e1f07-172a-4177-b176-9fb0c9b9194e" ana="inAsherShomroniim">Shomron</placeName>,
+                    Cuthim. These are the Jews of <placeName xml:id="temp0227" ana="inAsherShomroniim">Shomron</placeName>,
                     who are called Samaritans. The city is fair and beautiful, and lies by the sea.
                     It was built by <persName type="recogito-47052ccd-5235-41d7-9fc9-42244a9dc45e"
-                        >Caesar</persName>, and called after him <placeName xml:id="d1e3342"
+                        >Caesar</persName>, and called after him <placeName xml:id="temp0228"
                         >Caesarea</placeName>.</seg>
                 <seg xml:id="GN9S6"> Thence it is half a day's journey to <placeName
-                        xml:id="d1e3352">Kako</placeName><note n="70"/>, the <placeName
-                        xml:id="d1e3355" cert="unknown">Keilah</placeName> of Scripture. There
+                        xml:id="temp0229">Kako</placeName><note n="70"/>, the <placeName
+                        xml:id="temp0230" cert="unknown">Keilah</placeName> of Scripture. There
                     are no Jews here.</seg>
-                <seg xml:id="GN9S7">Thence it is half a day's journey to <placeName xml:id="d1e3361"
-                        >St. George</placeName>, which is <placeName xml:id="d1e3364"
+                <seg xml:id="GN9S7">Thence it is half a day's journey to <placeName xml:id="temp0231"
+                        >St. George</placeName>, which is <placeName xml:id="temp0232"
                         >Ludd</placeName><note n="71"/>, where
                     there lives one Jew, who is a dyer.</seg>
-                <seg xml:id="GN9S8">Thence it is a day's journey to <placeName xml:id="d1e3372"
+                <seg xml:id="GN9S8">Thence it is a day's journey to <placeName xml:id="temp0233"
                         >Sebastiya</placeName>, which is the city of <placeName
-                        xml:id="d1e3375">Shomron<gloss>Samaria</gloss></placeName>placeName>,
-                    and here the ruins of the <placeName xml:id="d1e3378" type="palace" >palace of <persName
+                        xml:id="temp0234">Shomron<gloss>Samaria</gloss></placeName>placeName>,
+                    and here the ruins of the <placeName xml:id="temp0235" type="palace" >palace of <persName
                         type="recogito-b22bada3-dd33-4f76-a3cf-6fc114b9a1a2">Ahab</persName> the son
                     of <persName type="recogito-c015d65b-b28d-4a35-a5f2-615692b31f02"
                         >Omri</persName></placeName> may be seen. It was formerly a well-fortified city by the
                     mountain-side, with streams of water. It is still a land of brooks of water,
                     gardens, orchards, vineyards, and olive groves, but no Jews dwell here.</seg>
-                <seg xml:id="GN9S9">Thence it is two parasangs to <placeName xml:id="d1e3390"
-                        >Nablous</placeName>, which is <placeName xml:id="d1e3393"
-                        >Shechem</placeName> on <placeName xml:id="d1e3397" cert="unknown">Mount
+                <seg xml:id="GN9S9">Thence it is two parasangs to <placeName xml:id="temp0236"
+                        >Nablous</placeName>, which is <placeName xml:id="temp0237"
+                        >Shechem</placeName> on <placeName xml:id="temp0238" cert="unknown">Mount
                         Ephraim</placeName>, where there are no Jews; the place is situated in the
-                    valley between <placeName xml:id="d1e3403">Mount Gerizim</placeName> and
-                        <placeName xml:id="d1e3406" cert="unknown">Mount Ebal</placeName>, and
+                    valley between <placeName xml:id="temp0239">Mount Gerizim</placeName> and
+                        <placeName xml:id="temp0240" cert="unknown">Mount Ebal</placeName>, and
                     contains about 1,000 Cuthim, who observe the written law of Moses alone, and are
                     called Samaritans. <pb n="33"/> They have priests of the seed <gloss>of <persName
                         type="recogito-c369ce96-b6fd-459c-b248-8c7dce836582">Aaron</persName></gloss>, and
                     they call them Aaronim, who do not intermarry with Cuthim, but wed only amongst
                         themselves<note n="72"/>. These priests offer sacrifices, and bring
-                    burnt-offerings in their place of assembly on <placeName xml:id="d1e3428">Mount
+                    burnt-offerings in their place of assembly on <placeName xml:id="temp0241">Mount
                         Gerizim</placeName>, as it is written in their law--"And thou shalt set the
-                    blessing on <placeName xml:id="somethingElseadd2Asher">Mount
+                    blessing on <placeName xml:id="temp0242">Mount
                     Gerizim</placeName>." They say that this is the proper site of the Temple. On
                     Passover and the other festivals they offer up burnt-offerings on the altar
-                    which they have built on <placeName xml:id="setNew2">Mount Gerizim</placeName>,
+                    which they have built on <placeName xml:id="temp0243">Mount Gerizim</placeName>,
                     as it is written in their law--"Ye shall set up the stones upon <placeName>Mount
                         Gerizim</placeName>, of the stones which <persName
                         type="recogito-7d36c545-cb55-43ec-939e-add234ca017f">Joshua</persName> and
                     the children of Israel set up at the Jordan." They say that they are descended
                     from the tribe of <persName type="recogito-ea4add46-cb73-42b0-b4b2-1cc8cf432a6d"
-                        >Ephraim</persName>. And in the midst of them is the <placeName xml:id="d1e3447" ref="#Q1297538" cert="medium" >grave of Joseph</placeName>, the
+                        >Ephraim</persName>. And in the midst of them is the <placeName xml:id="temp0244" ref="#Q1297538" cert="medium" >grave of Joseph</placeName>, the
                     son of <persName type="recogito-3525a7b4-3c32-4328-9977-5ab1a1f5f2de"
                         >Jacob</persName> our father, as it is written--"and the bones of Joseph
-                    buried they in <placeName xml:id="setyetanotherinAsher">Shechem</placeName><note
+                    buried they in <placeName xml:id="temp0245">Shechem</placeName><note
                         n="73"/>." Their alphabet lacks three letters, namely [Hebrew:] He,
                     [Hebrew:] Heth, and [Hebrew:] Ain<note n="74"/>. The letter [Hebrew:] He is
                     taken from Abraham our father, because they have no dignity, the letter
@@ -1092,123 +1092,123 @@
                     slain, and of graves; and they remove the garments which they have worn before
                     they go to the place of worship, and they bathe and put on fresh clothes. This
                     is their constant practice.</seg>
-                <seg xml:id="GN9S10">On <placeName xml:id="d1e3488"
+                <seg xml:id="GN9S10">On <placeName xml:id="temp0246"
                         type="recogito-49bbb717-8ace-4f62-b2f2-e66c0f7a1e92">Mount
                         Gerizim</placeName> are fountains and gardens and plantations,</seg>
-                <seg xml:id="GN9S11">but <placeName xml:id="d1e3493"
+                <seg xml:id="GN9S11">but <placeName xml:id="temp0247"
                         type="recogito-d9afc5d4-7d1c-4eb8-932d-10753c2823ca" cert="unknown">Mount
                         Ebal</placeName> is rocky and barren;</seg>
                 <seg xml:id="GN9S12">and between them in the valley lies the city of <placeName
-                        xml:id="d1e3501">Shechem</placeName>.</seg>
+                        xml:id="temp0248">Shechem</placeName>.</seg>
                 <seg xml:id="GN9S13">From the latter place it is a distance of four parasangs to
-                        <placeName xml:id="d1e3506">Mount Gilboa</placeName>, which the Christians
+                        <placeName xml:id="temp0249">Mount Gilboa</placeName>, which the Christians
                     call Mont Gilboa; it lies in a very parched district. </seg><seg xml:id="GN9S14"
-                    >And from there it is five<note n="75"/> ..., a <placeName xml:id="recogito-d62a1581-c28c-4c90-863f-ec50e735acdf" cert="unknown"
+                    >And from there it is five<note n="75"/> ..., a <placeName xml:id="temp0250" cert="unknown"
                         >village</placeName> where there are no Jews. </seg><seg xml:id="GN9S15"
-                    >Thence it is two parasangs to the valley of <placeName xml:id="d1e3518"
+                    >Thence it is two parasangs to the valley of <placeName xml:id="temp0252"
                         >Ajalon</placeName><note n="76"/>, which the Christians call <placeName
-                        xml:id="d1e3521" cert="low">Val-de-Luna</placeName>.</seg>
-                <seg xml:id="GN9S16">At a distance of one parasang is <placeName xml:id="d1e3526"
+                        xml:id="temp0253" cert="low">Val-de-Luna</placeName>.</seg>
+                <seg xml:id="GN9S16">At a distance of one parasang is <placeName xml:id="temp0254"
                         cert="unknown">Mahomerie-le-Grand</placeName>, which is <placeName
-                        xml:id="d1e3529">Gibeon</placeName> the Great; it contains no Jews.</seg>
+                        xml:id="temp0255">Gibeon</placeName> the Great; it contains no Jews.</seg>
             </ab>
             <ab xml:id="GeoNar10"><seg xml:id="GN10S1">From there it is three parasangs to
-                        <placeName xml:id="d1e3539">Jerusalem</placeName>, which is a small city,
+                        <placeName xml:id="temp0258">Jerusalem</placeName>, which is a small city,
                     fortified by three walls. It is full of people whom the Mohammedans call
                     Jacobites, Syrians, Greeks, Georgians and Franks, and of people of all tongues.
                         <pb n="35"/> It contains a dyeing-house, for which the Jews pay a small rent
                     annually to the king<note n="77"/>, on condition that besides the Jews no other
-                    dyers be allowed in <placeName xml:id="d1e3554">Jerusalem</placeName>. There are
-                    about 200 Jews who dwell under the <placeName xml:id="d1e3560">Tower of
+                    dyers be allowed in <placeName xml:id="temp0259">Jerusalem</placeName>. There are
+                    about 200 Jews who dwell under the <placeName xml:id="temp0260">Tower of
                         David</placeName> in one corner of the city<note n="78"/>. The lower portion
-                    of the wall of the <placeName xml:id="recogito-74422540-4e44-4ce5-b726-0131b573d010">Tower of
+                    of the wall of the <placeName xml:id="temp0261">Tower of
                         David</placeName>, to the extent of about ten cubits, is part of the ancient
                     foundation set up by our ancestors, the remaining portion having been built by
                     the Mohammedans. There is no structure in the whole city stronger than the
                         <placeName type="recogito-521bc461-7ccd-4a6d-87aa-bfc93eb23879">Tower of
                         David</placeName>.</seg>
                 <seg xml:id="GN10S2">The city also contains two buildings, from one of which--the
-                    <placeName xml:id="d1e3576" >hospital</placeName>--there issue forth four hundred knights; and therein all the sick who
+                    <placeName xml:id="temp0262" >hospital</placeName>--there issue forth four hundred knights; and therein all the sick who
                     come thither are lodged and cared for in life and in death<note n="79"/>. The
-                    other building is called the <placeName xml:id="searchinAsher">Temple of
+                    other building is called the <placeName xml:id="temp0263">Temple of
                         Solomon; it is the palace built by <persName
                             type="recogito-ea56c96e-353a-4bf2-8ba0-b245e4de1bd1">Solomon</persName>
                         the king of Israel</placeName>. Three hundred knights are quartered there,
                     and issue therefrom every day for military exercise, besides those who come from
                     the land of the Franks and the other parts of Christendom, having taken upon
                     themselves to serve there a year or two until their vow is fulfilled. </seg><seg
-                    xml:id="GN10S3">In <placeName xml:id="recogito-2cc4bad9-1b77-4a6c-93d9-cc0437972311">Jerusalem</placeName>
-                    is the great church called the <placeName xml:id="d1e3602"
+                    xml:id="GN10S3">In <placeName xml:id="temp0264">Jerusalem</placeName>
+                    is the great church called the <placeName xml:id="temp0265"
                     >Sepulchre</placeName>, and here is the burial-place of <persName
                         type="recogito-76d52841-6e14-46f7-9cbc-6856965ba9be">Jesus</persName>, unto
                     which the Christians make pilgrimages. </seg><pb n="36"/>
-                <seg xml:id="GN10S4"><placeName xml:id="d1e3614">Jerusalem</placeName><note n="80"/>
-                    has four gates--the <placeName xml:id="d1e3619">gate of Abraham</placeName>, the <placeName xml:id="d1e3622" >gate of David</placeName>, the <placeName xml:id="d1e3625" >gate of Zion</placeName>, and
-                    the <placeName xml:id="d1e3630" >gate of Gushpat</placeName>, which is the <placeName xml:id="d1e3630a" >gate of Jehoshaphat</placeName>, facing our ancient
-                    Temple,</seg><seg xml:id="GN10S5"> now called <placeName xml:id="d1e3637"
+                <seg xml:id="GN10S4"><placeName xml:id="temp0266">Jerusalem</placeName><note n="80"/>
+                    has four gates--the <placeName xml:id="temp0267">gate of Abraham</placeName>, the <placeName xml:id="temp0268" >gate of David</placeName>, the <placeName xml:id="temp0269" >gate of Zion</placeName>, and
+                    the <placeName xml:id="temp0270" >gate of Gushpat</placeName>, which is the <placeName xml:id="temp0271" >gate of Jehoshaphat</placeName>, facing our ancient
+                    Temple,</seg><seg xml:id="GN10S5"> now called <placeName xml:id="temp0272"
                         >Templum Domini</placeName>. Upon the site of the sanctuary <persName
                         type="recogito-0cc09ce4-7c7a-4a25-90cc-f6915888096b">Omar ben al
                         Khataab</persName> erected an edifice with a very large and magnificent
                     cupola, into which the Gentiles do not bring any image or effigy, but they
                     merely come there to pray.</seg>
-                <seg xml:id="GN10S6">In front of this place is the <placeName xml:id="d1e3652" >western wall</placeName>, which is one of the
-                    walls of the Holy of Holies. This is called the <placeName xml:id="d1e3659">Gate
+                <seg xml:id="GN10S6">In front of this place is the <placeName xml:id="temp0273" >western wall</placeName>, which is one of the
+                    walls of the Holy of Holies. This is called the <placeName xml:id="temp0274">Gate
                         of Mercy,</placeName> and thither come all the Jews to pray before the wall
                     of the court of the Temple. </seg><seg xml:id="GN10S7">In <placeName
-                        xml:id="d1e3669">Jerusalem</placeName>, attached to the palace which
-                    belonged to <placeName xml:id="d1e3674" cert="low">Solomon</placeName>, are the
+                        xml:id="temp0275">Jerusalem</placeName>, attached to the palace which
+                    belonged to <placeName xml:id="temp0276" cert="low">Solomon</placeName>, are the
                     stables built by him, forming a very substantial structure, composed of large
                     stones, and the like of it is not to be seen anywhere in the world.</seg>
-                <seg xml:id="GN10S8">There is also visible up to this day the <placeName xml:id="d1e3685" >pool</placeName> used by the
+                <seg xml:id="GN10S8">There is also visible up to this day the <placeName xml:id="temp0277" >pool</placeName> used by the
                     priests before offering their sacrifices, and the Jews coming thither write
                     their names upon the wall.</seg>
-                <seg xml:id="GN10S9">The <placeName xml:id="d1e3694" >gate of Jehoshaphat</placeName> leads to the <placeName xml:id="recogito-130b616d-11f2-43af-852c-ae6039634f00" ana="notinAsher">valley of
+                <seg xml:id="GN10S9">The <placeName xml:id="temp0278" >gate of Jehoshaphat</placeName> leads to the <placeName xml:id="temp0279" ana="notinAsher">valley of
                         Jehoshaphat</placeName>, which is the gathering-place of nations<note n="81"
-                    />. Here is the pillar called <placeName xml:id="d1e3700">Absalom's
-                        Hand</placeName>, and the <placeName xml:id="d1e3705" >sepulchre of King Uzziah</placeName><note n="82"/>. </seg><pb
+                    />. Here is the pillar called <placeName xml:id="temp0280">Absalom's
+                        Hand</placeName>, and the <placeName xml:id="temp0281" >sepulchre of King Uzziah</placeName><note n="82"/>. </seg><pb
                     n="37"/>
                 <seg xml:id="GN10S10">In the neighbourhood is also a great spring, called the
-                        <placeName xml:id="d1e3713">Waters of Siloam</placeName>, connected with the
-                    brook of <placeName xml:id="d1e3716">Kidron</placeName>. Over the spring is a
+                        <placeName xml:id="temp0282">Waters of Siloam</placeName>, connected with the
+                    brook of <placeName xml:id="temp0283">Kidron</placeName>. Over the spring is a
                     large structure dating from the time of our ancestors, but little water is
-                    found, and the people of <placeName xml:id="d1e3724">Jerusalem</placeName> for
+                    found, and the people of <placeName xml:id="temp0284">Jerusalem</placeName> for
                     the most part drink the rain-water, which they collect in cisterns in their
                     houses.</seg>
-                <seg xml:id="GN10S11">From the <placeName xml:id="d1e3733">valley of
-                        Jehoshaphat</placeName> one ascends the <placeName xml:id="d1e3736">Mount of
+                <seg xml:id="GN10S11">From the <placeName xml:id="temp0285">valley of
+                        Jehoshaphat</placeName> one ascends the <placeName xml:id="temp0286">Mount of
                         Olives</placeName>; it is the valley only which separates <placeName
-                        xml:id="d1e3739">Jerusalem</placeName> from the <placeName xml:id="d1e3742"
+                        xml:id="temp0287">Jerusalem</placeName> from the <placeName xml:id="temp0288"
                         >Mount of Olives</placeName>.</seg>
-                <seg xml:id="GN10S12">From the <placeName xml:id="setnewandaddinAsher5"
+                <seg xml:id="GN10S12">From the <placeName xml:id="temp0289"
                         type="recogito-869f03b8-15e6-4f8a-898f-7c265405bc60">Mount of
-                        Olives</placeName> one sees the <placeName xml:id="setnewandaddinAsher6"
+                        Olives</placeName> one sees the <placeName xml:id="temp0290"
                         type="recogito-c4c00655-49a0-4190-9307-811f9314f1f8">Sea of
                         Sodom</placeName>, and at a distance of two parasangs from the <placeName
-                        xml:id="d1e3751">Sea of Sodom</placeName> is the <placeName xml:id="d1e3754"
+                        xml:id="temp0291">Sea of Sodom</placeName> is the <placeName xml:id="temp0292"
                         >Pillar of Salt</placeName> into which Lot's wife was turned; the
                     sheep lick it continually, but afterwards it regains its original shape<note
                         n="83"/>.</seg>
                 <seg xml:id="GN10S13">The whole land of the plain and the <placeName
-                        xml:id="d1e3769" >valley of Shittim</placeName> as far as
-                        <placeName xml:id="d1e3772">Mount Nebo</placeName> are visible from here.
-                    </seg><seg xml:id="GN10S14">In front of <placeName xml:id="d1e3776"
-                        >Jerusalem</placeName> is <placeName xml:id="d1e3778">Mount
-                    Zion</placeName>, on which there is no building, except a <placeName xml:id="d1e3781" >place of worship</placeName>
+                        xml:id="temp0293" >valley of Shittim</placeName> as far as
+                        <placeName xml:id="temp0294">Mount Nebo</placeName> are visible from here.
+                    </seg><seg xml:id="GN10S14">In front of <placeName xml:id="temp0295"
+                        >Jerusalem</placeName> is <placeName xml:id="temp0296">Mount
+                    Zion</placeName>, on which there is no building, except a <placeName xml:id="temp0297" >place of worship</placeName>
                     belonging to the Christians. </seg><seg xml:id="GN10S15">Facing <placeName
-                        xml:id="d1e3787">Jerusalem</placeName> for a distance of three miles are the
-                       <placeName xml:id="d1e3790" > cemeteries</placeName><note n="84"/> belonging to the Israelites, who in the days of old
+                        xml:id="temp0298">Jerusalem</placeName> for a distance of three miles are the
+                       <placeName xml:id="temp0299" > cemeteries</placeName><note n="84"/> belonging to the Israelites, who in the days of old
                     buried their dead in caves, and upon each sepulchre is a dated inscription, but
                     the Christians destroy the sepulchres, employing the stones thereof in building
                     their houses. </seg><seg xml:id="GN10S16">These sepulchres reach as far as
                         <placeName type="recogito-6f006719-89fa-4973-baee-4933eee82191"
                         cert="unknown">Zelzah</placeName> in the territory of Benjamin.</seg>
-                <seg xml:id="GN10S17">Around <placeName xml:id="d1e3802">Jerusalem</placeName> are
-                    high mountains. <pb n="38"/> On <placeName xml:id="setnewandaddinAsher7"
+                <seg xml:id="GN10S17">Around <placeName xml:id="temp0300">Jerusalem</placeName> are
+                    high mountains. <pb n="38"/> On <placeName xml:id="temp0301"
                         type="recogito-afb12533-d079-4c67-ae89-cdea8ab80818">Mount Zion</placeName>
-                    are the <placeName xml:id="d1e3806">sepulchres of the House of
-                    David</placeName>, and the <placeName xml:id="d1e3809">sepulchres of the
+                    are the <placeName xml:id="temp0302">sepulchres of the House of
+                    David</placeName>, and the <placeName xml:id="temp0303">sepulchres of the
                         kings</placeName> that ruled after him. The exact place cannot be
-                    identified, inasmuch as fifteen years ago a wall of the <placeName xml:id="setnewandaddinAsher8"  ana="check">church of <placeName
+                    identified, inasmuch as fifteen years ago a wall of the <placeName xml:id="temp0304"  ana="check">church of <placeName
                         xml:id="hasparallel">Mount Zion</placeName></placeName> fell in. The Patriarch
                     commanded the overseer to take the stones of the old walls and restore therewith
                     the church. He did so, and hired workmen at fixed wages; and there were twenty
@@ -1225,7 +1225,7 @@
                     and a sceptre and crown. This was the sepulchre of King David. On the left
                     thereof in like fashion was the sepulchre of King <persName
                         type="recogito-434af8b9-a765-41e5-9010-fe50f996df43">Solomon</persName>;
-                    then followed the sepulchres of all the kings of <placeName xml:id="recogito-a4802f3b-e371-4ebc-aa82-928f73cc6990" ana="hasparallel">Judah</placeName> that
+                    then followed the sepulchres of all the kings of <placeName xml:id="temp0305" ana="hasparallel">Judah</placeName> that
                     were buried there. Closed coffers were also there, the contents of which no man
                     knows. The two men essayed to enter the chamber, when a fierce wind came forth
                     from the entrance of the cave and smote them, and they fell to the ground like
@@ -1235,9 +1235,9 @@
                     him. Thereupon the Patriarch sent for Rabbi <persName
                         type="recogito-a72fc403-3bc1-43a3-9050-bf1b5656e1a9">Abraham el
                         <placeName xml:id="d1e3913"  >Constantini</placeName></persName>, the pious recluse, who was one of the mourners of
-                        <placeName xml:id="d1e3917">Jerusalem</placeName>, and to him he related all
+                        <placeName xml:id="temp0307">Jerusalem</placeName>, and to him he related all
                     these things according to the report of the two men who had come forth. Then
-                    Rabbi Abraham replied, "These are the <placeName xml:id="d1e3930" >sepulchres of the House of David</placeName>; they
+                    Rabbi Abraham replied, "These are the <placeName xml:id="temp0308" >sepulchres of the House of David</placeName>; they
                     belong to the kings of Judah, and on the
                     morrow let us enter. I and you and these men, and find out what is there." <pb
                         n="40"/> And on the morrow they sent for the two men, and found each of them
@@ -1246,26 +1246,26 @@
                     the place should be closed up and hidden from the sight of man unto this day.
                     These things were told me by the said Rabbi Abraham.</seg>
             </ab>
-            <ab xml:id="GeoNar11"><seg xml:id="GN11S1">From <placeName xml:id="JLjustverbose"
-                 ana="verbose">Jerusalem</placeName> it is two parasangs to <placeName xml:id="recogito-9e8a6f64-3133-4426-ae3e-153a6c90452c"
-                        >Bethlehem</placeName>, which is called by the Christians <placeName xml:id="d1e3959"
+            <ab xml:id="GeoNar11"><seg xml:id="GN11S1">From <placeName xml:id="temp0310"
+                 ana="verbose">Jerusalem</placeName> it is two parasangs to <placeName xml:id="temp0311"
+                        >Bethlehem</placeName>, which is called by the Christians <placeName xml:id="temp0312"
                     >Beth-Leon</placeName>,</seg>
                 <seg xml:id="GN11S2">and close thereto, at a distance of about half a mile, at the
-                    parting of the way, is the <placeName xml:id="d1e3965" ref="#Q2424300" >pillar of Rachel's grave</placeName>, which is made up of eleven
+                    parting of the way, is the <placeName xml:id="temp0315" ref="#Q2424300" >pillar of Rachel's grave</placeName>, which is made up of eleven
                     stones, corresponding with the number of the sons of <persName
                         type="recogito-a80458c1-bfcc-4837-8fce-1dfdfce76c67">Jacob</persName>. Upon
                     it is a cupola resting on four columns, and all the Jews that pass by carve
                     their names upon the stones of the pillar<note n="85"/>.</seg>
-                <seg xml:id="GN11S3">At <placeName xml:id="d1e3985">Bethlehem</placeName> there are
+                <seg xml:id="GN11S3">At <placeName xml:id="temp0316">Bethlehem</placeName> there are
                     two Jewish dyers. It is a land of brooks of water, and contains wells and
                     fountains.</seg>
-                <seg xml:id="GN11S4">At a distance of six parasangs is <placeName xml:id="d1e3996">St. Abram de
-                        Bron</placeName>, which is <placeName xml:id="d1e3999" ana="hasparallel">Hebron</placeName>; the
+                <seg xml:id="GN11S4">At a distance of six parasangs is <placeName xml:id="temp0317">St. Abram de
+                        Bron</placeName>, which is <placeName xml:id="temp0318" ana="hasparallel">Hebron</placeName>; the
                     old city stood on the mountain, but is now in ruins; and in the valley by the
-                        <placeName xml:id="d1e4007">field of Machpelah</placeName> lies the present
+                        <placeName xml:id="temp0319">field of Machpelah</placeName> lies the present
                     city. </seg>
                 <pb n="41"/><seg xml:id="GN11S5"> Here there is the great church called <placeName
-                        xml:id="d1e4014">St. Abram</placeName>, and this was a Jewish place of
+                        xml:id="temp0320">St. Abram</placeName>, and this was a Jewish place of
                     worship at the time of the Mohammedan rule, but the Gentiles have erected there
                     six tombs, respectively called those of <persName
                         type="recogito-f0053bcd-704f-4298-aeae-626f68b0666d">Abraham</persName> and
@@ -1281,7 +1281,7 @@
                     comes, however, and gives a special reward, the custodian of the cave opens unto
                     him a gate of iron, which was constructed by our forefathers, and then he is
                     able to descend below by means of steps, holding a lighted candle in his hand.
-                    He then reaches a <placeName xml:id="d1e4050">cave</placeName>, in which nothing
+                    He then reaches a <placeName xml:id="temp0321">cave</placeName>, in which nothing
                     is to be found, and a cave beyond, which is likewise empty, but when he reaches
                     the third cave behold there are six sepulchres, those of <persName
                         type="recogito-0ec61d74-7a8f-4858-95d1-92216884ec17">Abraham</persName>,
@@ -1317,198 +1317,198 @@
                     wont to bring the bones of their fathers thither and to deposit them there to
                     this day<note n="86"/>.</seg>
                 <pb n="42"/>
-                <seg xml:id="GN11S6">Beyond the field of <placeName xml:id="d1e4108"
-                    >field of Machpelah</placeName> is the <placeName xml:id="d1e4110" >house
+                <seg xml:id="GN11S6">Beyond the field of <placeName xml:id="temp0322"
+                    >field of Machpelah</placeName> is the <placeName xml:id="temp0323" >house
                         of <persName type="recogito-60fdee8a-93aa-4cd9-bcfa-8ed11dce5556"
                             >Abraham</persName></placeName>; there is a well in front of the house,
                     but out of reverence for the Patriarch <persName
                         type="recogito-1b1d56fe-9731-4151-9b55-2bcb8afc61e8">Abraham</persName> no
                     one is allowed to build in the neighbourhood.</seg>
-                <seg xml:id="GN11S7">From <placeName xml:id="recogito-b240b83c-e965-4de7-840f-ad3deb7ef4b5">Hebron</placeName> it
-                    is five parasangs to <placeName xml:id="d1e4123">Beit Jibrin</placeName>, which
-                    is <placeName xml:id="d1e4126">Mareshah</placeName>, where there are but three
+                <seg xml:id="GN11S7">From <placeName xml:id="temp0324">Hebron</placeName> it
+                    is five parasangs to <placeName xml:id="temp0325">Beit Jibrin</placeName>, which
+                    is <placeName xml:id="temp0327">Mareshah</placeName>, where there are but three
                         Jews<note n="87"/>. </seg><seg xml:id="GN11S9">Three parasangs further one
-                    reaches <placeName xml:id="d1e4147">St. Samuel of Shiloh</placeName>. This is
-                    the <placeName xml:id="d1e4150">Shiloh</placeName> which is two parasangs from
-                        <placeName xml:id="d1e4153">Jerusalem</placeName>. When the Christians
-                    captured <placeName xml:id="d1e4159">Ramlah</placeName>, the <placeName
-                        xml:id="d1e4162">Ramah</placeName> of old, from the Mohammedans, they found
-                    there the <placeName xml:id="setnewandaddinAsher10">grave of Samuel the
+                    reaches <placeName xml:id="temp0330">St. Samuel of Shiloh</placeName>. This is
+                    the <placeName xml:id="temp0331">Shiloh</placeName> which is two parasangs from
+                        <placeName xml:id="temp0332">Jerusalem</placeName>. When the Christians
+                    captured <placeName xml:id="temp0333">Ramlah</placeName>, the <placeName
+                        xml:id="temp0334">Ramah</placeName> of old, from the Mohammedans, they found
+                    there the <placeName xml:id="temp0335">grave of Samuel the
                         Ramathite</placeName> close to a Jewish synagogue. The Christians took the
-                    remains, conveyed them unto <placeName xml:id="setnewandaddinAsher9"
+                    remains, conveyed them unto <placeName xml:id="temp0336"
                         >Shiloh</placeName>, and erected over them a large church, and called it
-                        <placeName xml:id="d1e4174">St. Samuel of Shiloh</placeName> unto this
+                        <placeName xml:id="temp0337">St. Samuel of Shiloh</placeName> unto this
                         day<note n="88"/>.</seg>
                 <seg xml:id="GN11S10">From there it is three parasangs to <placeName
-                        xml:id="d1e4181">Mahomerie-le-petit</placeName><note n="89"/>, which is
-                        <placeName xml:id="d1e4184">Gibeah of Saul</placeName>, where there are no
-                    Jews, and this is <placeName xml:id="d1e4187">Gibeah of
+                        xml:id="temp0338">Mahomerie-le-petit</placeName><note n="89"/>, which is
+                        <placeName xml:id="temp0339">Gibeah of Saul</placeName>, where there are no
+                    Jews, and this is <placeName xml:id="temp0340">Gibeah of
                     Benjamin</placeName>.</seg>
-                <seg xml:id="GN11S11">Thence three parasangs to <placeName xml:id="d1e4194">Beit
-                        Nuba</placeName><note n="90"/>, which is <placeName xml:id="d1e4197"
+                <seg xml:id="GN11S11">Thence three parasangs to <placeName xml:id="temp0341">Beit
+                        Nuba</placeName><note n="90"/>, which is <placeName xml:id="temp0342"
                         >Nob</placeName>, the city of priests.</seg>
                 <pb n="43"/>
                 <seg xml:id="GN11S12">In the middle of the way are the <placeName
-                        xml:id="setnewandaddinAsher11">two crags of Jonathan</placeName>, the name
-                    of the one being <placeName xml:id="d1e4209">Bozez</placeName><note n="91"/>.
+                        xml:id="temp0343">two crags of Jonathan</placeName>, the name
+                    of the one being <placeName xml:id="temp0344">Bozez</placeName><note n="91"/>.
                     Two Jewish dyers dwell there.</seg>
-                <seg xml:id="GN11S13">Thence it is three parasangs to <placeName xml:id="d1e4220"
-                        >Rams</placeName>, or <placeName xml:id="d1e4223">Ramleh</placeName>, where
+                <seg xml:id="GN11S13">Thence it is three parasangs to <placeName xml:id="temp0346"
+                        >Rams</placeName>, or <placeName xml:id="temp0347">Ramleh</placeName>, where
                     there are remains of the walls from the days of our ancestors, for thus it was
                     found written upon the stones. About 300 Jews dwell there. It was formerly a
                     very great city; at a distance of two miles there is a large Jewish
                         cemetery<note n="92"/>.</seg>
-                <seg xml:id="GN11S14"> Thence it is five parasangs to <placeName xml:id="d1e4239" ref="#K45933" >Y[=a]fa</placeName> or <placeName
-                        xml:id="d1e4242">Jaffa</placeName>, which is on the seaboard, and one Jewish
+                <seg xml:id="GN11S14"> Thence it is five parasangs to <placeName xml:id="temp0348" ref="#K45933" >Y[=a]fa</placeName> or <placeName
+                        xml:id="temp0349">Jaffa</placeName>, which is on the seaboard, and one Jewish
                     dyer lives here.</seg>
-                <seg xml:id="GN11S15">From here it is five parasangs to <placeName xml:id="d1e4254"
-                        >Ibelin</placeName> or <placeName xml:id="d1e4257">Jabneh</placeName>, the
+                <seg xml:id="GN11S15">From here it is five parasangs to <placeName xml:id="temp0350"
+                        >Ibelin</placeName> or <placeName xml:id="temp0351">Jabneh</placeName>, the
                     seat of the Academy, but there are no Jews there at this day. Thus far extends
                     the territory of Ephraim.</seg>
                 <seg xml:id="GN11S16"> From there it is five parasangs to <placeName
-                        xml:id="d1e4268">Palmid</placeName>, which is <placeName xml:id="d1e4271"
+                        xml:id="temp0352">Palmid</placeName>, which is <placeName xml:id="temp0353"
                         >Ashdod</placeName> of the Philistines, now in ruins; no Jews dwell there.
                     </seg><seg xml:id="GN11S17">Thence it is two parasangs to <placeName
-                        xml:id="d1e4280">Ashkelonah</placeName> or <placeName xml:id="d1e4283">New
+                        xml:id="temp0354">Ashkelonah</placeName> or <placeName xml:id="temp0355">New
                         Askelon</placeName>, which Ezra the priest built by the sea. <pb n="44"/> It
-                    was originally called <placeName xml:id="d1e4292">Bene Berak</placeName>. The
+                    was originally called <placeName xml:id="temp0356">Bene Berak</placeName>. The
                     place is four parasangs distant from the ancient ruined city of <placeName
-                        xml:id="d1e4296">Askelon</placeName>. <placeName xml:id="recogito-d2f10540-d746-4ca9-b4e0-6975c4f7bba3">New Askelon</placeName>
+                        xml:id="temp0357">Askelon</placeName>. <placeName xml:id="temp0358">New Askelon</placeName>
                     is a large and fair place, and merchants come thither from all quarters, for it
-                    is situated on the frontier of <placeName xml:id="d1e4307">Egypt</placeName>.
+                    is situated on the frontier of <placeName xml:id="temp0360">Egypt</placeName>.
                     About 200 Rabbanite Jews dwell here, at their head being <persName
                         type="recogito-67106712-00f1-4640-97c2-f79caec6fa60">R. Zemach</persName>,
                         <persName type="recogito-a61c21dd-60fe-4ffa-a47f-f1ede68c1bd6">R.
                         Aaron</persName>, and <persName
                         type="recogito-897dac13-aa24-4f6e-857b-952fe0106280">R. Solomon</persName>;
                     also about forty Karaïtes, and about 300 Cuthim. In the midst of the city there
-                    is a well, which they call <placeName xml:id="d1e4326">Bir Abraham</placeName>;
+                    is a well, which they call <placeName xml:id="temp0361">Bir Abraham</placeName>;
                     this the Patriarch dug in the days of the Philistines<note n="93"/>.</seg><seg
                     xml:id="GN11S18"> From there it is a journey of a day to <placeName
-                        xml:id="d1e4335">St. George</placeName><note n="94"/> of <placeName
-                        xml:id="d1e4338">Ludd</placeName>:</seg>
-                <seg xml:id="GN11S19">thence it is a day and a half to <placeName xml:id="d1e4344"
-                        >Zerin</placeName> or <placeName xml:id="d1e4347">Jezreel</placeName>, where
+                        xml:id="temp0362">St. George</placeName><note n="94"/> of <placeName
+                        xml:id="temp0363">Ludd</placeName>:</seg>
+                <seg xml:id="GN11S19">thence it is a day and a half to <placeName xml:id="temp0364"
+                        >Zerin</placeName> or <placeName xml:id="temp0365">Jezreel</placeName>, where
                     there is a large spring. One Jewish dyer lives here.</seg>
-                <seg xml:id="GN11S20"> Three parasangs further is <placeName xml:id="d1e4358"
-                        >Saffuriya</placeName> or <placeName xml:id="d1e4361">Sepphoris</placeName>.
+                <seg xml:id="GN11S20"> Three parasangs further is <placeName xml:id="temp0366"
+                        >Saffuriya</placeName> or <placeName xml:id="temp0367">Sepphoris</placeName>.
                     Here are the graves of <persName
                         type="recogito-751dff35-7e25-4e4f-9ee5-226f029b7583">Rabbenu
                         Hakkadosh</persName>, of <persName
                         type="recogito-5aa0d2c7-0601-4ebc-842e-996f6ea3c091">Rabban
                         Gamaliel</persName>, and of <persName
                         type="recogito-60f971c8-8808-4b54-8246-5b38561b2cc0">R. Chiya</persName>,
-                    who came up from <placeName xml:id="setnewandaddinAsher12" ana="hasparallel">Babylon</placeName>,
+                    who came up from <placeName xml:id="temp0368" ana="hasparallel">Babylon</placeName>,
                     also of <persName type="recogito-4c2f6e9b-5a5f-4e40-b2e0-b96def1db838"
                         >Jonah</persName> the son of <persName
                         type="recogito-065f3274-4833-4bff-8c1b-2d341e34acf4">Amittai</persName>;
                     they are all buried in the mountain<note n="95"/>. Many other Jewish graves are
                     here.</seg>
                 <pb n="45"/>
-                <seg xml:id="GN11S21">Thence it is five parasangs to <placeName xml:id="d1e4378"
+                <seg xml:id="GN11S21">Thence it is five parasangs to <placeName xml:id="temp0369"
                         >Tiberias</placeName>, which is situated upon the <placeName
-                        xml:id="d1e4383">Jordan</placeName>, which is here called the <placeName
-                        xml:id="d1e4386">Sea of Chinnereth</placeName>. The <placeName
-                        xml:id="setnewandaddinAsher13">Jordan</placeName> at this place flows
+                        xml:id="temp0370">Jordan</placeName>, which is here called the <placeName
+                        xml:id="temp0371">Sea of Chinnereth</placeName>. The <placeName
+                        xml:id="temp0372">Jordan</placeName> at this place flows
                     through a valley between two mountains, and fills the lake, which is called the
                         <placeName type="recogito-0e43503b-8832-4b98-a3dc-ff1835f56b8c">Lake of
                         Chinnereth</placeName>; this is a large and broad piece of water like the
                     sea.</seg>
-                <seg xml:id="GN11S22">The <placeName xml:id="recogito-49c1664b-9804-40e0-b001-ada98db8dfb1" ana="hasparallel">Jordan</placeName>
+                <seg xml:id="GN11S22">The <placeName xml:id="temp0373" ana="hasparallel">Jordan</placeName>
                     ||----check in mss if this is not a duplicated line----|| flows between two
                     mountains, and over the plain which is the place that is called <placeName
-                        xml:id="d1e4394">Ashdoth Hapisgah</placeName>, and thence continues its
-                    course till it falls into the <placeName xml:id="d1e4398">Sea of
-                        Sodom</placeName>, which is the <placeName xml:id="d1e4401">Salt
+                        xml:id="temp0374">Ashdoth Hapisgah</placeName>, and thence continues its
+                    course till it falls into the <placeName xml:id="temp0375">Sea of
+                        Sodom</placeName>, which is the <placeName xml:id="temp0376">Salt
                         Sea</placeName>.</seg></ab>
             <ab xml:id="GeoNar12">
-                <seg xml:id="GN12S1">In <placeName xml:id="d1e4408">Tiberias</placeName> there are
+                <seg xml:id="GN12S1">In <placeName xml:id="temp0377">Tiberias</placeName> there are
                     about fifty Jews, at their head being <persName
                         type="recogito-f71db074-bf72-4dc6-b2a0-9140b2115ff5">R. Abraham</persName>
                     the astronomer, <persName type="recogito-b8bf17f1-fdca-401e-8de2-ca8f379dade7"
                         >R. Muchtar</persName>, and <persName
                         type="recogito-aead829d-fb27-44c6-a2c3-f43eab185f73">R. Isaac</persName>.
                     There are hot waters here, which bubble up from the ground, and are called the
-                    Hot Waters of <placeName xml:id="d1e4424">Tiberias</placeName>. Near by is the
-                        <placeName xml:id="d1e4427" ana="hasparallel">Synagogue of <persName>Caleb ben
+                    Hot Waters of <placeName xml:id="temp0378">Tiberias</placeName>. Near by is the
+                        <placeName xml:id="temp0379" ana="hasparallel">Synagogue of <persName>Caleb ben
                         Jephunneh</persName></placeName>, and Jewish sepulchres. <persName
                         type="recogito-a1506b53-36fa-4f66-b32b-498d2e81bae4">R. Johanan ben
                         Zakkai</persName> and <persName
                         type="recogito-0f9cf649-6fd3-420c-b04c-e93e2ae8a8f0">R. Jehudah
                         Halevi</persName><note n="96"/> are buried here. All these places are
-                    situated in <placeName xml:id="setnewandaddinAsher14">Lower
+                    situated in <placeName xml:id="temp0380">Lower
                     Galilee</placeName>.</seg>
-                <seg xml:id="GN12S2">From here it is two days to <placeName xml:id="d1e4445"
-                        >Tymin</placeName> or <placeName xml:id="d1e4448"> Timnathah</placeName>,
-                    where <placeName xml:id="d"><persName type="recogito-937a0ad1-bb7e-4ee9-b030-e241a1a1d174">Simon the
+                <seg xml:id="GN12S2">From here it is two days to <placeName xml:id="temp0381"
+                        >Tymin</placeName> or <placeName xml:id="temp0382"> Timnathah</placeName>,
+                    where <placeName xml:id="temp0383"><persName type="recogito-937a0ad1-bb7e-4ee9-b030-e241a1a1d174">Simon the
                         Just</persName></placeName><note n="97"/> and many Israelites are buried, </seg><seg
-                    xml:id="GN12S4">and thence three parasangs to <placeName xml:id="d1e4469" >Medon</placeName> or <placeName
-                        xml:id="d1e4472">Meron</placeName>. </seg><seg xml:id="GN12S5">In the
-                    neighbourhood there is a <placeName xml:id="d1e4476"  >cave</placeName> in which are the sepulchres of <persName
+                    xml:id="GN12S4">and thence three parasangs to <placeName xml:id="temp0386" >Medon</placeName> or <placeName
+                        xml:id="temp0387">Meron</placeName>. </seg><seg xml:id="GN12S5">In the
+                    neighbourhood there is a <placeName xml:id="temp0388"  >cave</placeName> in which are the sepulchres of <persName
                         type="recogito-92bf3d0d-4dd1-4036-9878-b92615aa6691">Hillel</persName> and
                         <persName type="recogito-a74ea57b-edfe-4af0-8431-5bacfbf27a6d"
                         >Shammai</persName>. Here also are twenty sepulchres of disciples, including
-                    the <placeName xml:id="d1e4489"  >sepulchres of <persName type="recogito-fb548bfb-f43a-41bc-b0d2-6ca34d94e14b"
-                        >R. Benjamin ben Japheth</persName></placeName>, and of <placeName xml:id="d1e4494"  ><persName
+                    the <placeName xml:id="temp0390"  >sepulchres of <persName type="recogito-fb548bfb-f43a-41bc-b0d2-6ca34d94e14b"
+                        >R. Benjamin ben Japheth</persName></placeName>, and of <placeName xml:id="temp0391"  ><persName
                         type="recogito-b4203505-a877-49b6-9c4d-b8dae4bb1605">R. Jehudah ben
                         Bethera</persName></placeName>.</seg>
-                <seg xml:id="GN12S6">From <placeName xml:id="d1e4472a">Meron</placeName> it is two
-                    parasangs to <placeName xml:id="d1e4502">Almah</placeName>, where there are
-                    about fifty Jews. There is a large Jewish <placeName xml:id="d1e4505" >cemetery</placeName> here, with the <placeName xml:id="d1e4518"  >sepulchres of
+                <seg xml:id="GN12S6">From <placeName xml:id="temp0392">Meron</placeName> it is two
+                    parasangs to <placeName xml:id="temp0393">Almah</placeName>, where there are
+                    about fifty Jews. There is a large Jewish <placeName xml:id="temp0394" >cemetery</placeName> here, with the <placeName xml:id="temp0398"  >sepulchres of
                         <persName type="recogito-e2d709eb-4d4b-429a-b80a-79c08a1500e7">R. Eleazar
-                        ben Arak</persName></placeName>, of <placeName xml:id="d1e4518b" ><persName
+                        ben Arak</persName></placeName>, of <placeName xml:id="temp0399" ><persName
                         type="recogito-e810151c-773d-4797-b4a2-c511906ee037">R. Eleazar ben
-                        Azariah</persName></placeName>, of <placeName xml:id="d1e4527"  ><persName
+                        Azariah</persName></placeName>, of <placeName xml:id="temp0400"  ><persName
                         type="recogito-631ee47b-8b31-434e-8a1f-618c4c581854">Chuni
-                        Hamaagal</persName></placeName>, of <placeName xml:id="a"><persName
+                        Hamaagal</persName></placeName>, of <placeName xml:id="temp0401"><persName
                         type="recogito-47317989-9398-426a-ba18-69a9721ff0fc">Raban Simeon ben
-                        Gamaliel</persName></placeName>, and of <placeName xml:id="b"><persName
+                        Gamaliel</persName></placeName>, and of <placeName xml:id="temp0403"><persName
                         type="recogito-f7b1eb7b-164e-45a0-93c1-0b8bde00e66a">R. Jose
                         Hagelili</persName></placeName><note n="98"/>. </seg>
                 <pb n="46"/>
                 <seg xml:id="GN12S7">From here it is half a day's journey to <placeName
-                        xml:id="d1e4512">Kades</placeName>, or <placeName xml:id="d1e4515">Kedesh
-                        Naphtali,</placeName> upon the <placeName xml:id="setnewandaddinAsher15"
-                        >Jordan</placeName>. Here is the <placeName xml:id="d1e4537" 
+                        xml:id="temp0405">Kades</placeName>, or <placeName xml:id="temp0406">Kedesh
+                        Naphtali,</placeName> upon the <placeName xml:id="temp0407"
+                        >Jordan</placeName>. Here is the <placeName xml:id="temp0408" 
                         >sepulchre of <persName type="recogito-481e9744-5a6c-40ee-8cd8-a68a94070f8e"
                             >Barak</persName> the son of <persName
                             type="recogito-7a57f5d8-6324-4d68-b35c-88ac3eb5cdb7"
                         >Abinoam</persName></placeName>. No Jews dwell here.</seg>
-                <seg xml:id="GN12S8">Thence it is a day's journey to <placeName xml:id="d1e4546"
-                        >Banias</placeName>, which is <placeName xml:id="d1e4549">Dan</placeName>,
-                    where there is a <placeName xml:id="d1e4552">cavern</placeName>, from which the
-                        <placeName xml:id="setnewandaddinAsher16">Jordan</placeName> issues and
-                    flows for a distance of three miles, when the <placeName xml:id="d1e4560"
+                <seg xml:id="GN12S8">Thence it is a day's journey to <placeName xml:id="temp0409"
+                        >Banias</placeName>, which is <placeName xml:id="temp0410">Dan</placeName>,
+                    where there is a <placeName xml:id="temp0412">cavern</placeName>, from which the
+                        <placeName xml:id="temp0413">Jordan</placeName> issues and
+                    flows for a distance of three miles, when the <placeName xml:id="temp0414"
                         >Arnon</placeName>, which comes from the borders of <placeName
-                        xml:id="setnewandaddinAsher17">Moab</placeName>, joins it<note n="99"/>. In
+                        xml:id="temp0415">Moab</placeName>, joins it<note n="99"/>. In
                     front of the cavern may be discerned the site of the altar associated with the
                     graven image of <persName type="recogito-b3f9f15d-421b-4c2b-a097-92277bb52bde"
                         >Micah</persName>, which the children of Dan worshipped in ancient days.
                     This is also the site of the altar of Jeroboam, where the golden calf was set
                     up. Thus far reaches the boundary of the <placeName
-                        xml:id="setnewandaddinAsher18">land of Israel</placeName> towards the
+                        xml:id="temp0416">land of Israel</placeName> towards the
                     uttermost sea<note n="100"/>.</seg>
             </ab>
             <ab xml:id="GeoNar13">
                 <pb n="47"/>
-                <seg xml:id="GN13S1">Two days' journey brings one to <placeName xml:id="d1e4583"
+                <seg xml:id="GN13S1">Two days' journey brings one to <placeName xml:id="temp0417"
                         >Damascus</placeName>, the great city, which is the commencement of the
                     empire of Nur-ed-din, the king of the Togarmim, called Turks. It is a fair city
                     of large extent, surrounded by walls, with many gardens and plantations,
                     extending over fifteen miles on each side, and no district richer in fruit can
                     be seen in all the world.</seg>
-                <seg xml:id="GN13S2">From <placeName xml:id="d1e4604">Mount Hermon</placeName>
-                    descend the rivers <placeName xml:id="d1e4606">Amana</placeName> and <placeName
-                        xml:id="d1e4609">Pharpar</placeName>; for the city is situated at the foot
-                    of <placeName xml:id="d1e4614">Mount Hermon</placeName>. The <placeName
-                        xml:id="d1e4617">Amana</placeName> flows through the city, and by means of
+                <seg xml:id="GN13S2">From <placeName xml:id="temp0418">Mount Hermon</placeName>
+                    descend the rivers <placeName xml:id="temp0419">Amana</placeName> and <placeName
+                        xml:id="temp0420">Pharpar</placeName>; for the city is situated at the foot
+                    of <placeName xml:id="temp0421">Mount Hermon</placeName>. The <placeName
+                        xml:id="temp0422">Amana</placeName> flows through the city, and by means of
                     aqueducts the water is conveyed to the houses of the great people, and into the
-                    streets and market-places. The <placeName xml:id="setnewandaddinAsher19"
+                    streets and market-places. The <placeName xml:id="temp0423"
                         >Pharpar</placeName> flows through their gardens and plantations. It is a
                     place carrying on trade with all countries.</seg><seg xml:id="GN13S3"> Here is a
-                    mosque of the Arabs called the <placeName xml:id="d1e4636"> Gami of
+                    mosque of the Arabs called the <placeName xml:id="temp0424"> Gami of
                         Damascus</placeName>; there is no building like it in the whole world, and
-                    they say that it was a <placeName xml:id="setnewandaddinAsher20"> palace of
+                    they say that it was a <placeName xml:id="temp0425"> palace of
                             <persName type="recogito-c7e3f6df-0f2f-43b1-8fec-767d69b53c40">Ben
                             Hadad</persName></placeName>. Here is a wall of crystal glass of magic
                     workmanship, with apertures according to the days of the year, and as the sun's
@@ -1526,7 +1526,7 @@
                     grave, where it was also written that he ruled over the whole world.</seg>
                 <seg xml:id="GN13S5">Three thousand Jews abide in this city, and amongst them are
                     learned and rich men<note n="103"/>. The head of the Academy of the <placeName
-                        xml:id="setnewandaddinAsher21"
+                        xml:id="temp0426"
                         type="recogito-7761e575-b3dc-41c3-970c-31324550ef45" ana="hasparallel">land of
                         Israel</placeName> resides here<note n="104"/>. His name is <persName
                         type="recogito-eb258aa7-1d5b-4026-9a79-efee9af48067">R. Azariah</persName>,
@@ -1547,7 +1547,7 @@
                     also 400 Cuthim, and there is peace between them, but they do not
                     intermarry.</seg></ab>
             <ab xml:id="GeoNar14"><seg xml:id="GN14S1"> It is a day's journey to <placeName
-                        xml:id="d1e4722">Galid</placeName>, which is <placeName xml:id="d1e4725"
+                        xml:id="temp0427">Galid</placeName>, which is <placeName xml:id="temp0428"
                         >Gilead</placeName>, and sixty Israelites are there, at their head being
                         <persName type="recogito-1823e2b8-6856-4866-af15-3c08fe4ed53b">R.
                         Zadok</persName>, <persName
@@ -1555,13 +1555,13 @@
                     and <persName type="recogito-7b86fed8-fe63-4867-8a48-92dea2fae30a">R.
                         Solomon</persName>. It is a place of wide extent, with brooks of water,
                     gardens, and plantations.</seg>
-                <seg xml:id="GN14S2">Thence it is half a day to <placeName xml:id="d1e4737"
-                        >Salkat</placeName>, which is <placeName xml:id="d1e4740"
+                <seg xml:id="GN14S2">Thence it is half a day to <placeName xml:id="temp0429"
+                        >Salkat</placeName>, which is <placeName xml:id="temp0430"
                         >Salchah</placeName> of old<note n="105"/>.</seg>
                 <pb n="49"/>
                 <seg xml:id="GN14S3">Thence it is half a day's journey to <placeName
-                        xml:id="d1e4745">Baalbec</placeName>, which is <placeName xml:id="d1e4748"
-                        >Baalath</placeName> in the plains of <placeName xml:id="d1e4751"
+                        xml:id="temp0431">Baalbec</placeName>, which is <placeName xml:id="temp0432"
+                        >Baalath</placeName> in the plains of <placeName xml:id="temp0433"
                         >Lebanon</placeName>, and which <persName
                         type="recogito-b44984cb-4c59-48bd-85c3-591f8e607d8b">Solomon</persName>
                     built for the daughter of Pharaoh. The palace is built of large stones, each
@@ -1572,13 +1572,13 @@
                 <seg xml:id="GN14S4">From the upper part of the city a great spring wells forth and
                     flows into the middle of the city as a wide stream, and alongside thereof are
                     mills and gardens and plantations in the midst of the city.</seg>
-                <seg xml:id="GN14S5">At <placeName xml:id="d1e4786">Tarmod <gloss>Tadmor</gloss></placeName> in the wilderness, which <persName
+                <seg xml:id="GN14S5">At <placeName xml:id="temp0434">Tarmod <gloss>Tadmor</gloss></placeName> in the wilderness, which <persName
                         type="recogito-b46be1d0-b968-4209-a33e-240db2ab3d3f">Solomon</persName>
                     built, there are similar structures of huge stones.<note n="106"/> The city of
-                        <placeName xml:id="d1e4792">Tarmod</placeName> is surrounded by walls; it is
+                        <placeName xml:id="temp0435">Tarmod</placeName> is surrounded by walls; it is
                     in the desert far away from inhabited places, and is four days' journey from
-                        <placeName xml:id="d1e4797">Baalath</placeName>, just mentioned. And in
-                        <placeName xml:id="d1e4803">Tarmod</placeName> there are about 2,000 Jews.
+                        <placeName xml:id="temp0436">Baalath</placeName>, just mentioned. And in
+                        <placeName xml:id="temp0437">Tarmod</placeName> there are about 2,000 Jews.
                     They are valiant in war and fight with the Christians and with the Arabs, which
                     latter are under the dominion of <persName
                         type="recogito-dc90c3ed-627d-4da3-ace9-a01d4bf55b37">Nur-ed-din</persName>
@@ -1588,15 +1588,15 @@
                         type="recogito-02b10ac3-ff0d-46f4-bcb9-2b64636f3062">R. Nathan</persName>,
                     and <persName type="recogito-4ae2a65c-44a4-438a-9b0f-497113ceeb1e">R.
                         Uziel</persName>.</seg>
-                <seg xml:id="GN14S6">From <placeName xml:id="recogito-79b756cf-8237-47d2-b4de-8e993dc70425">Baalbec</placeName> to
-                    Karjat[=e]n, which is <placeName xml:id="d1e4831">Kirjathim</placeName>, is a
+                <seg xml:id="GN14S6">From <placeName xml:id="temp0439">Baalbec</placeName> to
+                    Karjat[=e]n, which is <placeName xml:id="temp0440">Kirjathim</placeName>, is a
                     distance of half a day; no Jews live there except one dyer.</seg>
-                <seg xml:id="GN14S7">Thence it is a day's journey to <placeName xml:id="recogito-6ea23a34-567e-4b62-b311-bc92f10aad06" ana="notinAsher">Emesa</placeName>,
+                <seg xml:id="GN14S7">Thence it is a day's journey to <placeName xml:id="temp0442" ana="notinAsher">Emesa</placeName>,
                     which is a city of the Zemarites, where about twenty Jews dwell<note n="107"/>.
                     </seg><seg xml:id="GN14S8">Thence it is a day's journey to <placeName
-                        xml:id="d1e4839">Hamah</placeName>, which is <placeName xml:id="d1e4842"
-                        >Hamath</placeName>. It lies on the river <placeName xml:id="d1e4845"
-                        >Jabbok</placeName> at the foot of <placeName xml:id="setnewandaddinAsher22"
+                        xml:id="temp0443">Hamah</placeName>, which is <placeName xml:id="temp0444"
+                        >Hamath</placeName>. It lies on the river <placeName xml:id="temp0445"
+                        >Jabbok</placeName> at the foot of <placeName xml:id="temp0446"
                         type="recogito-06c43678-6aa9-4f70-9126-cd4464db8a34">Mount
                         Lebanon</placeName><note n="108"/>. <pb n="50"/> Some time ago there was a
                     great earthquake in the city, and 25,000 souls perished in one day, and of about
@@ -1605,15 +1605,15 @@
                         Hacohen</persName> Hacohen, and the Sheik <persName
                         type="recogito-c9c4999a-203d-4e5a-8820-26b269ac24f8">Abu Galib</persName>
                     and Mukhtar.</seg>
-                <seg xml:id="GN14S9">Thence it is half a day to <placeName xml:id="d1e4867"
-                        >Sheizar</placeName>, which is <placeName xml:id="d1e4870"
+                <seg xml:id="GN14S9">Thence it is half a day to <placeName xml:id="temp0447"
+                        >Sheizar</placeName>, which is <placeName xml:id="temp0448"
                         >Hazor</placeName><note n="109"/>,</seg>
                 <seg xml:id="GN14S10">and from there it is three parasangs to <placeName
-                    xml:id="d1e4877">Dimin <gloss>Latmin</gloss></placeName>. </seg>
+                    xml:id="temp0449">Dimin <gloss>Latmin</gloss></placeName>. </seg>
                 <pb n="51"/>
-                <seg xml:id="GN14S11">Thence it is two days to <placeName xml:id="d1e4884"
+                <seg xml:id="GN14S11">Thence it is two days to <placeName xml:id="temp0450"
                         >Haleb <gloss>Aleppo</gloss></placeName> or <placeName
-                        xml:id="d1e4887">Aram Zoba</placeName>, which is the royal city of
+                        xml:id="temp0451">Aram Zoba</placeName>, which is the royal city of
                     Nur-ed-din. In the midst of the city is his palace surrounded by a very high
                     wall. This is a very large place. There is no well there nor any stream, but the
                     inhabitants drink rainwater, each one possessing a cistern in his house<note
@@ -1623,14 +1623,14 @@
                         type="recogito-1318a780-487e-4bbe-a7ce-9a1854e0740a">R. Seth</persName>.
                 </seg></ab>
             <ab xml:id="GeoNar15"><seg xml:id="GN15S1">Thence it is two days to <placeName
-                        xml:id="d1e4918">Balis</placeName><note n="111"/>, which is <placeName
-                        xml:id="d1e4921">Pethor</placeName> on the river <placeName xml:id="d1e4925"
+                        xml:id="temp0452">Balis</placeName><note n="111"/>, which is <placeName
+                        xml:id="temp0453">Pethor</placeName> on the river <placeName xml:id="temp0454"
                         >Euphrates</placeName>, and unto this day there stands the turret of
                         <persName type="recogito-72744d47-a8ea-4770-8770-61347679ef9a"
                         >Balaam</persName>, which he built to tell the hours of the day. About ten
                     Jews live here.</seg>
-                <seg xml:id="GN15S2">Thence it is half a day to <placeName xml:id="d1e4938">Kalat
-                        Jabar</placeName>, which is <placeName xml:id="d1e4941">Selah</placeName> of
+                <seg xml:id="GN15S2">Thence it is half a day to <placeName xml:id="temp0455">Kalat
+                        Jabar</placeName>, which is <placeName xml:id="temp0456">Selah</placeName> of
                     the wilderness, that was left unto the Arabs at the time the Togarmim took their
                     land and caused them to fly into the wilderness. About 2,000 Jews dwell there,
                     at their head being <persName
@@ -1638,45 +1638,45 @@
                         <persName type="recogito-2da959f2-e99b-4fcc-bc38-3f491bbafed2">R.
                         Chiya</persName>, and <persName
                         type="recogito-f08c8321-6efa-469b-8f1c-3a5303ca1ff3">R. Solomon</persName>. </seg>
-                <seg xml:id="GN15S3"> Thence it is one day's journey to <placeName xml:id="d1e4964"
-                        >Rakka</placeName><note n="112"/>, or <placeName xml:id="d1e4967"
+                <seg xml:id="GN15S3"> Thence it is one day's journey to <placeName xml:id="temp0457"
+                        >Rakka</placeName><note n="112"/>, or <placeName xml:id="temp0458"
                         >Salchah</placeName>, which is on the confines of the land of <placeName
-                        xml:id="d1e4971">Shinar</placeName>, and which divides the land of the
+                        xml:id="temp0459">Shinar</placeName>, and which divides the land of the
                     Togarmim from that kingdom. In it there are 700 Jews, at their head being
                         <persName type="recogito-b89e6b26-4fe7-42af-8350-8267160b8f81">R.
                         Zakkai</persName> and <persName
                         type="recogito-19201968-a5d2-421b-bc5c-b301c82c18a1">R. Nedib</persName>,
                     who is blind, and <persName type="recogito-fa20b146-457b-493d-9e23-2b5f91b65228"
-                        >R. Joseph</persName>. There is a s<placeName xml:id="d1e4991" />ynagogue here, erected by <persName
+                        >R. Joseph</persName>. There is a s<placeName xml:id="temp0461" />ynagogue here, erected by <persName
                         type="recogito-07f2ce33-2f51-41f6-9d0a-aea7be1bccad">Ezra</persName> when he
-                    went forth from <placeName xml:id="d1e4997">Babylon</placeName> to <placeName
-                        xml:id="d1e5002">Jerusalem</placeName>.</seg>
-                <seg xml:id="GN15S4">At two days' distance lies ancient <placeName xml:id="d1e5007"
+                    went forth from <placeName xml:id="temp0462">Babylon</placeName> to <placeName
+                        xml:id="temp0463">Jerusalem</placeName>.</seg>
+                <seg xml:id="GN15S4">At two days' distance lies ancient <placeName xml:id="temp0464"
                         >Harr[=a]n</placeName>, where twenty Jews live<note n="113"/>. Here is
-                    another <placeName xml:id="d1e5010"  >synagogue</placeName> erected by <persName
+                    another <placeName xml:id="temp0465"  >synagogue</placeName> erected by <persName
                         type="recogito-a04ecb60-da37-4490-bd5d-20d60a8e4bb4">Ezra</persName>, and in
-                    this place stood the <placeName xml:id="d1e5015"  >house of <persName
+                    this place stood the <placeName xml:id="temp0466"  >house of <persName
                         type="recogito-4ded0ebe-f9cd-4955-8b69-a85290e40865">Terah</persName> and
                         <persName type="recogito-01ac8f10-f751-49a9-ac60-a56e8337789f"
                         >Abraham</persName></placeName> his son. The ground is not covered by any building, and
                     the Mohammedans honour the site and come thither to pray.</seg><seg
-                    xml:id="GN15S5"> Thence it is a journey of two days to <placeName xml:id="recogito-73fbd7b3-2a0e-49a0-91db-ad2fcf0eb6d6"
+                    xml:id="GN15S5"> Thence it is a journey of two days to <placeName xml:id="temp0468"
                          ana="notinAsher">Ras-el-Ain</placeName><note n="114"/>, whence proceeds the river <placeName
-                        xml:id="d1e5029">El Khabur</placeName>--the <placeName xml:id="d1e5032"
+                        xml:id="temp0470">El Khabur</placeName>--the <placeName xml:id="temp0471"
                         >Habor</placeName> of old--which flows through the land of <placeName
-                        xml:id="d1e5035">Media</placeName>, and falls into the river <placeName xml:id="d1e5038">Gozan</placeName><note
+                        xml:id="temp0472">Media</placeName>, and falls into the river <placeName xml:id="temp0473">Gozan</placeName><note
                         n="115"/>. Here there are 200 Jews<note n="116"/>.</seg>
-                <seg xml:id="GN15S7">Thence it is two days to <placeName xml:id="d1e5054">Geziret
+                <seg xml:id="GN15S7">Thence it is two days to <placeName xml:id="temp0475">Geziret
                         Ibn Omar</placeName>, which is surrounded by the river <placeName
-                        xml:id="setnewandaddinAsher23">Hiddekel <gloss>Tigris</gloss></placeName>, at
-                    the foot of the mountains of <placeName xml:id="d1e5060">Ararat</placeName>. <pb
+                        xml:id="temp0476">Hiddekel <gloss>Tigris</gloss></placeName>, at
+                    the foot of the mountains of <placeName xml:id="temp0477">Ararat</placeName>. <pb
                         n="52"/> It is a distance of four miles to the place where <persName
                         type="recogito-d8203647-1ae1-4599-a37a-e3d14fe1e462">Noah</persName>'s Ark
                     rested, but <persName type="recogito-0539455e-762b-4a35-a5f9-71562bc610b5">Omar
                         ben al Khataab</persName> took the ark from the two mountains and made it
-                    into a mosque for the Mohammedans<note n="117"/>. Near the ark is the <placeName xml:id="d1e5073" >Synagogue</placeName>
+                    into a mosque for the Mohammedans<note n="117"/>. Near the ark is the <placeName xml:id="temp0478" >Synagogue</placeName>
                     of Ezra to this day, and on the ninth of Ab the Jews come thither from the city
-                    to pray. In the city of <placeName xml:id="setnewandaddinAsher24">Geziret
+                    to pray. In the city of <placeName xml:id="temp0479">Geziret
                         Omar</placeName> are 4,000 Jews, at their head being <persName
                         type="recogito-85d9c8c4-b379-4483-879b-d6eeb27cfd94">R. Mubchar</persName>,
                         <persName type="recogito-ca8d61aa-fc74-4a29-a1da-8d66ca720c92">R.
@@ -1685,7 +1685,7 @@
                     Chiya</persName>.</seg>
             </ab>
             <ab xml:id="GeoNar16"><seg xml:id="GN16S1">Thence it is two days to <placeName
-                        xml:id="d1e5097">Mosul</placeName>, which is <placeName xml:id="d1e5100"
+                        xml:id="temp0480">Mosul</placeName>, which is <placeName xml:id="temp0481"
                         >Assur</placeName> the Great, and here dwell about 7,000 Jews, at their head
                     being <persName type="recogito-d907fba4-8b53-4f57-bfc2-9ebfe6fae529">R.
                         Zakkai</persName> the Nasi of the seed of <persName
@@ -1695,29 +1695,29 @@
                         type="recogito-106c632e-be7c-4f22-a496-30aca0c4d5db">King
                         Sin-ed-din</persName>, the brother of <persName
                         type="recogito-6ee55961-0c6b-4de7-b7f7-9f4dcfd7a92a">Nur-ed-din</persName>,
-                    King of <placeName xml:id="d1e5121">Damascus</placeName><note n="118"/>.</seg>
+                    King of <placeName xml:id="temp0482">Damascus</placeName><note n="118"/>.</seg>
                 <seg xml:id="GN16S2"><placeName type="A">Mosul</placeName> is the frontier town of the land of <placeName
-                        xml:id="d1e5126">Persia</placeName>. <pb n="53"/> It is a very large and
-                    ancient city, situated on the river <placeName xml:id="d1e5131"
+                        xml:id="temp0484">Persia</placeName>. <pb n="53"/> It is a very large and
+                    ancient city, situated on the river <placeName xml:id="temp0485"
                         >Hiddekel <gloss>Tigris</gloss></placeName>,
-                    and is connected with <placeName xml:id="d1e5134"
+                    and is connected with <placeName xml:id="temp0486"
                         type="recogito-02c3169b-f2f4-4f02-9f25-b3b15c3fccf0">Nineveh</placeName> by
-                    means of a bridge. <placeName xml:id="setnew">Nineveh</placeName> is in ruins,
+                    means of a bridge. <placeName xml:id="temp0487">Nineveh</placeName> is in ruins,
                     but amid the ruins there are villages and hamlets,</seg>
                 <seg xml:id="GN16S3">and the extent of the city may be determined by the walls,
-                    which extend forty parasangs to the city of <placeName xml:id="d1e5142"
-                        >Irbil</placeName><note n="119"/>. The city of <placeName xml:id="d1e5147"
+                    which extend forty parasangs to the city of <placeName xml:id="temp0490"
+                        >Irbil</placeName><note n="119"/>. The city of <placeName xml:id="temp0491"
                         >Nineveh</placeName> is on the river <placeName
-                        xml:id="setnewandaddinAsher25">Hiddekel</placeName>.</seg>
-                <seg xml:id="GN16S4">In the city of <placeName xml:id="setnewandaddinAsher26"
+                        xml:id="temp0492">Hiddekel</placeName>.</seg>
+                <seg xml:id="GN16S4">In the city of <placeName xml:id="temp0493"
                         >Assur <gloss>Mosul</gloss></placeName> is
-                    the <placeName xml:id="d1e5154" >synagogue of <persName
+                    the <placeName xml:id="temp0494" >synagogue of <persName
                             type="recogito-12c77356-15a6-4e69-9b06-54408f15afe6"
                         >Obadiah</persName></placeName>, built by <persName
                         type="recogito-0a2ec3a8-b60d-4d15-98af-fabd932bb65e">Jonah</persName>; also
-                    the <placeName xml:id="d1e5164"  >synagogue of Nahum the Elkoshite</placeName><note n="120"/>.</seg><seg xml:id="GN16S5">
-                    Thence it is a distance of three days to <placeName xml:id="d1e5173"
-                        >Rahbah</placeName>, which is on the river <placeName xml:id="d1e5180"
+                    the <placeName xml:id="temp0496"  >synagogue of Nahum the Elkoshite</placeName><note n="120"/>.</seg><seg xml:id="GN16S5">
+                    Thence it is a distance of three days to <placeName xml:id="temp0497"
+                        >Rahbah</placeName>, which is on the river <placeName xml:id="temp0499"
                         >Euphrates</placeName>. Here there are about 2,000 Jews, at their head being
                         <persName type="recogito-f850091d-a3f3-4b21-80eb-535805660a33">R.
                         Hezekiah</persName>, <persName
@@ -1727,40 +1727,40 @@
                     surrounded by gardens and plantations.</seg>
             </ab>
             <ab xml:id="GeoNar17"><seg xml:id="GN17S1">Thence it is a day's journey to <placeName
-                        xml:id="d1e5203">Karkisiya</placeName> which is <placeName xml:id="d1e5206"
-                        >Carchemish</placeName>, on the river <placeName xml:id="d1e5209"
+                        xml:id="temp0500">Karkisiya</placeName> which is <placeName xml:id="temp0501"
+                        >Carchemish</placeName>, on the river <placeName xml:id="temp0502"
                         >Euphrates</placeName>. Here there are about 500 Jews, at their head being
                         <persName type="recogito-15a45998-1d70-4bd0-8990-9505fc741c45">R.
                         Isaac</persName> and <persName
                         type="recogito-6fc26489-39f7-408c-88b8-27ad8ec9f14d">R.
                     Elhanan</persName>.</seg>
-                <seg xml:id="GN17S2">Thence it is two days to <placeName xml:id="d1e5224"
-                        >El-Anbar</placeName> which is <placeName xml:id="d1e5227"
-                        >Pumbedita</placeName> in <placeName xml:id="d1e5230"
+                <seg xml:id="GN17S2">Thence it is two days to <placeName xml:id="temp0503"
+                        >El-Anbar</placeName> which is <placeName xml:id="temp0504"
+                        >Pumbedita</placeName> in <placeName xml:id="temp0505"
                         >Nehardea</placeName><note n="121"/>. Here reside 3,000 Jews, and amongst
                     them are learned men, at their head being the chief rabbi <persName
                         type="recogito-3b502c1c-fb38-44f8-b684-a2b97d5043e1">R. Chen</persName>,
                         <persName type="recogito-f7e92b2b-029f-41a8-96c4-a3710dc8e723">R.
                         Moses</persName> and <persName
                         type="recogito-43e2fd95-d925-48a3-a3dc-9b4a5001dfad">R.
-                    Jehoiakim</persName>. Here are the <placeName xml:id="d1e5246"  >graves of <persName
+                    Jehoiakim</persName>. Here are the <placeName xml:id="temp0506"  >graves of <persName
                         type="recogito-199610c9-f433-4db3-b8d7-bab6ab8e7914">Rab Jehuda</persName></placeName>
-                    and <placeName xml:id="d1e5252"  ><persName type="recogito-12e2fda8-140b-4f79-98ee-01d9eb52816b"
+                    and <placeName xml:id="temp0507"  ><persName type="recogito-12e2fda8-140b-4f79-98ee-01d9eb52816b"
                         >Samuel</persName></placeName>, and in front of the graves of each of them are the
                     synagogues which they built in their lifetime. Here is also the grave of
-                        <placeName xml:id="d1e5258"  ><persName type="recogito-f5c321b1-0d60-4a3a-abd8-ce3aae882d92">Bostanai the
-                        Nasi</persName></placeName>, the head of the Captivity, and of <placeName xml:id="e"><persName
+                        <placeName xml:id="temp0508"  ><persName type="recogito-f5c321b1-0d60-4a3a-abd8-ce3aae882d92">Bostanai the
+                        Nasi</persName></placeName>, the head of the Captivity, and of <placeName xml:id="temp0509"><persName
                         type="recogito-f0f1b2d8-e365-4ce1-8f1d-9f05bb5e6f63">R. Nathan</persName></placeName>
-                    and <placeName xml:id="f"><persName type="recogito-262f49d3-846e-49cb-bbc4-74460a29cd01">Rab
+                    and <placeName xml:id="temp0510"><persName type="recogito-262f49d3-846e-49cb-bbc4-74460a29cd01">Rab
                         Nachman</persName></placeName> the son of Papa.</seg>
                 <pb n="54"/><seg xml:id="GN17S3"> Thence it takes five days to <placeName
-                        xml:id="d1e5272">Hadara</placeName>, where about 15,000 Jews dwell, at their
+                        xml:id="temp0511">Hadara</placeName>, where about 15,000 Jews dwell, at their
                     head being <persName type="recogito-33e6e8c2-5bb6-44e2-9459-bf00298ee564">R.
                         Zaken</persName>, <persName
                         type="recogito-313b92f1-fd5f-45a4-ab53-1a9f25a17107">R. Jehosef</persName>
                     and <persName type="recogito-46187bda-942f-4b32-b5b4-fbf30280f0a9">R.
                         Nethanel</persName><note n="122"/>.</seg>
-                <seg xml:id="GN17S4">Thence it takes two days to <placeName xml:id="d1e5291"
+                <seg xml:id="GN17S4">Thence it takes two days to <placeName xml:id="temp0512"
                         >Okbara</placeName>, the city, which Jeconiah the King built, where there
                     are about 10,000 Jews, and at their head are <persName
                         type="recogito-df0bd87e-b995-4249-a159-2a723f5c6ad1">R. Chanan</persName>,
@@ -1769,18 +1769,18 @@
                         type="recogito-8763c407-ae80-4c09-896f-1cadc2bb15db">R.
                     Ishmael</persName>.</seg></ab>
             <ab xml:id="GeoNar18"><seg xml:id="GN18S1"> Thence it is two days to <placeName
-                        xml:id="d1e5308">Bagdad</placeName>, the great city and the royal residence
+                        xml:id="temp0513">Bagdad</placeName>, the great city and the royal residence
                     of the Caliph <persName type="recogito-aec440ae-083e-4a24-a85e-e7793fceb671"
                         >Emir al Muminin al Abbasi</persName> of the family of <persName
                         type="recogito-e3ffd498-79bc-4148-b2d6-569af409da03">Mohammed</persName>. He
                     is at the head of the Mohammedan religion, and all the kings of Islam obey him;
                     he occupies a similar position to that held by the Pope over the Christians<note
                         n="123"/>.</seg>
-                <seg xml:id="GN18S2">He has a palace in <placeName xml:id="d1e5329"
+                <seg xml:id="GN18S2">He has a palace in <placeName xml:id="temp0514"
                         >Bagdad</placeName> three miles in extent, wherein is a great park with all
                     varieties of trees, fruit-bearing and otherwise, and all manner of animals. The
                     whole is surrounded by a wall, and in the park there is a lake whose waters are
-                    fed by the river <placeName xml:id="setnewandaddinAsher27"
+                    fed by the river <placeName xml:id="temp0515"
                         type="recogito-9a08eed6-7239-45f1-8c78-73b663928195">Hiddekel</placeName>.
                     Whenever the king desires to indulge in recreation and to rejoice and feast, his
                     servants catch all manner of' birds, game and fish, and he goes to his palace
@@ -1795,8 +1795,8 @@
                     and the great ones of the land purchase them, and the proceeds thereof provide
                     his sustenance. He is truthful and trusty, speaking peace to all men. The men of
                     Islam see him but once in the year. The pilgrims that come from distant lands to
-                    go unto <placeName xml:id="d1e5374">Mecca</placeName> which is in the land
-                    <placeName xml:id="d1e5377" >El-Yemen</placeName>, are anxious to see his face, and they assemble before the palace
+                    go unto <placeName xml:id="temp0516">Mecca</placeName> which is in the land
+                    <placeName xml:id="temp0517" >El-Yemen</placeName>, are anxious to see his face, and they assemble before the palace
                     exclaiming "Our Lord, light of Islam and glory of our Law, show us the
                     effulgence of thy countenance," but he pays no regard to their words. <pb n="56"
                     /> Then the princes who minister unto him say to him, "Our Lord, spread forth
@@ -1829,11 +1829,11 @@
                     a sign of his modesty, implying that all this glory will be covered by darkness
                     on the day of death. He is accompanied by all the nobles of Islam dressed in
                     fine garments and riding on horses, the princes of <placeName
-                        xml:id="setnewandaddinAsher28">Arabia</placeName>, the princes of <placeName xml:id="recogito-e4c0e01a-7f17-4b2e-9491-549048bb1d75" ana="notinAsher">Togarma</placeName> and
+                        xml:id="temp0519">Arabia</placeName>, the princes of <placeName xml:id="temp0520" ana="notinAsher">Togarma</placeName> and
                         <placeName type="recogito-fcbe07cf-ef06-4270-b4fc-ac90b085814f"
                         >Daylam <gloss>Gil[=a]n</gloss></placeName> and the princes of <placeName
                         xml:id="setnewandaddinAsher29">Persia</placeName>, <placeName 
-                        xml:id="setnewandaddinAsher30">Media</placeName> and <placeName xml:id="recogito-5f429462-06b8-444f-bb5c-645a52162c0e" ana="notinAsher">Ghuzz</placeName>, and
+                            xml:id="setnewandaddinAsher30">Media</placeName> and <placeName xml:id="notinAsher3">Ghuzz</placeName>, and
                     the princes of the land of <placeName 
                         xml:id="setnewandaddinAsher31">Tibet</placeName>, which is three months'
                     journey distant, and westward of which lies the land of <placeName xml:id="recogito-45714dcc-5063-4ecf-9552-6cab217b421e" ana="notinAsher">Samarkand</placeName>.
@@ -2795,7 +2795,7 @@
                         >Cush</placeName><note n="178"/>. And some of these sons of Cush have a king
                     whom they call the <persName
                         type="recogito-bc5a0ef4-3f5f-4270-9074-5ecda94cd6f6">Sultan
-                        Al-Habash</persName>. There is a people among them who, like animals, eat of
+                        <placeName xml:id="notmarkedinAsheryet1">Al-Habash</placeName></persName>. There is a people among them who, like animals, eat of
                     the herbs that grow on the banks of the <placeName
                         xml:id="setnewandaddinAsher57">Nile</placeName> and in the fields. They go
                     about naked and have not the intelligence of ordinary men. They cohabit with

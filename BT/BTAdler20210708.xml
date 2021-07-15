@@ -1833,7 +1833,7 @@
                         <placeName type="recogito-fcbe07cf-ef06-4270-b4fc-ac90b085814f"
                         >Daylam <gloss>Gil[=a]n</gloss></placeName> and the princes of <placeName
                         xml:id="setnewandaddinAsher29">Persia</placeName>, <placeName 
-                        xml:id="setnewandaddinAsher30">Media</placeName> and <placeName xml:id="recogito-5f429462-06b8-444f-bb5c-645a52162c0e" ana="notinAsher">Ghuzz</placeName>, and
+                            xml:id="setnewandaddinAsher30">Media</placeName> and <placeName xml:id="notinAsher3">Ghuzz</placeName>, and
                     the princes of the land of <placeName 
                         xml:id="setnewandaddinAsher31">Tibet</placeName>, which is three months'
                     journey distant, and westward of which lies the land of <placeName xml:id="recogito-45714dcc-5063-4ecf-9552-6cab217b421e" ana="notinAsher">Samarkand</placeName>.
@@ -2795,7 +2795,7 @@
                         >Cush</placeName><note n="178"/>. And some of these sons of Cush have a king
                     whom they call the <persName
                         type="recogito-bc5a0ef4-3f5f-4270-9074-5ecda94cd6f6">Sultan
-                        Al-Habash</persName>. There is a people among them who, like animals, eat of
+                        <placeName xml:id="notmarkedinAsheryet1">Al-Habash</placeName></persName>. There is a people among them who, like animals, eat of
                     the herbs that grow on the banks of the <placeName
                         xml:id="setnewandaddinAsher57">Nile</placeName> and in the fields. They go
                     about naked and have not the intelligence of ordinary men. They cohabit with
