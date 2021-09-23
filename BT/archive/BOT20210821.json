@@ -1,0 +1,866 @@
+{
+    "type": "FeatureCollection",
+    "@context": "TraveLab, Benjamin of Tudela",
+    "features": [
+        {
+            "@id": "BJ5",
+            "type": "feature",
+            "properties": {"title": "Armylo"},
+            "names": [
+                {
+                    "toponym": "Armylo",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0123"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["22.759,39.183"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "BJ9",
+            "type": "feature",
+            "properties": {"title": "Vissena"},
+            "names": [
+                {
+                    "toponym": "Vissena",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0124"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["22.725,39.687"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN173389",
+            "type": "feature",
+            "properties": {"title": "Kadmus"},
+            "names": [
+                {
+                    "toponym": "Kadmus",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0187"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["36.15984,35.09855"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN173576",
+            "type": "feature",
+            "properties": {"title": "Ladikiya"},
+            "names": [
+                {
+                    "toponym": "Ladikiya",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0183"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["35.79011,35.53168"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN255638",
+            "type": "feature",
+            "properties": {"title": "Gardíki"},
+            "names": [
+                {
+                    "toponym": "Gardíki",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0122"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["20.572778,39.367222"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN256866",
+            "type": "feature",
+            "properties": {"title": "Mytilene"},
+            "names": [
+                {
+                    "toponym": "Mytilene",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0164"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["26.55529,39.10772"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN258577",
+            "type": "feature",
+            "properties": {"title": "Jabustrisa"},
+            "names": [
+                {
+                    "toponym": "Jabustrisa",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0117"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["23.28484,38.56555"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN258620",
+            "type": "feature",
+            "properties": {"title": "Sinon Potamo"},
+            "names": [
+                {
+                    "toponym": "Sinon Potamo",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0119"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["22.43333,38.9"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN259289",
+            "type": "feature",
+            "properties": {"title": "Corinth"},
+            "names": [
+                {
+                    "toponym": "Corinth",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0111"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["22.9513,37.94007"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN259862",
+            "type": "feature",
+            "properties": {"title": "Crissa"},
+            "names": [
+                {
+                    "toponym": "Crissa",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0109"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["22.46809,38.47442"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN261211",
+            "type": "feature",
+            "properties": {"title": "Rabonica"},
+            "names": [
+                {
+                    "toponym": "Rabonica",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0118"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["22.78573,38.77844"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN265507",
+            "type": "feature",
+            "properties": {"title": "Anatolica"},
+            "names": [
+                {
+                    "toponym": "Anatolica",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0106"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["21.35358,38.43704"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN3123754",
+            "type": "feature",
+            "properties": {"title": "Ebro"},
+            "names": [
+                {
+                    "toponym": "Ebro",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0002"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": [null]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN3182747",
+            "type": "feature",
+            "properties": {"title": "Ascoli"},
+            "names": [
+                {
+                    "toponym": "Ascoli",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0091"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["15.56646,41.20365"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN735861",
+            "type": "feature",
+            "properties": {"title": "Christopoli"},
+            "names": [
+                {
+                    "toponym": "Christopoli",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0129"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["24.40687,40.93959"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN736795",
+            "type": "feature",
+            "properties": {"title": "Demetrizi"},
+            "names": [
+                {
+                    "toponym": "Demetrizi",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0127"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["23.46064,41.07041"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "GN746983",
+            "type": "feature",
+            "properties": {"title": "Callipolis"},
+            "names": [
+                {
+                    "toponym": "Callipolis",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0162"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["26.67083,40.41028"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": null
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": null
+                }
+            ]
+        },
+        {
+            "@id": "K10031",
+            "type": "feature",
+            "properties": {"title": "Narbonne"},
+            "names": [
+                {
+                    "toponym": "Narbonne",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0016"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["3.0036111111111,43.184722222222"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": "Q6555"
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": "https://data.geo-kima.org/place/10031"
+                }
+            ]
+        },
+        {
+            "@id": "K10262",
+            "type": "feature",
+            "properties": {"title": "Bourg de St. Gilles"},
+            "names": [
+                {
+                    "toponym": "Bourg de St. Gilles",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0034"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["4.4311111111111,43.677777777778"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": "Q243024"
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": "https://data.geo-kima.org/place/10262"
+                }
+            ]
+        },
+        {
+            "@id": "K103",
+            "type": "feature",
+            "properties": {"title": "Salonica"},
+            "names": [
+                {
+                    "toponym": "Salonica",
+                    "lang": "eng",
+                    "citations": [
+                        {
+                            "label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim",
+                            "@id": "temp0125"
+                        }
+                    ],
+                    "when": {
+                        "timespans": [
+                            {
+                                "start": {"in": "1907"}
+                            }
+                        ]
+                    }
+                }
+            ],
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type:": "point",
+                        "coordinates": ["22.95,40.633333333"]
+                    }
+                ]
+            },
+            "links": [
+                {
+                    "type": "exactMatch",
+                    "wd": "Q17151"
+                },
+                {
+                    "type": "exactMatch",
+                    "kima": "https://data.geo-kima.org/place/103"
+                }
+            ]
+        }
+    ]
+}

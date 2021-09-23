@@ -1,0 +1,1979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="GenerateSegIds.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="TEI_r3h_nxn_wmb"><?xml-stylesheet type="text/css" href="../../../../../Applications/Oxygen%20XML%20Editor/frameworks/tei/xml/tei/stylesheet/tei.css"?><?xml-stylesheet type="text/css" href="../travelab.css"?>
+  <teiHeader>
+   <fileDesc>
+     <titleStmt>
+      <title type="main">Asher's Benjamin of Tudela</title>
+     </titleStmt>
+     <publicationStmt>
+      <publisher>tranScriptorium</publisher>
+     </publicationStmt>
+     <sourceDesc xml:id="Asher" corresp="BT">
+      <biblStruct>
+        <monogr>
+         <title>The Itinerary of Rabbi Benjamin of Tudela</title>
+         <author>Benjamin of Tudela</author>
+         <editor>A. Asher</editor>
+         <imprint>
+           <date>1840</date>
+           <pubPlace>London</pubPlace>
+           <publisher>A. Asher and co.</publisher>
+         </imprint>
+        </monogr>
+      </biblStruct>
+     </sourceDesc>
+   </fileDesc>
+   
+  </teiHeader>
+  <text>
+   <front>
+     <pb n="1"/>
+     <pb n="2"/>
+     <lb/>
+     <head>הקדמה</head>
+     <ab>
+      <lb/>זה הספר מחובר מדברים שספר <lb/>איש אחד מארץ <placeName xml:id="temp9001">נבארה</placeName> ששמו
+				רבי <lb/>בנימין בר יונה מ<placeName xml:id="temp9002" ref="#K6264">טודילה</placeName>. וילך הלוך <lb/>ויבא בארצות
+				רבות ורחוקות כאשר <lb/>יתפרש בדבריו אלו ובכל מקום שבא
+				<lb/>בו כתב כל הדברים שראה או ששמע <lb/>מפי אנשי אמת אשר נשמעו בארץ <placeName xml:id="temp9003" ref="#K6471">ספרד</placeName>: וכך הוא זוכר מקצת הגדולים <lb/>והנשיאים שבמקצת
+				מקומות וכשבא <lb/>הביא דבריו אלה עמו לארץ <placeName xml:id="temp9004">קשטיליא</placeName>
+      <lb/>בשנת תתקל״ג . <pb n="3"/>
+      <lb/>והיה רבי בנימן הנזכר איש מבין <lb/>ומשכיל בעל תורה ובכל דבר ודבר <lb/>שבדקוהו
+				כדי לפשפש אחריו נמצאו <lb/>דבריו מתוקנים ויציבים בפיו כי היה איש <lb/>.אמת וזה תחלת
+				דבריו </ab>
+     <pb n="4"/>
+   </front>
+   <body>
+     <lb/>
+     <head> מסעות <lb/>של <lb/>רבי בנימן ז״ל . </head>
+     <pb n="5"/>
+     <pb n="6"/>
+     <lb/>
+     <head>מסעות <lb/>של רבי בנימן ז״ל.</head>
+     <ab xml:id="GeoNar1">
+      <seg xml:id="GN1S1">
+        <lb/>אמר <persName>רבי בנימן בר יונה ז״ל</persName> יצאתי <lb/>תחלה מעיר
+						<placeName xml:id="temp0001" ref="#K6347">שרקושטה</placeName> וירדתי דרך נהר
+						<placeName xml:id="temp0002" ref="#GN3123754">איברו</placeName> ל<placeName xml:id="temp0003" ref="#K9805">טורטושה</placeName>
+      </seg>
+      <seg xml:id="GN1S2"> ומשם הלכתי דרך שני <lb/>ימים לעיר <placeName xml:id="temp0004" ref="#K7559">טרכונה</placeName> הקדמונה והיא היתה <lb/>מבנין ענקים ויונים ולא נמצא כבנין
+					<lb/>ההוא בכל-ארצות <placeName xml:id="temp0005" ref="#K6471">ספרד</placeName> והיא יושבת <lb/>על
+					הים|</seg>
+      <seg xml:id="GN1S3"> ומשם שני ימים לעיר <placeName xml:id="temp0006" ref="#K582">ברצלונה</placeName>
+        <lb/>ויש שם קהל קדוש ואנשים חכמים <lb/>ונבונים ונשיאים גדולים כגון <persName>רבי
+						ששת</persName>
+        <lb/>ו<persName>רבי שאלתיאל</persName> ו<persName>רבי שלמה בן רבי <lb/>אברהם בן
+						חסדאי ז״ל</persName> והיא עיר קטנה <lb/>ויפה ויושבת על-שפת הים באים אליה
+					<lb/>בסחורה תגרים מכל-מקום מארץ <pb n="7"/>
+        <placeName xml:id="temp0007" ref="#K8822">יון</placeName> ו<placeName xml:id="temp0008" ref="#K251">פישה</placeName>
+						ו<placeName xml:id="temp0009" ref="#K877">גינואה</placeName> ו<placeName xml:id="temp0010" ref="#K6284">סיסילייא</placeName> וארץ <placeName xml:id="temp0011" ref="#K667">אלכסנדריה</placeName> של
+						<placeName xml:id="temp0012" ref="#K8046">מצרים</placeName> ומ<placeName xml:id="temp0013" ref="#K2501">ארץ
+						ישראל</placeName>
+        <lb/>וכל גבוליה.</seg>
+      <seg xml:id="GN1S4"> ומשם מהלך יום וחצי <lb/>ל<placeName xml:id="temp0015" ref="#K8720">גירונדה</placeName> ובה קהל קטן מיהודים.</seg>
+      <seg xml:id="GN1S5"> ומשם <lb/>מהלך שלשת ימים ל<placeName xml:id="temp0016" ref="#K10031">נרבונה</placeName> והיא עיר <lb/>קדומה לתורה וממנה תצא תורה לכל-
+					<lb/>הארצות ובה חכמים גדולים ונשיאים <lb/>ובראשם <persName>רבי קלונימוס בן הנשיא
+						הגדול <lb/>רבי טודרוס ז״ל</persName> מזרע בית דוד מכונה <lb/>ביחוס ויש לו
+					נחלות וקרקעות מאת <lb/>מושלי הארץ ואין אדם יכול ליקח ממנו <lb/>בחזקה. ובראשם
+						<persName>רבי אברהם ראש <lb/>הישיבה</persName> ו<persName>רבי
+						מכיר</persName> ו<persName>רבי יהודה</persName> ואחרים <lb/>כנגדם הרבה
+					תלמידי חכמים ויש בה <lb/>היום כמו שלש מאות יהודים. </seg>
+      <seg xml:id="GN1S6">ומשם <lb/>ארבע פרסאות ל<placeName xml:id="temp0017" ref="#K7195">בידרש</placeName>
+					העיר ושם קהל <lb/>תלמידי חכמים ובראשם <persName>רבי שלמה <lb/>חלפתא</persName>
+						ו<persName>רבי יוסף בר רבי נתנאל ז״ל</persName>
+      </seg>
+      <seg xml:id="GN1S7">
+        <lb/>ומשם שני ימים ל<placeName xml:id="temp0018" ref="#K7467" >הר געש</placeName> הנקרא <placeName xml:id="temp0019" ref="#K7467">מונפישלייר</placeName> והוא מקום יפה לסחורה. <pb n="8"/>
+        <lb/>קרוב מן הים שתי פרסאות ובאים אליו <lb/>מכל-מקום לסחורה אדום וישמעאל
+					<lb/>מארץ <placeName xml:id="temp0020" ref="#K7951">אל-ערוה</placeName> ו<placeName xml:id="temp0021" ref="#K10968">לונברדייא</placeName> ומלכות <placeName xml:id="temp0022" ref="#K7637">רומא רבתא</placeName>
+					ומכל-ארץ <placeName xml:id="temp0023" ref="#K8046" >מצרים</placeName> ו<placeName xml:id="temp0024" ref="#K2501">ארץ
+						ישראל</placeName> וארץ <placeName xml:id="temp0025" ref="#K8822">יון</placeName> וארץ
+						<placeName xml:id="temp0026" ref="#K6399">צרפת</placeName> וארץ <placeName xml:id="temp0028" ref="#K6471">ספרד</placeName>
+        <lb/>ו<placeName xml:id="temp0029" ref="#K12708">אינגלטירה</placeName> ומכל-לשונות הגוים נמצאים
+					<lb/>שם על-ידי גינואיין ופישנין ושם תלמידי <lb/>חכמים חשובי הדור ובראשם
+						<persName>רבי ראובן <lb/>בר טודרוס</persName> ו<persName>רבי נתן בן רבי
+						זכריה</persName> ו<persName>רבי <lb/>שמואל</persName> הרב שלהם
+						ו<persName>רבי שלמיא</persName> ו<persName>רבי <lb/>מרדכי ז״ל</persName>.
+					ויש ביניהם עשירים גדולים <lb/>ובעלי צדקה ועומדים בפרץ לכל הבאים <lb/>לידם.</seg>
+      <seg xml:id="GN1S8"> ומשם ארבע פרסאות ל<placeName xml:id="temp0030" ref="#K12204">לוניל</placeName>
+        <lb/>ושם קהל קדוש מישראל מתעסקים <lb/>בתורה יומם ולילה. ושם <persName>רבינו
+						משולם <lb/>הרב הגדול ז״ל</persName> וחמשה בניו חכמים <lb/>גדולים ועשירים
+						<persName>רבי יוסף</persName> ו<persName>רבי יצחק</persName>
+        <lb/>ו<persName>רבי יעקב</persName> ו<persName>רבי אהרן</persName>
+						ו<persName>רבי אשר הפרוש</persName>
+        <lb/>שנפרש מעניני העולם ועומד על-הספר <lb/>יום ולילה ומתענה ואינו אוכל בשר <pb n="9"/>
+        <lb/>והוא חכם גדול בתלמוד ו<persName>הרב רבי משה</persName>
+        <lb/>גיסו ו<persName>רבי שמואל החזן</persName> ו<persName>רבי שלמה
+						הכהן</persName>
+        <lb/>ו<persName>רבי יהודה הרופא בן תיבון</persName> הספרדי <lb/>וכל-הבאים מארץ
+					מרחק ללמוד תורה <lb/>מפרנסים אותם ומלמדים אותם <lb/>ומוציאין *) שם פרנסה ומלבוש
+					מאצל <lb/>הקהל כל ימי היותם בבית המדרש והם <lb/>אנשים חכמים וקדושים בעלי מצות
+					<lb/>עומדים בפרץ לכל-אחיהם הקרובים <lb/>והרחוקים ובה קהל יהודים כמו שלש
+					<lb/>מאות יצ״ו והיא רחוקה מן הים שתי <lb/>פרסאות. </seg>
+      <seg xml:id="GN1S9">ומשם שתי פרסאות <lb/>ל<placeName xml:id="temp0032" ref="#K7808">פותייקיירש</placeName> והיא כרך גדול ויש בו <lb/>יהודים כמו ארבע מאות**)
+					ושם ישיבה <lb/>גדולה על-יד הרב הגדול <persName>רבי אברהם בר <lb/>רבי דוד
+						זצ״ל</persName> רב פעלים חכם גדול <lb/>בתלמוד ובפסוק ובאים מארץ מרחק
+					<lb/>אליו ללמוד תורה ומוצאים מנוחה בביתו <lb/>והוא מלמדם ומי שאין לו להוציא הוא
+						<pb n="10"/>
+        <lb/>מוציא להם משלו ומממונו לכל-צרכיהם <lb/>והוא עשיר גדול ושם חכמים
+						<persName>רבי יוסף <lb/>בר רבי מנחם</persName> ו<persName>רבי
+						בנבנשת</persName> ו<persName>רבי בנימן</persName>
+        <lb/>ורבי אברהם ו<persName>רבי יצחק בר רבי משה <lb/>ז״ל</persName>.</seg>
+      <seg xml:id="GN1S10"> ומשם שלש פרסאות ל<placeName xml:id="temp0033" ref="#K10262" type="special">נוגריש</placeName>
+        <lb/>הנקרא <placeName xml:id="temp0034" ref="#K10262">בורק דשל גיל</placeName> ושם קהל מיהודים
+					<lb/>כמו מאה חכמים ובראש <persName>רבי יצחק בר <lb/>רבי יעקב</persName>
+						ו<persName>רבי אברהם בר רבי יהודה</persName>
+        <lb/>ו<persName>רבי אלעזר</persName> ו<persName>רבי יצחק</persName>
+						ו<persName>רבי משה</persName> ו<persName>רבי <lb/>יעקב בן הרב רבי לוי
+						ז״ל</persName> והוא מקום <lb/>טעות*) לגוים ולאיים מאפסי הארץ והיא <lb/>קרובה
+					מן הים שלשה מילין ויושבת על <lb/>שפת הנהר הגדול הנקרא <placeName xml:id="temp0035" ref="#K2047">רודי</placeName> והוא <lb/>הסובב כל-ארץ <placeName xml:id="temp0036" ref="#K8962">פרובנצה</placeName> ושם <persName>הנשיא <lb/>רבי אבא מרי בר רבי יצחק
+						ז״ל</persName> והוא <lb/>פקיד השלטון רמון, </seg>
+      <seg xml:id="GN1S11">ומשם שלש פרסאות <lb/>לעיר <placeName xml:id="temp0037" ref="#K7224">ארליט</placeName> ושם כמו מאתים מישראל <lb/>ובראש <persName>רבי
+						משה</persName>
+        <persName>ורבי טובי</persName> ו<persName>רבי ישעיה</persName>
+        <lb/>ורבי שלמה ורבי נתן הרב ורבי <pb n="11"/>
+        <lb/>אבא מרי ז״ל.</seg>
+      <seg xml:id="GN1S12"> ומשם שלשת ימים <lb/>ל<placeName xml:id="temp0038" ref="#K7085">מרשילייה</placeName> והיא עיר גאונים וחכמים והם <lb/>שתי קהלות ובם כמו שלש
+					מאות יהודים. <lb/>הקהל האחד יושב על שפת הים למטה. <lb/>והקהל האחר (יושב על-שפת
+					הים) יושבים <lb/>ב<placeName xml:id="temp0039" type="building">מגדל למעלה</placeName> והם ישיבה גדולה ותלמידי
+					<lb/>חכמים <persName>רבי שמעון בר רבי אנטולי</persName>*) ו<persName>רבי
+						<lb/>יעקב</persName> אחיו ו<persName>רבי לבארו</persName> והם ראשי של
+					<lb/>מעלה. ובראש הקהל של מטה <persName>רבי <lb/>יעקב פירפיינו העשיר</persName>
+						ו<persName>רבי אברהם</persName> ו<persName>רבי <lb/>מאיר</persName> חתנו
+						ו<persName>רבי יצחק</persName>
+        <persName>ורבי מאיר זצ״ל</persName>
+        <lb/>והיא עיר סחורה מאד על-שפת הים.</seg>
+     </ab>
+     <ab xml:id="GeoNar2">
+      <seg xml:id="GN2S1">
+        <lb/>ומשם יכנס אדם בספינה לעיר <placeName xml:id="temp0041" ref="#K877">גינואה</placeName>
+        <lb/>היושבת על-שפת הים והוא מהלך ארבעה <lb/>ימים בים ושם שני יהודים אחים
+						<persName>רבי <lb/>שמואל בן כלאם</persName> ואחיו שהיו מעיר <placeName xml:id="temp0042" ref="#K8782">סבתה</placeName>
+        <lb/>והם אנשים טובים והעיר מוקפת חומה <lb/>ואין מלך שולט עליהם כי אם השופטים
+					<lb/>שהם מקימים עליהם כרצונם וכל אחד <pb n="12"/>
+        <lb/>ואד מהם מגדל בביתו ובשעת מחלקותם <lb/>נלחמים אלו עם אלו על-ראשי המגדלים
+					<lb/>והם מושלי הים ועושים דוגיות הנקראות <lb/>גליראש והולכים לשלול שלל ולבוז בכל
+					<lb/>המקומות שלל ובזה ומביאים אל <placeName xml:id="temp0044" ref="#K877">גינואה</placeName>. והם
+					נלחמים עם אנשי <placeName xml:id="temp0045" ref="#K251">פישה</placeName>
+      </seg>
+      <seg xml:id="GN2S2">
+        <lb/>וביניהם ובין <placeName xml:id="temp0046" ref="#K251">פישה</placeName> מהלך שני ימים והיא
+					<lb/>עיר גדולה מאד ובה כמו עשרת אלפים <lb/>מגדלים בבתים שלהם ללחום בעת
+					<lb/>המחלוקת וכל-אנשיה גבורים ואין מלך <lb/>ואין שר שולט עליהם כי אם השופטים
+					<lb/>אשר הם מקימים עליהם ובה כמו עשרים <lb/>יהודים והראש שלהם <persName>רבי
+						משה</persName> ו<persName>רבי חיים</persName>
+        <lb/>ו<persName>רבי יוסף ז״ל</persName> ואינה מוקפת חומה והיא <lb/>רחוקה מן הים
+					ארבעה מילין ויוצאין ונכנסין <lb/>אליה בספינות על-יד הנהר (היות*) בתוך
+					<lb/>המדינה. </seg>
+      <seg xml:id="GN2S3">ומשם ארבע פרסאות לעיר <placeName xml:id="temp0048" ref="#K6491">לוקא</placeName>
+        <lb/>ושם כמו ארבעים יהודים והיא גדולה והראש <lb/>של היהודים <persName>רבי
+						דוד</persName> ו<persName>רבי שמואל</persName> ו<persName>רבי <pb n="13"/>
+         <lb/>יעקב</persName>
+      </seg>
+     </ab>
+     <ab xml:id="GeoNar3">
+     	<seg xml:id="GN3S1"> ומשם מהלך ששה ימים לעיר <placeName xml:id="temp0050" ref="#K7637">רומא
+						רבתא</placeName> והיא ראש מלכות אדום. ושם <lb/>כמו מאתים יהודים נכבדים ואין
+					פורעין <lb/>מס לשום אדם ומהם משרתי <persName>הפפא אלכשנדירוש</persName> הוא
+					ההגמון הגדול הממונה <lb/>על כל דת אדום ושם חכמים גדולים <lb/>ובראשם
+						<persName>רבי דניאל</persName> ו<persName>רבי יחיאל משרת של פפא</persName>
+					והוא בחור יפה נבון וחכם והוא <lb/>יוצא ובא בבית <persName>הפפא</persName> והוא
+					פקיד ביתו <lb/>ועל-כל-אשר-לו והוא נכדו של <persName>רבי נתן שעשה ספר הערוך
+						ופירושיו</persName> ו<persName>רבי יואב בן הרב רבי שלמה</persName>
+      	ו<persName>רבי מנחם ראש הישיבה</persName> ו<persName>רבי יחיאל הדר ב<placeName xml:id="recogito-f8ca3059-64ef-4a40-8886-8b1912fabce6" type="quarter" >טרשטיברי</placeName>
+        </persName>
+      	<lb/>ו<persName>רבי בנימן בר רבי שבתי ז״ל</persName> והיא <placeName xml:id="temp0051" ana="asheradlerOK">רומא</placeName> <lb/> העיר שני
+					חלקים והנהר <placeName xml:id="temp0052" ref="#K61045">טיברוס</placeName> חולק <lb/>באמצע המדינה חלק אחד מצד אחד
+					<lb/>וחלק אחד מצד שני ובחלק הראשון <lb/>הבמה הגדולה שקוראין לה
+						<placeName xml:id="temp0053" type="bama">שלביטרא די רומא</placeName> ושם היה <placeName     xml:id="temp0054" cert="unknown">ארמון של <persName>יוליוס
+						קיסר הגדול</persName></placeName>. ויש שם בניינים הרבה ומעשים <pb n="14"/>
+        <lb/>משונים מכל-בנין שבעולם ובין המיושב <lb/>והחרב מן <placeName xml:id="temp0055">רומא</placeName> ארבע ועשרים מילין
+					<lb/>ושם שמונים היכלות משמונים מלכים <lb/>גדולים (בתורה) הנקראים כלם אינפירדור
+					<lb/>ממלכות <persName>טרקיינוס</persName> ועד מלכות <persName>פפוס*) אביו של
+						קרלו אשר כבש ארץ <placeName xml:id="setalsoinAsher">ספרד</placeName> מיד הישמעאלים בתחלה</persName>. ושם <placeName xml:id="temp0058" type="היכל" >היכל
+							<persName>טיטוס</persName>
+        </placeName> לחוץ ל<placeName     type="recogito-e3053f11-fd90-4fc1-98de">רומא</placeName> שלא קבלוהו שלש <lb/>מאות יועציו בשביל שלא עשה מצותם
+					<lb/>שלא לקח <placeName xml:id="temp0060" ref="#K691">ירושלים</placeName> אלא לשלוש שנים <lb/>וגזרו
+					הם עליו שתי שנים ושם כמו היכל <placeName xml:id="temp0061" type="ארמון" >ארמון המלך
+							<persName>אספסיינוס</persName>
+					</placeName> בנין גדול וחזק <lb/>מאד | ושם <placeName xml:id="recogito-10806a99-a469-4cad-a39b-2f3c39b95e8b">ארמון המלך <persName>מלך
+						גלבין</persName></placeName> ויש <lb/>בתוך ארמון שלו שלש מאות וששים <lb/>ארמונים**)
+					כמנין ימות השנה. והקפת <lb/>הארמונים שלשה מילין. והיתה מלחמה <lb/>ביניהם בימי
+					קדם ונפלו בתוך הארמון <lb/>יותר ממאה אלף בני אדם הרוגים והיו <lb/>העצמות עד היום
+					הזה תלויות וצייר <persName>המלך</persName>
+        <pb n="15"/>
+        <lb/>ענין המלחמה מצד ומצד מערכה לקראת <lb/>מערכה בני אדם וסוסיהם וכלי מלחמתם
+					<lb/>הכל אבן שיש להראות לבני העולם <lb/>המלחמה שהיתה בימי קדם ושם ימצא
+						<placeName xml:id="temp0063">מערה</placeName> שהולכת תחת הארץ ונמצאים
+						<persName>המלך</persName> ו<persName>המלכה</persName> אשתו על-כסאותם ועמם
+					<lb/>כמו מאה בני אדם שרי המלוכה וכלם <lb/>חקוקים במלאכת הרופאים עד היום הזה.
+					<lb/>ושם ב<placeName xml:id="temp0065">שלטיאני א-לטישנא</placeName> ובבמה שני <lb/>עמודים מנחשת
+					ממעשה <persName>שלמה המלך עליו השלום</persName> ובכל-עמוד ועמוד חקוק
+						<persName>שלמה בן דוד</persName> ואמרו לו*) היהודים אשר <lb/>ברומא כי
+					בכל-שנה ושנה בימי תשעה <lb/>באב נמצאה זיעה עליהם נגרת כמים. <lb/>ושם
+						<placeName xml:id="temp0067">מערה</placeName> שגנז <persName>טיטוס בן אספסיינוס</persName>
+        <lb/>כלי בית המקדש שהביא מ<placeName xml:id="temp0068" ref="#K691">ירושלם</placeName> וגם <placeName xml:id="temp0069">מערה</placeName> אחת בהר על-שפת
+					הנהר <placeName xml:id="temp0070" ref="#K61045">טיברו</placeName>. <lb/>ושם קבורים <persName>הצדיקים ז״ל עשרה הרוגי מלכות</persName>
+      	ולפני<placeName   xml:id="temp0071" > שלגוון דלטרנה </placeName>מצוייר <pb n="16"/>
+        <lb/>שמשון וכידור*) בידו של אבן | וגם <persName>אבשלום בן דוד</persName> וגם
+					המלך <persName>קושטדינוס</persName> שבנה <placeName xml:id="temp0073" ref="#K6927">קושטנדינה</placeName> ועל שמו נקראת <placeName xml:id="temp0074" ref="#K533">קושטנטינופולי</placeName>. והוא מצוייר מנחשת <lb/>וסופו ומצפים בזהב. ויש
+					בניינים אחרים <lb/>ועניינים ב<placeName xml:id="d1e1604b">רומא</placeName> שלא יוכל אדם לספרם.</seg>
+     </ab>
+     <ab xml:id="GeoNar4">
+      <seg xml:id="GN4S1">
+        <lb/>ומשם ארבעה ימים ל<placeName xml:id="temp0077" ref="#K6800">קפואה</placeName> היא המדינה
+					<lb/>הגדולה שבנאה <persName>קפיס המלך</persName> והיא טובה <lb/>אבל המים רעים
+					והארץ משכלת ויש בה <lb/>כמו שלש מאות יהודים ובם חכמים <lb/>גדולים נכבדי ארץ
+					ובראש <persName>רבי קונפשט</persName>
+        <lb/>ו<persName>רבי שמואל</persName> אחיו ו<persName>רבי זקן</persName> והרב
+						<persName>רבי דוד ז״ל</persName> וקוראין לזה פרינציפלו.</seg>
+      <seg xml:id="GN4S2"> ומשם <lb/>ל<placeName xml:id="temp0078" ref="#K9790">פוצול</placeName> הנקראת
+						<placeName xml:id="temp0079" ref="#K9809">סוריינטו</placeName> העיר הגדולה <lb/>שבנה
+						<persName>ציצן הדרעזר</persName> שברח מפני פחד <persName>דוד המלך</persName>
+					עליו השלום ויצא הים וכסה <lb/>אותה בשני חלקים מן העיר. ועד היום <lb/>הזה ראים
+					בני אדם השווקים והמגדלים <lb/>שהיו בתוך המדינה ושם מעין נובע מתוך <lb/>התהום
+					וימצא שם השמן הנקרא פיטרוליו <pb n="17"/>
+        <lb/>ומלקטין אותו על פני המים ומשימין <lb/>אותו רפואות ויש מרחצאות של מים
+					<lb/>חמין נובעין מתחת הקרקע והם על שפת <lb/>הים והם כמו שני מרחצאות שכל אדם
+					<lb/>שיש בו שום חולי ילך וירחוץ בהם <lb/>וימצא מרפא ומרגוע וכל החולים מבני
+						<placeName xml:id="temp0080" ref="#K10968">לונברדיאה</placeName> באים שם הקיץ</seg>
+      <seg xml:id="GN4S3"> ומשם ילך <lb/>אדם דרך חמשה עשר מילין תחת <lb/>ההרים הוא הבנין
+					אשר בנה <persName>רומולוס המלך</persName> שבנה <placeName xml:id="temp0081" ref="#K440">רומא</placeName> הכל עשה מפני פחד <persName>דוד מלך ישראל</persName>
+						ו<persName>יואב</persName> שר צבאו ועשה <lb/>בנין על-ההרים ותחת ההרים.
+						<placeName xml:id="temp0082" ref="#K673">נאפולי</placeName> המדינה. והיא עיר בצורה <lb/>מאד
+					יושבת על-שפת הים מבנין היונים <lb/>ושם כמו חמש מאות יהודים ושם <persName>רבי
+						חזקיה</persName> ו<persName>רבי שלום</persName> ו<persName>רבי אליה
+						הכהן</persName> ו<persName>רבי יצחק מהר ההר ז״ל</persName>.</seg>
+      <seg xml:id="GN4S4"> ומשם דרך יום <lb/>עד עיר <placeName xml:id="temp0083" ref="#K6373">שלירנה</placeName> ושם ישיבת הרופאים <lb/>לבני אדום ושם כמו שש מאות יהודים
+					<lb/>ושם חכמים <persName>רבי יהודה בר רבי יצחק </persName> ו<persName>רבי מלכי
+						צדק הרב הגדול</persName> שהיה מעיר <placeName xml:id="temp0084" ref="#K7024">ציפונת</placeName>
+						ו<persName>רבי שלמה הכהן</persName> ו<persName>רבי אליה</persName> היוני
+					ורבי אברהם נרבוני ורבי תמון <lb/>והיא עיר מוקפת חומה מצד היבשה <lb/>ומצד האחר
+					על-שפת הים והמגדל בראש <lb/>ההר חזק מאד.</seg>
+      <seg xml:id="GN4S5"> ומשם חצי יום ל<placeName xml:id="temp0085" ref="#K6262">אמלפי</placeName>
+        <lb/>ושם כמו עשרים יהודים ושם <persName>רבי חננאל הרופא</persName>
+						ו<persName>רבי אלישע</persName> ו<persName>אבו-אל-גיד הנדיב ז״ל</persName>
+					והגוים אנשי הארץ תגרים הולכים <lb/>בסחורה ואינם זורעים אלא קונים הכל <lb/>בכסף
+					מפני שהם שוכנים על-ההרים <lb/>הגבוהים ובראשי הסלעים. אבל יש <lb/>להם פירות הרבה
+					ארץ כרמים וזתים <lb/>וגנות ופרדסים ואין אדם יכול להלחם <lb/>עמם.</seg>
+      <seg xml:id="GN4S6"> ומשם דרך יום ל<placeName xml:id="temp0086" ref="#K6449">בינאבינטו</placeName>*)
+					היא <lb/>עיר גדולה יושבת על שפת-הים והר אחד <lb/>ושם קהל מיהודים כמו מאתים
+					ובראשם <persName>רבי קלונימוס</persName> ו<persName>רבי זרח</persName>
+						ו<persName>רבי אברהם ז״ל</persName>.</seg>
+      <seg xml:id="GN4S7"> ומשם שני ימים ל<placeName xml:id="temp0087" ref="#K12281">מלפי</placeName>**)
+					שבארץ <placeName xml:id="temp0088" ref="#K7555">פולייא</placeName> והיא ארץ
+						<placeName xml:id="temp0089">פול</placeName> ושם כמו מאתיים <pb n="19"/>
+        <lb/>יהודים ובראשם <persName>רבי אחימעץ</persName> ו<persName>רבי נתן</persName>
+        <lb/>ו<persName>רבי צדוק</persName>.</seg>
+      <seg xml:id="GN4S8"> ומשם מהלך יום ל<placeName xml:id="temp0091" ref="#GN3182747">אשקולי</placeName>
+        <lb/>ושם כמו ארבעים יהודים ובראשם <persName>רבי קונטילו</persName>
+						ו<persName>רבי צמח</persName> חתנו ו<persName>רבי יוסף ז״ל</persName>
+      </seg>
+      <lb/>
+      <seg xml:id="GN4S9"> ומשם שני ימים ל<placeName xml:id="temp0092" ref="#K7879">טרנאה</placeName> אשר
+					על-שפת <lb/>הים ושם מתקבצים כל התועים*) לעבור <lb/>ל<placeName xml:id="temp0093" ref="#K691">ירושלים</placeName> כי שם פורט הנמל הנכון ושם <lb/>קהל מישראל כמו מאתים
+					ובראשם <persName>רבי אליה</persName> ו<persName>רבי נתן הדרשן</persName>
+						ו<persName>רבי יעקבו</persName> והיא <lb/>עיר טובה וגדולה.</seg>
+      <seg xml:id="GN4S10"> ומשם מהלך יום <lb/>ל<placeName xml:id="temp0094" ref="#K7504">מיקילס
+						דבר</placeName>היא המדינה הגדולה אשר <lb/>החריב <persName>המלך גיללמו של
+							<placeName xml:id="d1e1887" ref="#K6284">ציקיליה</placeName>
+        </persName> ואין <lb/>שם היום מישראל מפני שהיא חרבה ומן <lb/>הגוים כמו כן.</seg>
+      <seg xml:id="GN4S11"> ומשם יום וחצי ל<placeName xml:id="temp0095" ref="#K8176">טראנטו</placeName>.
+					<lb/>היא תחלת מלכות ארץ <placeName xml:id="temp0096" ref="#K7660">קלאבריאה</placeName>
+        <lb/>ויושביה יונים והיא עיר גדולה ובה כמו <lb/>שלש מאות יהודים ובם חכמים ובראשם
+						<persName>רבי מאלי</persName> ו<persName>רבי נתן</persName> ו<persName>רבי
+						ישראל</persName>
+      </seg>
+      <seg xml:id="GN4S12">ומשם <lb/>מהלך יום ל<placeName xml:id="temp0098" ref="#K11068">ברנדישי</placeName>
+					אשר על-שפת <pb n="20"/>
+        <lb/>הים ושם כמו <persName>עשרה יהודים צבעים</persName>.<lb/>
+      </seg>
+     </ab>
+     <ab xml:id="GeoNar5">
+      <seg xml:id="GN5S1">ומשם שני ימים ל<placeName xml:id="temp0099" ref="#K7029">אוטרנדו</placeName> אשר
+					על- <lb/>שפת הים ארץ <placeName xml:id="temp0100" ref="#K8822">יון</placeName> ושם כמו חמש מאות
+					<lb/>יהודים והראש שלהם <persName>רבי מנחם</persName> ו<persName>רבי
+						כלב</persName> ו<persName>רבי מאיר</persName> ו<persName>רבי מאלי</persName>
+      </seg>
+      <seg xml:id="GN5S2"> ומשם עובר <lb/>אדם בים דרך שני ימים לאי-<placeName xml:id="temp0102" ref="#K1039">קרופוס</placeName>*) <lb/>ושם יהודי אחד ושמו <persName>רבי יוסף</persName>
+					ועד הנה <lb/>מלכות <placeName xml:id="temp0103">ציקיליה</placeName>.</seg>
+      <seg xml:id="GN5S3"> ומשם דרך שני ימים <lb/>בים לארץ <placeName xml:id="temp0104" ref="#K20954">לבטה</placeName> היא תחלת מלכות <persName>מנואל מלך היונים</persName> והיא
+					כפר ובה כמו <lb/>מאה יהודים ובראשם <persName>רבי שלחיה</persName> ו<persName>רבי
+						אירקוליס</persName>.</seg>
+      <seg xml:id="GN5S4"> ומשם שני ימים ל<placeName xml:id="temp0105" ref="#U1" ana="asheradlerok">אכילון</placeName>
+        <lb/>ושם כמו עשרה יהודים ו<persName>רבי שבתי</persName>
+        <lb/>בראשם.</seg>
+      <seg xml:id="GN5S5"> ומשם חצי יום ל<placeName xml:id="temp0106" ref="#GN265507">נטוליקון</placeName>
+        <lb/>היושבת על זרוע הים.</seg>
+      <seg xml:id="GN5S6"> ומשם ל<placeName xml:id="temp0107" ref="#K12768">פטרה</placeName>
+        <lb/>יום אחד דרך ים היא המדינה של <persName>אנטפיטרוש המלך של יון</persName>.
+					הוא היה <lb/>אחד מארבעה מלכים שקמו אחרי <persName>אלכסנדרוס המלך</persName> ושם
+					בניינים <lb/>גדולים קדמונים ושם כמו חמשים <pb n="21"/>
+        <lb/>יהודים ובראשם <persName>רבי יצחק</persName> ו<persName>רבי יעקב</persName>
+        <lb/>ו<persName>רבי שמואל</persName>
+      </seg>
+      <seg xml:id="GN5S7">ומשם חצי יום דרך ים <lb/>ל<placeName xml:id="temp0108" ref="#K21742">לפנטו</placeName> ושם כמו מאה יהודים על-שפת <lb/>הים ובראשם <persName>רבי
+						גזרי</persName> ו<persName>רבי שלום</persName> ו<persName>רבי אברהם
+						ז״ל</persName>.</seg>
+      <seg xml:id="GN5S8"> ומשם מהלך יום וחצי <lb/>ל<placeName xml:id="temp0109" ref="#GN259862">קורש</placeName> ושם חונים כמו מאתים יהודים <lb/>לבדם בהר
+						<placeName xml:id="temp0110">פרנש</placeName> והם זורעים וקוצרים <lb/>בנחלתם וקרקעותיהם.
+					ובראשם <persName>רבי שלמה</persName> ו<persName>רבי חיים</persName>
+						ו<persName>רבי ידעיה</persName>.</seg>
+      <seg xml:id="GN5S9"> ומשם <lb/>שלשה ימים עד עיר <placeName xml:id="temp0111" ref="#GN259289">קורינטו</placeName> המדינה <lb/>ושם כמו שלש מאות יהודים ובראשם
+						<persName>רבי ליאון</persName> ו<persName>רבי יעקב</persName> ו<persName>רבי
+						חזקיה</persName>.</seg>
+      <seg xml:id="GN5S10"> ומשם <lb/>שלשה ימים ל<placeName xml:id="temp0112" ref="#K14830">טיבש</placeName>
+					עיר גדולה ובה <lb/>כמו אלפים יהודים והם האומנים <lb/>הטובים לעשות בגדי משי
+					וארגמן בארץ <lb/>היונים. ובהם חכמים גדולים במשנה <lb/>ובתלמוד והם גדולי הדור
+					ובראשם <persName>הרב הגדול רבי אהרן קוטי</persName> ו<persName>רבי
+						משה</persName> אחיו <lb/>ו<persName>רבי חייא</persName> ו<persName>רבי אליה
+						תירתינו</persName> ו<persName>רבי יקטן</persName>
+        <lb/>ואין כמותם בכל ארץ <placeName xml:id="temp0113" ref="#K8822">יון</placeName> חוץ ממדינת <pb n="22"/>
+        <placeName xml:id="temp0114" ref="#K533">קושטנטינופולי</placeName>
+      </seg>
+      <seg xml:id="GN5S11"> ומשם מהלך יום ל<placeName xml:id="temp0116" ref="#K14277">ארגירפו</placeName>
+        <lb/>והיא עיר גדולה על-שפת הים ובאים <lb/>אליה תגרים מכל צד ופנה ושם כמו
+					<lb/>מאתים יהודים ובראשם <persName>רבי אליה פשלטירי</persName> ו<persName>רבי
+						עמנואל</persName> ו<persName>רבי כלב</persName>.</seg>
+      <seg xml:id="GN5S12"> ומשם <lb/>דרך יום עד <placeName xml:id="temp0117" ref="#GN258577">יובשטריסה</placeName> והיא מדינה <lb/>על-שפת הים ושם כמו מאה יהודים
+					<lb/>ובראשם <persName>רבי יוסף</persName> ו<persName>רבי שמואל</persName>
+						ו<persName>רבי נתניה</persName>
+      </seg>
+      <seg xml:id="GN5S13"> ומשם ל<placeName xml:id="temp0118" ref="#GN261211">רובינקה</placeName> מהלך יום
+					אחד <lb/>ושם כמו מאה יהודים ובראשם <persName>רבי יוסף</persName>
+        <lb/>ו<persName>רבי אלעזר</persName> ו<persName>רבי יצחק</persName>
+      </seg>
+      <seg xml:id="GN5S14">ומשם מהלך יום <lb/>ל<placeName xml:id="temp0119" ref="#GN258620">שינון
+						פוטמו</placeName> ובה כמו חמשים יהודים <lb/>ובראשם <persName>רבי
+						שלמה</persName> ו<persName>רבי יעקב</persName> והוא <lb/>תחלת <placeName xml:id="temp0120" ref="#K9259">בלכיא</placeName> שיושבים בהרים והיא <lb/>האומה הנקראת בלכיין
+					והם קלים <lb/>כצבאים יורדים מן ההרים לשלול ולבוז <lb/>אל ארץ <placeName xml:id="temp0121" ref="#K8822" >יון</placeName> ואין אדם יכול לעלות אליהם <lb/>למלחמה ואין מלך
+					יכול לשלוט עליהם <lb/>ואינם*) חזקים בדת הנוצרים וקרואים <lb/>שמם ביניהם כשמות
+					היהודים ויש <pb n="23"/>
+        <lb/>אומרים שהם יהודים היו והיו קוראים <lb/>ליהודים אחינו וכשימצאו אותם בוזזים
+					<lb/>אותם ואינם הורגים אותם כמו שהורגים <lb/>ליונים ואין להם שום דת. </seg>
+      <seg xml:id="GN5S15">ומשם שני <lb/>ימים ל<placeName xml:id="temp0122" ref="#GN255638">גרדיגי</placeName> והיא חרבה ואנשים בה <lb/>מעט מיונים ומיהודים</seg>
+      <seg xml:id="GN5S16"> ומשם שני ימים <lb/>ל<placeName xml:id="temp0123" ref="#BJ5">ארמילו</placeName>
+					והיא עיר גדולה על-שפת הים <lb/>והיא עיר סחורה לבינציאניש ולפישניש <lb/>ולגינוביש
+					ולכל הסוחרים הבאים שם <lb/>והיא ארץ רחבת ידים ובה כמו ארבע <lb/>מאות יהודים
+					ובראשם <persName>הרב רבי שילה</persName>
+        <lb/>ו<persName>רבי יוסף הפרנס</persName> ו<persName>רבי שלמה הראש</persName>. </seg>
+      <seg xml:id="GN5S17">
+        <lb/>ומשם מהלך יום ל<placeName xml:id="temp0124" ref="#BJ9">בישינה</placeName> ושם כמו מאה
+					<lb/>יהודים ובראשם <persName>רבי שבתא הרב</persName> ו<persName>רבי
+						שלמה</persName> ורבי יעקב.</seg>
+      <seg xml:id="GN5S18"> ומשם דרך שני <lb/>ימים בים לעיר <placeName xml:id="temp0125" ref="#K103">סלוסקי</placeName>*) שבנה <persName>סליקוס המלך</persName> אחד מארבעה
+					שרידי**) <placeName xml:id="temp0126" ref="#K8822">יון</placeName> שקמו <lb/>אחרי
+						<persName>אלכסנדרוס</persName> והיא עיר גדולה מאד <lb/>ובה כמו חמש מאות
+					יהודים ושם <persName>הרב רבי שמואל</persName> ו<persName>בניו</persName> תלמידי
+					חכמים והוא <pb n="24"/>
+        <lb/>שם ממונה על-היהודים תחת יד <persName>המלך</persName>
+        <lb/>ו<persName>רבי שבתאי</persName> חתנו ו<persName>רבי אליה</persName>
+						ו<persName>רבי מיכאל</persName>
+        <lb/>ושם גלות גדול ליהודים והם מתעסקים <lb/>במלאכות.</seg>
+      <seg xml:id="GN5S19"> ומשם שני ימים ל<placeName xml:id="temp0127" ref="#GN736795">מיטריסי</placeName>
+        <lb/>ושם כמו עשרים יהודים ושם <persName>רבי ישעיה</persName>
+        <lb/>ו<persName>רבי מכיר</persName> ו<persName>רבי אליאב</persName>.</seg>
+      <seg xml:id="GN5S20"> ומשם שני <lb/>ימים ל<placeName xml:id="temp0128" ref="#K14269">דרמה</placeName>
+					ובה כמו מאה וארבעים <lb/>יהודים. ובראשם <persName>רבי מיכאל</persName>
+						ו<persName>רבי יוסף</persName>| <lb/>
+      </seg>
+      <seg xml:id="GN5S21">ומשם מהלך יום ל<placeName xml:id="temp0129" ref="#GN735861">קנישתולי</placeName>
+					ושם כמו <lb/>עשרים יהודים. </seg>
+      <seg xml:id="GN5S22">ומשם דרך שלשה <lb/>ימים דרך ים ל<placeName xml:id="temp0130" ref="#K4579">אבירו</placeName> היושב על-שפת <lb/>הים מהלך חמשה ימים בין ההרים עד
+					<lb/>מדינת <placeName xml:id="temp0131" ref="#K6927">קושטנדינה</placeName> הגדולה.</seg>
+     </ab>
+     <ab xml:id="GeoNar6">
+      <seg xml:id="GN6S1"> והיא ראש <lb/>המלכות בכל ארץ <placeName xml:id="temp0132" ref="#K8822">יון</placeName> הנקראים גירזאינוש*) <lb/>ושם כסא <persName>המלך מנואל
+						אינפרדור</persName> ושנים <lb/>עשר מלכים תחת ידו וכל-אחד ואחד יש <lb/>לו
+					ארמון ב<placeName xml:id="temp0134" ref="#K6927">קושטנטינה</placeName> ולהם מגדלים <lb/>ומדינות
+					ושולטים בכל-הארץ ובראשם <persName>המלך אפריפוס הגדול</persName> והשני
+						<persName>מיגה דמשטוקוץ</persName> והשלישי <persName>דומינות</persName>
+					והרביעי <pb n="25"/>
+        <persName>מקדוקוס החמישי איקנמוס מגלי</persName>*) ושאר <lb/>השמות שלהם כענין
+					הזה ועיר <placeName xml:id="temp0135" ref="#K6927">קושטאנטינה</placeName> בהקפת העיר יש בה
+					<lb/>שמנה עשר מיל וחציה על-הים וחציה <lb/>על-היבשה והיא יושבת על-שתי זרועות
+					<lb/>ים אחד שיבא מ<placeName xml:id="temp0136">ים רוסיה</placeName> ואחד מ<placeName xml:id="temp0137">ים ספרד</placeName> וכל
+					הסוחרים הבאים מארץ <placeName xml:id="temp0138" ref="#U4">בבל</placeName>
+        <lb/>ומכל-ארץ <placeName xml:id="temp0139" ref="#Q1404297">שנער</placeName> וארץ <placeName xml:id="temp0140" ref="#K22613" ana="orderswitchadlerOK">מדי</placeName> ו<placeName xml:id="temp0141" ref="#K7639" ana="orderswitchadlerOK">פרס</placeName> וכל
+					<lb/>מלכות ארץ <placeName xml:id="temp0142" ref="#K8046">מצרים</placeName> וארץ
+      	<placeName xml:id="temp0143"> כנען</placeName>
+      	ומלכות
+						<placeName xml:id="temp0144" ref="#U6">רושיא</placeName> ו<placeName xml:id="temp0145" ref="#Q171150">אונגריאה</placeName> ו<placeName xml:id="temp0146" ref="#U2">פסיינקי</placeName> ו<placeName xml:id="temp0147" ref="U3">בודיא</placeName> וארץ <placeName xml:id="temp0149" ref="#K10968">לונברדייא</placeName> ו<placeName xml:id="temp0150" ref="#K6471">ספרד</placeName> והיא עיר
+					הומיה באים <lb/>אליה בסחורה מכל הארצות בין בים <lb/>בין ביבשה אין כמותה בארצות
+					חוץ <lb/>מ<placeName xml:id="temp0151" ref="#K662">בגדיד</placeName> העיר הגדולה אשר לישמעלים
+					<lb/>ושם <placeName xml:id="temp0153">במה של תוספיה</placeName> ושם <persName>הפפא של יונים</persName> מפני שאינם עונים
+					לדת <persName>הפפא של <placeName xml:id="recogito-efecfdbf-850b-44f1-ac35-4139eba4b3d3">רומא</placeName></persName> ושם במות כמנין ימות השנה ויש שם <lb/>ממון
+					גדול לאין מספר שמביאין אליה <lb/>בכל-שנה משני איים ומגדלים וכרכים <lb/>שיש שם
+					וכעושר הזה לא נמצא בכל <pb n="26"/>
+        <lb/>הבמות שבעולם ובתוך הבמה עמודים <lb/>של זהב וכסף ועששיות של כסף וזהב
+					<lb/>יותר ממה שיוכל לספר ושם יש מקום <lb/>אחד מקום שחוק המלך סמוך לכותל
+					<lb/>הארמון הנקרא איפדרומי ובכל-שנה <lb/>ושנה עושה המלך שם ביום תולדת
+						<persName>ישו הנוצרי</persName> שחוק גדול ובאותו מקום מצויירים <lb/>כל מיני
+					בני אדם שבעולם לפני <persName>המלך</persName>
+        <lb/>ו<persName>המלכה</persName> בכל מיני כשוף ומביאים אריות <lb/>ודובים ונמרים
+					וחמור הבר ומשלחים <lb/>אותם להתקוטט זה עם זה והעופות כמו <lb/>כן ולא נראה כשחוק
+					ההוא בכל הארצות <lb/>והוא <persName>המלך עמנואל</persName> בנה ארמון גדול
+					<lb/>לכסא מלכותו על-שפת הים חוץ מן <lb/>הארמון שבנו אבותיו וקרא אותו <placeName xml:id="temp0155" ref="Q1472490">בילכירנש</placeName> וצפה העמודים והכותרות זהב <lb/>וכסף צרוף
+					וצייר בם כל מלחמות <lb/>הקדמונים אשר היו לפניו וגם המלחמות <lb/>אשר עשה הוא
+					בעצמו ועשה שם כסאו <lb/>של זהב ואבן יקרה ועטרת זהב תלויה <pb n="27"/>
+        <lb/>בשלשלת של זהב על הכסא כמדת <lb/>ישיבתו תחתיה ובה מרגליות שאין שום <lb/>אדם
+					יכול לשער דמיהם כי בלילה אין <lb/>צריכין שם נרות כי הכל ראין מאור <lb/>המרגליות
+					אשר מאירים להם עד מאד <lb/>ושם עניינים שאין אדם יכול לספר <lb/>אותם ומביאים מכל
+					ארץ <placeName xml:id="temp0156" ref="#K8822">יון</placeName> כל המכס <lb/>בכל-שנה ושנה וממלא ממנו
+					מגדלים <lb/>מבלדי משי וארגמן וזהב ולא נראה <lb/>הבנין ההוא והעושר ההוא בכל-הארץ
+					<lb/>ואומרים כי המס של המדינה עצמה <lb/>עולה בכל-יום עשרים אלף זהובים בין
+					<lb/>שכירות החנויות והשווקים ומכס <lb/>הסוחרים הבאים בים וביבשה והיונים
+					<lb/>אנשי הארץ עשירים גדולים בזהב ומרגליות <lb/>והם הולכים מלבשים בגדי משי
+					ומשבצות <lb/>זהב באריגה וברקמה על לבושיהם <lb/>ורוכבים על סוסים ודומים לבני
+					מלכים <lb/>והארץ רחבת ידים מאד בכל מיני מגדים <lb/>וגם לחם ובשר ויין הרבה מאד
+					ולא <pb n="28"/>
+        <lb/>נראה בכל הארץ כעשרם והם בעלי <lb/>חכמה בכל ספרי היונים ואוכלים ושותים
+					<lb/>איש תחת גפנו ותחת תאנתו. ושוכרים <lb/>מכל לשונות הגוים הנקראים להם לעזים*)
+					<lb/>ללחום עם <persName>השלטון מלך תוגרמים</persName> והם <lb/>הנקראים טורקוש
+					מפני שאין להם להב <lb/>לב למלחמה והם נחשבים כנשים אשר <lb/>אין בם כח לעצור ואין
+					היהודים בתוך <lb/>המדינה בינם כי העבירום אחר זרוע <lb/>המים וזרוע <placeName xml:id="temp0158">ים
+						שופיא</placeName> מקיף עליהם מצד <lb/>אחד ואינם יכולים לצאת אלא דרך ים
+					<lb/>לסחורה עם בעלי המדינה ושם כמו <lb/>אלפים יהודים רבנים ומהם כמו חמש
+					<lb/>מאות קראין בצד אחד וביניהם ובין <lb/>הרבנים שהם תלמידי חכמים מחיצה
+					<lb/>ובראשם <persName>רבי אבטליון הרב</persName> ו<persName>רבי
+						עובדיה</persName>
+        <lb/>ו<persName>רבי אהרן כושפו</persName> ו<persName>רבי יוסף שרגינו</persName>
+						ו<persName>רבי אליקים הפרנס</persName> וביניהם אומנים של בגדי <lb/>משי
+					וסוחרים הרבה ועשירים גדולים <lb/>אבל אין מניחין שם יהודי לרכוב על סוס <pb n="29"/>
+        <lb/>חוץ מ<persName>רבי שלמה המצרי שהוא רופא למלך</persName> ועל ידו מוצאים
+					היהודים ריוח <lb/>גדול בגלותם כי בגלות כבד הם יושבים <lb/>והשנאה רבה עליהם על
+					ידי הברסקנין <lb/>עובדי העורות שמשליכין המים המטונפים <lb/>שלהם בחוצות לפני פתחי
+					ביתם <lb/>ומלכלכין היהודים ועל זה שונאים היונים <lb/>כל היהודים בין טוב ובין רע
+					כי מכבידים <lb/>עולם עליהם ומכים אותם בחוצות <lb/>ומעבידים אותם בפרך אבל היהודים
+					הם <lb/>עשירים ואנשים טובים בעלי חסד ומצות <lb/>וסובלים הגלות בעין יפה ושם המקום
+					<lb/>שדרים בו היהודים <placeName xml:id="temp0159" ref="#K7544">פירא</placeName>.</seg>
+     </ab>
+     <ab xml:id="GeoNar7">
+      <seg xml:id="GN7S1"> ומשם שני <lb/>ימים דרך ים ל<placeName xml:id="temp0161" ref="#K22213">רודוסטו</placeName> ושם קהל <lb/>מישראל כארבע מאות ובראשם <persName>רבי
+						משה</persName> ו<persName>רבי אביה</persName> ו<persName>רבי
+					יעקב</persName>.</seg>
+      <seg xml:id="GN7S2"> ומשם שני <lb/>ימים ל<placeName xml:id="temp0162" ref="GN746983">גאליפולי</placeName> ושם כמו מאתים יהודים <lb/>ובראשם
+						<persName>רבי אליה קפיד</persName> ו<persName>רבי שבתי זוטרא</persName>
+						ו<persName>רבי יצחק מיגש</persName> ובלשון יון קורין <lb/>למגדל*)
+					מיגש.</seg>
+      <seg xml:id="GN7S3"> ומשם שני ימים ל<placeName xml:id="temp0163" ref="#PL844961">קלש</placeName>
+        <pb n="30"/>
+        <lb/>ושם כמו חמשים יהודים ובראשם <persName>רבי יהודה</persName> ו<persName>רבי
+						יעקב</persName> ו<persName>רבי שמעיה</persName>.</seg>
+      <seg xml:id="GN7S4">
+					ומשם <lb/>שני ימים ל<placeName xml:id="temp0164" ref="#GN256866">מיטילין</placeName> מאיי הים ושם
+					באי <lb/>קהלות מישראל בעשרה מקומות.</seg>
+      <seg xml:id="GN7S5"> ומשם <lb/>שלשה
+					ימים דרך לאי <placeName xml:id="temp0165" ref="#K17289">כא</placeName>*) ובה כמו ארבע <lb/>מאות
+					יהודים ו<persName>רבי אליה</persName> ו<persName>רבי תימן</persName>
+						ו<persName>רבי שבתי</persName> בראשם ושם ימצאו האילנות <lb/>שלוקטין ממנו
+					המצטיקי. </seg>
+      <seg xml:id="GN7S6">ומשם שני ימים <lb/>לאי <placeName xml:id="temp0166" ref="#K14268">סמו</placeName> ובה כמו שלש מאות יהודים ובראשם <persName>רבי
+						שמריא</persName> ו<persName>רבי עובדיה</persName> ו<persName>רבי
+						יואל.</persName> ושם באיים קהלות רבות מישראל </seg>
+      <seg xml:id="GN7S7">
+        <lb/>ומשם שלשה ימים דרך ים ל<placeName xml:id="temp0168" ref="#K2044">רודוש</placeName> ובה
+					<lb/>כמו ארבע מאות יהודים ובראשם <persName>רבי אבא</persName> ו<persName>רבי
+						חננאל</persName> ו<persName>רבי אליה</persName>
+      </seg>
+      <seg xml:id="GN7S8">
+					ומשם <lb/>ארבעה ימים ל<placeName xml:id="temp0169" ref="#K7562">כיפרוס</placeName>*) ושם יהודים
+					<lb/>רבנים וקבוץ עוד יש שם יהודים מינים <lb/>קפרוסין והן האפיקורוסין ישראל מנדין
+					<lb/>אותן בכל-מקום והם מחללים ליל שבת <lb/>ושומרים ליל ראשון </seg>
+     </ab>
+     <ab xml:id="GeoNar8">
+      <seg xml:id="GN8S1"> ומשם שני ימים <lb/>ל<placeName xml:id="temp0171" ref="#PL638939">קורקוס</placeName> היא תחלת ארץ <placeName xml:id="temp0172"     type="recogito-361d57ec-cc2c-4c13-97a2-441b051851c5" ref="#K16830">ארם</placeName> הנקראת <pb n="31"/>
+        <lb/><placeName xml:id="temp0173"     ref="#K16830">ארמניא</placeName> והוא תחלת ממשלת <persName>טורוש בעל ההרים מלך ארמניא</persName>
+					המולך עד מדינת <lb/>ה<placeName xml:id="temp0174" ref="#K16830" ana="Adler-52">דוכיא</placeName> ועד ארץ התוגרמים
+					הם הנקראים <lb/>טורקוש.</seg>
+      <seg xml:id="GN8S2"> ומשם שני ימים ל<placeName xml:id="temp0175" ref="#U11">מלמישטרש</placeName> היא
+						<placeName xml:id="temp0176" ref="#U10" type="id">תרשיש</placeName> היושבת על הים עד הנה <lb/>מלכות
+					היונים הנקראים גריגיש.</seg>
+      <seg xml:id="GN8S3"> ומשם <lb/>שני ימים ל<placeName xml:id="temp0177" ref="#K11503">אנטוכיא
+						הגדולה</placeName> היושבת על <lb/>
+        <placeName xml:id="temp0178" ref="#K5150">נהר פיר</placeName> (<placeName xml:id="temp0179" ref="#U9" type="idf">נחל
+						יבוק</placeName>) היורד מ<placeName xml:id="temp0180" ref="#K15821">הר הלבנון</placeName>
+         <lb/>מארץ <placeName xml:id="temp0181" ref="#K11554">חמת</placeName>
+					והיא העיר הגדולה שבנה <persName>אנטוכיוס המלך</persName>.</seg> ויש על המדינה הר
+				גבוה מאד והחומה מקפת ההר ובראש ההר מעין ושם אדם ממונה על המעין ומשלח את המים בגשרים
+				תחת הקרקע אל בתי הגדולים אשר בעיר ומצד העיר האחר מקיף אותה הנהר והיא עיר <lb/>בצורה
+				מאד ממשלת פרנצפי באמונט*) <lb/>הפיטיבין הבבא*) ויש בה כמו מנין <lb/>מישראל והם אומני
+				הזכוכית ובראשם <persName>רבי מרדכי</persName> ו<persName>רבי חיים</persName>
+					ו<persName>רבי ישמעאל</persName>. <seg xml:id="GN8S4">
+        <lb/>ומשם שני ימים ל<placeName xml:id="temp0182" ref="#GN173576">ליגא</placeName> היא <placeName xml:id="temp0183" ref="GN173576">לודקיא</placeName> ובה <pb n="32"/>
+        <lb/>כמו מאתים יהודים ושם <persName>רבי חייא</persName> ו<persName>רבי
+						יוסף</persName>
+      </seg>
+      <seg xml:id="GN8S5"> ומשם שני ימים ל<placeName xml:id="temp0184" ref="#K15288">גיבל</placeName> היא<placeName xml:id="temp0185" type="id">
+						בעל-גד</placeName>
+        <lb/>תחת <placeName xml:id="temp0186" ref="#K15821">הר הלבנון</placeName> הסמוכה לאומה שקורין
+					<lb/>לה אל-השישין ואינם מאמינים בדת <lb/>הישמעאלים אלא לאחד שחושבין אותו
+					<lb/>כמו <persName>נביא כרמט</persName>*) וכל מה שיאמר להם <lb/>יעשו אם למות אם
+					לחיים <span>וקורין</span> לו <persName>שיך אל חשישין</persName> והוא הזקן שלהם
+					ועל פיו <lb/>יצאו ועל פיו יבואו כל אנשי ההרים <lb/>
+      </seg>
+      <seg xml:id="GN8S6">ומקום ישיבתו בעיר <placeName xml:id="temp0187" ref="#GN173389">קרמוס</placeName>היא
+						<placeName xml:id="temp0188" ref="#GN173389">קדמות</placeName>
+        <lb/>בארץ <placeName xml:id="temp0189" ref="#U8">סיחון</placeName> והם בעלי אמונה ביניהם על
+					<lb/>מאמר הזקן שלהם ומפחדים בכל <lb/>המקומות מהם מפני שהורגין את <lb/>המלכים
+					במסירה ומהלך ארצם שמנה <lb/>ימים. והם נלחמים עם בני אדום <lb/>הנקראים פרנקוש עם
+						<persName>השלטון </persName>
+        <placeName xml:id="temp0190" ref="#K13529">טריפול</placeName> היא <placeName xml:id="temp0191" ref="#K13529">טראבבלוס אל*)
+						שאם</placeName>
+      </seg>
+      <seg xml:id="GN8S7"> ובימים ההם <lb/>הרעישה הארץ של טריפול וכסה הרבה <lb/>מן הגוים
+					ומן היהודים כי נפלו הבתים <lb/>והחומות עליהם והיתה מפולת באותו ומן <pb n="33"/>
+        <lb/>ובכל <placeName xml:id="temp0193" ref="#K2501">ארץ ישראל</placeName> מתו יותר מעשרים
+					<lb/>אלפים בני אדם בימים ההם |</seg>
+      <seg xml:id="GN8S8"> ומשם <lb/>מהלך יום ל<placeName xml:id="temp0194" ref="#K18052">גיבל האחרת</placeName> שהוא גבול
+					בני <lb/>עמון ושם כמו מאה וחמשים יהודים <lb/>והיא ממשלת שבעה הגינויין *)
+						ו<persName>השלטון שלהם יוליאנוש אינבריאקו</persName>**) ושם מצאו <lb/>מקום
+						<placeName xml:id="temp0195">הבמה</placeName> שהיא לבני עמון בימים ההם <lb/>ושם שקוץ בני עמון
+					יושב על קטריגה <lb/>הנקרא כסא והוא עשוי מאבן ומצופה <lb/>זהב ושתי נשים יושבות
+					מימינו ומשמאלו <lb/>מזה אחת ומזה אחת ומזבח לפניו שהיו <lb/>מזבחין ומקטרין לפניו
+					בזמן בני עמון ובה <lb/>כמו מאתים יהודים ובראשם <persName>רבי מאיר</persName>
+        <lb/>ו<persName>רבי יעקב</persName> ו<persName>רבי שמחה</persName> והיא על-שפת
+					<lb/>הים של <placeName xml:id="temp0196" ref="#K2501">ארץ ישראל</placeName>.</seg>
+      <seg xml:id="GN8S9">ומשם שני ימים <lb/>ל<placeName xml:id="temp0197" ref="#K651">בירוט</placeName> היא
+						<placeName xml:id="temp0198" ref="#K651">בארות</placeName> ושם כמו חמשים <lb/>יהודים ובראשם
+						<persName>רבי שלמה</persName> ו<persName>רבי עובדיה</persName>
+        <lb/>ו<persName>רבי יוסף</persName>|</seg>
+      <seg xml:id="GN8S10"> ומשם מהלך יום אחד <lb/>ל<placeName xml:id="temp0199" ref="#K13639">ציידא</placeName> היא <placeName xml:id="temp0200" ref="#K13639">צידון</placeName> והיא עיר
+					גדולה ובה <pb n="34"/>
+        <lb/>כמו עשרים יהודים</seg>
+      <seg xml:id="GN8S11"> וקרוב מהם כמו <lb/>עשרה מילין אומה אחת נלחמים עם <lb/>אנשי
+						<placeName xml:id="temp0201" ref="#K13639">צידון</placeName> והאומה נקראת דורזיאין*) והם
+					<lb/>הנקראים פגאנוש כופרים ואין להם דת <lb/>ויושבים בהרים הגדולים ובנקיקי הסלעים
+					<lb/>ואין מלך ושר שולט עליהם כי מעצמם <lb/>הם יושבים בין ההרים והסלעים ועד הר
+						<placeName xml:id="temp0202" ref="#K21726">חרמון</placeName> גבולם מהלך שלשה ימים והם
+					<lb/>שטופי זמה והאב**) לוקח את-בתו ויש להם <lb/>חג אחד בשנה ובאים כלם אנשים
+					ונשים <lb/>לאכול ולשתות ביחד וחולפים נשותיהן <lb/>כל-אחד ואחד עם חבירו ואומרים
+					<lb/>שהנפש בעת יציאתה מגוף אדם טוב <lb/>תכנס בגוף ילד קטן הנולד באותה שעה
+					<lb/>שתצא הנפש מגופו| ואם אדם רע הוא <lb/>תכנס בגוף הכלב או בגוף הבהמה זה
+					<lb/>דרכם כסל למו ואין ביניהם יהודים כי <lb/>אם באים ביניהם בעלי אומנות וצבעים
+					<lb/>ויושבים ביניהם באומנות ובסחורה <lb/>וחוזרים לבתיהם והם אוהבים ליהודים <pb n="35"/>
+        <lb/>והם קלים על ההרים ועל הגבעות ואין <lb/>אדם יכול להלחם עמם</seg>
+      <seg xml:id="GN8S12">| ומשם מהלך <lb/>יום ל<placeName xml:id="temp0204" ref="#K14095">צור
+						החדשה</placeName> והיא עיר טובה מאד <lb/>ונמל הפורט שלה בתוך העיר ונכנסות
+					<lb/>הספינות בתוך שני המגדלים ובלילה <lb/>ישליכו בעלי המכס שלשלת של ברזל
+					<lb/>בין מגדל ומגדל ולא יכול אדם לצאת <lb/>לא באניה ולא בשום דרך לגנוב דבר
+					<lb/>מן הספינות ואין גרב או פורט כנמל <lb/>ההוא בכל-הארץ כמוהו והיא עיר יפה
+					<lb/>ובה כמו ארבע מאות יהודים וביניהם <lb/>חכמי תלמוד ובראשם <persName>רבי אפרים
+						מצרי דיין</persName> ו<persName>רבי מאיר מ<placeName xml:id="d1e3187" ref="#K10934">קרקשונה</placeName>
+        </persName> ו<persName>רבי אברהם ראש הקהל</persName> ויש ליהודים שם ספינות בים
+					<lb/>ושם אומני הזכוכית הטוב הידוע צורי <lb/>החשוב בכל הארצות| ושם ימצא הסיקר
+					<lb/>הטוב ועולה אדם בחומת <placeName xml:id="temp0207" ref="#K14095">צור החדשה</placeName>
+        <lb/>ורואה <placeName xml:id="temp0208" ref="#U12" >צור המעטירה</placeName> אשר כסה אותה <lb/>הים
+					והיא רחוקה מן החדשה כזריקת <lb/>אבן ואם ירצה אדם לבא באני בים רואה <pb n="36"/>
+        <lb/>המגדלים והשווקים והחוצות והארמונים <lb/>בקרקע הים והיא <placeName xml:id="temp0209" ref="#K14095">צור
+						החדשה</placeName> עיר <lb/>סחורה באים אליה מכל-מקום|</seg>
+     </ab>
+     <ab xml:id="GeoNar9">
+      <seg xml:id="GN9S1"> ומשם <lb/>יום אחד ל<placeName xml:id="temp0210" ref="#K71">אקרי</placeName> היא
+					<placeName xml:id="temp0211" ref="#K71">עכו</placeName>אשר היתה <lb/>לגבול אשר והיא תחלת <placeName xml:id="temp0212" ref="#K2501    ">ארץ
+						ישראל</placeName> והיא <lb/>יושבת על <placeName xml:id="temp0213">הים הגדול</placeName> ושם נמל גדול <lb/>שקורין
+					פורטו לכל התועים*) ההולכים <lb/>ל<placeName xml:id="temp0214" ref="#K691">ירושלם</placeName> בספינות ויורד לפניה נהר <lb/>הנקרא
+						<placeName xml:id="temp0215" ref="#U13">נחל קדומים</placeName> ושם כמו מאתים <lb/>יהודים ובראשם
+						<persName>רבי צדוק</persName> ו<persName>רבי יפת</persName> ו<persName>רבי
+						יונה ז״ל</persName>. </seg>
+      <seg xml:id="GN9S2">ומשם שלשה פרסאות ל <placeName xml:id="temp0216" ref="#K791">כיפש</placeName>**) <lb/>היא <placeName xml:id="temp0217" type="id">גת החפר</placeName> אשר
+					על-שפת הים </seg>
+      <seg xml:id="GN9S3">ומצד <lb/>אחר <placeName xml:id="temp0218" ref="#K1156">הר הכרמל</placeName> עליה
+					ובתחתית ההר <lb/>קברי ישראל רבים ושם בהר <placeName xml:id="temp0219" ref="#K58317">מערת אליהו</placeName> ז״ל
+					ועשו שם שני בני אדום במה <lb/>וקראוה <placeName xml:id="temp0220" ref="#U14">שנט אליש</placeName> ובראש ההר
+					ניכר <placeName xml:id="temp0221">מקום המזבח</placeName> ההרוס שרפא <persName>אליהו ז״ל</persName>
+        <lb/>בימי <persName>אחאב</persName> והוא מקום המזבח העגול <lb/>כמו ארבע
+					אמות</seg>
+      <seg xml:id="GN9S4"> ובתחתית ההר יורד <placeName xml:id="temp0222" ref="#K63071">נחל קישון</placeName> בצדו ומשם
+					ארבע פרסאות <pb n="37"/>
+        <lb/>ל<placeName xml:id="temp0223" ref="#U15">כפר נחום</placeName> והוא
+					<placeName xml:id="temp0224" type="id">מעין</placeName>
+        <lb/>מקומו על הכרמלי|</seg>
+      <seg xml:id="GN9S5"> ומשם ששה <lb/>פרסאות ל<placeName xml:id="temp0225" ref="#K6936">שיזריא</placeName> היא
+						<placeName xml:id="temp0226" type="id">גת</placeName> אשר לפלשתים <lb/>ושם כמו עשרה יהודים ומאתים כותיים
+					<lb/>הם היהודים השומרוניים הנקראים <lb/>שמרטניש והיא עיר יפה וטובה מאד <lb/>על
+					הים מבנין <persName>הורדוס המלך</persName> וקרא שמה
+					<placeName xml:id="temp0228" ref="#K6936">קיסריה</placeName> על שם <persName>האינפרדור
+					הקיסר</persName>*).</seg>
+      <seg xml:id="GN9S6"> ומשם <lb/>חצי יום ל<placeName xml:id="temp0229" ref="#K19717">קקון</placeName> היא<placeName xml:id="temp0230" type="idf">
+						קעילה</placeName> ואין בה יהודים <lb/>
+      </seg>
+      <seg xml:id="GN9S7">ומשם חצי יום ל<placeName xml:id="temp0231" ref="#K48396" cert="low">שרגורג</placeName> והיא
+					<placeName xml:id="temp0232" ref="#K48396" type="id">לוז</placeName> ושם <persName>יהודי אחד צבע</persName>|</seg>
+      <seg xml:id="GN9S8"> ומשם יום ל<placeName xml:id="temp0233" ref="#Q1757438">שבשת</placeName> היא<placeName xml:id="temp0234" ref="#Q1757438" type="idt">
+						שומרון</placeName> ועדין ניכר שם <placeName xml:id="temp0235" type="palace">ארמון אחאב
+					<persName> מלך ישראל</persName>
+        </placeName> והיא היתה עיר בצורה בהר <lb/>מאד ובה מעיינות
+					וארץ נחלי מים וגגות <lb/>ופרדסים וכרמים וזתים אין שם יהודים. </seg>
+      <seg xml:id="GN9S9">
+        <lb/>ומשם שני פרסאות ל<placeName xml:id="temp0236" ref="#K5412">נבילש</placeName> היא
+					<placeName xml:id="temp0237" ref="#K5412">שכם</placeName>
+        <lb/>ב<placeName xml:id="temp0238">הר אפרים</placeName> ואין שם יהודים והיא יושבת <lb/>בעמק בין
+					<placeName xml:id="temp0239" ref="#Q1288751">הר גריזים</placeName> ו<placeName xml:id="temp0240" ref="#Q1975866">הר עיבל</placeName>| ובה כמו
+					<lb/>מאה כותיים שומרים תורת משה לבדה <lb/>וקורין להם שמריטנוש| ויש להם כהנים <pb n="38"/>
+        <lb/>מזרע <persName>אהרן הכהן</persName> עליו השלום וקורין <lb/>להם אהרניים ואין
+					מתחתנים עמם אלא <lb/>כהנים עם כהנים שלא יתערבו עמם <lb/>אבל הם כהני תורתם ועושים
+					זבח <lb/>ומעלים עולה בכנסת שלהם ב<placeName xml:id="temp0241" ref="#Q1288751">הר גריזים</placeName>
+        <lb/>כמו שכתוב בתורה ונתת את-הברכה <lb/>על-<placeName     xml:id="temp0242">הר גריזים</placeName> והם אומרים כי הוא בית
+					<lb/>המקדש| ומעלים עולה ביום פסח <lb/>ובימים טובים על המזבח שבנו ב<placeName xml:id="temp0243" ref="#Q1288751">הר
+						גריזים</placeName> מהאבנים שהקימו בני ישראל <lb/>כשעברו הירדן. והם אומרים כי
+					הם <lb/>משבט אפרים| וביניהם <placeName xml:id="temp0244" ref="#Q1297538" cert="medium">קבר יוסף</placeName>
+        <persName> הצדיק בן יעקב אבינו עליו השלום</persName>
+        <lb/>שנאמר ואת עצמות יוסף אשר העלו <lb/>בני ישראל ממצרים קברו ב<placeName     xml:id="temp0245">שכם</placeName>. ואין
+					<lb/>להם שלש אותיות ה׳ וח׳ וע׳. ה׳ מן <persName>אברהם אבינו</persName> ואין להם
+					הוד. ח׳ מן <persName>יצחק אבינו</persName> ואין להם חסד. ע׳ מן <persName>יעקב
+						אבינו</persName> ואין להם ענוה| ובמקום אלו <lb/>האותיות משימין א׳ ובזה הדבר
+					נכרים <pb n="39"/>
+        <lb/>שאינם מזרע ישראל כי הם יודעים תורת <persName>משה</persName> חוץ מאלו שלש
+					אותיות ושומרים <lb/>עצמם מטומאת מת ועצם וחלל וקבר <lb/>והבגדים שלובשים בכל-יום
+					מסירים <lb/>מעליהם בשעת לכתם לבית הכנסת <lb/>שלהם ורוחצים גופם במים ולובשים
+					<lb/>בגדים אחרים וכן מנהגם בכל-יום</seg>
+      <seg xml:id="GN9S10"> וב<placeName xml:id="temp0246" ref="#Q1288751">הר גריזים</placeName> מעיינות ופרדסים</seg>
+      <seg xml:id="GN9S11"> ו<placeName xml:id="temp0247" ref="#Q1975866">הר עיבל</placeName> יבש <lb/>כאבנים וסלעים</seg>
+      <seg xml:id="GN9S12"> וביניהם בעמק עיר <placeName xml:id="temp0248" ref="#K5412">שכם</placeName>.</seg>
+      <seg xml:id="GN9S13"> ומשם ארבע פרסאות ל<placeName xml:id="temp0249" ref="#K33871">הר הגלבוע</placeName> וקוראין להם
+					אדום <placeName xml:id="temp0251" ref="#K33871" type="translation">מונטו גלבוי</placeName>. <lb/>והיא ארץ יבשה מאד.</seg>
+      <seg xml:id="GN9S15"> ומשם חמשה <lb/>פרסאות ל<placeName xml:id="temp0252" ref="#K21722">עמק אילון</placeName>
+					וקוראין אותו אדום <placeName xml:id="temp0253">וואל דלונא</placeName>.</seg>
+      <seg xml:id="GN9S16"> ומשם פרסה אחת ל<placeName xml:id="temp0254">גראן דוד</placeName> היא עיר
+						<placeName xml:id="temp0255">גבעון הגדולה</placeName> ואין שם <lb/>יהודים.</seg>
+     </ab>
+     <ab xml:id="GeoNar10">
+      <seg xml:id="GN10S1"> ומשם שלש פרסאות <placeName xml:id="temp0257">(להר <lb/>המוריה)</placeName>
+					ל<placeName xml:id="temp0258" ref="#K691">ירושלם</placeName> היא עיר קטנה ובצורה <lb/>תחת שלשה חומות ובה
+					אנשים הרבה <lb/>יעקובין וארמים ויונים וגורגיין ופרנקוש <lb/>מכל לשונות הגוים ויש
+					שם בית הצביעה <pb n="40"/>
+        <lb/>שקונין אותו היהודים בכל-שנה מהמלך <lb/>שלא יעשה שום אדם צביעה ב<placeName xml:id="temp0259" ref="#K691">ירושלם</placeName>
+        <lb/>כי אם היהודים לבדם והם מאתים <lb/>יהודים דרים תחת <placeName xml:id="temp0260" ref="#K21050">מגדל
+						דוד</placeName> בפאת <lb/>המדינה| ובחומות שבמגדל דוד הבנין <lb/>הראשון של
+					יסוד כמו עשר אמות מבנין <lb/>הקדמונים שבנו אבותינו והשאר בנין <lb/>ישמעאלים ואין
+					בכל-העיר בנין חזק יותר <lb/>ממגדל דוד</seg>
+      <seg xml:id="GN10S2">ושם <placeName xml:id="temp0262">שתי בתים אשפיטלי</placeName>
+        <lb/>ויוצאים ממנו ארבע מאות פרשים ושם <lb/>ינוחו כל-החולים הבאים שם ונותנין להם
+					<lb/>כל ספוקם בחיותם ובמותם וב<placeName xml:id="temp0263">בית שני <lb/>שעשה <persName>שלמה המלך</persName></placeName>
+					ושם חונים בשפיתלי <lb/>ויוצאים ממנו ארבע מאות פרשים בכל- <lb/>יום למלחמה חוץ מן
+					הפרשים הבאים <lb/>מארץ פרנקוש ומארץ אדום ונודרים על <lb/>עצמם ויעמדו ימים או
+					שנים עד מלאת <lb/>נדרם.</seg>
+      <seg xml:id="GN10S3"> ושם הבמה הגדולה שקורין <placeName xml:id="temp0265" ref="#Q3463426">שפולקרי</placeName>
+        <lb/>קבר <persName>אותו האיש</persName> שהולכין כל התועים*) <pb n="41"/>
+        <lb/>אליו </seg>
+      <seg xml:id="GN10S4">ויש ב<placeName xml:id="temp0266" ref="#K691">ירושלם</placeName> ארבעה שערים שער <lb/>הקורים <placeName xml:id="temp0267">שער
+						אברם</placeName> ו<placeName xml:id="temp0268">שער דוד</placeName> ו<placeName xml:id="temp0269">שער
+						ציון</placeName>
+        <lb/>ו<placeName xml:id="temp0270">שער יהושפט</placeName> לפני בית המקדש שהיה <lb/>בימי קדם.</seg>
+      <seg xml:id="GN10S5"> ושם <placeName xml:id="temp0272">טמפלו דומינו</placeName> והוא <lb/>היה מקום
+					המקדש ובנה עליו <persName>עמר בן אל כטאב</persName> כיפה גדולה ויפה עד מאד ואין
+					<lb/>מכניסים שם גוים שום צלם ולא שום <lb/>תמונה אלא שבאים להתפלל תפלתם| </seg>
+      <seg xml:id="GN10S6">
+        <lb/>ולפני אותו מקום <placeName xml:id="temp0273">כותל מערבי</placeName> אחד <lb/>מהכותלים שהיו
+					במקדש בקדש הקדשים <lb/>וקוראין אותו <placeName xml:id="temp0274">שער הרחמים</placeName> ולשם באים
+					<lb/>כל-היהודים להתפלל לפני הכותל <lb/>בעזרה.</seg>
+      <seg xml:id="GN10S7"> ושם ב<placeName xml:id="temp0275" ref="#K691">ירושלים</placeName> בבית שהיה <lb/>לשלמה <placeName xml:id="temp0276">ארוות
+						הסוסים</placeName> אשר בנה שלמה <lb/>בנין חזק מאד מאבנים גדולות ולא
+					<lb/>נראה כבנין ההוא בכל הארץ</seg>
+      <seg xml:id="GN10S8"> ושם נראה <lb/>עד היום הזה <placeName xml:id="temp0277">הבריכה</placeName> שהיו
+					שוחטין בה <lb/>את זבחיהם וכל-היהודים שם כותבים <lb/>שמם על הכותל</seg>
+      <seg xml:id="GN10S9"> ויצא אדם מ<placeName xml:id="temp0278">שער <persName>יהושפט</persName>
+        </placeName>(ושם מדבר העמים) ושם מצבת <pb n="42"/>
+        <placeName xml:id="temp0280">יד <persName>אבשלום</persName>
+        </placeName> ו<placeName xml:id="temp0281">קבר <persName>עוזיה המלך</persName>
+        </placeName>
+      </seg>
+      <seg xml:id="GN10S10"> ושם מעין <lb/>גדול <placeName xml:id="temp0282">מי השילוח</placeName>
+						ב<placeName xml:id="temp0283">נחל קדרון</placeName> ועל המעין <lb/>בנין גדול מימי אבתינו ולא
+					ימצא שם <lb/>אלא מים מעטים ואנשי <placeName xml:id="temp0284" ref="#K691">ירושלם</placeName> רובם <lb/>שותים
+					מימי המטר שיש להם גבים <lb/>בבתיהם</seg>
+      <seg xml:id="GN10S11"> ועולים מ<placeName xml:id="temp0285">עמק יהושפט</placeName> אל <placeName xml:id="temp0286">הר
+					הזתים</placeName> כי אין בין <placeName xml:id="temp0287" ref="#K691" >ירושלם</placeName> ו<placeName xml:id="temp0288" >הר
+						הזתים</placeName>
+        <lb/>אלא העמק בלבד</seg>
+      <seg xml:id="GN10S12"> ומ<placeName xml:id="temp0289"     type="recogito-869f03b8-15e6-4f8a-898f-7c265405bc60">הר הזתים</placeName> רואים <placeName xml:id="temp0290" type="recogito-c4c00655-49a0-4190-9307-811f9314f1f8">ים <lb/>סדום</placeName> ומ<placeName xml:id="temp0291">ים
+						סדום</placeName> ל<placeName xml:id="temp0292">נציב מלח</placeName> שהיא <lb/>היתה
+						<persName>אשתו של לוט</persName> שתי פרסאות והצאן <lb/>לוחכות ממנה ואחר כך
+					חוזרת וצומחת <lb/>כבראשונה.</seg>
+      <seg xml:id="GN10S13"> וכל ארץ הככר ו<placeName xml:id="temp0293" >נחל השטים</placeName> על
+						<placeName xml:id="temp0294" >הר נבו</placeName>
+      </seg>
+      <seg xml:id="GN10S14">| ולפני <placeName xml:id="temp0295" ref="#K691">ירושלם</placeName>
+        <placeName xml:id="temp0296">הר ציון</placeName> ואין בנין בהר ציון כי אם
+						<placeName xml:id="temp0297">במה</placeName>
+        <lb/>אחת לנוצרים*). </seg>
+      <seg xml:id="GN10S15">ולפני <placeName xml:id="temp0298" ref="#K691" >ירושלם</placeName> כמו <placeName xml:id="temp0299">שלשה בתים
+						של קברי ישראל</placeName> שהיו <lb/>קוברין מיתיהם בימים ההם. וקבר יש <lb/>בו
+					תאריך אבל בני אדום הורסין מן <lb/>הקברים ובונים מהם בתיהם מן האבנים.</seg>
+      <seg xml:id="GN10S17">
+        <lb/>וסביב <placeName xml:id="temp0300" ref="#K691">ירושלם</placeName> הרים גדולים וב<placeName    xml:id="temp0301"  type="recogito-afb12533-d079-4c67-ae89-cdea8ab80818">הר ציון</placeName> <pb n="43"/>
+        <placeName xml:id="temp0302">קברי בית דוד</placeName> ו<placeName xml:id="temp0303">קברי המלכים</placeName> אשר קמו
+					<lb/>אחריו ואינו נכר המקום כי היום חמש <lb/>עשרה שנה נפל כותל אחד מ<placeName xml:id="temp0304">הבמה אשר
+					<lb/>ב<placeName                        xml:id="setnewandaddinAsherrr">הר ציון</placeName></placeName> וצוה <persName>הפטריארקה</persName> אל <persName>הכומר</persName>
+        <lb/>לבנות הבמה ההיא ואמר לו קח את- <lb/>האבנים מחומת ציון הקדמוני ובנה בהם
+					<lb/>הבמה והוא עשה כן שכר פועלים בשכר <lb/>ידוע כמו עשרים אנשים והיו מוציאין
+					<lb/>את האבנים מיסוד חומת ציון ובין <lb/>האנשים ההם היו שני אנשים אוהבים
+					<lb/>בעלי ברית ויום אחד עשה לחברו משתה <lb/>ואחר אכילתן באו אל המלאכה אמר
+					<lb/>להם <persName>הממונה</persName> מדוע אחרתם לבא ענו <lb/>מה יש לו בשעה שילכו
+					חברנו לסעוד <lb/>נעשה אנחנו מלאכתנו והם היו מוציאין <lb/>את האבנים והקימו אבל
+					ומצאו פי <lb/>המערה ואמר <persName>אחד</persName> ל<persName>חברו</persName>
+					נכנס ונראה <lb/>אם יש ממון הלכו במבוא המערה עד <lb/>שהגיעו אצל ארמון אחד גדול
+					בנוי על <lb/>עמודי שיש מצופה בכסף וזהב ולפניו <pb n="44"/>
+        <lb/>שולחן ושרביט הזהב ועטרת זהב והוא <lb/>קבר <persName>דוד מלך
+						ישראל</persName> ולשמאלו <persName>שלמה</persName>
+        <lb/>כמו כן וכן קברי כל-המלכים הקבורים <lb/>שם ממלכי <placeName xml:id="temp0305">יהודה</placeName> ושם ארגזות סגורות
+					<lb/>שאין אדם יודע מה בתוכם ורצו שני <lb/>אלו האנשים ליכנס בארמון והנה רוח
+					<lb/>סערה מפי המערה והכה אותם ונפלו <lb/>לארץ כמתים ושכבו שמה לארץ עד <lb/>הערב
+					והנה רוח אחר בא וצועק כקול <lb/>אדם קומו צאו מן המקום הזה ויצאו <lb/>דחופים משם
+					האנשים מבוהלים והלכו <lb/>אל <persName>הפטריאראקה</persName> והגידו לו כל הדברים
+					<lb/>ושלח <persName>הפטריארקה</persName> להביא לפניו <persName>רבי אברהם חסיד
+						הפרוש</persName> אל <placeName xml:id="temp0306" >קושטניטני</placeName>
+        <lb/>שהיה מאבלי <placeName xml:id="temp0307" ref="#K691" >ירושלם</placeName> וספר אליו <lb/>הדברים על פי שני
+					האנשים האלו שבאו <lb/>משם וענה לו <persName>רבי אברהם</persName> ואמר לו <lb/>כי
+						<placeName xml:id="temp0308">קברי בית דוד</placeName> למלכי בית יהודה הם <lb/>ולמחר שלחו בשביל
+					שני האנשים ומצאו <lb/>אותם כל אחד ואחד מושכב על מטתו <pb n="45"/>
+        <lb/>ופחדו ואמרו לא נכנס שם כי אין חפץ <lb/>ה׳ להראות אותו לשום אדם וצוה
+						<persName>הפטריארקה</persName> לסתום אותו מקום <lb/>ולהעלימו מבני אדם עד
+					היום הזה ו<persName>רבי אברהם החסיד</persName> הזה ספר לי כל-אלו <lb/>הדברים.
+				</seg>
+     </ab>
+     <ab xml:id="GeoNar11">
+      <seg xml:id="GN11S1">ומשם שתי פרסאות ל<placeName xml:id="temp0309" ref="#K556" >בית לחם יהודה</placeName> הנקראת
+					<placeName xml:id="temp0311" ref="#K556" type="translation" ana="Chek310to316">בית לחם</placeName>
+      </seg>
+      <seg xml:id="GN11S2"> וקרוב <lb/>ל<placeName xml:id="temp0314" ana="Chek310to318">בית לחם</placeName> כחצי מיל <placeName xml:id="temp0315" ref="#Q2424300">מצבת קבורת
+							<persName>רחל</persName>
+        </placeName>
+        <lb/>על אם הדרך והמצבה עשויה מאחת <lb/>עשרה אבנים למנין <persName>בני
+						יעקב</persName> ועליה <lb/>כופה בנויה על ארבע עמודים וכל <lb/>היהודים
+					העוברים חותמים שמם על <lb/>אבני המצבה. </seg>
+      <seg xml:id="GN11S3"> וב<placeName xml:id="temp0316" ref="#K556">בית לחם</placeName>
+        <persName>שנים עשר צבעים יהודים</persName> והיא ארץ
+					נחלי מים <lb/>בורות ומעינות. </seg>
+      <seg xml:id="GN11S4"> ומשם שש פרסאות <lb/>ל<placeName xml:id="temp0317" ref="#K40059">חברון</placeName> אבל <placeName xml:id="temp0318">מדינת
+						חברון</placeName> היתה בהר <lb/>והיא חרבה היום הזה ובעמק השדה
+						<lb/>ב<placeName xml:id="temp0319" >שדה המכפלה</placeName> שם העיר </seg>
+      <seg xml:id="GN11S5"> ושם הבמה <lb/>הגדולה שקורין <placeName xml:id="temp0320" ref="#Q204200" >שנט אברהם</placeName>
+					והיא היתה <lb/>כנסת יהודים בימי ישמעאלים ועשו שם <pb n="46"/>
+        <lb/>הגוים ששה קברים על שם <persName>אברהם</persName>
+        <lb/>ו<persName>שרה</persName>
+        <persName>יצחק</persName> ו<persName>רבקה</persName>
+        <persName>יעקב</persName> ו<persName>לאה</persName>. ואומרים <lb/>לתועים*) שהם
+					קברי האבות ונותנין שם <lb/>ממון. אבל אם יבא יהודי שיתן שכר
+						<lb/>ל<persName>שוער</persName> של <placeName xml:id="temp0321">מערה</placeName> יפתח לו פתח
+					ברזל <lb/>שהיה עשוי מימי אבותינו עליהם השלום <lb/>וירד אדם למטה בנר דלוק בידו
+					במערה <lb/>אחת ולא ימצא שם כלום וגם בשנייה <lb/>עד שיבא אל השלישית והנה שם ששה
+					<lb/>קברים קבר <persName>אברהם</persName>
+        <persName>יצחק</persName> ו<persName>יעקב</persName> ו<persName>שרה</persName>
+        <lb/>ו<persName>רבקה</persName> ו<persName>לאה</persName> זה כנגד זה וכלם חתומים
+					<lb/>אותיות חקוקות על קבריהם על קבר <lb/>אברהם חקוק זה קבר אברהם אבינו <lb/>עליו
+					השלום ועל קבר יצחק כמו כן ועל <lb/>כל הקברים גם כן וכן לכלם. ובמערה <lb/>מדליקין
+					שם עששית אחת דולקת ביום <lb/>ובלילה על הקברים ושם חביות מלאות <lb/>עצמות מישראל
+					שהיו מביאים שם <lb/>מיתיהם בית ישראל כל אחד ואחד <lb/>עצמות אבותיו ומניחם שם עד
+					היום <pb n="47"/>
+        <lb/>הזה </seg>
+      <seg xml:id="GN11S6"> ובקצה <placeName xml:id="temp0322" >שדה המכפלה</placeName>
+        <placeName xml:id="temp0323" >ביתו של
+						<persName>אברהם אבינו עליו השלום</persName>
+        </placeName> ומעין לפני <lb/>הבית ואין מניחין
+					שם לעשות בית מפני <lb/>כבוד אברהם. </seg>
+      <seg xml:id="GN11S7"> ומשם חמשה פרסאות <lb/>ל<placeName xml:id="temp0325" ref="#K21427">בית גברין</placeName> והיא
+					<placeName xml:id="temp0327" ref="#K4206" type="idf">	מרשה</placeName> ואין שם אלא <lb/>שלשה יהודים. </seg>
+      <seg xml:id="GN11S8"> ומשם חמשה פרסאות <lb/>ל<placeName xml:id="temp0328" ref="#K13834" ana="adler-87-(dismisses-the-passage)">טורון דו לוש
+					גבללריש*)</placeName> היא <placeName xml:id="temp0329" ref="#Q2916070" type="idf"> שונם</placeName> ויש <lb/>בה שלש מאות
+					יהודים. </seg>
+      <seg xml:id="GN11S9">ומשם שלשה <lb/>פרסאות ל<placeName xml:id="temp0330" ref="#Q2907254">שנט שמואל דשילה</placeName>
+					היא <placeName xml:id="temp0331">שילה</placeName> הקרובה ל<placeName xml:id="temp0332" ref="#K691">ירושלם</placeName> שני פרסאות <lb/>וכשלקחו בני אדום
+					את <placeName xml:id="temp0333">רמלה </placeName>היא <placeName xml:id="temp0334">רמה</placeName>
+        <lb/>מיד בני ישמעאל מצאו <placeName xml:id="temp0335">קברו של <persName>שמואל הרמתי</persName></placeName> אצל כנסת
+					היהודים והוציאוהו <lb/>בני אדום מקברו והוליכוהו ל <placeName xml:id="temp0336">שילה</placeName> ובנו <lb/>עליו במה גדולה
+					וקראו אותו <placeName xml:id="temp0337" ref="#Q2907254">שנט שמואל דשילה</placeName> עד היום הזה. </seg>
+      <seg xml:id="GN11S10"> ומשם <lb/>שלשה פרסאות (להר מוריה)
+						ל<placeName xml:id="temp0338"  ana="seriously-check-with-variants">פשיפוה</placeName> היא <placeName xml:id="temp0339">גבעת שאול</placeName> ואין בה
+					יהודים והיא <placeName xml:id="temp0340" >גבע בנימן</placeName>. </seg>
+      <seg xml:id="GN11S11"> ומשם שלשה פרסאות <lb/>ל<placeName xml:id="temp0341" ref="#Q4874907">בית נובי</placeName> היא
+					<placeName xml:id="temp0342" ref="#K26059" type="idf">נוב</placeName> עיר הכהנים </seg>
+      <seg xml:id="GN11S12"> ובאמצע <pb n="48"/>
+        <lb/>הדרך <placeName xml:id="temp0343">שני הסלעים של <persName>יהונתן</persName></placeName> שם האחד
+						<placeName xml:id="temp0344" type="checkTypo">בוצן</placeName> ושם השני <placeName xml:id="temp0345" ana="fill">סנה</placeName> ושם שני
+						<persName>יהודים צבעים</persName>. </seg>
+      <seg xml:id="GN11S13"> ומשם שלש פרסאות ל<placeName xml:id="temp0346" >רמש</placeName> היא
+						<placeName xml:id="temp0347" >הרמה</placeName> ושם מבנין החומות מימי <lb/>אבותינו כי כך מצאנו
+					כתוב על האבנים <lb/>ושם כמו שלשה יהודים והיא היתה עיר <lb/>גדולה מאד ושם בית
+					הקברות גדול <lb/>לישראל מהלך שני מילין. </seg>
+      <seg xml:id="GN11S14"> ומשם <lb/>חמשה פרסאות ל<placeName xml:id="temp0348" ref="#K45933" >גאפה</placeName> היא
+					<placeName xml:id="temp0349" ref="#K45933">יפו</placeName> אשר <lb/>על-שפת הים ושם <persName>יהודי אחד
+						צבע</persName>. </seg>
+      <seg xml:id="GN11S15"> ומשם <lb/>שלש פרסאות ל<placeName xml:id="temp0350" ref="#K9637">איבלין</placeName> היא
+					<placeName xml:id="temp0351" ref="#K9637" type="idt">יבנה</placeName> ועדין <lb/>נראה מקום המדרש ואין בה יהודים עד
+					<lb/>הנה גבול אפרים.</seg>
+      <seg xml:id="GN11S16"> ומשם שתי פרסאות <lb/>ל<placeName xml:id="temp0352" ref="#U14" >פלמיס</placeName> היא
+					<placeName xml:id="temp0353" ref="#Q12412087" type="idf">אשדוד</placeName> אשר לפלשתים <lb/>החרבה ואין בה יהודים.</seg>
+      <seg xml:id="GN11S17"> ומשם שני <lb/>פרסאות ל<placeName xml:id="temp0354">אשקלונה</placeName> היא
+						<placeName xml:id="temp0355">אשקלון החדשה</placeName> שבנה <persName>עזרא הכהן ז״ל</persName>
+					על-שפת <lb/>הים והיו קורין אותה מתחלה <placeName xml:id="temp0356">בניברה</placeName>
+        <lb/>והיא רחוקה מ<placeName xml:id="temp0357" >אשקלון הקדומה</placeName> החרבה <lb/>ארבע פרסאות והיא עיר גדולה מאוד <pb n="49"/>
+        <lb/>ויפה ובאים אליה מכל מקום לסחורה <lb/>כי היא יושבת בקצה גבול <placeName xml:id="temp0360" ref="#K8046">מצרים</placeName> ובה <lb/>כמו מאתים יהודים רבנים ובראשם
+						<persName>רבי צמח</persName> ו<persName>רבי אהרן</persName> ו<persName>רבי
+						שלמה</persName> ושם כמו <lb/>ארבעים קראין ושם כותיים כמו שלש <lb/>מאות ושם
+					בתוך העיר בור שקוראין לו <placeName xml:id="temp0361" >ביר <persName>אברהים אל כליל</persName>
+        </placeName> אשר חפר בימי <lb/>פלשתים.</seg>
+      <seg xml:id="GN11S18"> ומשם ל<placeName xml:id="temp0362" ref="#K48396" >סגורש*)</placeName> היא
+					<placeName xml:id="temp0363" ref="#K48396">לוד</placeName>. </seg>
+      <seg xml:id="GN11S19">
+        <lb/>ומשם יום וחצי ל<placeName xml:id="temp0364" ref="#K21480">זריין**)</placeName> היא
+						<placeName xml:id="temp0365" ref="#K21480">יזרעאל</placeName> ושם <lb/>מעין אחד גדול ובה <persName>יהודי אחד
+						צבע</persName>.</seg>
+      <seg xml:id="GN11S20">
+        <lb/>ומשם ששה פרסאות ל<placeName xml:id="temp0366" ref="#K3544">שיפוריה</placeName> היא
+					<placeName xml:id="temp0367" ref="#K3544">צפורי</placeName> ושם קברו של <persName>רבינו הקדוש</persName>
+						ו<persName>רבי חייא שעלה מ <placeName xml:id="setnewandaddinAsher12">בבל</placeName></persName> ו<persName>יונה בן אמתי
+						הנביא</persName>
+        <lb/>והם קבורים בהר ויש שם קברים הרבה. </seg>
+      <seg xml:id="GN11S21">
+        <lb/>ומשם חמש פרסאות ל<placeName xml:id="temp0369" ref="#K807">טיבריה</placeName> היושבת <lb/>על
+						ה<placeName xml:id="temp0370">ירדן</placeName> הנקרא <placeName xml:id="temp0371">ים כנרת</placeName>
+      </seg>
+      <seg xml:id="GN11S22"> ושם נופל <lb/> <placeName xml:id="temp0372">הירדן</placeName> (ושופך ים המלח אל ארץ הככר) <lb/>והוא
+					המקום הנקרא <placeName xml:id="temp0374" >אשדות הפסגה</placeName>
+        <lb/>ויוצא ונופל ב<placeName xml:id="temp0375" >ים סדום</placeName> הוא <placeName xml:id="temp0376" >ים
+						המלח</placeName>.</seg>
+     </ab>
+     <ab xml:id="GeoNar12">
+      <seg xml:id="GN12S1">
+        <lb/>וב<placeName xml:id="temp0377" ref="#K807">טבריה</placeName> כמו חמשים יהודים ובראשם <persName>רבי אברהם
+						החוזה</persName> ו<persName>רבי מוכתר</persName> ו<persName>רבי
+						יצחק</persName>
+        <lb/>ושם מים חמין נובעים מתחת הארץ <lb/>וקורואין להם <placeName xml:id="temp0378">חמי
+						טבריה</placeName> ושם <placeName xml:id="temp0379">כנסת <persName>כלב בן יפונה</persName>
+        </placeName> בקרוב ושם מקום קברי <lb/>ישראל ושם קברו של <persName>רבן יוחנן בן
+						זכאי</persName>
+        <lb/>ורבי <persName>יהונתן בן לוי</persName> הכל ב <placeName xml:id="temp0380">גליל התחתון</placeName>. </seg>
+      <seg xml:id="GN12S2">
+        <lb/>ומשם שני ימים*) ל<placeName xml:id="temp0381">טימין</placeName> היא
+						<placeName xml:id="temp0382">תמנתה</placeName>
+        <lb/>ושם <placeName xml:id="temp0383">קבר <persName>שמואל הצדיק</persName></placeName> והרבה <lb/>מישראל.</seg>
+      <seg xml:id="GN12S3"> ומשם יום ל<placeName xml:id="temp0384" ref="#Q2912620" type="typo?" >עשת</placeName> היא <placeName xml:id="temp0385" ref="#Q2912620" type="ןגא">גוש
+						חלב</placeName> ושם כמו עשרים יהודים.</seg>
+      <seg xml:id="GN12S4"> ומשם <lb/>שש פרסאות ל<placeName xml:id="temp0386">מרן</placeName> היא
+						<placeName xml:id="temp0387">מרון</placeName>
+      </seg>
+      <seg xml:id="GN12S5"> ושם <placeName xml:id="temp0388" >מערה</placeName> אחת קרוב משם ושם
+							<placeName xml:id="temp0389" >קברי<persName>הלל</persName> ו<persName>שמאי</persName>
+        </placeName> ושם עשרים קברים מתלמידיהם <lb/>ושם <placeName xml:id="temp0390" >קבר <persName>רבי
+							בנימן בר יפת</persName>
+        </placeName>ו<placeName xml:id="temp0391" >
+         <persName>רבי יהודה בן בתירה</persName>
+        </placeName>.</seg>
+      <seg xml:id="GN12S6"> ומשם שש פרסאות <lb/>ל<placeName xml:id="temp0393" ref="#K21705">עלמה</placeName>ושם חמשים
+					יהודים ו<placeName xml:id="temp0394">בית הקברות</placeName> גדול לישראל.</seg>
+      <seg xml:id="GN12S7"> ומשם חצי יום <lb/>ל<placeName xml:id="temp0395">קאדיס</placeName> היא
+						<placeName xml:id="temp0396">קדש נפתלי </placeName>על-שפת <placeName xml:id="temp0397">הירדן</placeName> ושם <placeName xml:id="temp0398" >קבר
+							<persName>רבי אלעזר בן ערך</persName>
+        </placeName> ו
+      	<placeName xml:id="temp0399"><persName>רבי אלעזר בן עזריה</persName></placeName>
+      	ו<placeName xml:id="temp0400" >
+         <persName>חוני המעגל</persName>
+        </placeName> ו<placeName xml:id="temp0401"><persName>רבי שמעון בן גמליאל</persName></placeName> ו<placeName xml:id="temp0403"><persName>רבי יוסי
+						הגלילי</persName></placeName> ושם <placeName xml:id="temp0408" >קבר <persName>ברק בן אבינועם</persName>
+        </placeName> ואין בה יהודים </seg>
+      <seg xml:id="GN12S8">ומשם יום <lb/>ל<placeName xml:id="temp0409">בלינוס</placeName> היא
+						<placeName xml:id="temp0410">דן</placeName> ושם <placeName xml:id="temp0412">מערה</placeName> אחת ומשם <lb/>
+					יוצא <placeName xml:id="temp0413">הירדן</placeName> עד דרך שלשה מילין מתחבר <lb/>אליו <placeName xml:id="temp0414">נחל ארנון</placeName>
+					היורד מגבול <placeName xml:id="temp0415">מואב</placeName> <lb/>ולפני המערה נכר מקום המזבח של <lb/>פסל
+						<persName>מיכה</persName> שהיו עובדים בני דן בימים <lb/>ההם ושם מקום המזבח
+					של <persName>ירבעם בן נבט</persName> שהיה שם עגל הזהב ועד הנה גבול <lb/> <placeName xml:id="temp0416">ישראל</placeName>
+					מצד הים האחרון. </seg>
+     </ab>
+     <ab xml:id="GeoNar13">
+      <seg xml:id="GN13S1">ומשם שני <lb/>ימים עד <placeName xml:id="temp0417" ref="#K939">דמשק</placeName> העיר הגדולה
+					היא <lb/>תחלת ממשלת <persName>נור אל דין מלך תוגרמים</persName> הנקראים טורקוש
+					והיא עיר <lb/>גדולה ויפה עד מאד ומוקפת חומה <lb/>והיא ארץ גנות ופרדסים מהלך חמשה
+					<lb/>עשר מילין מכל-צד לא נראה מדינת <lb/>פירות בכל-הארץ כמוה</seg>
+      <seg xml:id="GN13S2"> ויורדים אליה <lb/>מהר <placeName xml:id="temp0418" ref="#K21726">חרמון</placeName>
+        <placeName xml:id="temp0419" ref="#Q765106">אמנה</placeName> ו<placeName xml:id="temp0420">פרפר</placeName> כי היא יושבת <lb/>תחת
+					<placeName xml:id="temp0421" ref="#K21726" >חרמון</placeName>
+        <placeName xml:id="temp0422" ref="#Q765106">אמנה</placeName> יורד בתוך העיר <lb/>והולכים
+					המים על ידי גשרים על-כל-בתי <pb n="52"/>
+        <lb/>הגדולים ובחוצות ובשוקים והיא ארץ <lb/>סחורה לכל הארצות. ו <placeName xml:id="temp0423">פרפר</placeName> הולך בין
+					<lb/>הגנות והפרדסים חוץ לעיר ומשקין ממנו <lb/>כל הגנות והפרדסים שלהם </seg>
+      <seg xml:id="GN13S3">ושם כניסה <lb/>אחת לישמעאלים הנקראת <placeName xml:id="temp0424">גומאע
+						דמשק</placeName>
+        <lb/>אין כבנין ההוא בכל-הארץ ואומרים כי <lb/>היא היתה <placeName xml:id="temp0425">ארמונת <persName>בן
+						הדד</persName></placeName> ושם עשוי <lb/>במלאכת החרטומים כותל של זכוכית <lb/>ועשו בו
+					חורין כמנין ימות החמה ויכנס <lb/>שמה השמש בכל-אחד ואחד מהן ויורד <lb/>בו על
+					מדרגות שנים עשר כנגד שעות <lb/>היום ובני אדם מכירים בו שעות היום </seg>
+      <seg xml:id="GN13S4">
+        <lb/>ובין הארמון בתים בנוים בזהב ובכסף <lb/>(והוא גדול כמו גגית (אחת) ויכולין
+					ליכנס <lb/>בתוכם לרחוץ כמו שלשה אנשים ושם <lb/>תלוי בתוך הארמון צלע אחת מענק
+					<lb/>אחד ארכו תשע זרתות ורחבו שתי <lb/>זרתות והוא היה מלך ענק מן הקדמונים
+					<lb/>ושמו <persName>המלך אבכמז</persName> שכך מצאו חקוק <lb/>על אבן אחת על קברו
+					ובה כתוב שמלך <pb n="53"/>
+        <lb/>בכל-העולם </seg>
+      <seg xml:id="GN13S5">ויש בה כמו שלשת אלפים <lb/>מישראל וביניהם תלמידי חכמים ועשירים
+					ושם <persName>ראשי ישיבה של <placeName xml:id="setnewandaddinAsher21" type="recogito-7761e575-b3dc-41c3-970c-31324550ef45">ארץ ישראל</placeName> ושמו רבי עזרא</persName> ואחיו
+						<persName>שר שלום אב בית דין</persName> ו<persName>רבי יוסף החמשי</persName>
+					בישיבה <lb/>ו<persName>רבי מצליח ראש הסדר הדרשן</persName> ו<persName>רבי מאיר
+						פאר החכמים</persName> ו<persName>רבי יוסף אבן פלאת סוד הישיבה</persName>
+						ו<persName>רבי הימן הפרנס</persName>
+        <lb/>ו<persName>רבי צדוק הרופא</persName> ושם מן הקראין כמו <lb/>מאתים ומן
+					הכותים כמו ארבע מאות <lb/>וביניהם שלום ואין מתחתנים אלו עם <lb/>אלו |</seg>
+     </ab>
+     <ab xml:id="GeoNar14">
+      <seg xml:id="GN14S1"> ומשם מהלך יום ל<placeName xml:id="temp0427">גלעד</placeName> היא
+						<placeName xml:id="temp0428" >גלעד</placeName> ושם מישראל כמו ששים ובראשם <persName>רבי
+						צדוק</persName> והיא רחבת ידים נחלי מים <lb/>וגנות ופרדסים.</seg>
+      <seg xml:id="GN14S2"> ומשם חצי יום <lb/>ל<placeName xml:id="temp0429" >סלכאת</placeName> היא
+						<placeName xml:id="temp0430">עיר סלכה</placeName>.</seg>
+      <seg xml:id="GN14S3"> ומשם ל<placeName xml:id="temp0431" ref="#K10819" >בעל ביק</placeName> חצי יום והיא
+					<placeName xml:id="temp0432"  ana="recheck">בעלת</placeName> ב<placeName xml:id="temp0433" ref="#K3976"  ana="recheck">בקעת הלבנון</placeName>
+        <lb/>אשר בנה <persName>שלמה</persName> ל<persName>בת פרעה</persName> ובנין
+					<lb/>הארמן מאבנים גדולות אורך האבן <lb/>עשרים זרתות ורחבה שתים עשרה <pb n="54"/>
+        <lb/>זרתות ואין בין אבן ואבן כלום ואומרים <lb/>בני אדם שלא נעשה בנין זה אלא על
+					<lb/>ידי <persName>אשמדאי</persName>
+      </seg>
+      <seg xml:id="GN14S4"> ובראש המדינה מעין גדול <lb/>יוצא והולך באמצע המדינה כמו נהר
+					<lb/>גדול ועליו ריחים וגנות ופרדסים בתוך <lb/>המדינה </seg>
+      <seg xml:id="GN14S5"> וגם <placeName xml:id="temp0434" ref="#K12562"  ana="recheck">תדמור</placeName> במדבר אשר בנה
+						<persName>שלמה</persName> כמו זה בנין אבנים גדולות והעיר
+					<placeName xml:id="temp0435" ref="#K12562"  ana="recheck">תדמור</placeName> מוקפת חומה והיא במדבר <lb/>רחוקה מן היישוב
+					ומ<placeName xml:id="temp0436"  ana="recheck">בעלת</placeName> הנזכרת <lb/>ארבעת ימים וכאלפים יהודים ב<placeName xml:id="temp0437" ref="#K12562" ana="recheck">תדמור</placeName>
+        <lb/>גבורי מלחמה ונלחמים עם בני אדום <lb/>ועם בני ערב שהם תחת ממשלת
+						<persName>נור אלדין</persName> ועוזרים לשכיניהם הישמעאלים <lb/>ובראשם
+						<persName>רבי יצחק היוני</persName> ו<persName>רבי נתן</persName>
+						ו<persName>רבי עוזיאל ז״ל</persName>.</seg>
+      <seg xml:id="GN14S6"> ומשם ל<placeName xml:id="temp0438" ref="#Q4703079" ana="fix-haddad">קריתין</placeName> מהלך חצי <lb/>יום והיא
+						<placeName xml:id="temp0440" ana="fix-haddad">קריתים</placeName> ואין בה יהודים אלא <persName>אחד
+						צבע</persName>.</seg>
+      <seg xml:id="GN14S8"> ומשם דרך יום ל<placeName xml:id="temp0443" ref="#K11554">חמה</placeName> והיא <placeName xml:id="temp0444" ref="#K11554">חמת</placeName> היושבת על <placeName xml:id="temp0445">נהר יבוק</placeName> תחת
+					<placeName xml:id="temp0446" type="recogito-06c43678-6aa9-4f70-9126-cd4464db8a34">הר הלבנון</placeName> ובימים ההם בא רעש גדול בעיר <lb/>ומתו (ביום אחד) חמשה עשר אלף <pb n="55"/>
+        <lb/>אנשים ביום אחד ולא נשארו כי אם <lb/>שבעים איש ובראשם <persName>רבי עולה
+						הכהן</persName>
+        <lb/>ו<persName>שיך אבו אל גאלב ומוכתר</persName>.</seg>
+      <seg xml:id="GN14S9"> ומשם חצי <lb/>יום ל<placeName xml:id="temp0447" ref="#K23345" >שיהא*)</placeName> היא
+						<placeName xml:id="temp0448" >חצור</placeName>.</seg>
+      <seg xml:id="GN14S10"> ומשם שלשה <lb/>פרסאות ל<placeName xml:id="temp0449">למדין</placeName>.</seg>
+      <seg xml:id="GN14S11"> ומשם מהלך שני <lb/>ימים ל<placeName xml:id="temp0450" ref="#K794">חלב</placeName>
+					היא<placeName xml:id="temp0451" ref="#K794"> ארם צובה</placeName> והיא עיר <lb/>מלוכה ל<persName>מלך נור
+						אלדין</persName> ובתוך העיר <lb/>ארמונו מוקף חומה גדולה מאד ואין בה
+					<lb/>מעין ולא נהר אלא מימי המטר הם <lb/>שותים וכל אדם יש לו בור בביתו שקורין
+					אלגוב ובה כמו אלף וחמש <lb/>מאות מישראל ובראשם רבי <persName>משה
+						אלקושטנדיני</persName> ו<persName>רבי ישראל</persName> ו<persName>רבי
+						שת</persName>.</seg>
+     </ab>
+     <ab xml:id="GeoNar15">
+      <seg xml:id="GN15S1">
+        <lb/>ומשם שני ימים ל<placeName xml:id="temp0452" ref="#Q3634572" type="mysuggestion">באליץ</placeName> היא
+						<placeName xml:id="temp0453">פתורה</placeName>
+        <lb/>על <placeName xml:id="temp0454" ref="#K1412" >נהר פרת</placeName> ועד היום הזה שם מגדל <persName>בלעם בן
+						בעור</persName> שם רשעים ירקב שבנה <lb/>על ענין שעות היום ושם כמו מנין
+					<lb/>יהודים.</seg>
+      <seg xml:id="GN15S2"> ומשם חצי יום ל<placeName xml:id="temp0455" ref="#Q1857888">קלע גבר</placeName> היא
+						<placeName xml:id="temp0456">סלע מדברה</placeName> והיא נשארה לבני ערב <lb/>בשעה שלקחו
+					התוגרמים ארצם <pb n="56"/>
+        <lb/>והבריחום אל המדברות ושם כמו אלפים <lb/>יהודים ובראשם <persName>רבי
+						צדקיה</persName> ו<persName>רבי חייא</persName>
+        <lb/>ו<persName>רבי שלמה</persName>.</seg>
+      <seg xml:id="GN15S3"> ומשם יום ל<placeName xml:id="temp0457" ref="#K20273">רקיא</placeName> והיא <placeName xml:id="temp0458">
+						כלנה</placeName>
+        <lb/>בתחלת ארץ <placeName xml:id="temp0459" ref="#Q1404297">שנער</placeName> החולקת בין מלכות
+					<lb/>התוגרמים וארץ <placeName xml:id="temp0460" ref="#Q1404297" >שנער</placeName> ובה כמו שבע
+					<lb/>מאות יהודים ובראשם <persName>רבי זכאי</persName> ו<persName>רבי נדיב והוא
+						סגיא נהור</persName> ו<persName>רבי יוסף</persName> ושם <placeName xml:id="temp0461">כנסת
+						מבנין <persName>עזרא </persName>הסופר</placeName> בעלותו מ<placeName xml:id="temp0462" ref="U4">בבל</placeName>
+        <lb/>ל<placeName xml:id="temp0463" ref="#K691">ירושלם</placeName>.</seg>
+      <seg xml:id="GN15S4"> ומשם שני ימים ל<placeName xml:id="temp0464">חרן הקדמונה</placeName> ובה כמו
+					עשרים יהודים ושם <placeName xml:id="temp0465" >כנסת עזרא</placeName> כמו כן ובאותו מקום שהיה.
+					<lb/>שם <placeName xml:id="temp0466" >ביתו של <persName>אברהם אבינו</persName>
+        </placeName> אין עליו <lb/>בנין וישמעאלים מכבדים אותו מקום <lb/>ובאים שם להתפלל. </seg>
+      <seg xml:id="GN15S5">ומשם מהלך שני <lb/>ימים ומשם יוצא נהר <placeName xml:id="temp0467" ref="#K4883" ana="check-adler">אל
+					כבור</placeName> והוא <placeName xml:id="temp0469" ref="#K4883" >חבור</placeName>*) והוא הולך לארץ
+						<placeName xml:id="temp0472" ref="#K22613">מדי</placeName> ונופל בנהר*)
+						<placeName xml:id="temp0473">גוזן</placeName> ושם כמו מאתים יהודים.</seg>
+      <seg xml:id="GN15S6"> ומשם <lb/>שני ימים ל<placeName xml:id="temp0474" ref="#K22186">נציבין</placeName> והיא עיר
+					גדולה ונחלי <lb/>מים ובה כמו אלף יהודים</seg>
+      <seg xml:id="GN15S7"> ומשם שני <lb/>ימים ל<placeName xml:id="temp0475" ref="#K20455">גזיר בן עמר</placeName> והוא
+					בתוך נהר <pb n="57"/>
+        <lb/><placeName xml:id="temp0476">חדקל</placeName> לרגלי <placeName xml:id="temp0477">הרי אררט</placeName> מהלך ארבעה <lb/>מילין למקום שנחה
+					שם תיבת נח אבל <persName>עמר בן אל כטאב</persName> לקח את-התיבה מעל <lb/>ראש שני
+					ההרים ועשה אותה כנסת <lb/>לישמעאלים. ובקרוב התיבה <placeName xml:id="temp0478">כנסת עזרא
+						הסופר</placeName> עד היום הזה וביום תשעה <lb/>[באב] באים יהודים מן המדינה
+					להתפלל שם <lb/>ובאותה מדינה של <placeName xml:id="temp0479">גזירה</placeName> <persName>עמר בן אל כטאב</persName> כמו
+					ארבעת אלפים יהודים ובראשם <persName>רבי מובחר</persName> ו<persName>רבי
+						יוסף</persName> ו<persName>רבי חייא</persName>
+      </seg>
+     </ab>
+     <ab xml:id="GeoNar16">
+      <seg xml:id="GN16S1"> ומשם שני <lb/>ימים ל<placeName xml:id="temp0480" ref="#K6985">אל-מוצל</placeName> היא
+						<placeName xml:id="temp0481">אשור הגדולה</placeName> ושם כמו <lb/>שבעת אלפים יהודים ובראשם
+						<persName>רבי זכאי הנשיא</persName> מזרע <persName>דוד המלך</persName>
+						ו<persName>רבי יוסף המכונה ברהן אל פלך</persName> והוא חוזה למלך
+						<persName>זין אל דין</persName> אחיו של <persName>נור אל דין</persName> מלך
+					<placeName xml:id="temp0482" ref="#K939" >דמשק</placeName>
+      </seg>
+      <seg xml:id="GN16S2">
+        <lb/>והיא תחלת ארץ <placeName xml:id="temp0484" ref="#K7639" >פרס</placeName> היא עיר גדולה <lb/>מאד
+					מימי קדם והיא יושבת על <placeName xml:id="temp0485" ref="#K2273">נהר חדקל</placeName> ובינה ובין
+					<placeName xml:id="temp0486" ref="#K14078">נינוה</placeName> הגשר לבד והיא <lb/>חרבה אבל יש שם כפרים וכרכים
+					רבים </seg>
+      <seg xml:id="GN16S3">
+        <lb/>ומ<placeName xml:id="temp0488">נינוה</placeName> מהלך פרסה עד עיר <placeName xml:id="temp0490" ref="#K12037">ארבאל</placeName>
+        <pb n="58"/>
+        <lb/>והעיר <placeName xml:id="temp0491" ref="#K14078" >נינוה</placeName> על-שפת <placeName xml:id="temp0492">חדקל</placeName></seg>
+      <seg xml:id="GN16S4"> ובמדינת <lb/><placeName xml:id="temp0493">אשור</placeName> <placeName xml:id="temp0494" >כנסת <persName>עובדיה</persName>
+        </placeName> ו<placeName xml:id="temp0495" >כנסת <persName>יונה בן אמתי</persName>
+        </placeName> ו<placeName xml:id="temp0496" >כנסת <persName>נחום האלקושי</persName>
+        </placeName>.</seg>
+      <seg xml:id="GN16S5"> ומשם <lb/>מהלך שלשה ימים ל<placeName xml:id="temp0497" ref="#Q1309261">רחבה</placeName> היא
+						<placeName xml:id="temp0498">רחובות</placeName>
+        <lb/>אשר על-שפת <placeName xml:id="temp0499" ref="#K1412">נהר פרת</placeName> ובה כמו אלפים <lb/>יהודים ובראשם
+						<persName>רבי חזקיה</persName>
+        <persName>רבי אהוד</persName>
+        <lb/>ו<persName>רבי יצחק</persName> והיא עיר מוקפת חומה ויפה <lb/>עד מאד וגדולה
+					ובצורה וסביבותיה גנות <lb/>ופרדסים.</seg>
+     </ab>
+     <ab xml:id="GeoNar17">
+      <seg xml:id="GN17S1"> ומשם מהלך יום ל<placeName xml:id="temp0500" ref="#Q1092772">קרקסיא</placeName> היא
+					<placeName xml:id="temp0501" ref="#K6702" type="idf">כרכמיש</placeName> על-שפת <placeName xml:id="temp0502" ref="#K1412">נהר פרת</placeName> ובה כמו
+					<lb/>חמש מאות יהודים ובראשם <persName>רבי יצחק</persName>
+        <lb/>ו<persName>רבי אלחנן</persName>.</seg>
+      <seg xml:id="GN17S2"> ומשם שני ימים ל<placeName xml:id="temp0503" ref="#K3373" type="resolve">אל יובר</placeName> היא
+					<placeName xml:id="temp0504" ref="#K3360">פום בדיתא</placeName> אשר ב<placeName xml:id="temp0505" ref="#K3373" type="idf">נהרדעא</placeName>
+        <lb/>ושם כמו אלפים יהודים וביניהם <lb/>תלמידי חכמים ובראשם <persName>חן
+						הרב</persName> ו<persName>רבי משה</persName> ו<persName>רבי
+						אליקים</persName> ושם <placeName xml:id="temp0506" >קבר <persName>רב יהודה</persName>
+        </placeName>
+        <lb/>ו<placeName xml:id="temp0507" >רבי שמואל</placeName> ולפני כל-אחד ואחד בית <lb/>כניסתו אשר בנו
+					הם לפני מותם ושם <placeName xml:id="temp0508" >קברו של רבי בסתנאי</placeName>
+        <persName> הנשיא ראש הגולה</persName> ו<placeName xml:id="temp0509"><persName>רבי נתן</persName></placeName>
+						ו<placeName xml:id="temp0510"><persName>רבי נחמן בר פפא</persName></placeName>
+      </seg>
+      <seg xml:id="GN17S3">
+        <pb n="59"/>
+        <lb/>ומשם חמשה ימים ל<placeName xml:id="temp0511">חרדה</placeName> ושם כמו <lb/>חמשה עשר אלף
+					יהודים ובראשם <persName>רבי זקן</persName> ו<persName>רבי יוסף</persName>
+						ו<persName>רבי נתנאל</persName>.</seg>
+      <seg xml:id="GN17S4">ומשם שני <lb/>ימים ל<placeName xml:id="temp0512" ref="#Q766309">עוקברה</placeName> היא המדינה
+					אשר בנה <persName>יכניה מלך יהודה</persName> ובה כמו עשרת <lb/>אלפים יהודים
+					ובראשם <persName>רבי יהושע</persName> ו<persName>רבי נתן</persName>
+      </seg>
+     </ab>
+     <ab xml:id="GeoNar18">
+      <seg xml:id="GN18S1"> ומשם שני ימים ל<placeName xml:id="temp0513" ref="#K662">בגדאד</placeName> היא העיר
+					<lb/>הגדולה ראש ממשלת <persName>כליפת אמיר אל מומנין אל עבאסי</persName> ממשפחת
+						<persName>הנביא שלהם</persName> והוא הממונה על דת הישמעאלים <lb/>עליהם כמו
+						<persName>הפפא</persName> על הנוצרים וכל מלכי ישמעאל מודים לו והוא עליהם כמו
+					הפפא אצל הנוצרים </seg>
+      <seg xml:id="GN18S2"> ויש לו <lb/>ארמון בתוך <placeName xml:id="temp0514" ref="#K662">בגדאד</placeName> מהלך שלשה
+					מילין <lb/>ובתוך הארמון יער גדול מכל מיני <lb/>אילני העולם בין עושי פרי ובין
+					שאינן <lb/>עושין פרי ושם כל מיני חיות ובתוך <lb/>היער מקוה מים באים מנהר <placeName xml:id="temp0515" type="recogito-9a08eed6-7239-45f1-8c78-73b663928195">חדקל</placeName>
+					<lb/>ובשעה שירצה לטייל עצמו בו ולשמוח <lb/>ולשתות צדים לו עופות וחיות ודגים ובא
+					<lb/>לארמונו עם יועציו ושריו ושם <persName>המלך הגדול אל עבאסי (אחמד)</persName>
+					והוא אוהב <lb/>ישראל מאד ולפניו משרתים רבים <lb/>מישראל והוא יודע בכל-הלשונות
+					ובקי <lb/>בתורת משה וקורא וכותב בלשון הקדש <lb/>ואינו רוצה ליהנות אלא מיגיע כפיו
+					<lb/>ועושה מחצלאות וחותם חותמו בהן <lb/>ומוכרין אותם שריו בשוק וקונים אותם
+					<lb/>גדולי הארץ ומדמיהן הוא אוכל ושותה <lb/>והוא איש טוב ובעל אמונה ודובר שלום
+					<lb/>לכל הבריות ואינן יכולים בני ישמעאל <lb/>לראותו והתועים הבאים מארץ מרחק
+					<lb/>ללכת ל<placeName xml:id="temp0516" ref="#K647">מיקה</placeName> בארץ <placeName xml:id="temp0517">אלימן</placeName> מבקשים
+					<lb/>ללכת לפניו ואומרים לו מהארמון <lb/>אדונינו אור הישמעאלים וזהר תורתנו
+					<lb/>הראנו זיו פניך ואינו חושש לדבריהם <lb/>ובאים שריו ועבדיו המשרתים אותו
+					<lb/>ואומרים אדונינו פרוש שלומך על <lb/>האנשים הבאים מארץ מרחק המתאוים
+					<lb/>לחסות בצל נעימותיך ובאותה שעה <lb/>ירים ומניח כנף בגדו מן החלון ובאים <pb n="61"/>
+        <lb/>התועים ונושקים אותו ואומר להם <persName>שר אחד</persName> לכו לשלום כי כבר
+					רצה ונתן לכם <lb/>שלום אדונינו אור הישמעאלים והוא <lb/>בעיניהם כמו
+						<persName>הנביא שלהם</persName> והולכים <lb/>לבתיהם שמחים על פי הדבור שדבר
+					<lb/>להם השר שנתן להם שלום ונושקים <lb/>בבגדו כל-אחיו וכל-משפחתו וכל-אחד
+					<lb/>ואחד יש לו ארמון בתוך ארמונו אבל <lb/>כלם אסורים בשלשלאות של ברזל ועל-
+					<lb/>כל-בית ובית שומרים שלא יקומו על <lb/>המלך הגדול כי פעם אחת קמו עליו
+					<lb/>אחיו והמליכו אחד מהם ונגזרה גזרה <lb/>על-כל-בני משפחתו שיהיו אסורים
+					<lb/>בשלשלאות של ברזל שלא יקומו על <lb/>המלך הגדול וכל-אחד ואחד יושב
+					<lb/>בארמונו בכבוד גדול ולהם כפרים <lb/>ומדינות ומביאים להם המס פקידיהם <lb/>והם
+					אוכלים ושותים ושמחים כל ימי <lb/>חייהם ובארמון המלך הגדול בניינים <lb/>גדולים
+					ועמודי כסף וזהב ומחבואות וכל <pb n="62"/>
+        <lb/>אבן יקרה</seg>
+      <seg xml:id="GN18S3"> ואינו יוצא מארמונו אלא <lb/>פעם אחת בשנה בחג שקורין אותו
+					<lb/>רמאדאן באים מארץ רחוקה באותו <lb/>היום לראות פניו והוא רוכב על-הפרדה
+					<lb/>ולובש בגדי מלכות עשוים מזהב ומכסף <lb/>ועל ראשו מצנפת ועליה אבנים יקרות
+					<lb/>שאין להם שעור לשווים ועל המצנפת <lb/>סודר שחור בשביל צניעות העולם
+					<lb/>כלומר תראו כל-הכבוד הזה חשך <lb/>יגשש אותו ביום המיתה ובאים עמו כל
+					<lb/>קציני ישמעאלים מלובשים בגדים נאים <lb/>ורוכבים על סוסים שרי <placeName xml:id="temp0519">ערב</placeName> ושרי <placeName type="recogito-b8038196-58ca-408f-965d-49bda240a8ac" xml:id="temp0522" ana="fix-in-editions">מדי</placeName>
+					<lb/>ו<placeName type="recogito-98c22371-46f2-41fa-a284-2b8f9870f794" xml:id="temp0523" ana="fix-in-editions">פרס</placeName> ושרי ארץ <placeName type="recogito-b73538e8-242b-4fe5-b39c-c2516d8fcdf7" xml:id="temp0524" ana="fix-in-editions">טובות</placeName> מערב מהלך <lb/>שלשה חדשים והולך מארמונו ועד
+						<placeName xml:id="temp0527">בית התפלה שהיא בשער בוצרה</placeName> והיא בית <lb/>התפלה הגדולה
+					ההולכים כלם מלובשים <lb/>בגדי משי וארגמן האנשים והנשים <lb/>ותמצא בכל החוצות
+					ובשווקים כל מיני <lb/>זמרה מרננים ומרקדים לפני המלך <lb/>הגדול הנקרא כליפה
+					ונותנים לו שלום <pb n="63"/>
+        <lb/>בקול גדול ואומרים לו שלום עליך <lb/>אדונינו המלך והוא מנשק בבגדו ורומז
+					<lb/>להם שלום בבגדו בתפישת יד והולך עד <lb/>חצר התפלה ועולה במגדל עץ ודורש
+					<lb/>להם תורתם ויקומו חכמי ישמעאלים <lb/>ומתפללין עליו ומשבחין אותו על רוב
+					<lb/>גדולתו וחסידותו ועונין הכל אמן ואחר <lb/>כך הוא מברך אותם ומביאין לפניו גמל
+					<lb/>ושוחט אותו וזהו פסחם. ונותן לשרים <lb/>והם משגרים ממנו לטעום משחיטת יד
+					<lb/>המלך הקדוש שלהם והם שמחים בדבר <lb/>ואחר כך יוצא מבית התפלה והולך על-
+						<placeName xml:id="temp0528">שפת נהר חדקל</placeName> לבדו עד ארמונו <lb/>וגדולי ישמעאלים
+					הולכים באניות בנהר <lb/>כנגדו עד שיכנס בארמונו ולא ישוב <lb/>בדרך אשר בא בו
+					ובאותו הדרך שעל <lb/>שפת הנהר שומרין אותו כל השנה שלא <lb/>יעבור משם שום אדם
+					במקום מדרך כף <lb/>רגליו ואינו יוצא מהארמון יותר בכל <lb/>השנה והוא איש טהור
+					וחסיד </seg>
+      <seg xml:id="GN18S4">ועשה <pb n="64"/>
+        <lb/>ארמון מעבר לנהר על-שפת זרוע פרת. <lb/>שהוא מצד האחד של העיר ובנה בו
+					<lb/>בתים גדולים ושוקים ופונדקאות לעניים <lb/>החולים הבאים להתרפאות שם ושם
+					<lb/>כמו ששים חנויות מרופאים וכלם יש <lb/>להם בשמים וכל-צרכם מבית המלך
+					<lb/>וכל-חולה שיבא שם יתפרנס מממון <lb/>המלך עד שיתרפא</seg>
+      <seg xml:id="GN18S5"> ושם ארמון גדול <lb/>שקורין אותו <placeName xml:id="temp0529">דאר אל
+						מראפתאן</placeName>*) והוא <lb/>ארמון שאוסרים בו כל המשוגעים <lb/>הנמצאים
+					בקיץ ואוסרין כל אחד ואחד <lb/>מהם בכבלי ברזל עד שחוזרין לדעתם <lb/>מניחין אותם
+					וכל אחד ואחד הולך <lb/>לביתו כי בכל-חדש וחדש בודקין אותם <lb/>פקידי המלך אם
+					חוזרין לדעתם מתירין <lb/>אותם והולכים לדרכם וכל זה עושה <lb/>המלך לצדקה לכל
+					הבאים לעיר <placeName xml:id="temp0530" ref="#K662">בגדאד</placeName>
+        <lb/>בין חולים בין משוגעים והמלך איש <lb/>חסיד וכונתו לטובה בזה הענין | ויש
+					<lb/>שם ב<placeName xml:id="temp0531" type="recogito-71e6e098-30e6-4c17-99a5-b0f5c86907d6">בגדאד</placeName> כמו אלף יהודים והם <pb n="65"/>
+        <lb/>יושבים בשלוה ובהשקט ובכבוד גדול <lb/>תחת יד המלך הגדול וביניהם חכמים
+					<lb/>גדולים וראשי ישיבות מתעסקים בתורת <lb/>משה ושם בעיר עשר ישיבות
+						ו<persName>ראש הישיבה הגדולה הרב רבי שמואל בן עלי ראש ישיבת גאון
+						יעקב</persName>
+        <persName> סגן הלוים ראש השנייה</persName>| ו<persName>רבי דניאל ראש הישיבה
+						השלישית</persName> ו<persName>רבי אלעזר החבר ראש הישיבה הרביעית</persName>
+						ו<persName>רבי אלעזר בן צמח ראש הסדר</persName> והוא מיוחס עד
+						<persName>שמואל הנביא</persName>
+        <lb/>עליו השלום והוא ו<persName>אחיו</persName> יודעים לנגן <lb/>הזמירות כמו
+					שהיו המשוררים נוגנים <lb/>בזמן שבית המקדש קיים והוא ראש <lb/>הישיבה החמישית|
+						ו<persName>רבי חסדיה פאר החברים ראש הישיבה הששית</persName>. ו<persName>רבי
+						חגי הנשיא ראש השביעית</persName> ו<persName>רבי עזרא ראש הישיבה
+						השמינית</persName>| ו<persName>רבי אברהם הנקרא אבו טאהר ראש הישיבה
+						התשיעית</persName> ו<persName>רבי זכאי בן בסתנאי בעל הסיום ראש הישיבה
+						העשירית</persName> הם הנקראים <pb n="66"/>
+        <lb/>בטלנים שאין מתעסקים בדבר אחר <lb/>אלא בצרכי צבור ובכל ימי השבוע הם
+					<lb/>דנין לכל אנשי הארץ היהודים חוץ מיום <lb/>שני שבאים כלם לפני <persName>הרב
+						שמואל ראש ישיבת גאון יעקב</persName> ועומד עם העשרה <lb/>בטלנין ראשי הישיבות
+					לדון לכל הבאים <lb/>אליהם ובראשם של כלם <persName>רבי דניאל בן חסדאי הנקרא ראש
+						גלות וגם*) אדונינו</persName>
+        <lb/>ויש לו ספר היחס עד <persName>דוד המלך</persName>
+        <lb/>וקוראים אותו היהודים אדונינו ראש <lb/>הגולה וישמעאלים קוראין אותו
+						<persName>סיידנא בן דוד</persName> ויש לו שררה גדולה על כל- <lb/>קהלות ישראל
+					תחת יד <persName>אמיר אל מומנין</persName>
+        <lb/>אדון הישמעאלים כי כן צוה לזרעו**) ועשה <lb/>לו חותם על כל קהלות ישראל הדרים
+					<lb/>תחת יד תורתו וכך צוה לכל בר אינש <lb/>ישמעאלים ויהודים או מכל אומה שבכל
+					<lb/>מלכותו שיקום לפניו ויתן-לו שלום וכל <lb/>מי שלא יקום מפניו מלקין אותו מאה
+					<lb/>מכות והולכים עמו פרשים מן הגוים <lb/>
+        <pb n="67"/>
+        <lb/>ומן היהודים בכל יום שהוא הולך לראות <lb/>פני המלך הגדול ומכריזין לפניו עשו
+					<lb/>דך ל<persName>אדונינו בן דוד</persName> כראוי לו אומרים <lb/>כלשונם אעמלוא
+					טריק ל<persName>סאידנא בן דאוד</persName> והוא רוכב על סוס ומלובש בגדי <lb/>משי
+					ורקמה ומצנפת גדול על ראשו ועל <lb/>המצנפת סודר לבן גדול ועל הסודר <lb/>רביד </seg>
+      <seg xml:id="GN18S6">וכל קהלות ארץ <placeName xml:id="temp0534" ref="#Q1404297">שנער</placeName>
+						ו<placeName xml:id="temp0535" ref="#K7639" >פרס</placeName>
+        <lb/>ו<placeName xml:id="temp0536">כרסאן</placeName> ו<placeName xml:id="temp0537">שבא</placeName> היא
+						<placeName xml:id="temp0538">אלימן</placeName> ו<placeName xml:id="temp0539">דיאר ביך</placeName>
+        <lb/>וכל ארץ <placeName xml:id="temp0540">ארם נהרים</placeName> וארץ <placeName xml:id="temp0541">קוט</placeName>
+        <lb/>היושבים ב<placeName xml:id="temp0542" >הרי אררט</placeName> וארץ <placeName xml:id="temp0543" >אלניה</placeName>
+					היא <lb/>הארץ המוקפת הרים ואין להם יציאה <lb/>אלא <placeName xml:id="temp0544" >שערי ברזל שעשה
+							<persName>אלכסנדרוס</persName>
+        </placeName>
+        <lb/>ושם האומה הנקראת אלאן וארץ <placeName xml:id="temp0545" >סיכביא</placeName>*) וכל ארץ <placeName xml:id="temp0546" >התוגרמים</placeName>
+					עד הרי <placeName xml:id="temp0547" >אסנה</placeName> וארץ <placeName xml:id="temp0548" >גרגיין</placeName>**) עד נהר
+						<placeName xml:id="temp0549" >גיחון</placeName> והם <lb/>הגרגשים והם בדת הנוצרים ועד שערי
+					<lb/>המדינות וארצות <placeName xml:id="temp0552">טובות</placeName> ועד ארץ <placeName xml:id="temp0553">הודו</placeName> <persName>ראש הגולה</persName> נותן להם
+					רשות בכל <lb/>הקהלות האלו לשום על כל-קהל וקהל <pb n="68"/>
+        <lb/>רב וחזן כי הם באים אליו לקחת <lb/>הסמיכה ורשות ומביאים לפניו דורונות
+					<lb/>ומתנות מאפסי ארץ| ויש לו פונדקאות <lb/>וגנות ופרדסים ב<placeName xml:id="temp0554">בבל</placeName> ונחלות רבות מאד
+					<lb/>מנחלת אבותיו ואין אדם רשאי לגזול <lb/>ממנו כלום ויש לו פונדקאות של יהודים
+					<lb/>ובשוקים ובסוחרי הארץ מס ידוע בכל <lb/>שנה ושנה חוץ ממה שמביאים מארץ
+					<lb/>מרחק והאיש עשיר גדול וחכם בפסוק <lb/>ובתלמוד ואוכלין על שולחנו רבים
+					<lb/>מישראל בכל יום. אבל העת <lb/>שמקיימים ראש הגולה הוא מוציא ממון <lb/>גדול על
+					המלך ועל השרים ועל הסגנים <lb/>ביום שעושה לו המלך הסמיכה על <lb/>השררה ומרכיבים
+					אותו במרכבת <persName>המשנה אשר למלך</persName> ומביאים אותו מבית <lb/>המלך
+					הגדול לביתו בתופים ובמחולות <lb/>והוא עושה הסמיכה לאנשי הישיבה. </seg>
+      <seg xml:id="GN18S7">
+        <lb/>והיהודים שבמדינה בה תלמידי חכמים <lb/>ועשירים גדולים ובעיר
+						<placeName xml:id="temp0555" ref="#K662" >בגדאד</placeName> שמנה <pb n="69"/>
+        <lb/>ועשרים בתי כניסיות ליהודים בין <placeName xml:id="temp0556" ref="#K662"  ana="noteHaddadId">בגדאד</placeName>
+        <lb/>ובין <placeName xml:id="temp0557" >אל כרך</placeName> אשר מעבר <placeName xml:id="temp0558" ref="#K2273" > חדקל</placeName> כי
+					<lb/>הנהר חולק את המדינה וכניסה גדולה <lb/>של ראש הגולה מבנין עמודי שיש מכל
+					<lb/>מיני צבעים מצופים בזהב ובכסף <lb/>ובעמודים אותיות של זהב בפסוקי תלים
+					<lb/>ושם לפני הארון מדרגות מאבני שיש <lb/>כמו עשרה ובמדרגה העליונה ראש
+					<lb/>הגולה עם נשיאי בית דוד|</seg>
+      <seg xml:id="GN18S8"> ומדינת <placeName xml:id="temp0559" ref="#K662" >בגדאד</placeName> עיר שלשה מילין גדולה בהקפת
+					<lb/>העיר והיא ארץ תמרים וגנות ופרדסים <lb/>שאין כמותם בכל ארץ <placeName xml:id="temp0560" ref="Q1404297" >שנער</placeName> ובאים <lb/>אליה בסחורה מכל הארצות ובה אנשים
+					<lb/>חכמים פילוסופין בכל חכמה חרטומים <lb/>יודעים בכל מיני כשוף |</seg>
+     </ab>
+     <ab xml:id="GeoNar19">
+      <seg xml:id="GN19S1"> ומשם ל<placeName xml:id="temp0561">גהיאגן</placeName>
+        <lb/>שני ימים והיא <placeName xml:id="temp0562">רסן</placeName> העיר הגדולה ובה <lb/>כמו חמשה
+					אלפים מישראל ובתוכה <lb/><placeName xml:id="temp0563">כנסת גדולה ושם קבור* בבית סמוך <lb/>לכנסת ותחת קברו
+						מערה</placeName> קבורים בה <lb/>שנים עשר מתלמידיו| </seg>
+      <seg xml:id="GN19S2">ומשם יום <pb n="70"/>
+        <lb/>ל<placeName xml:id="temp0564" ref="#Q5684">בבל</placeName> היא בבל הקדמונה החרבה והיא <lb/>מהלך
+					שלשים מילין ברחובותיה עדין <placeName xml:id="temp0565">ארמון <persName>נבוכדצר</persName>
+        </placeName> שם חרב ויראים בני <lb/>אדם ליכנס בו מפני הנחשים והעקרבים <lb/>שיש
+					בתוכו|</seg>
+      <seg xml:id="GN19S3"> וקרוב משם עשרים מיל <lb/>יושבים עשרים אלפים מישראל מתפללין
+					<lb/>בכנסיות
+			 ו<placeName xml:id="temp0566">עליית דניאל</placeName>
+        <persName> עליו השלום</persName> היא <lb/>הקדומה שבנה דניאל והיא בנויה אבני
+					<lb/>גזית ולבנים ובית הכנסת ו<placeName xml:id="temp0567" type="recogito-ac445773-6c9e-4e21-a7f1-d0cc60db7fad">ארמון <lb/>נבוכדנצר</placeName> אתון גורא יקידתא אשר
+					<lb/>הושלכו שם <persName>חנניה</persName>
+        <persName>מישאל</persName> ו<persName>עזריה</persName> והוא <lb/>עמק ידוע
+					לכל|</seg>
+      <seg xml:id="GN19S4"> ומשם ל<placeName xml:id="temp0568" ref="#K18484">חילה</placeName> חמשה <lb/>מילין ושם כמו עשרה
+					אלפים מישראל <lb/>ובה ארבע בתי כנסיות אחת של <placeName xml:id="temp0569">רבי מאיר</placeName>
+					והוא קבור לפניה ו<placeName xml:id="temp0570">רב זעירי בר חמא</placeName> ו<placeName xml:id="temp0571" >רב
+						מאירי</placeName> ומתפללין שם בכל-יום <lb/>יהודים.</seg>
+      <seg xml:id="GN19S5"> ומשם ארבע מילין ל<placeName xml:id="temp0572">מגדל שבנו דור הפלגה</placeName>
+					והוא בנוי מלבנים <lb/>הנקראים אלאגור*) אורך יסודו כשני מילין <lb/>וברחבו מאתים
+					וארבעים אמה וארכו <pb n="71"/>
+        <lb/>כמו מאה קנים ובין עשרה ועשרה אמות <lb/>דרכים שם ובהם עולים בעגול ומסבבין
+					<lb/>עד למעלה ורואים ממנה מהלך עשרים <lb/>מיל כי הארץ רחבת ידים ומישור
+					<lb/>ובתוכו נפלה אש מן השמים ובקעה <lb/>אותו עד התהום</seg>
+     </ab>
+     <ab xml:id="GeoNar20">
+      <seg xml:id="GN20S1"> ומשם חצי יום ל<placeName xml:id="temp0573" ana="check-in-editions">נפח</placeName>
+        <lb/>ושם כמו מאתים יהודים ושם כנסת <persName>רבי יצחק נפחא</persName> והוא קבור
+					לפניה.</seg>
+      <seg xml:id="GN20S2">
+        <lb/>ומשם שלשה פרסאות ל<placeName xml:id="temp0574">כנסת<persName> יחזקאל הנביא עליו
+							השלום</persName>
+        </placeName> שעל <placeName xml:id="temp0575" ref="#K1412">נהר פרת</placeName>2273
+					<lb/>ובמקום הכנסת כנגדו ששים מגדלים <lb/>ובין כל מגדל ומגדל כנסת ובחצר
+					<lb/>הכנסת התיבה ואחרי הכנסת <placeName xml:id="temp0576" ref="#Q2903334" type="inaccurate">קברו של <persName>יחזקאל בן בויבוזי הכהן</persName>
+        </placeName>
+					ועליו כיפה גדולה <lb/>ובנין יפה עד מאד מבנין <persName>יכניה מלך
+						יהודה</persName> וחמשה ושלשים אלף יהודים <lb/>שבאו עמו כשהוציא אותו
+						<persName>אויל מרודך</persName>
+        <lb/>מבית הכלא וזה המקום על <placeName xml:id="temp0577" >נהר כבר</placeName>
+        <lb/>מצד ומצד אחד נהר| ויכניה וכל-הבאים <lb/>עמו חקוקים בכותל יכניה בראש יחזקאל
+						<pb n="72"/>
+        <lb/>בסוף ואותו המקום עד היום הזה מקדש <lb/>מעט באים מארץ מרחק שם להתפלל
+					<lb/>מראש השנה עד יום הכפורים ועושים <lb/>שם שמחה גדולה וגם ראש הגולה <lb/>וראשי
+					ישיבות באים שם מ<placeName xml:id="temp0578"    type="recogito-89cdb250-2553-4ce0-8056-311d6548b27e">בגדאד</placeName> וחונים <lb/>על פני השדה שנים ועשרים מילין <lb/>ובאים שם
+					סוחרים בני ערב ושם יריד <lb/>גדול הנקרא פירא ומוציאין ספר גדול <lb/>מכתיבת
+						<persName>יחזקאל הנביא</persName> וקורין בו ביום <lb/>הכפורים. ועל <placeName xml:id="temp0579">קברו של
+					יחזקאל</placeName>  <lb/>עששית דולקת כל היום וכל הלילה מיום <lb/>שהאיר אותה הוא בעצמו וחולפין
+					<lb/>הפתילות ומוסיפין שמן עד היום הזה <lb/>ושם בית גדול של הקדש והוא מלא
+					<lb/>ספרים ומבית ראשון ומבית שני יש שם <lb/>ספרים וכל שאין לו בן יקדיש ספרו
+					<lb/>לשם ומביאין היהודים הבאים להתפלל <lb/>שם מארץ <placeName xml:id="temp0580">פרס</placeName> ו<placeName xml:id="temp0581">מדי</placeName> נדר על עצמם
+					<lb/>אנשי הארץ ל<placeName type="recogito-81aa46d7-0d4d-4545-ab25-5f1376465f24">כנסת יחזקאל</placeName> הנביא. <lb/>וגם בני גדולי ישמעאל באים להתפלל <pb n="73"/>
+        <lb/>שם מרוב חבתם מיחזקאל הנביא עליו <lb/>השלום וקורין שמו <placeName xml:id="temp0584" >דר
+						מליחא</placeName> וכל בני <lb/>ערב באים שם להתפלל</seg>
+      <seg xml:id="GN20S3"> ושם סמוך <lb/>לכנסת כחצי מיל <placeName xml:id="temp0585">קברי
+							<persName>חנניה</persName>
+         <persName>מישאל</persName> ו<persName>עזריה</persName>
+        </placeName>. ועל כל-קבר וקבר כפה גדולה <lb/>ושעת החירום אין אדם בעולם נוגע
+					<lb/>בקברו*) של <persName>יחזקאל עליו השלום</persName> לרעה <lb/>לא בישמעאלים
+					ולא ביהודים</seg>
+     </ab>
+     <ab xml:id="GeoNar21">
+      <seg xml:id="GN21S1"> ומשם <lb/>שלשה מילין לעיר <placeName xml:id="temp0586">אל קוצונאת</placeName>
+					ובה כמו <lb/>שלש מאות יהודים ושם <placeName xml:id="temp0587">קבר <persName>רב פפא</persName>
+        </placeName>
+        <lb/>ו<placeName xml:id="temp0588" >רב הונא</placeName> ו<placeName xml:id="temp0589" >רבי יוסף סיני</placeName> ו<placeName xml:id="temp0590" >
+         <persName>רב יוסף בר חמא</persName>
+        </placeName> ולפני כל אחד ואחד כנסת <lb/>ומתפללין שם ישראל בכל-יום
+					</seg>
+      <seg xml:id="GN21S2">
+					 ומשם
+						<lb/>ל<placeName xml:id="temp0591">עין שפתה</placeName> שלש פרסאות ושם <placeName xml:id="temp0592">קבר נחום
+						האלקושי</placeName>
+        <persName> הנביא עליו השלום</persName>. </seg>
+      <seg xml:id="GN21S3">
+        <lb/>ומשם לכפר <placeName xml:id="temp0593"  ana="check-with-variants">לפרס</placeName> יום ושם <placeName xml:id="temp0594">קבר <persName>רבי
+							חסדאי</persName>
+        </placeName> ו<placeName xml:id="temp0595">רבי עקיבה</placeName> ו<placeName xml:id="temp0596">רבי דוסא</placeName>
+      </seg>
+      <seg xml:id="GN21S4">| ומשם <lb/>חצי יום ל<placeName xml:id="temp0597">כפר מהמדבר</placeName> ושם
+				<placeName xml:id="temp0598">	[קבר] <persName>רבי דוד</persName></placeName>
+        <lb/>ו<placeName xml:id="temp0600" >רבי יהודה</placeName> ו<placeName xml:id="temp0603" >רבי קובריה</placeName>
+						ו<placeName xml:id="temp0604">רבי סחורא</placeName>
+        <lb/>ו<placeName xml:id="temp0606" ana="check-in-editions">רבי אבא</placeName>
+      </seg>
+      <seg xml:id="GN21S5">| ומשם יום ל<placeName xml:id="temp0607">נהר ליגא</placeName> ושם <pb n="74"/>
+        <placeName xml:id="temp0608">קברו של צדקיהו המלך</placeName>
+        <persName> עליו השלום</persName>
+        <lb/>ועליו כיפה גדולה</seg>
+      <seg xml:id="GN21S6">
+				 ומשם לעיר <placeName xml:id="temp0609" ref="#Q186234">קופה</placeName>
+        <lb/>מהלך יום ושם <placeName xml:id="temp0610">קברו של <persName>יכניה המלך</persName>
+        </placeName>
+        <lb/>בנין גדול וכנסת לפניו
+				 ושם כמו שבעת <lb/>אלפים יהודים|</seg>
+      <seg xml:id="GN21S8">
+			 ומשם יום וחצי ל<placeName xml:id="temp0611" ref="#Q4446399">סוריא</placeName> היא
+						<placeName xml:id="temp0612">מתא מחסיא</placeName> שהיו בה ראשי גליות <lb/>וראשי ישיבות בתחלה
+					ושם <placeName xml:id="temp0613">[קבר]<persName>רב שרירא</persName>
+        </placeName>
+        <lb/>ו<placeName xml:id="temp0614">רבינו האיי</placeName> בנו ו<placeName xml:id="temp0615" >רבינו סעדיה אל
+						פיומי</placeName>
+        <lb/>ו<placeName xml:id="temp0616" >רב שמואל בן חפני הכהן</placeName> ו<placeName xml:id="temp0617" >צפניהו בן כושי בן
+						גדליה הנביא</placeName> ורבים מראשי <lb/>הגולה נשיאי בית דוד וראשי ישיבות
+					<lb/>שהיו שם בתחלה קודם חרבנה|</seg>
+      <seg xml:id="GN21S9"> ומשם <lb/>שני ימים ל<placeName xml:id="temp0618">שפיתיב</placeName> ושם כנסת
+					שבנו <lb/>ישראל מעפר <placeName xml:id="temp0619" ref="#K691">ירושלם</placeName> ומאבניה וקורין <lb/>אותה
+						<placeName xml:id="temp0620" ana="fix-in-editions">שפיתיב</placeName> אשר ב<placeName xml:id="temp0621" >נהרדעא</placeName>.</seg>
+      <seg xml:id="GN21S10">
+				 ומשם <lb/>יום וחצי ל<placeName xml:id="temp0622">אילגבר </placeName> היא
+						<placeName xml:id="temp0625" ana="checkinhaddad">פום בדיתא</placeName>
+        <lb/>אשר על-שפת <placeName xml:id="temp0627" >פרת</placeName> ושם כמו שלשת <lb/>אלפים מישראל ושם
+						<placeName xml:id="temp0628" >כנסת <persName>רב</persName> ו<persName>שמואל</persName>
+        </placeName>
+        <lb/>ובית מדרשם ולפניהם קבריהם|</seg>
+     </ab>
+     <ab xml:id="GeoNar22">
+      <seg xml:id="GN22S1"> ומשם דרך <placeName xml:id="temp0630" >מדבר ארץ שבא</placeName> הנקראת ארץ<placeName xml:id="temp0631" >
+         <pb n="75"/> אלימן</placeName> לצד <placeName xml:id="temp0632" ref="#Q1404297" >שנער</placeName> כנגד הצפון מהלך <lb/>אחד ועשרים יום במדברות ושם חונים
+					<lb/>היהודים הנקראים בני ריכב אנוש*) <placeName xml:id="temp0633">תימא</placeName>
+        <lb/>וב<placeName xml:id="temp0634">תימא</placeName> ראש הממשלה שלהם ושם <persName>רבי חנן הנשיא</persName> מושל עליהם
+					והיא עיר <lb/>גדולה </seg>
+      <seg xml:id="GN22S2">ומהלך ארצם ששה עשרה יום <lb/>בין ההרים הרי צפון ויש להם ערים
+					<lb/>גדולות ובצורות ואין להם עול גוים <lb/>עליהם והולכים לשלול שלל ולבוז בז
+					<lb/>לארץ מרחק עם**) בני ערב שכניהם בעלי <lb/>בריתם והם בני ערב החונים באהליהם
+					<lb/>דרך מדבר ארצם ואין להם בתים <lb/>והולכים לשלול של ולבוז בז בארץ
+						<placeName xml:id="temp0637">אלימן</placeName> וכל שכני היהודים מפחדים מהם <lb/>ובהם עובדי
+					אדמה ובעלי מקנה וארצם <lb/>רחבת ידים. ונותנים עשור מכל אשר <lb/>להם לתלמידי
+					חכמים היושבים תמיד <lb/>בבית המדרש ולעניי ישראל ולפרושיהם <lb/>אבלי ציון ואבלי
+					<placeName xml:id="temp0638" ref="#K691" >ירושלם</placeName> אין אוכלים <lb/>בשר ואין שותים יין והם לובשים
+					בגדים <pb n="76"/>
+        <lb/>שחורים והם יושבים במערות או בבתים <lb/>גרועים ומתענין כל ימי חייהם חוץ מן
+					<lb/>השבתות וימים טובים ומבקשים תמיד <lb/>רחמים לפני השם על גלות ישראל
+					<lb/>שירחם עליהם בעבור שמו הגדול וגם [על] <lb/>כל היהודים אנשי ארץ
+						<placeName xml:id="temp0639" >תימא</placeName>
+      </seg>
+      <seg xml:id="GN22S3"> ו<placeName xml:id="temp0640">טילמאס</placeName>
+        <lb/>שיש בה כמו מאה אלף יהודים ושם <persName>שלמון הנשיא</persName> ואחיו
+						<persName>חנן הנשיא</persName> והם <lb/>מזרע <persName>דוד המלך עליו
+						השלום</persName> כי כתב <lb/>היחס יש להם ומשגרים*) שאלות לראש <lb/>הגולה
+					קרועי בגדים ומתענים ארבעים <lb/>יום בשנה על כל היהודים היושבים <lb/>בגלות</seg>
+      <seg xml:id="GN22S4"> ויש שם כמו ארבעים מדינות <lb/>ומאתים כפרים ומאה כרכים וראש
+					<lb/>המדינה <placeName xml:id="temp0641">תנאים</placeName> ושם בכל המדינות האלו <lb/>כמו שלש מאות אלף יהודים והיא עיר
+					<lb/>בצורה מאד כי בתוכה זורעים וקוצרים <lb/>והיא מהלך חמשה עשר מילין באורך
+					<lb/>וחמשה עשר ברוחב ושם <placeName xml:id="temp0643" >ארמון הנשיא <persName>סלמון</persName>
+        </placeName> והיא עיר יפה עד מאד ובה גנות <pb n="77"/>
+        <lb/>ופרדסים.</seg>
+      <seg xml:id="GN22S5"> ו<placeName xml:id="temp0645" >טילמאס</placeName> כמו כן היא עיר <lb/>גדולה ובה
+					כמו מאה אלף יהודים והיא <lb/>בצורה מאד יושבת בין שני ההרים <lb/>גבוהים ושם אנשים
+					חכמים ונבונים <lb/>וביניהם עשירים</seg>
+      <seg xml:id="GN22S6"> ומטילמאס ל<placeName xml:id="temp0646">כיבר</placeName>
+        <lb/>שלשה ימים ואומרים בני אדם שהם <lb/>שבט ראובן וגד וחצי שבט מנשה <lb/>ששבם
+						<persName>שלמנאסר מלך אשור</persName> והלכו שם <lb/>ובנו הערים האלה גדולות
+					ובצורות <lb/>ונלחמים בכל הממלכות ואין אדם יכול <lb/>ליכנס אליהם שמנה עשר יום
+					הולכים <lb/>במדברות בלא ישוב (ואין ליכנס עליהם)
+					<lb/>ו<placeName xml:id="temp0648" ref="#K17130">כיבר</placeName> עיר גדולה מאד ושם כמו חמשים <lb/>אלף
+					מישראל ובה תלמידי חכמים <lb/>ואנשים גבורים עורכי מלחמה עם בני <placeName xml:id="temp0650" ref="Q1404297">שנער</placeName> וארץ צפון וארץ <placeName xml:id="temp0651">אלימן</placeName>
+					הקרובים <lb/>אליהם שהיא תחלת ארץ <placeName xml:id="temp0652">הודו</placeName>
+      </seg>
+      <seg xml:id="GN22S7"> ומארצם <lb/>דרך חמשה ועשרים יום לנהר <placeName xml:id="temp0653" type="recogito-1651f5b9-c58c-4487-8e8e-496e9890a957">ויראה</placeName> <lb/>אשר בארץ
+						<placeName xml:id="temp0654">אלימן</placeName> | ושם כמו שלשת <lb/>אלפים מישראל. </seg>
+      <seg xml:id="GN22S8">ומשם שבעה ימים <pb n="78"/>
+        <lb/>ל<placeName xml:id="temp0656">נאסט</placeName>*) ושם כמו עשרה אלפים מישראל <lb/>וביניהם
+						<persName>רב נדיין</persName>.</seg>
+      <seg xml:id="GN22S9">
+				 ומשם מהלך חמשה <lb/>ימים ל<placeName xml:id="temp0657" ref="#K9541">בוצרה</placeName> היושבת
+					על <placeName xml:id="temp0658" ref="#K2273">נהר חדקל</placeName>
+        <lb/>ובה כמו אלפים מישראל וביניהם <lb/>תלמידי חכמים ועשירים הרבה|</seg>
+      <seg xml:id="GN22S11"> ומשם <lb/>שני ימים ל<placeName xml:id="temp0659">נהר סמורה</placeName> היא תחלת
+					<lb/>ארץ <placeName xml:id="temp0660" ref="#K7639">פרס</placeName> ובה כמו אלף וחמש מאות
+					<lb/>יהודים ושם <placeName xml:id="temp0661">קברו של עזרא הסופר</placeName>
+        <persName> הכהן</persName> שהלך מ<placeName xml:id="temp0662" ref="#K691">ירושלם</placeName> אל
+						<persName>ארתחששתא המלך</persName> ומת שם ועשו לפני קברו כנסת <lb/>גדולה
+					ומצד אחר הישמעאלים עשו בית <lb/>התפלה מרוב חבתם בו ואוהבים את <lb/>היהודים מפני
+					זה באים הישמעאלים <lb/>להתפלל| </seg>
+     </ab>
+     <ab xml:id="GeoNar23">
+      <seg xml:id="GN23S1">ומשם ארבע מילין ל<placeName xml:id="temp0663">כוזסתאן</placeName> והיא
+						<placeName xml:id="temp0664">עילם</placeName> המדינה הגדולה אבל אינה <lb/>מיושבת כלה כי היא
+					חרבה מקצתה <lb/>ובתוך חרבותיה <placeName xml:id="temp0665" ref="#K2448">שושן הבירה</placeName> והוא
+						<placeName xml:id="temp0666">ארמון המלך <persName>אחשורוש</persName>
+        </placeName> ויש בו בנין גדול <lb/>ויפה מימים קדמונים</seg>
+      <seg xml:id="GN23S2"> ובה שבעת אלפים <lb/>יהודים ובה ארבע עשר בתי כנסיות <pb n="79"/>
+        <lb/>ולפני הכנסת האחת <placeName xml:id="temp0667">קברו של <persName>דניאל</persName></placeName>
+         עליו השלום ו<placeName xml:id="temp0668" ref="#K2273">נהר חדקל</placeName>*) חולק את
+					<lb/>המדינה והגשר ביניהם ובצד האחד <lb/>שדרים שם היהודים שם הם השווקים <lb/>ושם
+					הסחורות כלם ושם יושבים כל <lb/>העשירים| והצד האחר הם עניים <lb/>מפני שאין ביניהם
+					שווקים ולא סחורה <lb/>ולא גנות ופרדסים עד שלבשו קנאה <lb/>ואמרו אין כל העושר
+					והכבוד הזה <lb/>אליהם אלא בשביל <persName>דניאל הנביא עליו השלום</persName> שהוא
+					קבור אצלם ושאלו להם <lb/>לקבור דניאל בתוכם ולא נתנוהו אליהם <lb/>ולא רצו ועשו
+					עמהם מלחמה ימים רבים <lb/>(ביניהם) עד אשר קצרה נפשם ועשו <lb/>פשרה ביניהם שיהיה
+					ארון דניאל שנה <lb/>אחת מצד זה ושנה אחרת מצד זה <lb/>ועשו כן ונתפשרו כלם אלו
+					ואלו משני <lb/>הצדדין </seg>
+      <seg xml:id="GN23S3">עד שבא לשם יום אחד <persName>סניגר שאה בן שאה</persName> המולך
+					על כל מלכי <placeName xml:id="temp0669" ref="#K7639">פרס</placeName>
+        <lb/>על חמשה וארבעים שהם תחת ידו והוא <pb n="80"/>
+        <persName>סולטאן אל פורס אל כביר</persName> בלשון ערב <lb/>והוא המולך מ
+					<placeName xml:id="temp0670">שער נהר סמורה</placeName> עד עיר <placeName xml:id="temp0671" ref="#K635">סמרכנת</placeName> ועד
+					<placeName xml:id="temp0672">נהר גוזן</placeName> ועד מדינת <placeName xml:id="temp0673" ref="#11790">ניסבור</placeName> וכל
+					נהר <placeName xml:id="temp0674" >גוזן</placeName> וערי <placeName xml:id="temp0675" ref="#K22613">מדי</placeName>
+					והרי <placeName xml:id="temp0676" >חפתון</placeName> ועד מדינות <placeName xml:id="temp0677">טובות</placeName> שימצאו שם <lb/>ביערים שלה
+					חיות שיצא מהן המור <lb/>וממשלתו מהלך ארבעה חדשים וארבע <lb/>ימים </seg>
+      <seg xml:id="GN23S4">ובבואו שם <persName>האינפירדור הגדול הזה סניגאר מלך
+						<placeName xml:id="setnewandaddinAsher44">פרס</placeName></persName> וראה שמטלטלים <lb/>ארונו של דניאל מצד אל צד ועוברים <lb/>בגשר
+					יהודים וישמעאלים ועם רב עמו <lb/>ושאל מה זה והגידו לו כל-אלו הדברים <lb/>אמר אין
+					נכון לעשות זה הבזיון לדניאל <lb/>אלא תמדדו מזה ומזה בשוה ותשימו <lb/>ארונו של
+					דניאל בתוך ארון של זכוכית <lb/>ותתלוהו מן הגשר בשלשלאות של ברזל <lb/>בתוך ובאותו
+					מקום תבנו בית הכנסת <lb/>לכל באי עולם מי שירצה יבא בה <lb/>ויתפלל בין יהודי בין
+					ארמי ועד היום <lb/>הזה ארונו של דניאל תלוי מן הגשר <pb n="81"/>
+        <lb/>וצוה המלך שלא יצוד דייג בכל הנהר <lb/>שעור מיל למעלה ושעור מיל למטה
+					<lb/>בשביל כבודו של דניאל| </seg>
+     </ab>
+     <ab xml:id="GeoNar24">
+      <seg xml:id="GN24S1">ומשם שלשה <lb/>ימים ל<placeName xml:id="temp0680" ref="#Q766927">רובדבר</placeName>*) ושם כמו
+					עשרים אלף <lb/>מישראל וביניהם תלמידי חכמים <lb/>ועשירים אבל בגלות הם יושבים
+					שם.</seg>
+      <seg xml:id="GN24S2">
+        <lb/>ומשם שני ימים ל <placeName xml:id="temp0681">נהר ואנת</placeName>**) ושם כמו <lb/>ארבעה אלפים
+					יהודים|</seg>
+      <seg xml:id="GN24S3"> ומשם ארבע <lb/>ימים לארץ <placeName xml:id="temp0682" ana="fix-in-haddad">מולחאת</placeName> הם
+					אומות אשר <lb/>אינן מאמינים בדת ישמעאל ויושבים <lb/>בהרים גדולים והם עונים
+						ל<persName>זקן שבארץ אל כשישין</persName> וביניהם ארבע קהלות <lb/>מישראל
+					ויושבין ויוצאין עמהם למלחמה <lb/>ואין עליהם עול <persName>מלך <placeName xml:id="setnewandaddinAsher45">פרס</placeName></persName> כי
+					בהרים <lb/>הגבוהים הם דרים ויורדים מן ההרים <lb/>לשלול שלל ולבוז בז ועולים להרים
+					ואין <lb/>אדם יכול להלחם עמם והיהודים <lb/>שבארץ ביניהם תלמידי חכמים והם
+					<lb/>תחת רשות ראש הגולה שב<placeName xml:id="temp0684" ref="#U4" >בבל</placeName>|</seg>
+      <seg xml:id="GN24S4"> ומשם <lb/>חמשה ימים ל<placeName xml:id="temp0685" ref="#K6933">עמריה</placeName> ושם כמו חמשה
+						<pb n="82"/>
+        <lb/>ועשרים אלף מישראל והיא תחלת <lb/>הקהלות הדרים בהרי
+						<placeName xml:id="temp0686">חפתון</placeName> כי שם <lb/>יותר ממאה קהלות מישראל והיא תחלת
+					<lb/>ארץ <placeName xml:id="temp0687" ref="#K22613">מדי</placeName> והם מן הגלות הראשון שהגלה
+						<persName>שלמנאסר המלך</persName> והם מדברים בלשון <lb/>תרגום וביניהם תלמידי
+					חכמים והם <lb/>שכנים למדינת <placeName xml:id="temp0688" ref="#K6933">עמאריה</placeName> יום עד מלכות
+						<placeName xml:id="temp0689" ref="#K7639">פרס</placeName> ורשות <persName>מלך <placeName xml:id="setnewandaddinAsher46" type="recogito-5482ee2e-c838-4f75-ac00-7948b603ffc7">פרס</placeName></persName>
+					עליהם ולוקח <lb/>מהם מס על יד <persName>פקידו</persName> והמס שפורעין <lb/>בכל
+					מלכות ישמעאל על כל אחד ואחד <lb/>מן הזכרים מבן חמש עשרה שנה <lb/>ומעלה פורעין
+					בכל-שנה זהוב אמירי <lb/>שהוא זהוב ושליש מורבאטי|</seg>
+     </ab>
+     <ab xml:id="GeoNar25">
+      <seg xml:id="GN25S1"> והיום עשר <lb/>שנים קם שם איש אחד ושמו <persName>דוד אל
+					רואי</persName> מעיר <placeName xml:id="temp0691" ref="#K6933">עמאריה</placeName> ולמד לפני <persName>ראש
+						הגולה חסדאי</persName> ולפני <persName>ראש הישיבה עלי גאון יעקב</persName>
+					במדינת <placeName xml:id="temp0692" ref="#K662">בגדאד</placeName> והיה גדול <lb/>בתורת משה ובהלכה ובתלמוד ובכל
+					<lb/>חכמה חיצונית ובלשון ישמעאל <lb/>ובכתיבתם ובספרי החרטומים והמכשפים <pb n="83"/>
+        <lb/>ועלה בדעתו להרים יד במלך <placeName xml:id="temp0693" ref="#K7639" >פרס</placeName>
+        <lb/>ולקבץ היהודים היושבים בהרי <placeName xml:id="temp0694">חפתון</placeName>
+        <lb/>ולצאת ולהלחם בכל הגוים וללכת <lb/>לתפוש <placeName xml:id="temp0695" ref="#K691">ירושלם</placeName> והיה
+					נותן ליהודים <lb/>סימנים באותות שקר ואומר להם כי <lb/>השם שלחני לכבוש
+					<placeName xml:id="temp0696" ref="#K691">ירושלם</placeName> ולהוציא <lb/>אתכם מתחת עול הגוים והאמינו בו
+					<lb/>מקצת יהודים וקראו אותו משיחנו שמע <lb/>מלך <placeName xml:id="temp0697" ref="#K7639">פרס</placeName> הדבר הזה שלח לבא לדבר <lb/>עמו והוא הלך אליו בלא פחד
+					ובהתחברו <lb/>עמו אמר לו האתה הוא מלך היהודים <lb/>ענה ואמר אני מיד נכנס המלך
+					וצוה <lb/>לתפשו ולהשימו בבית הסוהר מקום <lb/>אשר אסירי המלך אסורים עד יום מותם
+					<lb/>בעיר <placeName xml:id="temp0698">דברסתאן</placeName> אשר על נהר <placeName xml:id="temp0699">גוזן</placeName>
+					הוא <lb/>הנהר הגדול ולסוף שלשה ימים ישב <lb/>המלך לדבר עם שריו ועבדיו על דבר
+					<lb/>היהודים אשר הרימו יד במלך והנה דוד <lb/>בא שהתיר עצמו מבית הסוהר בלא
+					<lb/>רשות בני אדם ובעת שראה אותו <pb n="84"/>
+        <lb/>המלך אמר לו מי הביאך פה או מי <lb/>התירך אמר לו חכמתי ותחבולותי כי <lb/>אני
+					איני ירא ממך ולא מכל עבדיך מיד <lb/>צעק המלך לאמר תפשוהו ענו לו עבדיו <lb/>ואמרו
+					לו אין אנו רואים אותו אלא <lb/>בשמיעת קול בלבד מיד תמה המלך על <lb/>חכמתו וענה
+					ואמר למלך הנני הולך <lb/>לדרכי והוא הולך והמלך הולך אחריו <lb/>וכל שרי המלך
+					עבדיו הולכים אחרי <lb/>מלכם עד בואם אל שפת הנהר והוא <lb/>לקח סודרו ופרש על-פני
+					המים ועבר <lb/>עליו באותה שעה ראו אותו כל עבדי <lb/>המלך שהיה עובר במים על סודרו
+					ודלגו <lb/>אחריו בדוגיות ואמרו כי אין מכשף <lb/>בעולם כמו זה ובאותו היום הלך
+					מהלך <lb/>עשרה ימים עד אל <placeName xml:id="temp0700" ref="#K6933">עמאריה</placeName> בשם <lb/>המפורש והגיד
+					ליהודים כל אשר קרהו <lb/>ותמהו כלם על-חכמתו ואחר כך שלח <lb/>מלך <placeName xml:id="temp0701" ref="#K7639">פרס</placeName> זה אל <persName>אמיר אלמומנין כליפה</persName>
+					אשר ב<placeName xml:id="temp0702" ref="#K662">בגדאד</placeName> אדון הישמעאלים <pb n="85"/>
+        <lb/>לדבר עם <persName>ראש הגולה</persName> ועם ראשי <lb/>הישיבות ולמנוע
+						את-<persName>דוד אל רואי</persName>
+        <lb/>מלעשות כדברים האלה ואם לאו אהרוג <lb/>את כל היהודים הנמצאים בכל מלכותי
+					<lb/>ובעת ההיא היתה צרה לכל הקהלות <lb/>ארץ <placeName xml:id="temp0704" ref="#K7639" >פרס</placeName> ושלחו כתבים אל ראש הגולה <lb/>ואל ראשי הישיבות
+						שב<placeName xml:id="temp0706" ref="#K662">בגדאד</placeName> למה נמות <lb/>לעיניכם גם אנחנו גם כל הקהלות
+					אשר <lb/>במלכות מנעו את האיש הזה ולא ישפוך <lb/>דם נקי| אז כתבו אליו ראש הגולה
+					<lb/>וראשי הישיבות דע לך כי לא הגיע זמן <lb/>הגאולה עדין ואותותינו לא ראינו כי
+					לא <lb/>בכוח יגבר איש ואנו אומרים לך <lb/>שתמנע עצמך מעשות עוד כדברים <lb/>האלו
+					ואם לאו תהיה מנודה מכל ישראל <lb/>מיד שלחו (לו) כמו כן אל <persName>זכאי הנשיא
+						אשר בארץ <placeName xml:id="setnewandaddinAsher47">אשור</placeName></persName>ולר<persName>רבי יוסף החוזה המכונה בורחן
+						אלפלך</persName> אשר שם לשגר <lb/>כתבים אל <persName>דוד אל רואי</persName>
+					ועוד כתבו <lb/>הנשיא והחוזה הנזכרים כתבים אליו <pb n="86"/>
+        <lb/>לזרזו ולהזהירו ולא קבל ולא שב מדרכו <lb/>הרעה עד שקם מלך אחד ושמו
+						<persName>זין אל דין מלך תוגרמים עבד מלך <placeName xml:id="x">פרס</placeName></persName> ושלח <lb/>בשביל
+						<persName>חמיו</persName> של <persName>דוד אל רואי</persName> ונתן לו
+					<lb/>שוחד עשרת אלפים זהובים להרוג את <persName>דוד אל רואי</persName> בסתר וכן
+					עשה בא אל <lb/>ביתו והוא ישן והרגו על מטתו ונתבטלה <lb/>עצתו ותחבולותיו ולא שב
+					חמת מלך <placeName xml:id="temp0708" ref="#K7639">פרס</placeName> מעל היהודים אשר ב<placeName xml:id="temp0709">הר</placeName> ואשר
+					<lb/>בארצו וכשראו כן שלחו אל ראש הגולה <lb/>לבא בעזרתם אצל מלך <placeName xml:id="temp0710" ref="#K7639">פרס</placeName> ויבוא <lb/>בדברים טובים ודברי פיוס ופייסו
+					<lb/>ונתפייס ונתן לו כמאה ככרים זהב <lb/>ותשקוט הארץ אחרי כן וחמתו שככה| </seg>
+     </ab>
+     <ab xml:id="GeoNar26">
+      <seg xml:id="GN26S1">
+        <lb/>ומאותו ההר עד <placeName xml:id="temp0712" ref="#Q28587">חמדן</placeName> מהלך עשרה <lb/>ימים היא
+						<placeName xml:id="temp0713" ref="#K22613">מדי</placeName> העיר הגדולה ושם כמו <lb/>חמשים אלף
+					מישראל ושם לפני כנסת <lb/>אחת קבורים <persName>מרדכי</persName>
+						ו<persName>אסתר</persName>|</seg>
+      <seg xml:id="GN26S2"> ומשם <lb/>ארבעה ימים עד <placeName xml:id="temp0714">דברזתאן</placeName> ויש בה
+					כמו <lb/>ארבעה אלפים יהודים על נהר <placeName xml:id="temp0715">גוזן</placeName>. <pb n="87"/>
+      </seg>
+      <seg xml:id="GN26S3">
+        <lb/>ומשם שבעה ימים למדינת <placeName xml:id="temp0716" ref="#K340">אסבהאן</placeName>
+        <lb/>היא העיר הגדולה והיא עיר המלוכה <lb/>והיא מהלך שתים עשרה מיל ובה כמו
+					<lb/>חמשה עשר אלף מישראל ושם <persName>שר שלום הרב</persName> שהיה ממונה על יד
+					ראש <lb/>הגולה ועל כל הכרכים אשר בכל <lb/>מלכות <placeName xml:id="temp0717" type="recogito-dc3bb618-efc9-4df0-9b56-cbe70cc539c9">פרס</placeName>|</seg>
+      <seg xml:id="GN26S4"> ומשם ארבעה ימים <lb/>ל<placeName xml:id="temp0718" ref="#K8061">שיראז</placeName> היא
+						<placeName xml:id="temp0719">פרס המדינה</placeName> ובה כמו <lb/>עשרת אלפים יהודים.</seg>
+      <seg xml:id="GN26S5"> ומשם שבעה <lb/>ימים ל<placeName xml:id="temp0720" ref="#K12743">גיבה</placeName> העיר הגדולה
+					שעל שפת <lb/>נהר <placeName xml:id="temp0721">גוזן</placeName>*) ובה כמו שמונת אלפים <lb/>מישראל ואותה העיר ארץ סחורה
+					באים <lb/>אליה בסחורה מכל לשונות הגוים והיא <lb/>ארץ רחבת ידים. </seg>
+      <seg xml:id="GN26S6">ומשם חמשה ימים <lb/>ל<placeName xml:id="temp0722">סמרכנת</placeName> העיר הגדולה
+					אשר בקצה <lb/>המלכות ושם כמו חמשים אלף מישראל <lb/>ו<persName>רבי עובדיה
+						הנשיא</persName> ממונה עליהם <lb/>וביניהם חכמים ועשירים גדולים. </seg>
+      <seg xml:id="GN26S7">ומשם <lb/>ארבעה ימים ל<placeName xml:id="temp0723" ref="#KQ17252">טובות</placeName> היא המדינה
+					<lb/>שנמצא המור ביערים שלה.</seg>
+      <seg xml:id="GN26S8"> ומשם <pb n="88"/>
+        <lb/>מהלך שמונה ועשרים יום להרי <placeName xml:id="temp0724"  ana="fix!!and-maybe-unite-with-725">כסבין</placeName>*) <lb/>אשר על נהר
+						<placeName xml:id="temp0726">גוזן</placeName> ויש שם אנשים <lb/>מישראל בארץ <placeName xml:id="temp0728" ref="#K7639" >פרס</placeName> שהם משם <lb/>ואומרים כי בערי
+					<placeName xml:id="temp0729" ref="#K11790" >ניסבור</placeName> ארבעה שבטים <lb/>מישראל שבט דן ושבט זבולן ושבט
+					<lb/>נפתלי הגולה הראשונה שהגלה <persName>שלמנאסר מלך <placeName xml:id="setnewandaddinAsher50b">אשור</placeName></persName> כמו
+					שכתוב**) <lb/>ויגלם ב<placeName xml:id="temp0730">לחלח</placeName> ו<placeName xml:id="temp0731">חבור</placeName>
+        <placeName xml:id="temp0732">הרי גוזן</placeName>
+        <placeName xml:id="temp0733">הרי מדי</placeName>. <lb/>ומהלך ארצם עשרים יום ויש להם <lb/>מדינות
+					וכרכים בהרים מצד אחד מקיף <lb/>אותם נהר<placeName xml:id="temp0734"> גוזן</placeName> ואין עליהם
+					עול גוים כי <lb/>אם נשיא אחד עליהם ושמו <persName>רבי יוסף אמרכלא
+						הלוי</persName> וביניהם תלמידי חכמים <lb/>וזורעים וקוצרים והולכים למלחמה
+					לארץ <placeName xml:id="temp0735">כות</placeName>***) דרך המדברות ויש להם ברית עם <lb/>כופר אל
+					תורך שהם עובדי הרוח <lb/>וחונים במדברות והיא אומה שאינם <lb/>אוכלים לחם ולא
+					שותים יין כי אם בשר <lb/>חי כמות שהוא בלתי מבושל והם בלי****) <pb n="89"/>
+        <lb/>אפים ובמקום האף יש להם שני חורין <lb/>קטנים שיוצא מהם הרוח ואוכלין כל
+					<lb/>בהמות טהורות וטמאות והם אוהבי <lb/>ישראל.</seg>
+     </ab>
+     <ab xml:id="GeoNar27">
+      <seg xml:id="GN27S1"> והיום שמונה עשרה שנה <lb/>כשבאו לארץ <placeName xml:id="temp0736" ref="#K7639" >פרס</placeName> בחיל גדול ולקחו <lb/>את מדינת <placeName xml:id="temp0737" ref="#19286">ראי</placeName>
+					והכו אותה לפי חרב <lb/>ולקחו את כל שללה והלכו להם דרך <lb/>המדבר ומהיום לכמה
+					ימים לא נראה <lb/>כדבר הזה בכל מלכות <placeName xml:id="temp0738" ref="#K7639">פרס</placeName>
+					וכששמע <lb/>מלך <placeName xml:id="temp0739" ref="#K7639" >פרס</placeName> חרה אפו עליהם ואמר לא
+					<lb/>בימי אבותי יצא עלי חיל מהמדבר הזה <lb/>ועתה אלך ואכרות את שמם מן הארץ
+					<lb/>והעביר קול בכל מלכותו וקבץ כל <lb/>חיילותיו ובקש תייר אחד להראותו <lb/>מקום
+					חנותם ונמצא לשם איש אחד <lb/>ואמר למלך אני אראה לך מקומם כי <lb/>אני מהם ונדר לו
+					המלך להעשירו אם <lb/>יראה לו ואם יעשה הדבר הזה אמר <lb/>לו המלך כמה אנו צריכין
+					הוצאה לדרך <lb/>הזה ולמדבר הגדול הזה אמר להם <pb n="90"/>
+        <lb/>קחו לחם ומים לחמשה עשר יום כי לא <lb/>תמצאו שום מחיה עד ארצם וכן עשו
+					<lb/>והלכו במדבר דרך חמשה עשר ימים <lb/>ולא מצאו כלום ולא נשאר בידם מחיה
+					<lb/>אלא דבר מועט עד שהתחילו למות <lb/>האדם והבהמה אשר עמם ויקרא המלך
+						<lb/>ל<persName>תייר</persName> ויאמר לו איה דבריך שהבטחתנו <lb/>למצוא את
+					אויבינו ויען ויאמר לו תעיתי <lb/>בדרך ויחר אפו ויצו להתיז את ראשו <lb/>וצוה המלך
+					בכל מחנהו כל אדם שיש <lb/>לו שום מחיה לחלוק יחלוק עם חברו <lb/>ואכלו מה שבידם
+					וגם הבהמות והלכו <lb/>במדבר עדין שלשה עשר ימים עד <lb/>שבאו אל הרי
+					<placeName xml:id="temp0740" ref="#K11790" >ניסבור</placeName>*) והיהודים יושבים שם <lb/>והם באו שם (ביום)
+					וחנו בגנות ופרדסים <lb/>ועל מעינות המים אשר מצד לנהר <placeName xml:id="temp0741" >גוזן</placeName>
+        <lb/>והימים ימי הפירות ואכלו והשחיתו ואין <lb/>אדם יוצא אליהם אבל היו רואים על
+					<lb/>ההרים מדינות ומגדלים הרבה וצוה <lb/>המלך לשני אנשים מעבדיו ללכת <pb n="91"/>
+        <lb/>לשאול מה אומה יושבת בהרים ולעבור <lb/>אליהם על כל פנים בספינות או לשוט
+					<lb/>על פני המים ושם מצאו (לשם) גשר גדול <lb/>ועליו מגדלים ופתח סגור ולפני הגשר
+					<lb/>מאותו הצד עיר גדולה וצעקו לפני <lb/>הגשר עד שבא להם
+					אדם אחד ושאל <lb/>להם מה תרצו או למי אתם ולא הבינו <lb/>עד
+						שבא
+        <persName>התורגמן</persName> שהיה יודע לשונם <lb/>ושאל אותם ואמרו עבדי מלך
+						<placeName xml:id="temp0742" ref="#K7639" >פרס</placeName>
+        <lb/>אנחנו ובאנו לשאול מי אתם למי אתם <lb/>עובדים אמרו להם יהודים אנחנו אין
+					<lb/>עלינו לא מלך ולא שר מן הגוים אלא <lb/>שר אחד יהודי. ושאלו אותם על דבר
+					<lb/>הכומרים בני גוץ מן כופר אל תורך <lb/>והם אמרו להם כי הם בעלי בריתנו וכל
+					<lb/>המבקש רעתם מבקש רעתינו וישובו <lb/>שני האנשים האלה ויגידו למלך <placeName xml:id="temp0743" ref="#K7639" >פרס</placeName>
+        <lb/>ויפחד מלך <placeName xml:id="temp0744" ref="#K7639" >פרס</placeName> פחד גדול ויום שני
+					<lb/>שלחו אליו לערוך עמו מלחמה והוא <lb/>השיב לא באתי להלחם בכם כי בכופר <pb n="92"/>
+        <lb/>אל תורך אויבי באתי להלחם. ואם <lb/>נלחמים אתם בי אני אקח נקמתי <lb/>ואהרוג
+					את כל היהודים אשר בכל <lb/>מלכותי כי אני יודע כי אתם חזקים <lb/>ממני במקום הזה
+					אבל אתם עשו עמי <lb/>חסד שלא להלחם בי והניחו אותי עם <lb/>כופר אל תורך אויבי
+					ותמכרו לי מזון <lb/>מה שאני צריך לי ולחילותי והיהודים <lb/>לקחו עצה ביניהם
+					להתרצות למלך <placeName xml:id="temp0745" ref="#K7639" >פרס</placeName>
+        <lb/>בשביל היהודים אשר במלכותו ונכנס <lb/>בארצם הוא וכל חיילותיו וישב שם חמשה
+					<lb/>עשר יום וכבדו אותו כבוד גדול ושלחו <lb/>כתב לכופר אל תורך בעלי בריתם
+					<lb/>והודיעום הדבר הזה והם עמדו כלם על <lb/>מעברות ההרים בחיל כבד כל החונים
+					<lb/>במדבר ההוא וכשיצא מלך <placeName xml:id="temp0748" ref="#K7639" >פרס</placeName> להלחם
+					<lb/>עמהם ערכו אתם מלחמה בדרך ונסעו*) <lb/>אנשי כופר אל תורך והרגו בחיל
+						<placeName xml:id="temp0750" ref="#K7639"  ana="checkorder">פרס</placeName>
+        <lb/>חללים רבים וינס מלך <placeName xml:id="temp0751" ref="#K7639"  ana="checkorder">פרס</placeName> במתי מעט <lb/>אל
+					ארצו ו<persName>פרש אחד מעבדיו</persName> רמה את <pb n="93"/>
+        <lb/>יהודי אחד מהארץ ההיא ושמו <persName>רבי משה</persName> והוציאו מאותה הארץ
+					וכשהיה <lb/>בארץ <placeName xml:id="temp0752" ref="#K7639" >פרס</placeName> כבש אותו לעבד ויום אחד
+					<lb/>מימים באו דורכי קשת לשחוק לפני <lb/>המלך ולא נמצא בכלם רובה קשת <lb/>כרבי
+					משה שאל המלך על ידי תורגמן <lb/>והגיד לו את אשר קרהו ואיך רמה אותו <lb/>הפרש
+					ההוא מיד עשה אותו המלך בן <lb/>חורין והלביש אותו בגדי שש ומשי ונתן <lb/>לו מתנות
+					ואמר לו אם תרצה לשוב <lb/>לדתנו ואני אעשה עמך חסד ותהיה <lb/>עשיר גדול וממונה על
+					כל ביתי ענה <lb/>ואמר לו אדוני המלך לא אוכל לעשות <lb/>הדבר הזה אז לקחו המלך
+					וישימהו <lb/>בבית <persName>הרב שר שלום</persName> מן קהל
+					<placeName xml:id="temp0753" ref="#K340" >אספהאן</placeName>
+        <lb/>ונתן לו הרב <persName>בתו</persName> לאשה והוא רבי משה <lb/>זה ספר לי את כל
+					הדברים האלה| </seg>
+     </ab>
+     <ab xml:id="GeoNar28">
+      <seg xml:id="GN28S1">
+        <lb/>ומשם חזרתי לארץ <placeName xml:id="temp0754">כוזסתאן</placeName> אשר על- <lb/>שפת
+						<placeName xml:id="temp0755" ref="#K2273">חדקל</placeName>
+      </seg>
+      <seg xml:id="GN28S2"> ומשם יורד הנהר ויורד ב<placeName xml:id="temp0756">ים הודו</placeName> אל אי אחד
+					נקרא <placeName xml:id="temp0757" ref="#Q221883">קיש</placeName>*) מהלך האי <pb n="94"/>
+        <lb/>ששה ימים*) ואין זורעין שם ואין להם <lb/>אלא מעין אחד ואין שם בכל האי נהר
+					<lb/>כי מימי גשמים הם שותים ותגרים באים <lb/>מארץ <placeName xml:id="temp0758">הודו</placeName> ומן האיים וחונים שם
+					<lb/>בסחורה ואנשי ארץ <placeName xml:id="temp0759" ref="#Q1404297" >שנער</placeName>
+						ו<placeName xml:id="temp0760" >אלימן</placeName> וארץ <placeName xml:id="temp0761" ref="#K7639" >פרס</placeName>
+					מביאים שם כל בגדי משי וארגמן <lb/>ופשתן פרוקטון קנבוס מוך חטים <lb/>ושעורים
+					ודוחן ושפון וכל מיני מאכל <lb/>וכל מיני קטנית ועושין סחורה אלו עם <lb/>אלו כי
+					אנשי <placeName xml:id="temp0762" >הודו</placeName> מביאים שם בשמים <lb/>לרוב מאד ואנשי האי סרסורים
+					ביניהם <lb/>ומזה הדבר בלבד הוא חייהם ויש שם <lb/>כמו חמש מאות יהודים.</seg>
+      <seg xml:id="GN28S3"> ומשם עשרה <lb/>ימים בים עד <placeName xml:id="temp0763" ref="#K19892">קתיפה</placeName> ושם
+					חמש אלפים <lb/>מישראל ושם ימצא הבדולח ובארבע <lb/>ועשרים בניסן ירד שם מטר על פני
+					המים <lb/>ומקבלים השרצים המטר ההוא ונסגרים <lb/>ונופלין לתוך קרקע הים ובחצי תשרי
+					<lb/>באין שם (שני) בני אדם לקרקע הים <lb/>בחבלים ומלקטים את השרצים ההם <pb n="95"/>
+        <lb/>ומוציאין אותם ומבקעים אותם ומוציאין <lb/>מתוכם אבני הללו|</seg>
+     </ab>
+     <ab xml:id="GeoNar29">
+      <seg xml:id="GN29S1"> ומשם מהלך <lb/>שבע ימים ל<placeName xml:id="temp0764" ref="#Q321475">חאולם</placeName> הוא תחלת
+					מלכות <lb/>עובדי השמש והם בני כוש והם חוזים <lb/>בכוכבים וכולם שחורים ובעלי
+					אמונה <lb/>במשא ובמתן וכשיבואו אליהם התגרים <lb/>מארץ מרחק ונכנסין אליהם בנמל
+					<lb/>נכנסין אליהם <persName>שלשה סופרי המלך</persName>
+        <lb/>וכותבים שמם ומביאין אותם בפניו <lb/>והמלך מקבל על עצמו ממונם שהניחו
+					<lb/>אותו על פני השדה בלא שומר ושם <lb/>פקיד אחד יושב בחנות וכל אבדה <lb/>שימצא
+					אדם בכל מקום יביא אותה אליו <lb/>ובעל האבדה יאמר סימניה ויתננה לו <lb/>וכן מנהגו
+					בכל מלכותו מהמלך ההוא <lb/>ומפסח עד ראש השנה כל ימי הקיץ <lb/>חום גדול ומשלש
+					שעות מן היום ומעלה <lb/>מתחבאים בני אדם כלם בבתיהם עד <lb/>הערב ואחר כך יוצאין
+					ומדליקין נרות <lb/>בכל השוקים והחוצות ועושין מלאכה <pb n="96"/>
+        <lb/>בלילות כל הלילה כי ביום לא יוכלו <lb/>מרוב החום הגדול ובארץ ההיא הוא
+					<lb/>הפלפל שהם נוטעים האילנות שלהם <lb/>על פני השדה כל העיר וכל אחד ואחד
+					<lb/>מהם יודע פרדסו ואילנות קטנות הן <lb/>והפלפל לבן הוא אבל כשלוקטין אותו
+					<lb/>משימין אותו באגנות ונותנין עליו מים <lb/>חמים ומיבשין אותו לשמש כדי שיתחזק
+					<lb/>ויתקיים והוא חוזר שחור ושם ימצא <lb/>הקנה והזנגביל ומיני בשמים הרבה
+					<lb/>ואנשי הארץ ההיא אינם קוברים את- <lb/>מתיהם אלא חונטים אותם במיני <lb/>בשמים
+					ומשימין אותם בספסלים ומכסין <lb/>אותם בסדינים כל משפחה ומשפחה <lb/>לבד ומתייבש
+					הבשר עם העצמות והם <lb/>דומים כבני אדם חיים ומכירין כל-אחד <lb/>ואחד מהם אבותיו
+					וכל משפחתו מהיום <lb/>לכמה שנים והם עובדים לשמש ויש <lb/>להם במות גדולות
+					בכל-מקום חוץ לעיר <lb/>כמהלך חצי מיל ובבקר הם רצים <pb n="97"/>
+        <lb/>לקראת החמה כי יש בכל במה כמו <lb/>גלגל חמה עשוי במיני כשוף וכצאת <lb/>השמש
+					חוזרת הגלגל בקולות גדולות <lb/>וכל אחד ואחד מחתתו בידו מקטרין <lb/>לשמש אנשים
+					ונשים זה דרכם כסל למו <lb/>וביניהם בכל אלה המקומות כמו מאה <lb/>יהודים בכלל
+					המדינות וכל אנשי הארץ <lb/>שחורים והיהודים כמו כן והן יהודים <lb/>טובים בעלי
+					מצות וביניהם תורת משה <lb/>ונביאים ודבר מועט מתלמוד והלכה| </seg>
+     </ab>
+     <ab xml:id="GeoNar30">
+      <seg xml:id="GN30S1">
+        <lb/>ומשם שנים ועשרים יום לאי <placeName xml:id="temp0765">כנדג</placeName>*) והם <lb/>שוכניה
+					עובדי האש הנקראין דורזיין**) <lb/>וביניהם שלשה ועשרים אלפים יהודים <lb/>ויש להם
+					לדורזיין**) כומרים בכל מקום בבית <lb/>עבודה זרה שלהם ואותם הכומרים <lb/>כשפנים
+					גדולים אין כמותם בכל הארץ <lb/>בכל מיני כשוף ולפני הבמה של בית <lb/>תפלתם עמק
+					גדול ומדליקין כל ימי עולם <lb/>שם אש גדולה וקוראין אותה אלהותא***) <lb/>ומעבירין
+					בה בניהם וגם מיתיהן <pb n="98"/>
+        <lb/>משליכים בתוך האש ויש שם מהם <lb/>גדולי הארץ שנודרים עצמן בחייהן <lb/>לישרף
+					באש וכשהנודר אומר לבני ביתו <lb/>ולקרוביו הנה נדרתי על עצמי להשליך <lb/>עצמי באש
+					בחיי עונין לו כלם ואומרים <lb/>לו אשריך וטוב לך| וכשיגיע יום הנדר <lb/>עושים לו
+					משתה גדול ורוכב על סוסו <lb/>אם הוא עשיר ואם הוא עני הולך ברגליו <lb/>עד שפת
+					העמק ומשליך עצמו בתוך <lb/>האש וכל משפחתו מרננין בתופים <lb/>ובמחולות עד שישרף
+					כלו ולקץ שלשה <lb/>ימים יבואו שנים מהכומרים ההם <lb/>מהגדולים שבהם אל ביתו ואל
+					בניו <lb/>ואומרים להם תתקנו הבית כי היום יבוא <lb/>אליכם אביכם לצוות לכם מה תעשו
+					<lb/>והם לוקחים עדים מן העיר והנה השטן <lb/>בא בדמותו ובאים אשתו ובניו ושואלים
+					<lb/>לו היאך הוא באותו העולם והוא אומר <lb/>באתי עד חברי ולא קבלוני עד שאשלים
+					<lb/>חובותי לבני ביתי ולשכני והוא עושה <pb n="99"/>
+        <lb/>צואה ומחלק נכסיו לבניו ומצוה לפרוע <lb/>כל מה שהוא חייב לכל אדם ולקבל מן
+					<lb/>בני אדם מה שהם חייבים ויכתבו <lb/>העדים צואתו* לילך לדרכו ואינם רואים
+					<lb/>אותו כלום ועל פי השקר והמרמה הזאת <lb/>והכשוף הזה שעושין להם הכומרים
+					<lb/>האלו הם מתחזקים ואומרים כי אין <lb/>כמותם בכל הארץ.</seg>
+     </ab>
+     <ab xml:id="GeoNar31">
+      <seg xml:id="GN31S1"> ומשם לעבור <lb/>לארץ <placeName xml:id="temp0766">אל צין</placeName> מהלך ארבעים
+					יום והוא <lb/>קצה המזרח ויש אומרים כי שם דרך ים <lb/>הוא <placeName xml:id="temp0768">ים הנקפא</placeName> ובאותו ים שולט
+					ככב <lb/>כסיל שיוצא שם רוח סערה לפעמים <lb/>ואין אדם ספן יכול לילך על הספינה
+					<lb/>מכובד הרוח עד שמשליך הרוח את <lb/>הספינה באותו <placeName xml:id="temp0769">ים הנקפא</placeName> ואינה יכולה
+					<lb/>לזוז ממקומה ואנשים יושבים שם עד <lb/>כלות מחייתם אחר כך ימותו וכמה
+					<lb/>ספינות אובדות בזה הענין אבל בני אדם <lb/>למדו חכמה להמלט מן המקום הרע
+					<lb/>הזה לוקחין עורות בני בקר עמהם ואם <pb n="100"/>
+        <lb/>יבוא אותו הרוח ומשליכם ב<placeName xml:id="temp0770">ים הנקפא</placeName> <lb/>יקח העור ויכנס בתוכו וסכין אחד בידו
+					<lb/>ותופר את העור מבפנים כדי שלא יכנס <lb/>בו המים ומפיל עצמו בתוך המים ורואה
+					<lb/>אותו הנשר הגדול הנקרא גריפז והוא <lb/>סבור שהיא בהמה יורד ולוקח אותו
+					<lb/>ומוציאו ליבשה וחונה עליו בהר [או] עמק <lb/>לאכול אותו וממהר האדם ומכה אותו
+					<lb/>בסכין והורגו ויוצא מן העור והולך עד <lb/>שמגיע לישוב והרבה בני אדם ניצלין
+					<lb/>בענין זה|</seg>
+     </ab>
+     <ab xml:id="GeoNar32">
+      <seg xml:id="GN32S1"> ומשם שלשה ימים אל <placeName xml:id="temp0771">גינגלה</placeName>
+        <lb/>מהלך חמשה עשר ימים דרך ים ושם <lb/>כמו אלף מישראל. ומשם
+						ל<placeName xml:id="temp0772">כולן</placeName> שבעה*) <lb/>ימים דרך ים ואין שם ישראל. </seg>
+      <seg xml:id="GN32S2">ומשם <lb/>שנים עשר ימים ל<placeName xml:id="temp0773" ref="#K11566">זביד</placeName> ושם יהודים
+					<lb/>מעטים. </seg>
+      <seg xml:id="GN32S3">ומשם שמונה ימים ל<placeName xml:id="temp0774" ana="fix-haddad">הודו</placeName> אשר ביבשה הנקרא
+					<placeName xml:id="temp0775" ref="#K11337" >בעדן</placeName> והיא <placeName xml:id="temp0776">עדן אשר בתלסר</placeName> ובה
+					הרים גדולים ושם <lb/>מישראל הרבה ואין עליהם עול גוים <lb/>ולהם ערים ומגדלים
+					בראשי ההרים <pb n="101"/>
+        <lb/>ויורדים לארץ המעטום הנקראת <placeName xml:id="temp0777" >נוביא</placeName>*) <lb/>היא ממשלת
+					אדום והם הנובים**) אשר <lb/>בארץ <placeName xml:id="temp0778" type="recogito-f93d8d3e-7370-4db5-b75b-81d50f6ae3cc">נוביא</placeName>*) ונלחמים עמהם היהודים <lb/>ולוקחין שלל
+					ובזה ועולין אל ההרים ואין <lb/>אדם יכול להלחם עמהם ובאים שם <lb/>מאותם היהודים
+					אשר בארץ <placeName xml:id="temp0779" >עדאן</placeName> רבים <lb/>לארץ <placeName xml:id="temp0780" ref="#K7639">פרס</placeName> וארץ <placeName xml:id="temp0781" ref="#K8046">מצרים</placeName>.</seg>
+      <seg xml:id="GN32S4"> ומשם לארץ <placeName xml:id="temp0782" ref="#K12030">אסואן</placeName> מהלך עשרים יום במדבר
+						<placeName xml:id="temp0783">שבא</placeName>
+        <lb/>על נהר <placeName xml:id="temp0784">פישון</placeName> היורד מארץ <placeName xml:id="temp0786">כוש</placeName> שיש <lb/>להם מלך וקוראין
+      	אותו <persName>סולטאן <placeName xml:id="temp0786b">אל חבש</placeName></persName>
+        <lb/>ויש מהם קצת שהם כבהמות לכל <lb/>ענייניהם אוכלים העשבים על-שפת <lb/><placeName xml:id="temp0787">פישון</placeName>
+					והולכין בשדות ערומים ואין להם <lb/>דעת כשאר בני אדם שוכבין עם <lb/>אחיותיהן ועם
+					מי שימצאו והיא ארץ <lb/>חמה מאד וכשהולכין אנשי <placeName xml:id="temp0788">אסואן</placeName> <lb/>לשלול שלל בארצם
+					מוליכין עמהם לחם <lb/>וחטים וצמוקים ותאנים ומשליכים <lb/>אליהם והם באים אחרי
+					המאכל ומביאין <lb/>אותם שבויים ומוכרין אותם בארץ <pb n="102"/>
+        <placeName xml:id="temp0789" ref="#K8046">מצרים</placeName> ובכל הממלכות אשר סביבותיהם <lb/>והם
+					העבדים השחורים בני חם| </seg>
+      <seg xml:id="GN32S5">
+        <lb/>ומ<placeName xml:id="temp0790" ref="#K12030" >אסואן</placeName> עד <placeName xml:id="temp0791" ref="#K15135">חלואן</placeName> שנים עשר יום ובה <lb/>כמו שלש מאות
+					יהודים ומשם הולכין <lb/>בשיירות מהלך חמשים יום דרך מדבר <lb/>הנקרא <placeName xml:id="temp0792" ref="#K2019">אל
+						צחרא</placeName> למדינת <placeName xml:id="temp0793" ref="#Q3663184">זוילא</placeName> היא
+						<placeName xml:id="temp0794">חוילה</placeName> בארץ<placeName xml:id="temp0795"> גאנה</placeName> ובאותו המדבר
+					יש <lb/>הרי חול ובעת שיקום הרוח מכסה <lb/>השיירות בחול ומתים כולם בתוך החול
+					והנצלים מהם מוליכין עמהם ברזל <lb/>ונחשת ומיני פירות ומיני קטנית ומלח
+					<lb/>ומביאים משם הזהב והמרגליות היקרות <lb/>והיא מ<placeName xml:id="temp0796">ארץ כוש</placeName>
+					הנקראת <placeName xml:id="temp0797">אלחבש</placeName>
+        <lb/>מירכתי מערב|</seg>
+      <seg xml:id="GN32S6"> ומ<placeName xml:id="temp0798" ref="#K15135">חלואן</placeName> דרך שלשה <lb/>עשר ימים ל<placeName xml:id="temp0799" ref="#Q1816589">קוץ</placeName>
+					המדינה היא (ראש) <lb/>תחלת <placeName xml:id="temp0801" ref="#K8046" >מצרים</placeName> ובה כמו
+					שלשים אלף <lb/>יהודים. </seg>
+     </ab>
+     <ab xml:id="GeoNar33">
+      <seg xml:id="GN33S1">ומשם עד <placeName xml:id="temp0804" ref="#K12725">פיום</placeName> חמשה ימים <lb/>והיא
+					<placeName xml:id="temp0805" ref="#K22877" type="idf">פיתום</placeName> ובה כמו עשרים יהודים ועד <lb/>היום הזה נראה שם
+					מן הבנין בנו <lb/>אבותינו| </seg>
+      <seg xml:id="GN33S2">ומשם ל<placeName xml:id="temp0806">מצרים</placeName> ארבע ימים <pb n="103"/>
+        <lb/>והיא עיר גדולה היושבת על-שפת <placeName xml:id="temp0808" ref="#Q3392">נילוס</placeName> והוא
+					<placeName xml:id="temp0810" ref="#Q3392">אל ניל</placeName> ובה כמו אלפים יהודים <lb/>ושם שני בתי כניסיות
+					אחת לאנשי <placeName xml:id="temp0811">ארץ <lb/>ישראל</placeName> <placeName xml:id="temp0812" ana="changeoforder">כניסיה אל שאמיין</placeName> ואחת כנסת
+					<lb/>אנשי <placeName xml:id="temp0813" ref="#U4">בבל</placeName>
+        <placeName xml:id="temp0816">כניסיה אל עראקיין</placeName>**) ואינם <lb/>נוהגים מנהג אחד בפרשיות
+					ובסדרים <lb/>של תורה כי אנשי <placeName xml:id="temp0817" ref="#U4" >בבל</placeName> נוהנים לקרות
+					<lb/>בכל-שבוע פרשה כמו שעושין בכל <placeName xml:id="temp0818" ref="#K6471">ספרד</placeName> ובכל
+					שנה מסיימים את התורה <lb/>ואנשי <placeName xml:id="temp0819" ref="#K2501">ארץ ישראל</placeName>
+					אינם נוהגים כך אבל <lb/>עושים מכל פרשה שלשה סדרים <lb/>ומסיימין את התורה לסוף
+					שלש שנים <lb/>ויש ביניהם מנהג ותקנה להתחבר כלם <lb/>ולהתפלל ביחד ביום שמחת תורה
+					וכן <lb/>ביום מתן תורה וביניהם <persName>רבי נתנאל שר השרים ראש הישיבה והוא ראש
+						לכל קהלות <placeName xml:id="setnewandaddinAsher61">מצרים</placeName></persName> להקים רבנים וחזנין</seg>
+     </ab>
+     <ab xml:id="GeoNar34">
+      <seg xml:id="GN34S1"> והוא <lb/>משרת פני המלך הגדול היושב ב<placeName xml:id="temp0821">ארמון צוען
+						מצרים</placeName> המדינה והיא עיר מלוכה <lb/>לכל בני ערב ושם <persName>אמיר
+						אל מומנין עלי בן אביטאלב</persName> וכל בני ארצו נקראים <lb/>מורדים אשר מרדו
+						<persName>באמיר אל מומנין אל עבאסי</persName> היושב
+						ב<placeName xml:id="temp0822" ref="#K662">בגדאד</placeName> וביניהם <lb/>קנאה עד לעולם והוא הושיב כסאו
+						<lb/>ב<placeName xml:id="temp0823"  ana="encode-">צוען</placeName> כי הוא הדומה לו והוא יוצא שני <lb/>פעמים
+					בשנה אחת בעת חגם והשנית <lb/>כשיוצא <placeName xml:id="temp0824" ref="#Q3392">נילוס</placeName> הנהר</seg>
+      <seg xml:id="GN34S2"> ו<placeName xml:id="temp0825">צוען</placeName> מוקפת חומה <lb/>ומצרים אין לה
+					חומה כי היאור מסבב <lb/>אותה מצד אחד והיא עיר גדולה ובה <lb/>שווקים ופונדקאות
+					ויהודים עשירים <lb/>הרבה בה ולא ירד שם מטר ולא קרח <lb/>ולא שלג לא ראו מעולם
+					והארץ חמה <lb/>ביותר ו<placeName xml:id="temp0826" type="recogito-61d0fc5f-e492-4594-ad1b-fa9d46ba657f" ana="check-order">היאור</placeName> יוצא פעם אחת בשנה <lb/>בחדש אלול ומכסה כל הארץ ומשקה
+					אותה <lb/>מהלך חמשה עשר ימים והמים נשארים <lb/>אלול ותשרי על פני הארץ להשקותה
+					<lb/>ולהרוותה ויש להם <placeName xml:id="temp0827"  ana="check-order">עמוד של שיש</placeName> שבנו <lb/>שם בחכמה והוא
+					לפני אי אחד בתוך <lb/>המים והוא שתים עשרה אמות ארכו על <lb/>פני המים ובשעה שעולה
+					<placeName xml:id="temp0828" ana="check-order">היאור</placeName> ומכסה <pb n="105"/>
+        <lb/>אותו יודעים כי כבר עלה וכסה ארץ <placeName xml:id="temp0829" ref="#K8046"  ana="check-order">מצרים</placeName>
+					מהלך חמשה עשר יום ואם כסה <lb/>חצי העמוד לא יכסה כי אם חצי הארץ <lb/>ובכל יום
+					ויום מודד אותם אדם אחד ומכריז ב<placeName xml:id="temp0830" ana="check-order">צוען</placeName> וב<placeName xml:id="temp0831" ana="check-order">מצרים</placeName> ואומר תנו שבח <lb/>לאל כי עלה היאור
+					כך וכך| ובכל-יום <lb/>הוא מודד ומכריז אם מכסה היאור <lb/>העמוד כלו יש שובע גדול
+					בכל ארץ <placeName xml:id="temp0832" ref="#K8046"  ana="check-order">מצרים</placeName> והיאור עולה מעט מעט עד
+					<lb/>שמכסה הארץ לקצה חמשה עשר יום. <lb/>ומי שיש לו שדה שוכר פועלים וחופרין
+					<lb/>לו חפירה גדולה בשדהו ובאים הדגים <lb/>בעלות המים נכנסים בחפירות ובשעה
+					<lb/>שיחסרו המים נשארים הדגים בחפירות <lb/>ולוקחין אותם בעלי השדות ואוכלים
+					<lb/>ומוכרים לסוחרים שמוליכין אותם <lb/>ממולחין בכל מקום והדגים שמנים מאד
+					<lb/>ביותר וגדולי הארץ לוקחין מן השומן של <lb/>הדגים ומדליקין [בו] נרותיהם
+					(בארץ*) ואם <lb/>אכל אדם מאותם הדגים וישתה אחריהם <pb n="106"/>
+        <lb/>ממי ה<placeName xml:id="temp0836" ana="check-order">יאור</placeName> לא יזיק לו כי אותם המים <lb/>רפואה להם ושואלין בני אדם ואומרים
+					<lb/>להם מפני מה היא עלות <placeName xml:id="temp0837">היאור</placeName> ואומרים <lb/>אנשי <placeName xml:id="temp0838" ref="#K8046" >מצרים</placeName> כי למעלה בארץ <placeName xml:id="temp0839" >אל חבש</placeName> והיא
+						<placeName xml:id="temp0840" >ארץ חוילה</placeName> יורד בה מטר הרבה <lb/>בזמן עלות היאור ומכסה
+					פני הארץ. <lb/>ובשעה שאין היאור עולה אינם זורעים <lb/>והרעב כבד בארץ והם זורעין
+					במרחשון <lb/>לאחר שוב היאור למקומו ובאדר <lb/>קוצרים השעורים ובניסן החטים.
+					ובניסן <lb/>יש להם גודגדניות ואגוזים וקשואים <lb/>ודלועים וחרובין ופולים
+					וגלבונים ואפונים <lb/>ומיני ירקות כגון פרפחנים וירבוזנים <lb/>וקטפים וחזרת
+					וכוסברת ועולשין ופרוחים*) <lb/>וענבים והארץ מלאה כל-טוב והגנות <lb/>והפרדסים
+					משקין אותם ממקוה המים <lb/>וממי היאור </seg>
+     </ab>
+     <ab xml:id="GeoNar35">
+      <seg xml:id="GN35S1">כי <placeName xml:id="temp0841">היאור</placeName> כשיבוא ל<placeName xml:id="temp0842">מצרים</placeName> <lb/>משם יפרד לארבעה ראשים שביל <lb/>אחד
+					הולך <placeName xml:id="temp0843" ref="#K8964">דמיאט</placeName> היא <placeName xml:id="temp0844" >כפתור</placeName> ונופל <lb/>שם
+					בים. ושביל אחר הולך לעיר <placeName xml:id="temp0845" ref="#K20050">רשיד</placeName>
+        <pb n="107"/>
+        <lb/>הקרובה ל<placeName xml:id="temp0846" ref="#K667">אלכסנדריאה</placeName> ונופל שם בים. <lb/>ושביל השלישי
+					הולך דרך <placeName xml:id="temp0847">אשמון</placeName> העיר <lb/>הגדולה בגבול <placeName xml:id="temp0849">מצרים</placeName>| ועל ארבע
+					<lb/>ראשים האלו מדינות וכרכים וכפרים <lb/>מזה ומזה וכל בני אדם הולכים בספינה
+					<lb/>וביבשה ואין בארץ ארץ נושבת כמוה <lb/>והיא רחבת ידים מלאה כל-טוב.</seg>
+      <seg xml:id="GN35S2">
+        <lb/>ומ<placeName xml:id="temp0850">מצרים החדשה</placeName> ל<placeName xml:id="temp0851">מצרים הקדמונה</placeName>
+        <lb/>שני פרסאות והיא חרבה ומקום בנין <lb/>החומות והבתים נראין עד היום הזה וגם
+					<lb/>אוצרות <persName>יוסף</persName> שם הרבה מאד ויש שם
+						<placeName xml:id="temp0852">עמודים</placeName>*) עשוים בכשוף ולא נראה כמוהם <lb/>בכל הארץ
+					ובכל המקומות והם בנויים <lb/>בסיד ואבנים בנין חזק עד מאד ושם <lb/>חוץ לעיר
+						<placeName xml:id="temp0853" >כנסת משה רבינו</placeName> עליו השלום <lb/>מימי קדם ושם זקן אחד
+					פרנס שמש <lb/>של הכנסת והוא תלמיד חכם וקורין <lb/>אותו <persName>אל שיך
+						אבונאצר</persName> וב<placeName xml:id="temp0854">מצרים החרבה</placeName> <lb/> כמהלך שלשה מילין.</seg>
+     </ab>
+     <ab xml:id="GeoNar36">
+      <seg xml:id="GN36S1"> ומשם <lb/>ל<placeName xml:id="temp0855">ארץ גושן</placeName> שמנה פרסאות היא
+					(בולסיר**) <pb n="108"/>
+        <lb/>
+        <placeName xml:id="temp0856" ref="#K22392">בלביש</placeName>*) ושם כמו שלשת אלפים יהודים <lb/>והיא עיר גדולה.</seg>
+      <seg xml:id="GN36S2"> ומשם חצי יום <lb/>ל<placeName xml:id="temp0857" >עיזקאל</placeName>
+						ל<placeName xml:id="temp0858">עין אל שמס</placeName> היא <placeName xml:id="temp0859">רעמסס</placeName>
+        <lb/>והיא חרבה ושם מהבנין שבנו אבותינו <lb/>עליהם השלום ושם כמו מגדלים בנוים
+					<lb/>מלבנים</seg>
+      <seg xml:id="GN36S3"> ומשם יום ל<placeName xml:id="temp0860">אל בודאיג</placeName>**) ושם <lb/>כמו
+					מאתים יהודים.</seg>
+      <seg xml:id="GN36S5"> ומשם ל<placeName xml:id="temp0864" >זיפתא</placeName>***) <lb/>חצי יום ושם כמו
+					מאתים יהודים|</seg>
+      <seg xml:id="GN36S7"> ומשם <lb/>ל<placeName xml:id="temp0866">דמירה</placeName> ארבע פרסאות ושם כשבע
+					<lb/>מאות יהודים.</seg>
+      <seg xml:id="GN36S8"> ומשם חמשה ימים <lb/>ל<placeName xml:id="temp0868">מהלה</placeName> ושם כמו חמש
+					מאות מישראל| </seg>
+      <seg xml:id="GN36S9">
+        <lb/>ומשם שני ימים ל<placeName xml:id="temp0869" ref="#K667">אלכסנדריאה</placeName>
+        <lb/>ו<persName>אלכסנדרוס מוקדון</persName> קראה על שמו <lb/>ובנה אותה בנין חזק
+					ויפה עד מאד <lb/>וחוץ למדינה מדרש <persName>ארסטו</persName> רבו של
+						<persName>אלכסנדרוס</persName> ושם <placeName xml:id="temp0872">בנין יפה וגדול</placeName>
+					ועמודי <lb/>שיש בין מדרש למדרש| ושם כמו <lb/>עשרים מדרשות שהיו באים שם מכל
+					<lb/>העולם ללמוד שם חכמת <persName>אריסטו הפילוסוף</persName> והעיר בנויה למעלה
+					וחלולה <pb n="109"/>
+        <lb/>למטה על ידי גשרים וחוצותיה ישרות <lb/>ובתוכה שוקים שאינם רואים אדם מהם
+					<lb/>מהלך מיל מ<placeName xml:id="temp0874" ana="fix-haddad">שער רשיד</placeName> ועד <placeName xml:id="temp0875" >שער
+						הים</placeName>
+        <lb/>ושם בנה <placeName xml:id="temp0876" >מסלה על הנמל</placeName> של
+					<placeName xml:id="temp0877" ref="#K667" >אלכסנדריאה</placeName> דרך מיל בתוך ים ושם <lb/>עשה מגדל גדול הוא
+					הנקרא <placeName xml:id="temp0879" > המנראה</placeName> ובלשון ערב <placeName xml:id="temp0880" >מנאר
+						אלכסנדריאה</placeName> ועשה <lb/>על ראש המגדל מראה של זכוכית וכל
+					<lb/>הספינות שהולכות להלחם בה להזיק לה <lb/>מארץ <placeName xml:id="temp0881" ref="#K8822">יון</placeName> ומארץ המערב ממהלך <lb/>חמשים יום היו רואין אותן מן המראה
+					<lb/>של זכוכית והיו שומרין עצמם מהם עד <lb/>שיום מימים באה ספינה מארץ <placeName xml:id="temp0882" ref="#K8822">יון</placeName>
+        <lb/>לימים רבים אחרי מות אלכסנדרוס <lb/>ושם הספן <persName>טודרוס</persName> איש
+					יוני חכם בכל <lb/>חכמה והיו היונים משועבדים תחת עול <placeName xml:id="temp0883" ref="#K8046">מצרים</placeName> בימים ההם והביא האיש ההוא <lb/>הספן דורון גדול למלך
+						<placeName xml:id="temp0884" ref="#K8046">מצרים</placeName> כסף <lb/>וזהב ובגדי משי וחנה לפני
+					המראה כי <lb/>כך היה מנהג כל סוחר שיבוא לחנות <pb n="110"/>
+        <lb/>שם ובכל יום ויום היה אוכל עמו שומר <lb/>מגדל המנורה הוא ועבדיו עד שמצא חן
+					<lb/>בעיניו והיה יוצא ובא כל הימים שם ויום <lb/>אחד עשה לו משתה והשקהו יין הרבה
+					<lb/>לו ולכל עבדיו עד שהיו ישנים כולם <lb/>וקם הספן ועבדיו ושברו המראה והלכו
+					<lb/>לדרכם בלילה ההוא</seg>
+     </ab>
+     <ab xml:id="GeoNar37">
+      <seg xml:id="GN37S1"> ומאותו היום <lb/>והלאה התחילו בני אדום לבא שם <lb/>בדוגיות
+					ובספינות גדולות ולקחו מידם <lb/>את האי הגדולה <placeName xml:id="temp0885" ref="#K8648">קריטס</placeName> וגם
+						<placeName xml:id="temp0886" ref="#K7562">כיפרוס</placeName>
+        <lb/>שהם תחת עול יונים עד היום הזה ולא <lb/>יכלו אנשי ארץ <placeName xml:id="temp0887" ref="#K8046">מצרים</placeName> עוד לעצור כח <lb/>לפני היונים ועד היום הזה מגדל המנורה
+					<lb/>סימן להולכי הים כי כל הבאים אל <placeName xml:id="temp0888" ref="#K667">אלכסנדריאה</placeName> מכל
+					המקומות רואים <lb/>אותה מרחוק מהלך מאה מילין ביום <lb/>ובלילה מאירה מאור אבוקה
+					ורואים <lb/>הספנים האש מרחוק והולכין כנגדו והיא <lb/>ארץ סחורה רוכלת לכל העמים
+					ומכל <lb/>מלכות אדום באים שם אל <placeName xml:id="temp0889" ref="#K667">אלכסנדריאה</placeName>
+        <pb n="111"/>
+        <lb/>מארץ <placeName xml:id="temp0890">בלינסייא</placeName> ו<placeName xml:id="temp0891">טוסכנה</placeName>
+						ו<placeName xml:id="temp0892" >לומברדיאה</placeName> ו<placeName xml:id="temp0893">פוליה</placeName> ו<placeName xml:id="temp0894" ref="#K12281">מלפי</placeName> ו<placeName xml:id="temp0895">סקילייה</placeName>
+						ו<placeName xml:id="temp0899" >רקופיה</placeName> ו<placeName xml:id="temp0901" >קרט</placeName>
+        <placeName xml:id="temp0902" >ויה</placeName>*) <lb/>ו<placeName xml:id="temp0903" >אספנייא</placeName>
+						ו<placeName xml:id="temp0913">רוסייא</placeName> ו<placeName xml:id="temp0914">אלמאנייה</placeName>
+						ו<placeName xml:id="temp0915">שושנאה</placeName>
+        <lb/>ו<placeName xml:id="temp0916">דנאמרקא</placeName> ו<placeName xml:id="temp0927">גלאץ</placeName>
+						ו<placeName xml:id="temp0928">פלנדריש</placeName> ו<placeName xml:id="temp0929">היטר</placeName>**)
+						<lb/>ו<placeName xml:id="temp0930">לרמנדיה</placeName>***) ו<placeName xml:id="temp0931">פראנציה</placeName>0)
+						ו<placeName xml:id="temp0932">פייטו</placeName> ו<placeName xml:id="temp0933">אנגו</placeName>
+        <lb/>ו<placeName xml:id="temp0934">ברגונייה</placeName> ו<placeName xml:id="temp0935">מדיאנה</placeName>
+						ו<placeName xml:id="temp0936">פרובינצא</placeName> ו<placeName xml:id="temp0937" ref="#K877">גינואה</placeName>
+        <lb/>ו<placeName xml:id="temp0938">פישא</placeName> ו<placeName xml:id="temp0939">גשקוניא</placeName>00)
+						ו<placeName xml:id="temp0940">ארגון</placeName> ו<placeName xml:id="temp0941">נבארה</placeName> | ומצד
+					<lb/>המערב לישמעאלים <placeName xml:id="temp0942">אל אנדלוס</placeName> ו<placeName xml:id="temp0943">אל
+						ערוה</placeName> ו<placeName xml:id="temp0944">אפריקיה</placeName> ו<placeName xml:id="temp0945">ארץ
+						אלערב</placeName>| ומצד <placeName xml:id="temp0946">הודו</placeName>
+						ומ<placeName xml:id="temp0947">חוילה</placeName> ו<placeName xml:id="temp0948">אל חבש</placeName>
+						ו<placeName xml:id="temp0949">נוביה</placeName>000) ו<placeName xml:id="temp0950">אלימן</placeName>
+        <lb/>ו<placeName xml:id="temp0952" ref="#Q1404297">שנער</placeName> ו<placeName xml:id="temp0953">אל שאם</placeName>
+						ו<placeName xml:id="temp0954" ref="#K8822">יון</placeName> הנקראים גריגיש <lb/>ואל תורך ושם
+					מביאים סחורה מ<placeName xml:id="temp0955">הודו</placeName>
+        <lb/>כל מיני בשמים סוחרי אדום קונים <lb/>מהם והעיר הומיה לסחורה ולכל אומה
+					<lb/>ואומה פונדק בפני עצמה|</seg>
+      <seg xml:id="GN37S2"> ויש שם על <lb/>שפת הים <placeName xml:id="temp0956">קבר אחד של שיש</placeName>
+					ובו מצוייר <lb/>כל מיני עופות וחיות והכל בכתיבת <lb/>הקדמונים ואין אדם מכיר
+					הכתיבה <lb/>ואומרים מסברא שהיה מלך בימי קדם <pb n="112"/>
+        <lb/>קודם המבול ובאורך הקבר חמש עשרה <lb/>זרתות וששה רחבו ושם
+					ב<placeName xml:id="temp0957" ref="#K667">אלכסנדריאה</placeName>
+        <lb/>כמו שלשת אלפים מישראל|</seg>
+     </ab>
+     <ab xml:id="GeoNar38">
+      <seg xml:id="GN38S1"> ומשם <lb/>שני ימים ל<placeName xml:id="temp0958" ref="#K8964">דמיאט</placeName> היא
+						<placeName xml:id="temp0959">כפתור</placeName> ושם כמו <lb/>מאתים מישראל|</seg>
+      <seg xml:id="GN38S3"> ומשם ל<placeName xml:id="temp0961">סונבאט</placeName> חצי <lb/>יום והם זורעין
+					פשתן ואורגים חור <lb/>ומוליכין לכל העולם|</seg>
+      <seg xml:id="GN38S4"> ומשם ארבע <lb/>ימים ל<placeName xml:id="temp0962">אילאה</placeName> היא
+						<placeName xml:id="temp0963">אילים</placeName> והיא לבני ערב <lb/>החונים במדבר. </seg>
+      <seg xml:id="GN38S5">ומשם שני ימים <lb/>ל<placeName xml:id="temp0964">רפידים</placeName> ויושבים שם
+					בני ערב ואין בה <lb/>מישראל.</seg>
+      <seg xml:id="GN38S6"> ומשם יום ל<placeName xml:id="temp0965">הר סיני</placeName> ובראש <lb/>ההר במה
+					לכומרים הנקראים סורייניס <lb/>ובתחתית ההר כרך גדול וקוראים אותו <placeName xml:id="temp0966">טור
+						סיני</placeName> ויושביו מדברים בלשון תרגום <lb/>והוא הר קטן רחוק מ<placeName xml:id="temp0967">מצרים</placeName>
+					חמשה <lb/>ימים והם תחת עול מצרים|</seg>
+      <seg xml:id="GN38S7"> ו<placeName xml:id="temp0968" ana="order-switch">ים סוף</placeName>
+        <lb/>רחוק מ<placeName xml:id="temp0969" ana="order-switch">הר סיני</placeName> דרך יום והוא זרוע מ<placeName xml:id="temp0970" ana="verify">ים <lb/>הודו</placeName>|
+					ויחזור ל<placeName xml:id="temp0971" ref="#K8964">דמיאט</placeName>
+      </seg>
+      <seg xml:id="GN38S8"> ומשם דרך ים <lb/>יום ל<placeName xml:id="temp0972" ref="#K3054">טניס</placeName> היא
+						<placeName xml:id="temp0973">חנס</placeName> ושם כמו ארבעים <lb/>מישראל והוא אי בתוך הים ועד
+					הנה <pb n="113"/>
+        <lb/>מלכות <placeName xml:id="temp0974">מצרים</placeName>| </seg>
+     </ab>
+     <ab xml:id="GeoNar39">
+      <seg xml:id="GN39S1">ומשם דרך ים עשרים <lb/>יום ל<placeName xml:id="temp0975" ref="#K7699">מיסני</placeName> היא
+					תחלת אי <placeName xml:id="temp0976">סקלייה</placeName> <lb/>היושבת על הזרוע הנקרא <placeName xml:id="temp0977">לוניד</placeName> הוא
+					<lb/>חולק בין <placeName xml:id="temp0978">קלברייה</placeName> ובין <placeName xml:id="temp0979">סקלייה</placeName>
+					ושם כמו <lb/>מאתים יהודים והיא ארץ מלאה כל טוב <lb/>וגנות ופרדסים ושם מתקבצים
+					רוב <lb/>התועים*) לעבור ל<placeName xml:id="temp0980" ref="#K691">ירושלם</placeName> כי שם המעבר <lb/>הטוב|</seg>
+      <seg xml:id="GN39S2"> ומשם מהלך שני ימים למדינת <placeName xml:id="temp0981" ref="#K7745">פלירמו</placeName> היא
+					עיר גדולה כמהלך שני <lb/>מילין באורך ושנים ברוחב ושם <placeName xml:id="temp0982">ארמון גדול
+							מ<persName>מלך גוליימו</persName>
+        </placeName> ובה כמו אלף וחמש <lb/>מאות יהודים ואדום וישמעאל הרבה <lb/>וארץ
+					מעיינות ונחלי מים וחטה ושעורה <lb/>וגנות ופרדסים ואין כמותה בכל ארץ
+						<placeName xml:id="temp0983">סקלייה</placeName> כי היא מדינת <persName>סגן המלך הנקרא
+						אלחיציינה</persName> ושם כל מיני אילני <lb/>פירות ובתוכו מעיין גדול וסבבו
+					אותה <lb/>חומה ועשו לשם ביב הנקרא אל בחירה <lb/>ושם מיני דגים הרבה ושם ספינות
+					<lb/>למלך מצופות כסף וזהב ויבא בהם <lb/>
+        <pb n="114"/>
+        <lb/>המלך לטייל נפשו הוא ונשיו וגם שם <lb/>(בגן) ארמון גדול ובנין הכותלים
+					מצויירים <lb/>ומצופים בזהב ובכסף ורצפת הקרקע <lb/>אבני שיש מצוייר מכל מיני
+					ציורין <lb/>שבעולם ובכל*) הארץ ההיא לא נראה <lb/>כבנין ההוא</seg>
+      <seg xml:id="GN39S3"> והאי תחלתו מ<placeName xml:id="temp0984">מסיני</placeName> ובה <lb/>כל מעברי
+					עולם והולכות עד <placeName xml:id="temp0985">קטנייה</placeName>
+        <lb/>ו<placeName xml:id="temp0986" ref="#K6347">סרקוסה</placeName> ו<placeName xml:id="temp0989" ana="unite-with-988">מזרא</placeName>
+						ו<placeName xml:id="temp0990" ana="fix-in-editions">פנטליאנה</placeName>*) ו<placeName xml:id="temp0991">טראפנה</placeName>
+        <lb/>מהלך ששה ימים באי ושם ב<placeName xml:id="temp0992">טראפנה</placeName> <lb/>ימצא אבן הקורל הנקרא אל מורגאן <lb/>
+      </seg>
+     </ab>
+     <ab xml:id="GeoNar40">
+      <seg xml:id="GN40S1">ומשם עוברים לארץ <placeName xml:id="temp0993">רומה</placeName> שלשה ימים <lb/>
+      </seg>
+      <seg xml:id="GN40S2">ומן <placeName xml:id="temp0994">רומה</placeName> דרך יבשה
+						ל<placeName xml:id="temp0995">לוקה</placeName> חמשה <lb/>ימים</seg>
+      <seg xml:id="GN40S3"> ועוברים משם הר <placeName xml:id="temp0996">מוראיינה</placeName>
+        <lb/>ומעברות <placeName xml:id="temp0997">איטנייא</placeName>***) שנים עשר יום לעיר
+						<placeName xml:id="temp0998">ברדין</placeName> היא תחלת <placeName xml:id="temp1000">אלמנייא</placeName> היא ארץ
+					<lb/>הרים וגבעות</seg>
+      <seg xml:id="GN40S4"> וכל קהלות <placeName xml:id="temp1001">אלמנייא</placeName>
+        <lb/>יושבים על נהר <placeName xml:id="temp1002">ריינוס</placeName> הגדול מעיר
+						<placeName xml:id="temp1003">קולונייא</placeName> שהיא ראש המלכות ועד עיר
+						<placeName xml:id="temp1025">קשנבורק</placeName> קצה <placeName xml:id="temp1026">אלמנייא</placeName> מהלך חמשה
+					<lb/>עשר יום הנקראת ארץ <placeName xml:id="temp1027">אשכנז</placeName>| ואלו <pb n="115"/>
+        <lb/>
+        <lb/>הן מדינות בארץ <placeName xml:id="temp1028">אלמנייא</placeName> שיש בהם <lb/>קהלות מישראל
+					וכלם נדיבים על נהר <placeName xml:id="temp1031">משלה</placeName> ו<placeName xml:id="temp1032">קובפילינש</placeName>
+						ו<placeName xml:id="temp1033">אנדרנכה</placeName>*) ו<placeName xml:id="temp1034" ana="check-in-editions">קובה</placeName>
+        <lb/>ו<placeName xml:id="temp1035" ana="check-in-editions">קרטניא</placeName> ו<placeName xml:id="temp1036">בינגה</placeName>
+						ו<placeName xml:id="temp1038">גרמיסה</placeName> ו<placeName xml:id="temp1039" ana="unite-with-1037?">משתראן</placeName> וכל <lb/>ישראל
+					מפוזרים כלם בכל ארץ וארץ <lb/>וכל מי שיבטל שלא יתקבץ ישראל אינו <lb/>רואה סימן
+					טוב ולא יחיה עם ישראל <lb/>ובעת שהשם יפקוד על גלותינו וירים <lb/>קרן משיחו אז כל
+					אחד ואחד אומר אני <lb/>אוליך את היהודים ואני אקבצם | <lb/>והמדינות האלו יש בהם
+					תלמידי חכמים <lb/>וקהלות אוהבים את אחיהם ודוברים <lb/>שלום לכל הקרובים והרחוקים
+					ואם יבא <lb/>אליהם אכסנאי שמחים בו ועושים לו <lb/>משתה ויאמרו שמחו אחינו כי
+					ישועת <lb/>השם כהרף עין ולולא שאנחנו מפחדים <lb/>שלא בא הקץ ולא הגיע אנחנו היינו
+					<lb/>מתקבצים אבל לא נוכל עד שיגיע עת <lb/>הזמיר וקול התור ויבאו המבשרים
+					<lb/>ויאמרו תמיד יגדל השם והם שולחים <pb n="116"/>
+        <lb/>כתבים אחד לאחד ואומרים להם <lb/>התחזקו בדת משה ואבילי ציון ואבילי
+					<placeName xml:id="temp1040" ref="#K691">ירושלם</placeName> יבקשו רחמים מלפני השם <lb/>ויתחננו לובשי בגדים
+					שחורים בזכותם <lb/>וכל אלו המדינות בארץ <placeName xml:id="temp1041">אלימנייא</placeName>
+        <lb/>שזכרנו ועוד יש <placeName xml:id="temp1042">אשתראן</placeName>
+        <placeName xml:id="temp1043">בורך</placeName> ו<placeName xml:id="temp1044">דוי</placeName>
+        <placeName xml:id="temp1045">דסבורך</placeName> ו<placeName xml:id="temp1047">מנדטרן</placeName>*)
+						ו<placeName xml:id="temp1049" ana="fix-in-editions">פסינגש</placeName> ו<placeName xml:id="temp1050">בנבורק</placeName>
+        <lb/>ו<placeName xml:id="temp1051">צר</placeName> ו<placeName xml:id="temp1052">רגנשבורק</placeName>**) קצה המלכות
+					ובאלו <lb/>המדינות גם כן הרבה מישראל תלמידי <lb/>חכמים ועשירים.</seg>
+     </ab>
+     <ab xml:id="GeoNar41">
+      <seg xml:id="GN41S1"> ומשם והלאה ארץ <placeName xml:id="temp1053">בהם</placeName> והיא הנקראת
+						<placeName xml:id="temp1054">פראגה</placeName> היא תחלת <lb/>ארץ
+						<placeName xml:id="temp1055">אשקלבונייא</placeName> וקוראים אותה <lb/>היהודים הדרים שם ארץ
+						<placeName xml:id="temp1056">כנען</placeName> בשביל <lb/>אנשי הארץ ההיא מוכרים בניהם
+					<lb/>ובנותיהם לכל אומות הם ואנשי <placeName xml:id="temp1057">רוסיא</placeName>
+        <lb/>והיא מלכות גדולה מ<placeName xml:id="temp1058">שער פראגא</placeName> ועד <placeName xml:id="temp1059">שער
+						כיו</placeName>***) העיר הגדולה היא בסוף <lb/>המלכות והיא ארץ הרים ויערים
+					ושם <lb/>ימצאו החיות שקורין ואיורגיש0) והם <lb/>זבלינאץ ואין אדם יוצא מפתח ביתו
+						<pb n="117"/>
+        <lb/>בימי החורף מרוב הקור ועד הנה <lb/>מלכות <placeName xml:id="temp1060">רוסיא</placeName>
+      </seg>
+      <seg xml:id="GN41S2"> ומלכות <placeName xml:id="temp1061">פראנצייה</placeName> שהיא <lb/>ארץ
+						<placeName xml:id="temp1062" ref="#K6399">צרפת</placeName> מעיר <placeName xml:id="temp1063">אל סודו</placeName>
+					עד <placeName xml:id="temp1064">פאריש</placeName>
+        <lb/>המדינה הגדולה מהלך ששה ימים והיא <lb/>ל<persName>מלך לואיש</persName> והיא
+					יושבת על נהר <placeName xml:id="temp1066">סינא</placeName>
+        <lb/>ושם תלמידי חכמים אין כמותם היום <lb/>בכל הארץ עוסקים בתורה יומם ולילה
+					<lb/>והם בעלי אכסניא לכל עובר ושב אחים <lb/>ורעים עם כל אחיהם היהודים. השם
+					<lb/>ברחמיו ירחם עלינו ועליהם ויקיים בנו <lb/>ובהם מקרא שכתוב ושב וקבצך מכל
+					<lb/>העמים אשר הפיצך יי אלהיך שמה: <lb/>אמן אמן אמן| <lb/>תם ונשלם: </seg>
+     </ab>
+   </body>
+  </text>
+</TEI>

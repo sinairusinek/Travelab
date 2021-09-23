@@ -100,7 +100,7 @@
                الاطلاع في التوراة والتلمود <note n="2"/> ، يقصده طلاب العلم من البلاد القصية.
                   فيؤويهم بيته ويسد حاجتهم بثروته الطائلة.</seg><seg xml:id="GN1S10"> وهناك طائفة أخرى من العلماء، بينهم الرابيون
                يوسف بن منحم وبنبنيشتى وبنيامين وإبراهيم وإسحاق بن موسى. وعلى مسيرة ثلاثة فراسخ <milestone unit="ms089"/>
-               منها:- <placeName xml:id="temp0033"  ref="#K10262" cert="high">نو غرس</placeName> <placeName xml:id="temp0034"  ref="#K10262" cert="high" ><gloss>ST.Giles</gloss></placeName> <note n="3"/> أو برج القديس أجيل. فيها نحو مائة يهودي، بينهم
+               منها:- <placeName xml:id="temp0033"  ref="#K10262" cert="high">نو غرس</placeName> <gloss>ST.Giles</gloss> <note n="3"/> أو<placeName xml:id="temp0034"  ref="#K10262" cert="high" > برج القديس أجيل</placeName>. فيها نحو مائة يهودي، بينهم
                من العلماء، الرابيون إسحاق بن يعقوب وإبراهيم بن يهوذا، 
             <pb n="189"/>
             وإلعازر وموسى ويعقوب بن لاوي. وفي المدينة دير مقدس يحجه النصارى من الأقطار والجزر
@@ -138,7 +138,7 @@
             <pb n="193"/>
                   زهاء أربعين يهوديا، من أعيانهم الرابيون داود وصموئيل ويعقوب.  </seg></ab><ab xml:id="GeoNar3"><seg xml:id="GN3S1">
             وعلى مسيرة ستة أيام منها:- 
-            <placeName xml:id="temp0051"  ref="#K7637" cert="high">رومية الكبرى <gloss>Roma</gloss></placeName> <note n="1"/> حاضرة الدولة النصرانية. يقطنها نحو 
+            <placeName xml:id="temp0050"  ref="#K7637" cert="high">رومية الكبرى <gloss>Roma</gloss></placeName> <note n="1"/> حاضرة الدولة النصرانية. يقطنها نحو 
             <pb n="194"/>
             المائتين من اليهود ذوي المكانة المحترمة. وهم أحرار لا يدفعون الجزية. 
             يوجد عدد منهم بين بطانة البابا الكسندروش <note n="1"/> الحبر الأعظم رئيس الكنيسة
@@ -165,7 +165,7 @@
                رسموها له <note n="2"/> . 
             وفيها أيضا قصر <placeName xml:id="temp0061" type="ארמון" >الملك إسبازيان</placeName> <note n="3"/> . وهو بناء شامخ على جانب 
             <pb n="198"/>
-            عظيم من المتانة. وقصر الملك <quote>غالبة <note n="1"/> </quote> ويبلغ عدد شمساته <note n="2"/>
+                     عظيم من المتانة. و<placeName xml:id="recogito-10806a99-a469-4cad-a39b-2f3c39b95e8b">قصر الملك <quote>غالبة <note n="1"/> </quote></placeName> ويبلغ عدد شمساته <note n="2"/>
                <gloss>نوافذه</gloss> ثلثمائة وستين، بعدد أيام السنة. واستدارة هذه القصور كلها زهاء ثلاثة أميال. 
             وفي باحة هذه القصور دارت معركة عظيمة في الأزمنة الغابرة سقط فيها نحو مائة ألف قتيل،
                لا تزال عظامهم مكدسة حتى يومنا هذا. 
@@ -534,7 +534,7 @@
             تحيط به الأراضي القاحلة. </seg><seg xml:id="GN9S14">وهو على بعد خمسة فراسخ من:- 
             <placeName xml:id="temp0252" cert="low">وادي أيلون <gloss>Val Ajalon</gloss></placeName> <note n="2"/> ويسميه النصارى <placeName xml:id="temp0253">وادي لونه
                <gloss>Val de Luna</gloss> </placeName>
-               أو <placeName xml:id="temp0256" ana="check">يالو
+               أو <placeName xml:id="temp0253b" ana="check">يالو
                <gloss>Yalo</gloss></placeName>
             </seg> <seg xml:id="GN9S15">              وهو يبعد مسيرة فرسخ واحد عن:- 
            <placeName xml:id="temp0257"> جبل المورية <gloss>Moreyah Mons</gloss></placeName> أو <placeName xml:id="temp0254" cert="low">جرن داود</placeName> <note n="3"/> . وهي مدينة<placeName xml:id="temp0255" cert="low"> جبعون القديمة</placeName>، ليس
@@ -552,14 +552,14 @@
                يتسعان لأيواء أربعمائة من فرسان الأسبتارية عدا المرضى الذين يجهزون بكل ما يلزمهم في
                الحياة وبعد 
             <pb n="248"/>
-            الممات <note n="1"/> . وفيها أيضا البناية المسماة <quote>معبد سليمان</quote> يزعم البعض أنها من
+            الممات <note n="1"/> . وفيها أيضا البناية المسماة <quote><placeName xml:id="temp0263">معبد سليمان</placeName></quote> يزعم البعض أنها من
                أنقاض مقدس الملك سليمان <gloss>ع</gloss> ويقيم في هذه البناية نحو الثلاثمائة من <quote>فرسان المعبد</quote>
                   <note n="2"/> يمارسون فنون الحرب والقتال. ويوجد عدا هؤلاء، فرسان يتوافدون من بلاد
                الإفرنج وسائر ديار النصارى، من الذين ينذرون الخدمة في هذا المقام سنة أو سنتين. 
-            </seg><seg xml:id="GN10S3">            وبالقدس كنيسة كبرى تدعى <quote><placeName xml:id="temp0265" ref="#Q3463426" cert="high">كنيسة الضريح الأقدس</placeName> <note n="3"/> </quote> منسوبة 
+            </seg><seg xml:id="GN10S3">            وب<placeName xml:id="temp0264"                    >القدس</placeName> كنيسة كبرى تدعى <quote><placeName xml:id="temp0265" ref="#Q3463426" cert="high">كنيسة الضريح الأقدس</placeName> <note n="3"/> </quote> منسوبة 
             <pb n="249"/>
                إلى مسيح النصارى، يحجها عدد غفير منهم. </seg><seg xml:id="GN10S4">
-            و<placeName xml:id="temp0266"  ref="#K691" cert="high">للقدس</placeName> أربعة أبواب <note n="1"/> : <placeName xml:id="temp0267" cert="low">باب إبراهيم</placeName> و<placeName xml:id="temp0268" cert="low">باب داود</placeName> و<placeName xml:id="temp0269" cert="low">بات صهيون</placeName> و<placeName xml:id="temp0270" cert="low">باب يوشفاط</placeName>. وهذا
+            و<placeName xml:id="temp0266"  ref="#K691" cert="high">للقدس</placeName> أربعة أبواب <note n="1"/> : <placeName xml:id="temp0267" cert="low">باب إبراهيم</placeName> و<placeName xml:id="temp0268" cert="low">باب داود</placeName> و<placeName xml:id="temp0269" cert="low">بات صهيون</placeName> و<placeName xml:id="temp0271" cert="low">باب يوشفاط</placeName>. وهذا
                الأخير يحاذي <milestone unit="ms102"/> الموضع الذي كان <quote>بيت المقدس</quote> مستويا عليه في قديم الزمن. وعليه
                </seg><seg xml:id="GN10S5">              اليوم البناء الذي يسمبه الإفرنج <quote><placeName xml:id="temp0272" cert="low">المعبد المقدس</placeName> <note n="2"/> </quote> وقد عقد عليه عمر بن
                الخطاب قبة عظيمة أنيقة. 
@@ -580,7 +580,7 @@
                البيوت. 
                      </seg><seg xml:id="GN10S11">           ومن عدوة <placeName xml:id="temp0285" cert="low">وادي يوشفاط</placeName> يصعد إلى <placeName xml:id="temp0286" cert="low">جبل الزيتون</placeName> </seg> <seg xml:id="GN10S12"><note n="5"/> . ومنه يمكن 
             <pb n="252"/>
-            مشاهدة سادوم <note n="1"/> . وبين <placeName xml:id="temp0291">بحر سادوم</placeName> و<placeName xml:id="temp0292">نصب الملح</placeName> الممسوخ عن امرأة لوط فرسخان.
+            مشاهدة <placeName xml:id="temp0290"                        type="recogito-c4c00655-49a0-4190-9307-811f9314f1f8">سادوم</placeName> <note n="1"/> . وبين <placeName xml:id="temp0291">بحر سادوم</placeName> و<placeName xml:id="temp0292">نصب الملح</placeName> الممسوخ عن امرأة لوط فرسخان.
                         ويقال: إن السائمة تلحس هذا النصب يوميا ثم يعود إلى سابق هيئته. </seg> <seg xml:id="GN10S14">ويحاذي <placeName xml:id="temp0295"  ref="#K691" cert="high">القدس</placeName><placeName xml:id="temp0296" cert="low"> جبل صهيون</placeName>
                            <note n="2"/> ، عليه <placeName xml:id="temp0297">بيعة</placeName> للنصارى</seg><seg xml:id="GN10S15"> و<placeName xml:id="temp0299" cert="low">ثلاث مقابر قديمة لليهود</placeName>. فوق كل قبر حجارة محفور
                               عليها تأريخه، لكن الإفرنج يهدمون هذه القبور ويستعملون حجارتها لبناء بيوتهم. 
@@ -1521,7 +1521,7 @@
             <pb n="357"/>
             ولا يزال منار <placeName xml:id="temp0888" ref="#K667" cert="high">الإسكندرية</placeName> يهدي السفائن الغادية والرائحة، ويشاهد عن بعد مائة ميل نهارا
                   <note n="1"/> وفي الليل ينبعث منه نور يهتدي به الملاحون. 
-            و<placeName xml:id="temp0889" ref="#K667" cert="high">إسكندرية</placeName> بلدة تجارية فيها أسواق لجميع الأمم. يؤمها التجار من الممالك النصرانية <note n="2"/> كافة. من <placeName xml:id="temp0890" cert="low">البندقية،</placeName> والأنبرذية و<placeName xml:id="temp0891" cert="low">طسقانية</placeName> و<placeName xml:id="temp0893" cert="low">أفولية</placeName> و<placeName xml:id="temp0894" cert="low">أمالفي</placeName> وصقل<placeName xml:id="temp0895" ref="#K12281" cert="high" /> وصقل ية 
+            و<placeName xml:id="temp0889" ref="#K667" cert="high">إسكندرية</placeName> بلدة تجارية فيها أسواق لجميع الأمم. يؤمها التجار من الممالك النصرانية <note n="2"/> كافة. من <placeName xml:id="temp0890" cert="low">البندقية،</placeName> و<placeName xml:id="temp0892" ref="#K10968"                        >الأنبرذية</placeName> و<placeName xml:id="temp0891" cert="low">طسقانية</placeName> و<placeName xml:id="temp0893" cert="low">أفولية</placeName> و<placeName xml:id="temp0894" cert="low">أمالفي</placeName> وصقل<placeName xml:id="temp0895" ref="#K12281" cert="high" /> وصقل ية 
                   و<placeName xml:id="temp0904" cert="low" ana="check">قلورية</placeName>
                و<placeName xml:id="temp0905" cert="low" ana="check">رومانية</placeName> و<placeName xml:id="temp0906" cert="low" ana="check">خزرية</placeName> و<placeName xml:id="temp0907" cert="low" ana="check">البجناقية</placeName> و<placeName xml:id="temp0908" cert="low" ana="check">هنغارية</placeName> و<placeName xml:id="temp0909" cert="low" ana="check">بلغارية</placeName> و<placeName xml:id="temp0910" cert="low" ana="check">راغوسة</placeName> و<placeName xml:id="temp0911" cert="low" ana="check">خرواتية</placeName> و<placeName xml:id="temp0912" cert="low" ana="check">صقلابونية</placeName> و<placeName xml:id="temp0913" cert="low">روسية</placeName>
                و<placeName xml:id="temp0914" cert="low">ألمانية</placeName> و<placeName xml:id="temp0915" cert="low">سكسونية</placeName> و<placeName xml:id="temp0916" cert="low">الدانمرك</placeName> و<placeName xml:id="temp0921" cert="low" ana="check">كورلندة</placeName> و<placeName xml:id="temp0922" cert="low" ana="check">النورجة</placeName> وو<placeName xml:id="temp0923" cert="low" ana="check">فريزية</placeName> <placeName xml:id="temp0924" cert="low" ana="check">أسكوتية</placeName> و<placeName xml:id="temp0925" cert="low" ana="check">إنكلترة</placeName> و<placeName xml:id="temp0926" cert="low" ana="check">ويلز</placeName> و<placeName xml:id="temp0928" cert="low">فلندر</placeName>

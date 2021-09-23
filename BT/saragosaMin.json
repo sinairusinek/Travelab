@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "@context": "https://geo-kima.org",
+  "features": [
+    { "@id": "https://geo-kima.org/Place/6347",
+      "type": "Feature",
+      "properties":{
+        "title": "Zaragoza (Spain)"
+      },
+      "names": [
+        { "toponym":"שרקושטה",
+          "lang":"heb",
+          "citations": [
+            {"label": "Kima version X",
+             "@id":"attestation url"}],
+          "when": { "timespans":[{"start":{"in":"2020"}}]}
+        }
+      ]
+    }
+  ]
+}

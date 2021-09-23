@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "@context": "https://geo-kima.org",
+  "features": [
+    { "@id": "https://geo-kima.org/Place/6347",
+      "type": "Feature",
+      "properties":{
+        "title": "Zaragoza (Spain)"
+      },
+      "names": [
+        { "toponym":"שרקושטה",
+          "lang":"heb",
+          "citations": [
+            {"label": "Adolph Asher et al. The Itinerary of Rabbi Benjamin of Tudela. London, Berlin: A. Asher & co (1840)",
+             "@id":"attestation url"}],
+          "when": { "timespans":[{"start":{"in":"1840"}}]}
+        },
+        { "toponym":"Saragossa", "lang":"en",
+         "citations": [
+            {"label": "Marcus N. Adler, The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary, New York:Feldheim (1907)",
+             "@id":"attestation url"}],
+          "when": {"timespans":[{"start":{"in":"1907"}}]}
+        },     
+        { "toponym":"سرقسطة", "lang":"ar",
+         "citations": [
+            {"label": "Ezra H. Haddad, Itinerary of R. Benjamin of Tudela, 1165-1173. (Arabic) Translated from the Hebrew Original, with Introduction, Notes and Appendices. Baghdad: Eastern Press (1945)",
+             "@id":"attestation url"}],
+          "when": {"timespans":[{"start":{"in":"1907"}}]}
+        },
+
+         { "toponym":"שרקושטה",
+          "lang":"heb",
+          "citations": [
+            {"label": "מסעות של רבי בנימן. קונסטנטיפול: שונצינו 1543",
+             "@id":"attestation url"}],
+          "when": { "timespans":[{"start":{"in":"1543"}}]}
+        },
+         { "toponym":"סרקוסטא",
+          "lang":"heb",
+          "citations": [
+            {"label": "Roma Casanatense 3097,Sacerdote Ms. 216",
+             "@id":"attestation url"}],
+          "when": { "timespans":[{"start":{"in":"1428"}}]}
+        },
+         { "toponym":"שרקוסטה",
+          "lang":"heb",
+          "citations": [
+            {"label": "Jerusalem National Library of Israel Ms. Heb. 80 2647",
+             "@id":"attestation url"}],
+          "when": { "timespans":[{"start":{"in":"1520"}}]}
+        }, { "toponym":"סרקסטא",
+          "lang":"heb",
+          "citations": [
+            {"label": "MS British Library London Add. 27089. Margoliouth Ms. 1076",
+             "@id":"attestation url"}],
+          "when": { "timespans":[{"start":{"latest":"1399"}}]}
+        }
+      ],
+      "types": [
+        { "identifier": "aat:300008389",
+          "label": "cities",
+          "sourceLabels": [{"label":"עיר","lang":"en"}],
+          "when": {"timespans":[{"start":{"in":""}}]} }
+      ],
+      "geometry": {
+        "type": "GeometryCollection",
+        "geometries": [
+            { "type": "Point",
+              "coordinates": [-0.88333333333333,41.65]
+            }
+        ]
+      },
+      "links": [
+        {"type": "exactMatch", "wd":"Q10305"},
+        {"type": "exactMatch", "viaf":"148908108"}
+]
+
+    }
+  ]
+}

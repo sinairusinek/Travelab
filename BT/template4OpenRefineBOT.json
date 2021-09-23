@@ -1,0 +1,40 @@
+
+PREFIX
+{
+  "type": "FeatureCollection",
+  "@context": "TraveLab, Benjamin of Tudela",
+  "features": [
+  
+ROW TEMPLATE
+{
+      "@id" : {{jsonize(cells["@id"].value)}},
+      "type" : {{jsonize(cells["type"].value)}},
+      "properties": {
+         "title" : {{jsonize(cells["title"].value)}}
+      },
+      "names":[
+          {"toponym" : {{jsonize(cells["toponym"].value)}},
+          "lang" : {{jsonize(cells["lang"].value)}},
+          "citations":[
+              {"label" : {{jsonize(cells["label"].value)}},
+               "@id" : {{jsonize(cells["(citations)@id"].value)}}}],
+          "when":{"timespans":[{"start":{"in" : {{jsonize(cells["when:timespans:start:in"].value)}}
+}}]}}],
+
+      "geometry": {
+          "type": "GeometryCollection",
+        "geometries":[
+           {"type:" : {{jsonize(cells["geometry: type: GeometryCollection,geometries:type:"].value)}},
+            "coordinates" : [{{jsonize(cells["coordinates"].value)}}]
+}]},        
+
+      "links":[
+     {"type":"exactMatch", "wd" : {{jsonize(cells["wd"].value)}}},
+      {"type":"exactMatch","kima" : {{jsonize(cells["kima"].value)}}
+}
+]
+}
+SUFFIX
+ ]
+}
+   
