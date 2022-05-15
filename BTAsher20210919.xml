@@ -21,7 +21,150 @@
            <publisher>A. Asher and co.</publisher>
          </imprint>
         </monogr>
-      </biblStruct>
+      </biblStruct><listPlace><place xml:id="K6347" type="point">
+      	<location><geo>41.65606 -0.87734</geo></location><idno type="URI">http://geo-kima.org/Place/6347</idno>	</place>
+      	<place xml:id="GN3123754" type="line"><idno type="URI">https://www.geonames.org/3123754/</idno></place>
+      	<place xml:id="K9805" type="point"><location><geo>40.815111 0.523778</geo></location><idno type="URI">http://geo-kima.org/place/9805</idno>	</place>
+      	<place xml:id="K7559" type="point"><location><geo>41.119196 1.258058</geo></location><idno type="URI">http://geo-kima.org/place/7559</idno>	</place>
+      	<place xml:id="K6471" type="polygon"><idno type="URI">http://geo-kima.org/place/6471</idno></place>
+      	<place xml:id="K582" type="point"><location><geo>41.384106 2.175422</geo></location><idno type="URI">http://geo-kima.org/place/582</idno>	</place>
+      	<place xml:id="K251" type="point"><location><geo>43.719417 10.400106</geo></location><idno type="URI">http://geo-kima.org/place/251</idno>	</place>
+      	<place xml:id="K877" type="point"><location><geo>44.40766 8.93151</geo></location><idno type="URI">http://geo-kima.org/place/877</idno>	</place>
+      	<place xml:id="K667" type="point"><location><geo>31.195371 29.904133</geo></location><idno type="URI">http://geo-kima.org/place/667</idno>	</place>
+      	<place xml:id="K2501" type="polygon"><idno type="URI">http://geo-kima.org/place/2501</idno></place>
+      	<place xml:id="K8720" type="point"><location><geo>41.98311 2.82493</geo></location><idno type="URI">http://geo-kima.org/place/8720</idno>	</place>
+      	<place xml:id="K10031" type="point"><location><geo>43.184722 3.003611</geo></location><idno type="URI">http://geo-kima.org/place/10031</idno>	</place>
+      	<place xml:id="K7195" type="point"><location><geo>43.339552 3.214097</geo></location><idno type="URI">http://geo-kima.org/place/7195</idno>	</place>
+      	<place xml:id="K7467" type="point"><location><geo>43.608176 3.8794455</geo></location><idno type="URI">http://geo-kima.org/place/7467</idno>	</place>
+      	<place xml:id="K7951" type="polygon"><idno type="URI">http://geo-kima.org/place/7951</idno></place>
+      	<place xml:id="K10968" type="polygon"><idno type="URI">http://geo-kima.org/place/10968</idno></place>
+      	<place xml:id="K7637" type="polygon"><idno type="URI">http://geo-kima.org/place/7637</idno></place>
+      	<place xml:id="K6399" type="polygon"><idno type="URI">http://geo-kima.org/place/6399</idno></place>
+      	<place xml:id="K12708" type="polygon"><idno type="URI">http://geo-kima.org/place/12708</idno></place>
+      	<place xml:id="K12204" type="point"><location><geo>43.67778 4.13611</geo></location><idno type="URI">http://geo-kima.org/place/12204</idno>	</place>
+      	<place xml:id="K7808" type="point"><location><geo>43.6942 4.2769</geo></location><idno type="URI">http://geo-kima.org/place/7808</idno>	</place>
+      	<place xml:id="K10262" type="point"><location><geo>43.6786 4.4317</geo></location><idno type="URI">http://geo-kima.org/place/10262</idno>	</place>
+      	<place xml:id="K2047" type="line"><idno type="URI">http://geo-kima.org/place/2047</idno></place>
+      	<place xml:id="K8962" type="polygon"><idno type="URI">http://geo-kima.org/place/8962</idno></place>
+      	<place xml:id="K7224" type="point"><location><geo>43.676944 4.628611</geo></location><idno type="URI">http://geo-kima.org/place/7224</idno>	</place>
+      	<place xml:id="K7085" type="point"><location><geo>43.299467 5.365307</geo></location><idno type="URI">http://geo-kima.org/place/7085</idno>	</place>
+      	<place xml:id="K8782" type="point"><location><geo>35.9000363 -5.4164103</geo></location><idno type="URI">http://geo-kima.org/place/8782</idno>	</place>
+      	<place xml:id="K6491" type="point"><location><geo>43.840677 10.50602</geo></location><idno type="URI">http://geo-kima.org/place/6491</idno>	</place>
+      	<place xml:id="K6800" type="point"><location><geo>41.1061258 14.2130486</geo></location><idno type="URI">http://geo-kima.org/place/6800</idno>	</place>
+      	<place xml:id="K9790" type="point"><location><geo>40.84394 14.0952</geo></location><idno type="URI">http://geo-kima.org/place/9790</idno>	</place>
+      	<place xml:id="K9809" type="point"><location><geo>40.624604 14.365806</geo></location><idno type="URI">http://geo-kima.org/place/9809</idno>	</place>
+      	<place xml:id="K440" type="point"><location><geo>41.89262 12.4843457</geo></location><idno type="URI">http://geo-kima.org/place/440</idno>	</place>
+      	<place xml:id="K673" type="point"><location><geo>40.829595 14.21755</geo></location><idno type="URI">http://geo-kima.org/place/673</idno>	</place>
+      	<place xml:id="K6373" type="point"><location><geo>40.6779567 14.7659122</geo></location><idno type="URI">http://geo-kima.org/place/6373</idno>	</place>
+      	<place xml:id="K7024" type="point"><location><geo>41.6084823 15.8897665</geo></location><idno type="URI">http://geo-kima.org/place/7024</idno>	</place>
+      	<place xml:id="K6262" type="point"><location><geo>40.63443 14.60318</geo></location><idno type="URI">http://geo-kima.org/place/6262</idno>	</place>
+      	<place xml:id="K6449" type="point"><location><geo>41.13155 14.77433</geo></location><idno type="URI">http://geo-kima.org/place/6449</idno>	</place>
+      	<place xml:id="K12281" type="point"><location><geo>40.99571 15.65578</geo></location><idno type="URI">http://geo-kima.org/place/12281</idno>	</place>
+      	<place xml:id="K7555" type="polygon"><location><geo>41.25 15.75</geo></location><idno type="URI">http://geo-kima.org/place/7555</idno>	</place>
+      	<place xml:id="GN3182747" type="point"><location><geo>42.8554 13.57495</geo></location><idno type="URI">https://www.geonames.org/3182747</idno>	</place>
+      	<place xml:id="K7879" type="point"><location><geo>41.27733 16.41011</geo></location><idno type="URI">http://geo-kima.org/place/7879</idno>	</place>
+      	<place xml:id="K691" type="point"><location><geo>31.776667 35.234167</geo></location><idno type="URI">http://geo-kima.org/place/691</idno>	</place>
+      	<place xml:id="K7504" type="point"><location><geo>41.13031 16.87014</geo></location><idno type="URI">http://geo-kima.org/Places/7504</idno>	</place>
+      	<place xml:id="K6284" type="polygon"><location><geo>37.53667612 14.08648465</geo></location><idno type="URI">http://geo-kima.org/place/6284</idno>	</place>
+      	<place xml:id="K8176" type="point"><location><geo>40.476034 17.228553</geo></location><idno type="URI">http://geo-kima.org/place/8176</idno>	</place>
+      	<place xml:id="K7660" type="polygon"><location><geo>40.75 17.75</geo></location><idno type="URI">http://geo-kima.org/place/7660</idno>	</place>
+      	<place xml:id="K11068" type="point"><location><geo>40.641136 17.946867</geo></location><idno type="URI">http://geo-kima.org/place/11068</idno>	</place>
+      	<place xml:id="K7029" type="point"><location><geo>40.145948 18.490953</geo></location><idno type="URI">http://geo-kima.org/place/7029</idno>	</place>
+      	<place xml:id="K1039" type="point"><location><geo>39.60733 19.92178</geo></location><idno type="URI">http://geo-kima.org/Places/1039</idno>	</place>
+      	<place xml:id="K20954" type="point"><location><geo>39.159 20.985</geo></location><idno type="URI">http://geo-kima.org/Place/20954</idno>	</place>
+      	<place xml:id="GN265507" type="point"><location><geo>40.66152 22.7119</geo></location><idno type="URI">https://www.geonames.org/265507</idno>	</place>
+      	<place xml:id="U1" type="point"/>				
+      	<place xml:id="K12768" type="point"><location><geo>38.243265 21.738518</geo></location><idno type="URI">http://geo-kima.org/place/12768</idno>	</place>
+      	<place xml:id="K21742" type="point"><location><geo>38.39167 21.8275</geo></location><idno type="URI">http://geo-kima.org/Places/Details?id=21742</idno>	</place>
+      	<place xml:id="GN259862" type="point"><location><geo>38.4753859 22.4689446</geo></location><idno type="URI">https://www.geonames.org/259862</idno>	</place>
+      	<place xml:id="GN255730" type="point"><location><geo>38.53528 22.62188</geo></location><idno type="URI">https://www.geonames.org/255730</idno>	</place>
+      	<place xml:id="GN259289" type="point"><location><geo>37.906045 22.878721</geo></location><idno type="URI">https://www.geonames.org/259289</idno>	</place>
+      	<place xml:id="K14830" type="point"><location><geo>38.318092 23.255096</geo></location><idno type="URI">http://geo-kima.org/place/14830</idno>	</place>
+      	<place xml:id="K8822" type="polygon"><location><geo>39.04697922 22.97947876</geo></location><idno type="URI">http://geo-kima.org/place/8822</idno>	</place>
+      	<place xml:id="K6927" type="point"><location><geo>41.012379 28.975926</geo></location><idno type="URI">http://geo-kima.org/place/6927</idno>	</place>
+      	<place xml:id="K14277" type="point"><location><geo>38.464 23.602</geo></location><idno type="URI">http://data.geo-kima.org/14277</idno>	</place>
+      	<place xml:id="GN258577" type="point"><location><geo>38.567348 23.281349</geo></location><idno type="URI">https://www.geonames.org/258577</idno>	</place>
+      	<place xml:id="GN261211" type="point"><location><geo>38.77844 22.78573</geo></location><idno type="URI">https://www.geonames.org/261211</idno>	</place>
+      	<place xml:id="GN258620" type="point"><location><geo>38.9 22.43333</geo></location><idno type="URI">https://www.geonames.org/258620</idno>	</place>
+      	<place xml:id="K9259" type="polygon"><idno type="URI">http://geo-kima.org/place/9259</idno></place>
+      	<place xml:id="GN255638" type="point"><location><geo>38.94813 22.8398</geo></location><idno type="URI">https://www.geonames.org/255638</idno>	</place>
+      	<place xml:id="BJ5" type="point"><location><geo>39.183 22.759</geo></location><idno type="URI">http://www.byzantinejewry.net/applications/mjcb/show_evidence_details.php?evidence_id=5</idno>	</place>
+      	<place xml:id="BJ9" type="point"><location><geo>39.687 22.725</geo></location><idno type="URI">http://www.byzantinejewry.net/applications/mjcb/show_evidence_details.php?evidence_id=9</idno>	</place>
+      	<place xml:id="K103" type="point"><location><geo>40.64361 22.93086</geo></location><idno type="URI">http://geo-kima.org/place/103</idno>	</place>
+      	<place xml:id="GN736795" type="point"><location><geo>41.07041 23.46064</geo></location><idno type="URI">https://www.geonames.org/736795</idno>	</place>
+      	<place xml:id="K14269" type="point"><location><geo>41.15283 24.1473</geo></location><idno type="URI">http://geo-kima.org/place/14269</idno>	</place>
+      	<place xml:id="GN735861" type="point"><location><geo>40.93959 24.40687</geo></location><idno type="URI">https://www.geonames.org/735861</idno>	</place>
+      	<place xml:id="K4579" type="point"><location><geo>40.19406 26.41122</geo></location><idno type="URI">http://geo-kima.org/place/4579</idno>	</place>
+      	<place xml:id="U4" type="polygon"/>
+      	<place xml:id="Q1404297" type="polygon"><idno type="URI">https://www.wikidata.org/wiki/Q1404297</idno></place>
+      	<place xml:id="K22613" type="polygon"><location><geo>34.5 46.5</geo></location><idno type="URI">http://geo-kima.org/place/22613</idno>	</place>
+      	<place xml:id="K7639" type="polygon"><idno type="URI">http://geo-kima.org/Places/Details?id=7639</idno></place>
+      	<place xml:id="K8046" type="polygon"><location><geo>19.21140877 30.56732963</geo></location><idno type="URI">http://geo-kima.org/place/8046</idno>	</place>
+      	<place xml:id="U6" type="polygon"/>
+      	<place xml:id="Q171150" type="polygon"><location><geo>47.16508477 19.42015481</geo></location><idno type="URI">https://www.wikidata.org/wiki/Q171150</idno>	</place>
+      	<place xml:id="U2" type="polygon"/>
+      	<place xml:id="U3" type="polygon"/>
+      	<place xml:id="K662" type="point"><location><geo>33.31468 44.39044</geo></location><idno type="URI">http://geo-kima.org/place/662</idno>	</place>
+      	<place xml:id="Q1472490" type="point"><location><geo>41.0339 28.9403</geo></location><idno type="URI">https://www.wikidata.org/wiki/Q1472490</idno>	</place>
+      	<place xml:id="U7" type="polygon"/>
+      	<place xml:id="K7544" type="point"><location><geo>41.031944 28.976111</geo></location><idno type="URI">http://geo-kima.org/place/7544</idno>	</place>
+      	<place xml:id="K22213" type="point"><location><geo>40.97801 27.50852</geo></location><idno type="URI">http://geo-kima.org/place/22213</idno>	</place>
+      	<place xml:id="GN746983" type="point"><location><geo>40.41028 26.67083</geo></location><idno type="URI">http://sws.geonames.org/746983</idno>	</place>
+      	<place xml:id="PL844961" type="point"><location><geo>41.18195 31.387409</geo></location><idno type="URI">http://pleiades.stoa.org/places/844961</idno>	</place>
+      	<place xml:id="GN256866" type="point"><location><geo>39.10772 26.55529</geo></location><idno type="URI">http://sws.geonames.org/256866</idno>	</place>
+      	<place xml:id="K17289" type="point"><location><geo>38.414 26.053</geo></location><idno type="URI">http://geo-kima.org/place/17289</idno>	</place>
+      	<place xml:id="K14268" type="point"><location><geo>37.73 26.84</geo></location><idno type="URI">http://geo-kima.org/place/14268</idno>	</place>
+      	<place xml:id="K2044" type="point"><location><geo>36.43333333 28.21666667</geo></location><idno type="URI">http://geo-kima.org/place/2044</idno>	</place>
+      	<place xml:id="K7562" type="point"><location><geo>35.04088353 33.27533716</geo></location><idno type="URI">http://geo-kima.org/place/7562</idno>	</place>
+      	<place xml:id="PL638939" type="point"><location><geo>36.465278 34.154167</geo></location><idno type="URI">https://pleiades.stoa.org/places/638939</idno>	</place>
+      	<place xml:id="K16830" type="point"><location><geo>36.191111 44.009167</geo></location><idno type="URI">http://geo-kima.org/Places/Details?id=16830</idno>	</place>
+      	<place xml:id="U10" type="point"/>
+      	<place xml:id="U11" type="point"/>
+      	<place xml:id="U9" type="line"/>
+      	<place xml:id="K11503" type="point"><location><geo>36.200663 36.165318</geo></location><idno type="URI">http://data.geo-kima.org/Places/11503</idno>	</place>
+      	<place xml:id="K5150" type="line"><location><geo>35.2728339 36.4825754</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=5150</idno>	</place>
+      	<place xml:id="K11554" type="point"><location><geo>35.1359 36.7495</geo></location><idno type="URI">http://geo-kima.org/place/11554</idno>	</place>
+      	<place xml:id="GN173576" type="point"><location><geo>35.53168 35.79011</geo></location><idno type="URI">http://geonames.org/173576</idno>	</place>
+      	<place xml:id="K18052" type="point"><location><geo>34.116667 35.65</geo></location><idno type="URI">http://geo-kima.org/Places/Details?id=18052</idno>	</place>
+      	<place xml:id="K15821" type="point"><location><geo>34.30096 36.11575</geo></location><idno type="URI">http://geo-kima.org/Places/Details?id=15821</idno>	</place>
+      	<place xml:id="GN173389" type="point"><location><geo>35.09855 36.15984</geo></location><idno type="URI">http://geonames.org/173389</idno>	</place>
+      	<place xml:id="U8" type="polygon"/>
+      	<place xml:id="K13529" type="point"><location><geo>34.447 35.817833</geo></location><idno type="URI">http://geo-kima.org/place/13529</idno>	</place>
+      	<place xml:id="K15288" type="point"><location><geo>34.116667 35.65</geo></location><idno type="URI">http://geo-kima.org/Places/Details?id=15288</idno>	</place>
+      	<place xml:id="K651" type="point"><location><geo>33.897902 35.501176</geo></location><idno type="URI">http://geo-kima.org/place/651</idno>	</place>
+      	<place xml:id="K13639" type="point"><location><geo>33.560243 35.371208</geo></location><idno type="URI">http://geo-kima.org/place/13639</idno>	</place>
+      	<place xml:id="K21726" type="point"><location><geo>33.416111 35.8575</geo></location><idno type="URI">http://geo-kima.org/place/21726</idno>	</place>
+      	<place xml:id="K14095" type="point"><location><geo>33.268071 35.209358</geo></location><idno type="URI">http://geo-kima.org/place/14095</idno>	</place>
+      	<place xml:id="K10934" type="point"><location><geo>43.205842 2.364076</geo></location><idno type="URI">http://geo-kima.org/place/10934</idno>	</place>
+      	<place xml:id="U12" type="point"/>
+      	<place xml:id="K71" type="point"><location><geo>32.920744 35.068626</geo></location><idno type="URI">http://geo-kima.org/place/71</idno>	</place>
+      	<place xml:id="K21499" type="line"><idno type="URI">http://geo-kima.org/Places/Details?id=21499</idno></place>
+      	<place xml:id="K791" type="point"><location><geo>32.8 34.98333333</geo></location><idno type="URI">http://geo-kima.org/Places/Details?id=791</idno>	</place>
+      	<place xml:id="K1156" type="point"><location><geo>32.6725 35.023333</geo></location><idno type="URI">http://geo-kima.org/Places/Details?id=1156</idno>	</place>
+      	<place xml:id="K26255" type="point"><location><geo>32.829729 34.967766</geo></location><idno type="URI">http://geo-kima.org/Places/Details?id=26255</idno>	</place>
+      	<place xml:id="U5" type="point"/>
+      	<place xml:id="K4090" type="point"><location><geo>33.44948 35.29948</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=4090</idno>	</place>
+      	<place xml:id="K_14307" type="point"><location><geo>45.04888889 35.37916667</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=14307</idno>	</place>
+      	<place xml:id="WD_Q2639368" type="point"><location><geo>44.42666667 33.65333333</geo></location><idno type="URI">https://www.wikidata.org/wiki/Q2639368</idno>	</place>
+      	<place xml:id="K_17819" type="point"><location><geo>44.51118 33.59942</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=17819</idno>	</place>
+      	<place xml:id="K_533" type="point"><location><geo>41.01 28.96027778</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=533</idno>	</place>
+      
+      	<place xml:id="GN_746983" type="point"><location><geo>40.4 26.66667</geo></location><idno type="URI">https://www.geonames.org/746983</idno>	</place>
+      	<place xml:id="K_9825" type="point"><location><geo>40.41028 26.67083</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=9825</idno>	</place>
+      
+      	<place xml:id="WD_Q6514" type="point"><location><geo>40.2 26.4</geo></location><idno type="URI">https://www.wikidata.org/wiki/Q6514</idno>	</place>
+      
+      
+      	<place xml:id="K_17289" type="point"><location><geo>38.4 26.01666667</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=17289</idno>	</place>
+      
+      
+      	<place xml:id="K_2689" type="point"><location><geo>36.81527778 27.11027778</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=2689</idno>	</place>
+      	<place xml:id="K_468" type="point"><location><geo>36.43333333 28.21666667</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=468</idno>	</place>
+      
+      	<place xml:id="K_17099" type="point"><location><geo>45 34</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=17099</idno>	</place>
+      
+      	<place xml:id="K_667" type="point"><location><geo>31.2 29.91666667</geo></location><idno type="URI">http://data.geo-kima.org/Places/Details?id=667</idno>	</place>
+      </listPlace>
      </sourceDesc>
    </fileDesc>
    
